@@ -1,0 +1,10459 @@
+1-
+
+[VP
+  [NP-SBJ-1
+    [NP
+	  [N'
+	    [N „Ã·”]]]
+	
+	[NP
+	  [N'
+	    [N ‘Ê—«Ì]
+		[AdjP «”·«„Ì]]]]
+  
+  [VP  
+	[AdvP
+		[NP
+			[N'
+				[NÅ—Ì—Ê“]]]
+		[NP
+			[NP
+				[N'
+					[N Å‰Ã‘‰»Â]]]
+			[PP œ—
+				[NP
+					[QP œÊ]
+					[N'
+						[N ‰Ê» ]]]
+				[NP
+					[NP
+						[N'
+							[N ’»Õ]]]
+					[CoordP
+						[CoordÊ]
+						[NP
+							[N'
+								[N »⁄œ «“ ŸÂ—]]]]]]]]			
+	[VP
+		[VP
+			[NP-OBJ-1
+				[N'
+					[N Ã·”Â]
+					[AdjP ⁄·‰Ì]]]
+			[v'
+			  [PredP
+				[Pred'
+					[NP-OBJ-1*]
+					[Pred œ«‘ ]]]
+			  [v]]]
+		[CoordP
+			[CoordÊ]
+			[VP
+				[ADVP
+					[PP ÿÌ]
+						[NP
+							[N'
+								[N ¬‰]]]]
+				[VP
+					[NP-OBJ-2
+						[NP 
+							[NP
+								[QP ‰Â]
+								[N'	
+									[N „«œÂ ]
+									[AdjP œÌê—]]]
+							[PP «“
+								[NP
+									[NP
+										[N'
+											[N ·«ÌÕÂ]]]
+									[NP
+										[NP
+											[N'
+												[N »—‰«„Â]]]
+										[NP
+											[NP
+												[N'
+													[N  Ê”⁄Â]
+													[AdjP «ﬁ ’«œÌ° «Ã „«⁄Ì° ›—Â‰êÌ]]]
+											[NP
+												[NP
+													[N'	
+														[N Ã„ÂÊ—Ì]
+														[AdjP «”·«„Ì]]]
+												[NP
+													[N'
+														[N «Ì—«‰]]]]]]]]]
+						[POSTP —«]]						
+					[v'
+						[PredP
+							[Pred'
+								[NP-OBJ-2*]
+								[Pred «’·«Õ]]]
+						[CoordP
+							[CoordÊ]
+							[PredP
+								[Pred'
+									[NP *-1]
+									[Pred  ’ÊÌ»]]]]
+					[vﬂ—œ]]]]]]]]						
+.											
+
+2-
+
+[vP
+  [vP
+    [NP-SBJ-1
+          [NP
+            [N'
+              [Nê“«—‘ ]]]
+          [NP
+            [NP
+              [N'
+                [NŒ»—‰ê«— ]
+                [AdjPÅ«—·„«‰Ì ]]]]]
+           
+    [v'
+      [PredP
+           [Pred'
+				[NP-PRD
+					[N'
+						[N «ÿ·«⁄« ]
+						[AdjP Õ«òÌ]]]
+                [Pred«”  ]]]]]
+  [CP
+    [C'
+      [C* ]
+      [vP
+        [vP
+          [NP *-1]
+          [vP
+            [PP»Â „ÊÃ» 
+              [NP
+                [N'
+                  [N „«œÂ 152 ]]]]
+				  
+			[vP
+				[NP-SBJ-2
+					[NP
+						[N'
+							[N œ«‰‘ê«Â Â«]]]
+					[CoordP
+						[CoordÊ]
+						[NP
+							[NP
+								[N'
+									[N ‰Â«œÂ«Ì]]]
+							[NP
+								[NP
+									[N'
+										[N ¬„Ê“‘]
+										[Adj ⁄«·Ì]]]
+								[NP
+									[NP
+										[N'
+											[N ò‘Ê—]]]
+									[CoordP
+										[CoordÊ]
+										[ConjP
+											[Conj ‰Ì“]
+											[NP
+												[N'
+													[N „—«ò“]
+													[AdjP  ÕﬁÌﬁ« Ì]]]]]]]]]]
+				[v'
+					[PredP
+						[Pred'
+							[Pred „Ì  Ê«‰‰œ]]]
+					[CP
+						[C'
+							[C*]
+							[vP
+								[NP-SBJ-2 *]
+								[vP
+									[PP ‰”»  »Â
+										[NP
+											[NP
+												[N'
+													[N  ‘òÌ·]]]
+
+											[NP
+												[NP 
+													[N'
+														[N ‘—ò  Â«Ì]
+														[AdjP œÊ· Ì]]]
+												
+												[NP
+													[NP
+														[N'
+															[N Œœ„« ]
+															[AdjP ⁄·„Ì°  ÕﬁÌﬁ« Ì Ê ›‰Ì]]]
+													[PP »«
+														[NP
+															[N'
+																[N „ﬁ——« ]
+																[AdjP Œ«’]]]]]]]]
+									[v'
+										[PredP
+											[Pred'
+												[Pred «ﬁœ«„]]]
+									
+										[v ò‰‰œ]]]]]]]]]]]]]]
+.
+
+3-
+
+[vP
+	[vP
+		[AdvP
+			[Adv'
+				[AdvÕœ«ﬂÀ— ]]]
+		[vP
+		  [NP-SBJ-1
+				[NP
+				  [NP
+					[QP49 ]
+					[N'
+					  [Nœ—’œ ]]]
+				  [PP«“ 
+					[NP
+					  [NP
+						[NP
+						  [N'
+							[N”Â«„ œ«—«‰ ]]]
+						[NP
+						  [NP«Ì‰ 
+							[N'
+							  [N‘—ﬂ Â« ]]]]]]]]]
+							  
+
+		  [v'
+			[PredP
+				[NP-PRD
+				  [NP
+					[NP
+					  [N'
+						[N«⁄÷«Ì ]]]
+					[NP
+					  [NP
+						[N'
+						  [NÂÌ√  ]
+						  [AdjP⁄·„Ì ]]]
+					  [NP
+						[NP
+						  [N'
+							[Nﬂ«—‘‰«”«‰ ]
+							[AdjPÅéÊÂ‘Ì ]]]
+						[NP
+						  [NP
+							[N'
+								[N ﬂ‰”Ì‰Â« ]]]
+						  [CoordP
+							[CoordÊ ]
+							[NP
+								[NP
+									[N'
+										[Nﬂ«—ﬂ‰«‰ ]]]
+								[NP
+									[NPÂ„«‰ 
+										[N'
+											[Nœ«‰‘ê«Â ]]]
+									[NP
+										[NP
+											[N'
+												[N„ƒ””Â ]]]
+										[NP
+											[NP
+												[N'
+													[N¬„Ê“‘ ]
+													[AdjP⁄«·Ì ]]]]
+											[CoordP
+												[CoordÊ]
+												[NP
+													[N'
+														[N„—ﬂ“ ]
+														[AdjP ÕﬁÌﬁ« Ì Ê ÅéÊÂ‘Ì ]]]]]]]]]]]]]			
+				[Pred'
+					  [PredŒÊ«Â‰œ »Êœ ]]]		  
+			[v]]]]				
+		[CoordP
+		[CoordÊ]
+			[VP
+				[NP-SBJ-2
+					[NP
+						[N'
+							[N ”Â«„œ«—«‰]]]
+					[NP
+						[N'
+							[N ‘—ò ]
+							[AdjP„—»Êÿ]]]]
+				[v'
+				  	[PredP
+						[PP«“ 
+							  [NP
+								[NP
+								  [N'
+									[N„ÕœÊœÌ  ]]]
+								[NP
+								  [NP
+									[N'
+									  [Nﬁ«‰Ê‰ ]]]
+								  [NP
+									[NP
+									  [N'
+										[N„‰⁄ ]]]
+									[NP
+									  [NP
+										[N'
+										  [N„œ«Œ·Â ]]]
+									  [NP
+										[NP
+										  [N'
+											[Nﬂ«—„‰œ«‰ ]
+											[AdjP œÊ· Ì° „’Ê» ]]]
+										[NP
+											[NP
+												[N'
+													[N œÌ]]]
+											[NP
+												[NP
+													[N'
+														[N „«Â]]]
+												[NP
+													[N'
+														[N 1339]]]]]]]]]]]
+						[Pred'
+							[Adj-PRD „” À‰Ì]
+							[Pred „Ì ‘Ê‰œ]]]
+							
+					[v]]]]]
+.
+
+4-
+
+[vP
+  [vP
+    [NP-SBJ-1
+        [N'
+			[N „«œÂ 153 ]]]
+	[v'
+		[PredP
+			[Pred'
+				[AdjP-PRD 
+					[Adj „—»Êÿ]
+					[PP»Â 
+						[NP
+							[NP
+								[N'
+									[N ›—Â‰ê]]]
+							[CoordP
+								[CoordÊ]
+								[NP
+									[NP
+										[N'
+											[N Â‰—]]]
+									[NP	
+										[NP
+											[N'
+												[N «— »«ÿ« ]
+												[AdjP Ã„⁄Ì]]]
+										[CoordP
+											[CoordÊ]
+											[NP
+												[N'
+													[N  —»Ì ]
+													[AdjP »œ‰Ì]]]]]]]]]]
+				[Pred «” ]]]
+		[v]]]
+  [CoordP
+		[CoordÊ]
+		[vP
+		  [PP »—
+				[NP
+					[NP
+						[N'
+							[N «”«”]]]
+						
+					[NP
+						[N'
+							[N ¬‰]]]]]
+												
+		  [vP
+			[vP 
+			  [NP-SBJ-2
+					[N'
+						[Nœ” ê«ÂÂ«Ì ]
+						[AdjP«Ã—«ÌÌ ]]]
+			  [v'
+				[PredP
+					[PredP
+						[Pred'
+						  [Pred„Ì  Ê«‰‰œ ]]]]
+				[CP
+					[C'
+						[C *]
+						[vP
+							[NP-SBJ-2*]
+							[vP
+								[NP-OBJ
+									[NP
+										[N'
+											[N «„ò«‰« ]]]
+									[NP
+										[NP
+											[N'
+												[N  «”Ì”« ]]]]
+										[CoordP
+											[CoordÊ]
+											[NP
+												[NP
+													[N'
+														[N ›÷«Â«Ì]
+														[AdjP ›—Â‰êÌ° Â‰—Ì Ê Ê—“‘Ì]]]]]
+												[NP
+													[NP
+														[N'
+															[N ÿ—ÕÂ«Ì]
+															[AdjP ‰Ì„Â  „«„]]]]
+													[CoordP
+														[CoordÊ]
+														[NP
+															[NP
+																[N'
+																	[N «—«÷Ì]
+																	[AdjP „ ⁄·ﬁ]]]]]
+												[POSTP—«]]
+								[v'
+									[PredP
+										[PP œ—
+											[NP
+												[NP
+													[N'
+														[N „‰«ÿﬁ]
+														[AdjP ‘Â—Ì]]]]
+												[PP »« 
+													[NP 
+														[NP
+															[N'
+																[N ‘Â—Â«Ì]
+																[AdjP »“—ê]]]]]
+														[PP »Â 
+															[NP
+																[NP 
+																	[N'
+																		[N »Œ‘ Â«Ì]
+																		[AdjP €Ì—œÊ· Ì]]]]]
+																		
+																[PP »« 
+																	[NP
+																		[NP
+																			[N'
+																				[N «‘Œ«’]
+																				[AdjP ÕﬁÌﬁÌ Ê ÕﬁÊÌ]]]]]
+																		[NP
+																			[NP
+																				[N'
+																					[N ‘Â—œ«—ÌÂ«]]]]
+																			[CoordP
+																				[CoordÊ]
+																				[NP
+																					[NP-SBJ-3
+																						[N'
+																							[N «ÌÀ«—ê—«‰Ì]
+																					[CP
+																						[C'
+																							[C òÂ]
+																							[vP
+																								[NP-SBJ-3 *]
+																								[vP
+																									[NP-OBJ-2
+																										[N'
+																											[N ÅÌ‘Ì‰Â]
+																											[AdjP Ê—“‘Ì° ›—Â‰êÌ Ê Â‰—Ì]]]
+																									[v'
+																										[PredP
+																											[Pred'
+																												[NP-OBJ-2*]
+																												[Pred œ«—‰œ]]]
+																										[v]]]]]]]]]]
+																				[PPœ—
+																					[NP
+																						[NP 
+																							[N'
+																								[N ﬁ«·»]]]]
+																					
+																						[NP
+																							[NP
+																								[N'
+																									[Nﬁ—«—œ«œÂ«Ì]
+																									[AdjP «Ã«—Â]]]]
+																							[NP
+																								[NP
+																									[N'
+																										[N «Ã«—Â]]]]
+																								[PP »Â 
+																									[NP
+																										[NP
+																											[N']
+																												[N ‘—ÿ]]]]
+																										[NP
+																											[NP
+																												[N'
+																													[N  „·Ìò]]]]
+																											[CoordP
+																												[CoordÊ]
+																												[NP
+																													[N'
+																														[N ›—Ê‘]]]]]]
+						
+										[Pred'
+											[Pred Ê«ê–«—]]]
+									[v ò‰‰œ]]]]]]]]
+										
+			[CoordP
+				[CoordÊ]
+				[vP
+					[NP-SBJ-1 *]
+					[vP
+						[NP-OBJ-3
+							[NP
+								[N'
+									[N œ—¬„œÂ«Ì]
+									[AdjP ‰«‘Ì]]]
+							[PP«“ 
+							  [NP
+								[N'
+								  [N¬‰ ]]]]
+							[POSTP—«]]
+						[v'
+							[PredP
+								[PP»—«Ì 
+									[NP
+									  [NP
+										[N'
+										  [N «Õœ«À]]]]
+									  [NP
+										[NP
+										 [N'
+										   [N ›÷«Â«Ì]
+										   [AdjP ›—Â‰êÌ° Â‰—Ì Ê Ê—“‘Ì]]]]
+										[PP œ—
+											[NP
+											 [N'
+											  [N „‰«ÿﬁ]
+											  [AdjP  Ê”⁄Â ‰Ì«› Â Ì« ò„ —  Ê”⁄Â Ì«› Â]]]]]
+								[Pred'
+								 [Pred »Â „’—›]]]
+							[v »—”«‰‰œ]]]]]]]]]
+							
+.
+
+5-
+
+[vP
+  [NP-SBJ-1
+		[NP
+		  [N'
+			[N”«“„«‰ ]]]
+		[NP
+		  [N'
+			[N»—‰«„Â ]]]]
+  [v'
+	[PredP
+		[PredP
+		 [Pred'
+			  [AdjP-PRD„ÊŸ› ]
+			  [Pred«”  ]]]
+		[CP
+		  [C'
+		   [C* ]
+		   [vP
+			 [NP-SBJ-1*]
+			 [vP
+				[PP œ—
+				 [NP
+					[NP
+					  [N' 
+						[N ·Ê«ÌÕ]]]]
+					[NP
+					  [N'
+						[N »ÊœÃÂ]
+						[AdjP ”«·«‰Â]]]]
+				[vP
+				  [NP-OBJ-1
+					 [NP
+					   [N'
+						 [N «⁄ »«—« ]]]
+					 [NP
+						[NP
+						  [N'
+							[N »Œ‘ Â«Ì]]]
+						[NP
+						   [NP
+							 [N'
+							   [N  ›—Â‰ê]]]
+						   [CoordP
+							[CoordÊ]
+							[NP
+							  [N'
+								[N Â‰—]]]]]]
+					 [POSTP —«]]
+				  [vP
+					[ADVP
+					  [PP »Â 
+						[NP
+						  [N'
+							[N ÿÊ—]
+							[AdjP ⁄«œ·«‰Â]]]]]
+					[v'
+					  [PredP
+						[PP œ—
+						  [NP ”—«”—
+							[N'
+							  [Nò‘Ê—]]]]
+						[Pred'
+						  [Pred  Œ’Ì’]]]
+					  [vœÂœ]]]]]]]]]]]
+.
+
+6-
+
+[vP
+  [PPœ—
+    [NP
+	  [N'
+	    [N „«œÂ 154]]]]
+:
+  [vP
+	[ConjP
+	  [Conj ⁄·«ÊÂ »—]
+	  [NP
+        [NP
+		  [N'
+		    [N ÊŸ«Ì›]
+			[AdjP Œ«’]]]
+		[NP
+		  [NP
+		    [N'
+			  [N ‘Ê—«Â«Ì]
+			  [AdjP «”·«„Ì]]]
+		  [NP
+		    [NP
+			  [N'
+			    [N ‘Â—]]]
+			[CoordP
+			  [CoordÊ]
+			  [NP
+			    [N'
+				  [N —Ê” «]]]]]]]]
+    [NP-SBJ-1
+	  [N'
+	    [N ‘Ê—«Â«Ì]
+		[AdjP„“»Ê—]]]
+	[v'
+	  [PredP
+		[PredP
+			[Adj-PRD „ÊŸ›]
+			[Pred ‘œÂ «‰œ]]]
+	  [CP
+	    [C'
+		  [C *]
+		  [vP
+			[PP *
+			  [NP 
+			    [NP
+				  [N'
+				    [N ÷„‰]]]
+				[NP
+				  [NP
+				    [N'
+					  [N »——”Ì]]]
+				  [NP
+					[NP
+					  [N'
+					    [N „‘ò·« ]]]]
+					[CoordP
+					  [CoordÊ]
+					  [NP
+					    [NP
+						  [N'
+						    [N ‰«—”«ÌÌÂ«Ì]
+							[AdjP ›—Â‰êÌ° Â‰—Ì° Ê—“‘Ì Ê ¬„Ê“‘Ì]]]]]
+						[PP œ—
+						  [NP
+						    [NP 
+							  [N'
+							    [N Õ›Ÿ]]]
+							[CoordP
+							  [CoordÊ]
+							  [NP
+							    [NP
+								  [N'
+								    [N ‰ê«Âœ«—Ì]]]]]]]
+								[NP
+								  [NP
+							        [N'
+								      [N »‰«Â«Ì]
+									  [AdjP ›—Â‰êÌ° „–Â»Ì]]]]
+								  [NP
+								    [NP
+									  [N'
+									    [N „”«Ãœ]]]]
+									[CoordP
+									  [CoordÊ]
+									  [NP
+									    [NP
+										  [N'
+										    [N ê·“«—]]]
+										[NP
+										  [N'
+										    [N ‘Âœ«]]]]]]]]
+			
+			
+			[v'
+			  [PredP
+				[PP *
+				  [NP
+					[NP
+					  [N'
+					    [N»Â—Â »—œ«—Ì]]]
+					[PP«“
+					  [NP
+						[NP¬‰
+						  [N'
+						    [N „—«ò“]]]
+						[CoordP
+						  [CoordÊ]
+						  [NP
+							[NP
+							  [N'
+							    [N  ·«‘]]]
+							[PP »—«Ì
+							  [NP
+								[NP
+								  [N'
+								    [N Ã·»]]]
+								[NP
+								  [NP
+								    [N'
+									  [N Â„ò«—Ì]]]
+								  [NP
+								    [NP
+									  [N'
+									    [N„—œ„]]]
+									[PPœ—
+									  [NP
+									    [NP
+										  [N'
+										    [N«ÌÃ«œ]]]
+										[NP
+										  [NP
+										    [N'
+											  [N √”Ì”« ]]]
+										  [CoordP
+										    [CoordÊ]
+											[NP
+											  [NP
+												[N'
+												  [N›÷«Â«Ì]]]
+											  [PP „Ê—œ  
+											    [NP
+												  [NP
+												    [N'
+													  [N‰Ì«“]]]
+												  [CoordP
+													[CoordÊ]
+													[NP
+													  [NP
+													    [N'
+														  [N Â„ò«—Ì]]]
+													  [PP œ—
+													    [NP
+														  [NP
+														    [N'
+															  [NÕ›«Ÿ ]]]
+														  [PP «“
+														    [NP
+															  [NP
+															    [N'
+																  [N»‰«Â«]]]
+															  [CoordP
+															    [CoordÊ]
+																[NP
+																  [NP  
+																    [N'
+																     [N¬À«—]
+																	 [AdjP  «—ÌŒÌ Ê ›—Â‰êÌ]]]]
+																  [CoordP
+																    [CoordÊ
+																	[NP
+																	  [NP
+																	    [N'
+																	      [N „ÕÊÿÂ Â«Ì]
+																		  [AdjP ›—Â‰êÌ- «—ÌŒÌ]]]
+																	  [CoordP
+																	    [CoordÊ]
+																		[ConjP
+																		  [Conj ‰Ì“]
+																		  [NP
+																		    [NP
+																			  [N'
+																			    [N„„«‰⁄ ]]]
+																			[PP «“
+																			  [NP
+																			    [N'
+																			      [N  €ÌÌ—]
+																				  [AdjP ò«—»—Ì]]]]
+																			  [NP
+																			    [N'
+																				  [N ¬‰ Â«]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+											  
+				[Pred'
+                  [Pred	«ﬁœ«„]]]			
+		      [vò‰‰œ]]]]]]]]
+.
+
+7- 
+
+[vP
+    [NP-SBJ-1
+          [N'
+            [N „«œÂ 155 ]]]
+    [vP
+      [PP»Â 
+        [NP
+          [NP
+            [N'
+              [N ‘ﬂÌ· ]]]
+          [NP
+            [NP
+              [N'
+                [N”«“„«‰ ]
+                [AdjP„·Ì ]]]
+            [NP
+              [N'
+                [NÃÊ«‰«‰ ]]]]]]
+      [v'
+	    [PredP
+          [PredP
+             [Pred'
+                  [AdjP-PRD„—»Êÿ ]
+                  [Pred«”  ]]]
+		  [CP		  
+			[C'
+			  [CﬂÂ ]
+              [vP
+                [NP-SBJ-1*]
+                [vP
+				  [PP»« 
+                    [NP
+                      [NP
+                        [N'
+					      [NÂœ› ]]]
+					  [NP
+                         [NP
+                           [N'
+							 [N”«“„«‰œÂÌ ]]]
+						 
+						 [NP
+						    [NP
+							  [N'
+							  [N»«“‘‰«”Ì ]]]]]]
+							[CoordP
+							  [CoordÊ]
+							  [NP
+							    [NP
+								  [N'
+								    [N  »ÌÌ‰]]]
+									
+								[NP
+									[NP
+									   [N'
+										 [N„”«Ì· ]]]
+                                    [NP
+									   [NP
+										  [N'
+										    [NÃÊ«‰«‰ ]]]]]
+									   [CoordP
+                                         [CoordÊ ]
+                                         [NP
+                                            [NP
+                                              [N'
+                                                [N‰ÊÃÊ«‰«‰ ]]]
+                                            [NP
+                                              [N'
+                                                [Nﬂ‘Ê— ]]]]]]]]
+				  [v'
+					[PredP
+					   [Pred'
+						 [Pred «ÌÃ«œ]]]
+					[v„Ì ‘Êœ]]]]]]]]]]
+.
+
+8-
+
+[vP
+    [PP»— 
+      [NP
+		[NP
+		  [N'
+		    [N «”«”]]]
+		[NP
+          [N'
+            [N „«œÂ 156 ]]]]]
+	:
+    [vP
+      [NP-SBJ-1
+            [NP
+              [N'
+                [N„—ﬂ“ ]]]
+            [NP
+              [NP
+                [N'
+                  [N«„Ê— ]]]
+              [NP
+                [NP
+                  [N'
+                    [N„‘«—ﬂ  ]]]
+                [NP
+                  [NP
+                    [N'
+                      [N“‰«‰ ]]]
+                  [NP
+                    [N'
+                      [N  —Ì«” ]
+					  [AdjP Ã„ÂÊ—Ì]]]]]]]
+      [v'
+        [PredP
+		  [PredP
+             [Pred'
+                  [AdjP-PRD„ÊŸ› ]
+                  [Pred‘œÂ «” ]]]
+		  [CP
+			[C'
+			  [C *]
+			  [vP
+			    [vP
+					[NP-SBJ-1*]
+					[vP
+					  [NP-OBJ-1
+						[N'
+						  [N ÿ—ÕÂ«Ì]
+						  [AdjP „‰«”» ¬„Ê“‘Ì° ›—Â‰êÌ° ‘€·Ì]]
+						[POSTP—«]]
+					  [v'
+						 [PredP
+						   [PP»—«Ì
+							 [NP
+							   [N'
+								 [N “‰«‰]]]]
+						   [Pred'
+							 [NP-OBJ-1*]
+							 [Pred  ÂÌÂ]]]
+						 [v ò‰œ]]]]
+				[CoordP
+				  [CoordÊ]
+				  [vP
+				    [NP-SBJ-1*]
+					[v'
+					  [PredP
+						[PPÃÂ 
+						  [NP
+						    [NP
+							  [N'
+							    [N  ’ÊÌ»]]]]
+							[PPœ—
+							  [NP
+							    [NP 
+								   [N'
+								     [N «Œ Ì«—]]]
+								[NP
+								  [N'
+								    [N „—«Ã⁄]
+									[AdjP „—»Êÿ]]]]]]
+						  [Pred'
+							[Pred ﬁ—«—]]]
+					  [vœÂœ]]]]]]]]]]]
+.
+
+9-
+
+[vP
+    [PPœ— 
+      [NP
+        [N'
+          [N „«œÂ 157 ]]]]
+:
+    [vP
+      [NP-SBJ-1
+            [NP
+              [NP
+                [N'
+                  [NÊ“«— Œ«‰Â Â«Ì ]]]
+              [NP
+			    [NP
+				  [N'
+                    [N¬„Ê“‘ ]]]]
+                [CoordP
+                  [CoordÊ ]
+                  [NP
+                    [NP
+                      [N'
+                        [NÅ—Ê—‘ ]]]
+                    [NP
+					  [NP
+					    [N'
+						  [N  ›—Â‰ê]]]
+					  [CoordP
+					    [CoordÊ]
+						[NP
+						  [NP
+						    [N'
+							  [N ¬„Ê“‘]
+							  [AdjP ⁄«·Ì]]]
+						  [NP
+							[NP
+							  [N'
+							    [N »Âœ«‘ ]]]
+							[NP
+							  [NP
+							    [N'
+								  [N œ—„«‰]]]
+							  
+							  [CoordP
+							    [CoordÊ]
+								[NP
+								  [NP
+								    [N'
+									  [N ¬„Ê“‘]
+									  [AdjP Å“‘òÌ]]]
+								  [NP
+								    [NP
+									  [N'
+									    [N ›—Â‰ê]]]
+									[CoordP
+									  [CoordÊ]
+									  [NP
+									    [NP
+										  [N'
+										    [N «—‘«œ]
+											[AdjP «”·«„Ì]]]
+										[NP
+										  [NP
+										    [N'
+											  [N ”«“„«‰]]]
+										  [NP
+										    [NP
+											  [N'
+											    [N ’œ«]]]
+											[CoordP
+											  [CoordÊ]
+											  [NP
+											    [NP
+												  [N'
+												    [N ”Ì„«]]]	
+												[NP
+												  [NP
+												    [N'
+													  [N ‰Ì—ÊÌ]]]
+												  [NP
+												    [NP
+													  [N'
+													    [N „ﬁ«Ê„ ]]]
+													[NP
+													  [NP
+													    [N'
+														  [N »”ÌÃ]]]
+													  [NP
+													    [NP
+														  [N'
+														    [N ”«“„«‰]]]
+														[NP
+														  [NP
+														    [N' 
+															  [N  »·Ì€« ]
+															  [AdjP «”·«„Ì]]]
+														  [NP
+															[NP
+															  [N'
+															    [N œ› —]]]
+															[NP
+															  [NP
+															    [N'
+																  [N  »·Ì€« ]
+																  [AdjP «”·«„Ì]]]
+															  [CoordP
+															    [CoordÊ]
+																[NP
+																  [NP œÌê—
+																    [N'
+																	  [N œ” ê«Â Â«ÌÌ]]]
+																  
+																  [CP
+																    [C'
+																	  [C òÂ]
+																	  [vP
+																	    [NP-SBJ *]
+																		[v'
+																		  [PredP
+																		    [PP «“
+																			  [NP
+																			    [N'
+																				  [N »ÊœÃÂ]
+																				  [AdjP ⁄„Ê„Ì]]]
+																			[Pred'
+																			  [Pred «” ›«œÂ]]]
+																		  [v „Ì ò‰‰œ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]		  
+	  [v'
+	    [PredP
+          [PredP
+		    [Pred'
+		      [Adj-PRD „ÊŸ›]
+			  [Pred «‰œ]]]
+		  [CP
+		    [C'
+			  [C *]
+			  [vP
+			    [vP
+					[NP-SBJ *]
+					[vP
+					  [NP-OBJ-1
+						[NP ÌòÌ
+						  [PP «“
+							[NP 
+							  [N'
+								[N „—«ò“]
+								[AdjPÅéÊÂ‘Ì „ÊÃÊœ]]]]]
+						[NP
+						  [N'
+							[N ŒÊœ]
+						  [POSTP—«]]]]
+					  [v'
+						[PredP
+						  [PP »—«Ì
+							[NP
+							  [NP
+								[N' 
+								  [N «‰Ã«„]]]
+							  
+							  [NP
+								[NP
+								  [N'
+									[N «‰Ã«„]]]
+								[NP
+								  [NP
+									[N'
+									  [N „ÿ«·⁄« ]
+									  [AdjP „” „— Ê Â„Â Ã«‰»Â]]]
+								  [PP œ—
+									[NP
+									  [NP
+										[N'
+										  [N “„Ì‰Â]]]
+									  [NP
+										[NP
+										  [N'
+											[N »Â—Â êÌ—Ì]]]
+										
+										[PP «“
+										  [NP
+											[NP
+											  [N'
+												[N⁄·Ê„]]]
+											[CoordP
+											  [CoordÊ]
+											  [NP
+												[NP
+													[N'
+													[N  ò‰Ê·ÊéÌ]]
+												[NP
+												  [NP
+													[N'
+													  [N Â‰—]
+													  [AdjP œÌ‰Ì]]]
+												  [CoordP
+													[CoordÊ]
+													[NP
+													  [NP
+														[N'
+														  [N «›ò«—]]]
+													  [NP
+														[N'
+														  [N «„«„ Œ„Ì‰Ì]]]]]]]]]]]]]]]]]]]]]]
+														
+						  [Pred'
+							[Adj-PRD „«„Ê—]
+							[Pred ò‰‰œ]]]
+						[v]]]]]
+				[CoordP
+				  [CoordÊ]
+				  [vP
+				    [NP-SBJ-1*]
+					[vP
+					  [NP-OBJ-1
+					    [NP
+						  [N'
+						    [N “„Ì‰Â]]]
+						[NP
+						  [NP
+						    [N'
+							  [N „‘«—ò ]]]
+						  [NP
+						    [NP
+							  [N'
+							    [N œ«‰‘ÃÊÌ«‰]]]
+							[NP
+							  [NP
+							    [N'
+								  [N œÊ—Â Â«Ì]]]]
+							  [NP
+								[N'
+								  [N  Õ’Ì·« ]
+								    [AdjP  ò„Ì·Ì]]]]]
+								[POSTP—«]]
+								
+					  [v'
+  					    [PredP
+						  [PPœ—
+						    [NP
+							  [NP
+							    [N'
+								  [N ÅéÊÂ‘ Â«Ì]
+								  [AdjP „— »ÿ]]]
+							  
+							  [PP »« 
+							    [NP «Ì‰
+								  [N'
+								    [N«„Ê—]]]]]]
+						  [Pred'
+						    [NP-OBJ-1*]
+							[Pred ›—«Â„]]]
+						[vò‰‰œ]]]]]]]
+.
+
+10-
+
+[vP
+  [PPœ— 
+    [NP «Ì‰
+	  [N'
+	    [N “„Ì‰Â]]]]
+  [vP
+	[NP-SBJ-1
+	  [NP
+	    [NP
+		  [N'
+		    [N ”«“„«‰]]]
+		[NP
+		  [N'
+		    [N «„Ê—]
+			[AdjP «œ«—Ì Ê «” Œœ«„Ì]]]]]
+  
+    [v'
+      [PredP
+           [Pred'
+                [Pred»«Ìœ ]]]
+	  [CP
+        [C'
+          [C* ]
+          [vP
+            [NP-SBJ-1 *]
+			[vP
+			  [NP-OBJ-1
+                [NP
+                  [N'
+                    [N»—‰«„Â ]
+                    [AdjP¬„Ê“‘Ì ÊÌéÂ «Ì ]]]
+                [PPÃÂ  
+                  [NP
+                    [NP
+                      [NP
+                        [N'
+                          [N‘‰«”«‰œ‰ ]]]
+                      [NP
+                        [N'
+                          [N„»«‰Ì ]
+                          [AdjP‰Ÿ—Ì ]]]]
+                    [CoordP
+                          [CoordÊ ]
+                          [NP
+                            [NP
+                              [N'
+                                [N«‰œÌ‘Â Â«Ì ]
+                                [AdjP”Ì«”Ì - œÌ‰Ì ]]]
+                            [NP
+                              [NP
+                                [N'
+                                  [N«„«„  ]]]
+							  [NP
+							    [NP
+								  [N'
+								    [N Œ„Ì‰Ì]]]
+								[PP»—«Ì 
+									[NP
+									  [NP
+										[N'
+										  [N¬„Ê“‘ Ì«»Ì ]]]
+									  [NP
+										[N'
+										  [N„œÌ—«‰ ]]]]]]]]]]]]
+				  [v'
+					[PredP
+					 [Pred'
+					   [NP-OBJ-1*]
+					   [Pred ÂÌÂ ]]]
+					[v ò‰œ]]]]]]]]]
+.
+
+11- 
+
+[vP
+  [AdvPÂ„ç‰Ì‰]
+  [vP
+	[PP »Â 
+	  [NP 
+		[NP
+		  [N'
+		    [N „‰ŸÊ—]]]
+		[NP
+		  [NP
+		    [N' 
+			  [N ¬„Ê“‘]
+			  [AdjP Â„ê«‰Ì]]]
+		  
+		  [NP
+		    [N'
+              [N ﬁ—¬‰]]]]]]
+	[vP
+        [NP-SBJ-1
+		  [NP
+		    [N'
+			  [N ”«“„«‰]]]
+		  [NP
+		    [NP
+			  [N'
+			    [N  »·Ì€« ]
+				[AdjP «”·«„Ì]]]]]
+        [v'
+          [PredP
+            [Pred'
+                [Pred»«Ìœ ]]]
+		  [CP
+		    [C'
+			  [C *]
+			  [vP
+			    [NP-SBJ *]
+				[vP
+				  [PPœ—
+				    [NP 
+					  [NP
+					    [N'
+						  [N ”ÿÕ]]]
+					  [NP
+					    [NP
+	  				      [N'
+						    [N ò‘Ê—]]]
+						[CoordP
+						  [CoordÊ]
+						  [NP
+						    [N'
+							  [N ‰ﬁ«ÿ]
+							  [AdjP „Õ—Ê„]]]]]]]
+				  
+				  [v'
+				    [PredP
+					  [NP 
+					    [NP
+						  [N'
+						    [N ‰”» ]]]
+						[PP »Â 
+						  [NP
+						    [NP
+							  [N'
+							    [N ›—«ŒÊ«‰]]]
+							[CoordP
+							  [CoordÊ]
+							  [NP
+							    [NP
+								  [N'
+								    [N ¬„Ê“‘]]]
+								[NP
+								  [N'
+								    [N ﬁ—¬‰]]]]]]]]
+						
+					  [Pred'
+					    [Pred «ﬁœ«„]]]
+					
+					
+					[v ‰„«Ì‰œ]]]]]]]]]]
+.
+
+12-
+
+
+[vP
+  [vP
+    [PPœ— 
+      [NP
+        [N'
+          [N „«œÂ  158]]]]
+:
+    [vP
+      [NP-SBJ
+            [NP
+              [N'
+                [Nê“«—‘Â«Ì ]
+                [AdjPÅéÊÂ‘Ì ]]]
+            [CoordP
+                  [CoordÊ ]
+                  [NP
+                    [NP
+                      [N'
+                        [NÅ«Ì«‰ ‰«„Â Â« ]]]
+                    [PP»Â ⁄‰Ê«‰ 
+                      [NP
+                        [NP
+                          [N'
+                            [N«À— ]
+                            [AdjP„‘„Ê· ]]]
+                        [NP
+                          [NP
+                            [N'
+                              [N„›«œ ]]]
+                          [NP
+                            [NP
+                              [N'
+                                [Nﬁ«‰Ê‰ ]]]
+                            [NP
+                              [NP
+                                [N'
+                                  [NÕ„«Ì  ]]]
+                              [PP«“ 
+                                [NP
+                                  [NP
+                                    [NP
+                                      [N'
+                                        [NÕﬁÊﬁ ]]]
+                                    [NP
+                                      [NP
+                                        [N'
+                                          [N„ƒ·›«‰ ]]]
+                                      [NP
+                                        [N'
+                                          [N„’‰›«‰ ]]]]]
+                                  [CoordP
+                                        [CoordÊ ]
+                                        [NP
+                                          [N'
+                                            [NÂ‰—„‰œ«‰ ]]]]]]]]]]]]]]
+											
+	  [v'
+	    [PredP
+		  [Pred'
+		    [Adj-PRD „Õ”Ê»]
+		    [Pred „Ì ‘Êœ]]]]]]
+	[CoordP
+	  [CoordÊ]
+	  [vP
+	    [NP-SBJ-1 œÊ· ]
+		[v'
+		  [PredP
+		    [PredP
+		      [Pred'
+			    [ADJ-PRD „ÊŸ›]
+			    [Pred «” ]]]
+			[CP
+		      [C'
+			    [C *]
+			    [vP
+			      [NP-SBJ-1*]
+				  [vP
+				    [PP ÃÂ 
+				      [NP
+					    [NP
+					      [N'
+						    [N Õ„«Ì ]]]
+					    [PP «“
+					      [NP
+						    [NP
+						      [N'
+							    [N ÅœÌœ¬Ê—‰œê«‰]]]
+						    [NP
+						      [NP
+							    [N'
+							      [N ‰—„ «›“«—Â«Ì]
+								  [AdjP ç‰œ—”«‰Â «Ì]]]
+							  [CoordP
+							    [CoordÊ]
+							    [NP
+							      [NP
+								    [N'
+								      [N ¬À«—]
+									  [AdjP Â‰—Ì Ê ”Ì‰„«ÌÌ]]]
+								  [CoordP
+								    [CoordÊ]
+								    [NP
+								      [NP
+									    [N'
+									      [N ‰ÕÊÂ]]]
+									  [NP
+									    [NP
+									      [N'
+										    [N À» ]]]
+									    [NP
+									      [NP«Ì‰
+										    [N'
+										      [N ¬À«—]]]
+										
+										  [PP»—«Ì
+										    [NP
+										      [N'
+											    [N «” ›«œÂ]
+											    [AdjP «‰Õ’«—Ì]]]
+										    [PP  Ê”ÿ
+										      [NP
+											    [N'
+											      [N ’«Õ»«‰]]]
+											  [NP
+											    [N'
+											      [N ¬‰ Â«]]]]]]]]]]]]]]]]
+				    [vP
+				      [vP
+						[NP-OBJ-2
+						  [N' 
+							[N ·«ÌÕÂ]
+							[AdjP „—»ÊÿÂ]]
+						  [POSTP—«]]
+						[v'
+						  [PredP
+							[Pred'
+							  [NP-OBJ-1*]
+							  [Pred  ÂÌÂ]]]
+						  [v]]]
+					  [CoordP
+					    [CoordÊ
+					    [vP
+					      [NP-OBJ-1*]
+						  [v'
+						    [PredP
+						      [PP»Â 
+							    [NP
+							      [NP
+								    [N'
+								      [N „Ã·”]]]
+								  [NP
+								    [N'
+								      [N ‘Ê—«Ì]
+									  [AdjP «”·«„Ì]]]]]
+							  [Pred'
+							    [NP-OBJ-2*]
+							    [Pred «—«∆Â]]]
+						    [vœÂœ]]]]]]]]]]]]]]]
+.
+
+13- 
+
+[vP
+  [PP»— 
+    [NP
+      [NP
+	    [N'
+		  [N «”«”]]]
+	  [NP
+        [N'
+         [N „«œÂ 159]]]]]
+:
+  [vP
+    [PP œ—
+      [NP
+        [NP
+            [N'
+              [N‘Â—Â«ÌÌ ]]]
+        [CP
+          [C'
+            [CﬂÂ ]
+            [vP
+              [NP-SBJ *-1]
+              [vP
+			    [NP-OBJ-1
+				  [QP »Ì‘ «“ 15 Â“«— ‰›—]
+				  [N'
+				    [N Ã„⁄Ì ]]]
+                [v'
+                    [PredP
+					  [Pred'
+					    [NP-OBJ-1*]
+                        [Predœ«—‰œ ]]]
+                    [v]]]]]]]]
+	[vP
+	  [NP-SBJ-1
+	    [NP
+		  [N'
+		    [N‘Â—œ«—ÌÂ«Ì]]]
+		[NP
+		  [N'
+		    [Nò‘Ê—]]]]
+	  [v'
+	    [PredP
+			[PredP
+			  [Pred'
+				[Pred „Ì  Ê«‰‰œ]]]
+			[CP
+			  [C'
+				[C *]
+				[vP
+				  [NP *-1]
+				  [vP
+					[ADVP
+						[ADVP
+						  [ADV'
+							[ADV—«”«]]]
+						[CoordP
+						  [CoordÌ«]
+						  [ADV
+							[PP »« 
+							  [NP
+								[NP
+								  [N'
+									[N „‘«—ò ]]]]]
+								[NP
+								  [N' 
+									[N «‘Œ«’]
+									[AdjP ÕﬁÌﬁÌ Ê ÕﬁÊﬁÌ]]]]]]
+
+					[v' 
+						[PredP
+						  [PP»—«Ì 
+								 [NP
+								   [NP
+									 [N'
+									   [N”«Œ  ]]]
+								   [CoordP
+										 [CoordÊ ]
+										 [NP
+										   [NP
+											 [N'
+											   [N»«“”«“Ì ]]]
+										   [NP
+											 [NP
+											   [N'
+												 [N”Ì‰„«Â«Ì ]
+												 [AdjP„ÊÃÊœ ]]]
+											 [PP«“ 
+											   [NP
+												 [N'
+												   [N ”ÂÌ·«  ]
+												   [AdjP»«‰ﬂÌ ]]]]]]]]]
+						 [Pred'
+							  [Pred«” ›«œÂ]]]
+					[vò‰‰œ]]]]]]]]]]]
+.
+
+14-
+
+[vP
+  [NP-SBJ-1
+        [NP
+          [NP
+            [N'
+              [N √„Ì‰ ]]]
+          [NP
+            [NP
+              [N'
+                [N“„Ì‰ ]
+                [AdjP„‰«”» ]]]
+            [PP»—«Ì 
+              [NP
+                [NP
+                  [NP
+                    [N'
+                      [N”«Œ  ]]]
+                  [NP
+				    [NP
+                      [N'
+                        [N”Ì‰„« ]]]]
+                    [CoordP
+                      [CoordÊ ]
+                      [NP
+                        [NP
+                          [N'
+                            [N„Ã „⁄ ]
+                            [AdjP›—Â‰êÌ ]]]
+                        [PPœ— 
+                          [NP
+                            [NP
+                              [N'
+                                [N‘Â—ﬂÂ«Ì ]
+                                [AdjPÃœÌœ«·«Õœ«À ]]]]]]]]]]]]]
+  [v'
+    [PredP
+	  [PP»Â 
+        [NP
+		  [NP
+		    [N'
+			  [N ⁄ÂœÂ]]]
+		  [NP
+		    [NP
+			  [N'
+			    [N Ê“«— ]]]
+			[NP
+			  [NP
+			    [N'
+				  [N „”ò‰]]]
+			  [CoordP
+			    [CoordÊ]
+				[NP
+				  [N'
+				    [N ‘Â—”«“Ì]]]]]]]
+	  [CoordP
+	    [CoordÊ]
+		[PP œ—
+		  [NP
+		    [NP
+			  [N'
+			    [N ÿ—ÕÂ«Ì]]]
+			[NP
+			  [NP
+			    [N'
+			      [N  Ê”⁄Â]
+				  [AdjP ‘Â—Ì]]]
+			  [PPœ—
+			    [NP
+				  [NP
+				    [N'
+					  [N «Œ Ì«—]]]
+				  [NP
+				    [N'
+					  [N ‘Â—œ«—ÌÂ«]]]]]]]]]]
+		
+	  [Pred'
+        [Pred  ŒÊ«Âœ »Êœ]]]
+	[v]]]]  
+	
+.
+
+15-
+
+[vP
+  [NP-SBJ-1
+        [NP«Ì‰ 
+          [N'
+            [N“„Ì‰Â« ]]]]
+  [vP
+    [AdvP
+	  [PP»Â
+	    [NP
+		  [NP
+		    [N'
+			  [N »Â«Ì]
+			  [AdjP„‰ÿﬁÂ «Ì]]]]]
+		  
+		  [CoordP
+		    [CoordÊ]
+			[ADVP
+			  [PP »Â 
+			    [NP 
+				  [NP
+				    [N' 
+					  [N ’Ê— ]]]
+				  [NP
+				    [N'
+					  [N «ﬁ”«ÿ]
+					  [AdjP 10”«·Â]]]]]]]]
+    [v'
+	  [PredP
+        [Pred'
+          [Pred Ê«ê–«— ]]]]
+	  [v„Ì ‘Êœ]]]
+.
+
+16- 
+
+[vP
+	[PPœ— 
+	  [NP
+		[NPÂ„Ì‰ 
+		  [N'
+			[N“„Ì‰Â ]]]]]
+	[vP
+		[NP-SBJ-1
+		  [NP
+			 [NP
+			   [N'
+				 [N‘Â—œ«—ÌÂ«Ì ]]]
+			  [NP
+				[NP
+				  [N'
+					[N‘Â—Â«Ì ]
+					[AdjP»Ì‘ ]]]
+				[PP«“ 
+				  [NP
+					[QP15Â“«— ‰›—]
+					[N' 
+					  [NÃ„⁄Ì  ]]]]]]]
+		[v'
+		  [PredP
+			[PredP
+			  [Pred'
+				[Pred „Ì  Ê«‰‰œ]]]
+			[CP
+			  [C'
+				[C*]
+				[vP
+				  [NP-SBJ-1*]
+				  [vP
+					[NP-OBJ-1
+					  [NP
+						[N'
+						  [N “„Ì‰ Â«Ì]
+						  [AdjP „‰«”»]]]
+					  [PP»—«Ì 
+						[NP
+						  [NP
+							[N'
+							  [N ”«Œ ]]]
+						  [NP
+							[NP
+							  [N'
+								[N ”Ì‰„«]]]
+							[CoordP]
+							  [CoordÊ]
+							  [NP
+								[NP
+								  [N'
+									[N „Ã „⁄]
+									[AdjP›—Â‰êÌ]
+								  [POSTP—«]]]
+								[CP
+								  [C'
+									[C òÂ]
+									[vP
+									  [NP-SBJ-1*]
+									  [vP
+										[PP œ—
+										  [NP
+											[NP
+											  [N'
+												[N „«·òÌ ]]]
+											[NP
+											  [N'
+												[N ‘Â—œ«—Ì]]]]]
+										[v'
+										  [PredP
+											[Pred'
+											  [Pred«” ]]]
+										  [v]]]]]]]]]]]
+					[v'
+					  [PredP
+						[PP»œÊ‰
+						  [NP
+							[NP
+							  [N'
+								[N «‰ ﬁ«·]]]
+							[NP
+							  [NP
+								[N'
+								  [N „«·òÌ ]]]
+							  
+							  [PPœ—
+								[NP
+								  [NP
+									[N'
+									  [N ﬁ«·»]]]
+								  [NP
+									[NP
+									  [N'
+										[Nﬁ—«—œ«œ]]]
+									[PP»«
+									  [NP
+										[N'
+										  [N œ—Ì«› ]]]
+									  [NP
+										[NPÕœ«ﬁ·
+										  [N'
+											[N ”Â„]]]
+										[NP
+										  [NP
+											[N'
+											  [N»«» ]]]
+										  [NP
+											[NP
+											  [N'
+												[N “„Ì‰]]]
+											
+											[PP»—«Ì
+											  [NP
+												[NP
+												  [N'
+													[N „œ ]]]
+												[NP
+												  [NP
+													[QP 25]
+													[N'
+													  [N ”«·]]]
+												  [PPœ—
+													[NP
+													  [NP
+														[N' 
+														  [N «Œ Ì«—]]]
+													  
+													  [NP
+														[N'
+														  [N «›—«œ]
+														  [AdjP ÕﬁÌﬁÌ Ê ÕﬁÊﬁÌ]]]]]]]]]]]]]]]]]]
+					  
+						[Pred'
+						  [Pred	ﬁ—«—]]]					
+		  [vœÂœ]]]]]]]]]]
+.
+
+17- 
+
+[vP
+  [PPœ— 
+	[NP
+	  [NP
+		[N'
+		  [N„Ê«—œ ]]]
+	  [NP
+		[NP
+		  [N'
+			[N»«“”«“Ì ]]]
+		[CoordP]
+		  [CoordÊ]
+		  [NP
+			[NP
+			  [N'
+				[N „Ã „⁄ Â«Ì]
+				[AdjP ›—Â‰êÌ]]]
+			[CoordP
+			  [CoordÌ«]
+			  [NP
+				[NP
+				  [N'
+					[N ”«Œ ]]]
+				[NP
+				  [NP
+					[N'
+					  [N ”Ì‰„«Â«Ì]
+					  [AdjP ÃœÌœ]]]
+				  
+				  [CoordP
+					[CoordÊ
+					  [NP
+						[NP
+						  [N'
+							[N  «·«—Â«Ì]]]
+						[NP
+						  [N'
+							[N ‰„«Ì‘]]]]]]]]]]]]]
+						 
+	[vP
+	  [NP-SBJ-1
+		[N'
+		  [N ‘Â—œ«—Ì Â«]]]
+		  
+	  [v'
+		[PredP
+		  [PredP
+			[Pred'
+			  [ADJ-PRD „ÊŸ›]
+			  [Pred «‰œ]]]
+		  [CP
+		    [C'
+			  [C *]
+			  [vP
+			    [vP
+				   [NP-SBJ-1*]
+				   [vP
+					  [PP »œÊ‰
+					    [NP
+						  [NP
+						    [N'
+							  [N œ—Ì«› ]]]
+						  [NP 
+						    [NP Â— ‰Ê⁄
+							  [N'
+							    [N ⁄Ê«—÷]]]
+						    [CoordP
+							  [CoordÊ]
+							  [NP
+							    [N'
+								  [N Â“Ì‰Â]]]]]]]
+					  [vP
+					    [vP
+							[NP-OBJ-1
+							  [NP
+								[N'
+								  [N  Å—Ê«‰Â]]]
+							  [NP 
+								[N'
+								  [N ”«Œ ]]]]
+							[v'
+							  [PredP
+								[Pred'
+								  [Pred ’«œ—]]]
+							[v *]]]
+				        [CoordP
+						    [CoordÊ]
+							[vP
+							  [NP-SBJ-1*]
+							  [vP
+								 [PPœ— 
+								   [NP
+									 [NP
+									   [N'
+										 [N ’Ê— ]]]
+									 [NP
+										[NP
+										  [N'
+											[N Â„«Â‰êÌ]]]
+										[PP »«
+										  [NP
+											[N'
+											  [N ÿ—ÕÂ«Ì]
+											  [ADJP Ã«„⁄ ‘Â—Ì]]]]]]]
+								  [vP
+									[NP-OBJ-2
+									  [NP
+										[N'
+										  [N „ÃÊ“]]]
+									  [NP
+										[N'
+										  [N ”«Œ ]
+										  [AdjP  Ã«—Ì Ê Œœ„« Ì]]]]
+									[v'
+									  [PredP
+										[Pred'
+										  [ADJP-PRD 
+											[ADJ Õœ«òÀ— „⁄«œ·]
+											[NP
+											  [NP
+												[N'
+												  [N “Ì—»‰«Ì]]]
+											  [NP
+												[NP
+												  [N'
+													[N ”«·‰ Â«Ì]]]
+												[NP
+												  [N'
+													[N ‰„«Ì‘]
+										  [NP-OBJ-2*]
+										  [Pred ’«œ—]]]]]]]]
+									  [vò‰‰œ]]]]]]]]]]]]]]]]
+.
+
+18-
+
+[vP
+  [NP-SBJ-1
+        [NP
+          [N'
+            [N”Ì‰„«Â« ]]]
+        [CoordP
+              [CoordÊ ]
+              [NP
+                [NP
+                  [N'
+                    [N„Ã „⁄Â«Ì ]
+                    [AdjP›—Â‰êÌ ]]]
+                [CP
+                  [C'
+                    [CﬂÂ ]
+                    [vP
+                      [NP *-1]
+                      [vP
+                        [PP»« 
+                          [NP
+                            [NP
+                              [N'
+                                [N«” ›«œÂ ]]]
+                            [PP«“ 
+                              [NP«Ì‰ 
+                                [N'
+                                  [N«„ Ì«“«  ]]]]]]
+                        [v'
+                          [PredP
+                               [Pred'
+                                    [Pred”«Œ Â ]]]
+                          [v„Ì ‘Ê‰œ]]]]]]]]]
+  [vP
+    [ADVP
+	  [NP
+	    [NP
+		  [QP « 10 ]
+          [N'
+            [N”«· ]]]
+		[ADVP
+		  [Adv'
+		    [ADV Å”]]
+		  [PP «“
+		    [NP
+			  [N'
+			    [N»Â—Â »—œ«—Ì]]]]]]]
+
+      [v'
+        [PredP
+             [Pred'
+                  [AdjP-PRD„Ã«“ 
+					  [PP»Â
+						[NP
+						  [NP
+							[N'
+							  [N  €ÌÌ—]]]
+						
+						  [NP
+							[N'
+							  [N ò«—»—Ì]]]]]]
+					
+                [Pred‰ŒÊ«Â‰œ »Êœ ]]]
+		[v]]]]
+.
+
+19-
+
+[vP
+  [NP-SBJ-1
+        [N'
+          [N „«œÂ 160 ]]]
+  [vP
+    [PP»Â 
+      [NP
+        [NP
+          [N'
+            [N«ﬁœ«„«  ]]]
+        [NP
+          [NP
+            [N'
+              [Nœ” ê«ÂÂ«Ì ]
+              [AdjPœÊ· Ì ]]]
+          [PP»—«Ì 
+            [NP
+              [NP
+                [NP
+                  [N'
+                    [N‘‰«Œ  ]]]
+                [NP
+                  [NP
+                    [N'
+                      [N ÕÊ·«  ]
+                      [AdjP›—Â‰êÌ ]]]
+                  [NP
+                    [NP
+                      [N'
+                        [NÃ«„⁄Â ]]]
+                    [NP
+                      [NP
+                        [N'
+                          [N«›“«Ì‘ ]]]
+                      [NP
+                        [NP
+                          [N'
+                            [Nﬂ«—¬ÌÌ ]]]
+                        [NP
+                          [NP
+                            [N'
+                              [Nœ” ê«ÂÂ«Ì ]
+                              [AdjP›—Â‰êÌ ]]]
+                          [NP
+                            [NP
+                              [N'
+                                [N”«„«‰œÂÌ ]]]
+                            [NP
+                              [N'
+                                [N›⁄«·Ì Â«Ì ]
+                                [AdjP›—Â‰êÌ ]]]]]]]]]]
+              [CoordP
+                    [CoordÊ ]
+                    [NP
+                      [NP
+                        [N'
+                          [N«⁄„«· ]]]
+                      [NP
+                        [NP
+                          [N'
+                            [N‰Ÿ«—  ]
+                            [AdjP„” „— ]]]
+                        [PP»— 
+                          [NP«Ì‰ ê—ÊÂ 
+                            [N'
+                              [›⁄«·Ì  Â« ]]]]]]]]]]]]
+    [v'
+      [PredP
+           [Pred'
+                [AdjP-PRD„—»Êÿ ]
+                [Pred”  ]]]]]]
+.
+
+20-
+
+[vP
+   [PPœ— 
+      [NP
+        [N'
+          [N „«œÂ 161 ]]]]
+:
+    [vP
+      [NP-SBJ-1
+            [NP
+              [NP
+                [N'
+                  [NÊ“«—  ]]]
+              [NP
+			    [NP
+                  [N'
+                    [N„”ﬂ‰ ]]]]
+                [CoordP
+                  [CoordÊ ]
+                  [NP
+                    [NP
+                      [N'
+                        [N‘Â—”«“Ì ]]]]
+                    [NP
+					  [NP
+                        [N'
+                          [N‘Â—œ«—ÌÂ« ]]]]
+					  [CoordP
+					    [CoordÊ]
+						[NP
+						  [NP œÌê—
+						    [N'
+						      [N ”«“„«‰ Â«Ì]
+							  [AdjP „”∆Ê·]]]
+						  [PPœ—
+							[NP
+							  [NP
+								[N'
+						          [N“„Ì‰Â ]]]
+							  [NP
+							    [NP
+								  [N'
+									[Nÿ—«ÕÌ ]]]]
+							  [CoordP
+									[CoordÊ ]
+									[NP
+									  [NP
+										[N'
+										  [N«Ã—«Ì ]]]
+									  [NP
+										[N'
+										  [Nÿ—ÕÂ«Ì ]
+										  [AdjPÃ«„⁄ °  ›’Ì·Ì ]]]]]]]]]]]]
+      [v'
+        [PredP
+		    [PredP
+             [Pred'
+			      [Adj-PRD „ÊŸ›]
+                  [Pred«‰œ]]]
+				  
+				  
+		    [CP
+			  [C'
+				[C *]
+				[vP
+				  [NP-SBJ-1*]
+				  [vP
+					[NP-OBJ-1
+					  [N'
+						[Nÿ—ÕÂ«Ì‘«‰]]
+					  [POSTP—«]]
+					[vP
+					  [ADVP
+						[PP»«
+						  [NP
+							[NP
+							  [N'
+								[N „ÕÊ—Ì ]]]
+							[NP
+							  [N'
+								[N„”«Ãœ]]]]]]
+								
+					  [v'
+						[PredP
+						  [PredP
+							[Pred'
+							  [NP-OBJ-1*]
+							  [Pred  ÂÌÂ]]]
+						  [CoordP
+							[CoordÊ]
+							[PredP
+							  [Pred'
+								[Pred «Ã—«]]]]]
+							
+						[vò‰‰œ]]]]]]]]]]]
+.
+
+21-
+
+[vP
+    [vP
+      [PPœ— 
+        [NP
+          [NPÂ„Ì‰ 
+            [N'
+              [NŒ’Ê’ ]]]]]
+			  
+	  [vP
+	    [NP-SBJ-1
+            [NP
+              [N'
+                [NÊ“«—  ]]]
+            [NP
+			  [NP
+                [N'
+                  [N„”ﬂ‰ ]]]
+			  [CoordP
+			    [CoordÊ]
+				[NP
+				  [NP
+				    [N'
+					  [N ‘Â—”«“Ì]]]
+				  
+				  [CoordP
+				    [CoordÊ]
+					[NP
+					  [N'
+					    [N ‘Â—œ«—ÌÂ«]]]]]]]]
+				  
+        [v'
+          [PredP
+               [Pred'
+                    [ADJ-PRD„ÊŸ›]
+                    [Pred‘œÂ «‰œ ]]]
+					
+		  [CP
+		    [C'
+			  [C*]
+				[vP
+				  [NP-SBJ-1*]
+				  [vP
+					  [PPœ— 
+						[NP
+						  [NP „«„Ì
+							[N'
+							  [N ‘—ò  Â«Ì ]
+							  [AdjP ‰Ê»‰Ì«œ]]]]]
+					  [vP
+						[NP-OBJ-1
+						  [N'
+							[N “„Ì‰]
+							[AdjP „‰«”»Ì]]
+						  [POSTP—«]]
+						[v'
+						  [PredP
+							[PP »—«Ì
+							  [NP
+								[NP
+								  [N'
+									[N «Õœ«À]]]
+								
+								[NP
+								  [N'
+									[N „”Ãœ]]]]]
+							[Pred'
+							  [NP-OBJ-1*]
+							  [Pred ÅÌ‘ »Ì‰Ì]]]
+						  [vò‰‰œ]]]]]]]]]]
+    [CoordP
+	  [CoordÊ]
+	  [vP
+	    [vP
+			[NP-SBJ-1*]
+			[vP
+				[ADVPÅ”
+				  [PP «“ 
+					[NP
+					  [NP
+						[N'
+						  [N ¬„«œÂ ”«“Ì]]]
+					  [PP»œÊ‰
+						[NP
+						  [NP 
+							[N'
+							  [N œ—Ì«› ]]]
+						  [NP
+							[N'
+							  [N Â“Ì‰Â]]]]]]]]
+				[v'
+				  [PredP
+					[PPœ—
+					  [NP
+						[NP
+						  [N'
+							[N«Œ Ì«— ]]]
+						[NP
+						  [NP
+						    [N'
+						      [N„ ﬁ«÷Ì«‰ ]]]
+						  [NP
+						    [NP
+							  [N'
+							    [N”«Œ  ]]]
+							[NP
+							  [N'
+								[N„”«Ãœ ]]]]]]]
+					[Pred'
+					  [Predﬁ—«— ]]]
+				  [vœÂ‰œ]]]]
+				  
+		[CoordP
+		  [CoordÊ]
+		  [vP
+		    [NP-SBJ-1*]
+			[vP
+			  [NP-OBJ-2
+			    [NP
+				  [N'
+				    [NﬁÌ„ ]]]
+				[NP
+				  [N'
+				    [N «—«÷Ì]]]
+				[POSTP—«]]
+			  [v'
+			    [PredP
+				  [PPœ—
+					[NP
+					  [N'
+					   [NÂ“Ì‰Â ]
+					   [AdjP„—»Êÿ ]]]
+					[PP»Â 
+				      [NP
+					    [NP
+					      [N'
+							[N¬„«œÂ ”«“Ì ]]]
+						[NP
+					      [N'
+							[N“„Ì‰Â« ]]]]]]
+				  [Pred'
+				    [NP-OBJ-2*]
+					[Pred „‰ŸÊ—]]]
+				[vò‰‰œ]]]]]]]]
+.
+
+22-
+
+
+[vP
+	[vP
+	  [PP»—
+		[NP
+		  [NP
+			[N'
+			  [NÅ«ÌÂ ]]]
+		  [NP«Ì‰ 
+			[N'
+			  [Nê“«—‘]]]]]
+	  [vP
+		[NP-SBJ-1
+			  [NP
+				[N'
+				  [NÃ·”Â ]]]
+			  [NP
+				[NP
+				  [N'
+					[N—Ê“ Å‰Ã ‘‰»Â ]]]
+				[NP
+				  [NP
+					[N'
+					  [N„Ã·” ]]]
+				  [NP
+					[NP
+					  [N'
+						[N‘Ê—«Ì ]
+						[AdjP«”·«„Ì ]]]]]]]
+		[vP
+		  [ADVP
+			[NP
+			  [NP 
+			    [NP
+				  [N'
+				    [N  ”«⁄ ]]]		
+				[NP
+				  [NP
+				    [N'
+					  [N14]]]
+			      [CoordP
+				    [CoordÊ]
+				    [NP
+					  [QPçÂ· Ê Å‰Ã]
+						[N'
+						  [NœﬁÌﬁÂ]]]]]]]]
+		  [v'
+			[PredP
+				[Pred'
+				  [PredÅ«Ì«‰ ]]]
+			[vÌ«› ]]]]]
+	[CoordP
+	  [CoordÊ]
+	  [vP
+        [NP-SBJ-1
+          [NP
+            [N'
+              [Nœ‰»«·Â ]]]
+          [NP
+            [NP
+              [N'
+                [N»ÕÀ ]]]
+            [PPœ— „Ê—œ 
+              [NP
+                [NP
+                  [N'
+                    [NÅÌ‘‰Â«œÂ«Ì ]
+                    [AdjP„ÿ—Õ ‘œÂ ]]]
+                [PPœ— Œ’Ê’ 
+                  [NP
+                    [N'
+                      [N„«œÂ 161 ]]]]]]]]
+          [v'
+            [PredP
+			  [PP»Â 
+			    [NP
+				  [NP
+				    [N'
+					  [N Ã·”Â]
+					  [ADJP ⁄·‰Ì]]]
+				  [NP
+				    [NP
+					  [N'
+					    [N ’»Õ]]]
+					[NP
+					  [NP
+					    [N'
+						  [N «„—Ê“]]]
+					  [NP
+					    [N'
+						  [N ‘‰»Â]]]]]]]
+			  [Pred'
+			    [ADJ-PRD „ÊòÊ·]
+				[Pred‘œ]]]
+			[v]]]]]			
+.
+
+23- 
+
+[FRAG
+  [NP
+    [NP
+	  [N'
+	    [N Ì„]
+		[ADJP „·Ì]]]
+	[NP
+	  [NP
+	    [N'
+		  [N ›Ê »«·]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N«Ì—«‰]]]
+		[PPœ—
+		  [NP
+		    [N' 
+			  [NòÌ‘]]]]]]]]
+
+[vP
+  [NP-SBJ-1
+	  [NP
+		[N'
+	      [N Ì„ 
+		  [AdjP„·Ì ]]]
+	  [NP
+	    [NP
+	      [N'
+		    [N›Ê »«· ]]]
+		[NP
+		  [NP
+			[N'
+			  [Nﬂ‘Ê—„«‰ ]]]
+		  [CP
+			[C'
+			  [CﬂÂ ]
+			  [vP
+			    [NP-SBJ-1*]
+				[vP
+				  [NP-OBJ-1 
+					[N' 
+					  [NŒÊœ]]
+					[POSTP —« ]]
+				  [v'
+				    [PredP
+					  [PP»—«Ì
+					    [NP
+						  [NP
+						    [N'
+							  [NÕ÷Ê— ]]]
+						  [PPœ— 
+						    [NP
+							  [NP
+								[N'
+								  [N„”«»ﬁ«  ]
+								  [AdjP„ﬁœ„« Ì ]]]
+							  [NP
+								[NP
+								  [N'
+								    [NÃ«„ ]]]
+							    [NP
+								  [NP
+								    [N'
+									  [N„·  Â«Ì]]]
+								  
+								  [NP
+								    [N'
+									  [N¬”Ì«]]]]]]]]]
+					  [Pred'
+					    [ADJ-PRD¬„«œÂ]
+						[Pred„Ì ò‰œ]]]
+					[v]]]]]]]]]]
+					
+  [v'
+    [PredP
+	    [PredP
+  		  [Pred'
+		    [Pred ﬁ—«—]]	
+		    [v «” ]]]
+		[CP
+		  [C'
+			[C*]
+			[vP
+			  [vP
+				 [ADVP
+				   [PP»Â
+					 [NP
+					   [N'
+						 [N“ÊœÌ]]]]]
+				 [vP
+				   [NP-SBJ-1*]
+				   [vP
+					 [NP-OBJ-1
+					   [NP
+						 [N'
+						   [N«—œÊÌ]]]
+					   [NP
+						 [NP
+						   [N'
+							 [N¬„«œÂ ”«“Ì]]]
+						 [NP
+						   [N'
+							 [NŒÊœ]]]]
+					   [POSTP—«]]
+					 [v'
+					   [PredP
+						 [Pred'
+						   [NP-OBJ-1*]
+						   [Pred‘—Ê⁄]]]
+					  [vò‰œ]]]]]
+			  [CoordP
+				[CoordÊ]
+				[vP
+				  [ADVP
+					[ADV'
+					  [ADV”Å”]]]
+				  [v'
+					[PredP
+					  [PP»—«Ì 
+						[NP
+						  [NP
+							[N'
+							  [N«‰Ã«„]]]
+						  [NP
+						    [QPœÊ]
+							[N'
+							  [NœÌœ«—]
+							  [AdjP œ«—ò« Ì]]]]]
+					  [Pred'
+						[ADJP-PRD —«ÂÌ
+						  [NP
+							[N'
+							  [N¬„—Ìò«]]]]
+						[Pred‘Êœ]]]
+					[v]]]]]]]]]
+.
+
+24- 
+
+[vP
+  [vP
+	[ADVP
+	  [ADV'
+	    [ADVÂ„ç‰Ì‰]]]
+	[vP
+	  [NP-SBJ-1
+	    [NP
+	      [N'
+		    [NÃ·«· ÿ«·»Ì]]
+		[NP
+		  [NP 
+		    [N'
+			  [N„œÌ—]]]
+		  [NP
+			  [NP
+			    [N'
+				  [Nò„Ì Â]]]
+			  [NP
+			    [NP
+				  [N'
+				    [N Ì„ Â«Ì]
+					[AdjP „·Ì]]]
+				[NP
+				  [N'
+				    [N ›Ê »«·]]]]]]]]
+	  [vP
+		 [ADVP
+		   [ADV'
+		     [ADVÂ› Â ¬Ì‰œÂ]]]
+		 [v'
+	       [PredP
+             [PP»Â 
+			   [NP
+                 [N'
+                   [N¬·„«‰ ]]]]
+				   
+             [Pred'
+               [Pred”›—]]]
+              [v„Ì ﬂ‰œ ]]]]]
+  [CP
+    [C'
+	  [C « ]
+	  [vP
+	    [vP
+			[NP-SBJ *-1]
+			[vP
+			  [NP-OBJ-1
+				[NP
+				  [N'
+					[N‘—«Ìÿ ]]]
+				[NP
+				  [NP
+					[N'
+					  [N»«“Ìﬂ‰«‰ ]
+					  [AdjP«Ì—«‰Ì Õ«÷— ]]]
+				  [PPœ— 
+					[NP«Ì‰ 
+					  [N'
+						[Nﬂ‘Ê— ]]]]]
+				[POSTP —« ]]
+		
+			  [v'
+				[PredP
+				  [PredP
+					[PP„Ê—œ
+					  [NP
+						[N'
+						  [N»——”Ì ]]]]
+					[Pred'
+					   [NP-OBJ-1*]
+					   [Predﬁ—«— ]]]
+				  [vœÂœ]]]]]
+		[CP
+		  [C'
+			[C « ]
+			[vP
+				[NP-SBJ-1
+				  [NP
+					[N'
+					  [N»Â —Ì‰ Â« ]]]]
+			  [vP
+				[PP»Â 
+				  [NP
+					[NP
+					  [N'
+						[N«—œÊÌ ]]]
+					[NP
+					  [N'
+						[N Ì„ «Ì—«‰ ]]]]]]
+				[v'
+				  [PredP
+					[Pred'
+					  [Pred›—«ŒÊ«‰œÂ ]]]
+				  [v‘Ê‰œ]]]]]]]]]
+.
+
+25-
+
+[vP
+    [PP»Â 
+      [NPÂ„Ì‰ 
+        [N'
+          [N„‰«”»  ]]]]
+    [vP
+      [NP-SBJ-1
+            [NP
+              [N'
+                [NŒ»—‰ê«— ]]]
+            [NP
+              [NP
+                [N'
+                  [NŒ»—ê“«—Ì ]]]
+              [NP
+                [N'
+                  [NÃ„ÂÊ—Ì ]
+                  [AdjP«”·«„Ì ]]]]]
+      [vP
+        [AdvP
+            [Adv'
+                [AdvœÌ—Ê“ ]]]
+        [vP
+          [NP-OBJ-1
+                [NP
+                  [N'
+                    [Nê›  ÊêÊÌÌ ]]]
+                [PP»« 
+                  [NP 
+                    [N'
+                      [NÊÌ ]]]]]
+          [v'
+		    [PredP
+              [PredP
+                 [Pred'
+                      [NP-OBJ-1*]
+                      [Pred — Ì» ]]]
+			     [vœ«œ]]]]]
+			  [CP
+			    [C'
+			      [CòÂ]
+				  [vP
+				    [NP-SBJ-1
+				      [NP
+					    [N'
+					      [N„«Õ’·]]]
+					  [NP
+					    [N'
+					      [N¬‰]]]]
+				    [v'
+				      [PredP
+					    [PPœ—
+					      [NP
+						    [N'
+						      [N«œ«„Â]]]]
+					    [Pred'
+					      [Pred„Ì ¬Ìœ]]]
+					  [v]]]]]]]
+:		  
+
+[vP
+  [NP-SBJ-1
+    [NP
+	  [N'
+	    [N Ì„]
+		[ADJP„·Ì]]]
+	[NP
+	  [NP
+	    [N'
+		  [N›Ê »«·]]]
+	  [NP
+	    [N'
+		  [Nò‘Ê—„«‰]]]]]
+  [vP
+	[NP-OBJ-1
+		[NP
+		  [N'
+		    [Nò«—]]]
+		[NP
+		  [N'
+		    [NŒÊœ]]]
+		[POSTP —« ]]
+	
+	[v'
+	  [PredP
+		[PP«“
+		 [NPçÂ
+		   [N'
+			 [N“„«‰Ì ]]]]
+		 [Pred'
+			  [NP-OBJ *-1]
+			  [Pred¬€«“ ]]]
+	  [vŒÊ«Âœ ò“œ]]]]
+?
+
+26-
+
+[vP
+  [CP
+    [C'
+      [CÂ„«‰ ÿÊ—Ì ﬂÂ ]
+      [vP
+        [NP-SBJ-1*]
+        [v'
+          [PredP
+               [Pred'
+                    [Pred«” Õ÷«—]]]
+          [vœ«—Ìœ]]]]]
+  [vP
+	[NP-SBJ-1
+	  [NP
+	    [N'
+		  [N ‰Ì„ ›’·]
+		  [ADJP «Ê·]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N—ﬁ«»  Â«Ì]]]
+		[NP
+		  [NP
+		    [N'
+			  [NÃ«„]]]
+		  [NP
+		    [N'
+			  [N¬“«œê«‰]]]]]]
+    [vP
+	  [ADVP
+	    [NP
+		  [N'
+		    [N—Ê“]
+			[ADJPê–‘ Â]]]]
+      [v'
+	    [PredP
+           [Pred'
+                [Pred»Â Å«Ì«‰]]]
+		[v—”Ìœ]]]]]
+.
+
+27-
+
+[vP
+  [vP
+    [vP
+		[NP-SBJ-1
+			  [N'
+				[NÂœ› ]]]
+		[vP
+		  [v'
+			[PredP
+			  [vP-PRD 
+				[NP-SBJ-1
+				  [N'
+					[N«Ì‰]]]
+				[v'
+				  [PredP
+					[PredP
+					  [Pred'
+						[Pred «” ]]]
+	[CP
+	  [C'
+		[CòÂ]
+		[vP
+			[NP-SBJ-2
+				[N'
+					[N»«“Ìﬂ‰«‰]]]
+			[vP
+				[ADVP
+				  [PPœ—
+					[NP
+					  [N'
+						[NÕ«·]
+						[ADJPÕ«÷—]]]]]
+				[v'
+				  [PredP
+					[Pred'
+					  [Pred «” —«Õ ]]]
+				  [vò‰‰œ]]]]]]]]]
+	  [v]]]]]
+  [CoordP
+    [CoordÊ]
+	[vP
+	  [ADVP”Å”]
+	  [vP
+	    [NP-SBJ-1 „·Ì ÅÊ‘«‰]
+		[vP
+		  [ADV
+		    [PPœ—
+			  [NP
+			    [NP
+				  [N'
+				    [NÂ› Â]
+					[ADJP‰Œ” ]]]
+				[NP
+				  [NP
+				    [N'
+					  [N„«Â]
+					  [ADJP„»«—ò]]]
+				  [NP
+				    [N'
+					  [N—„÷«‰]]]]]]]
+		  [v'
+		    [PredP
+			  [PP»Â
+			    [NP
+				  [N'
+				    [N«—œÊÌ]
+					[ADJP œ«—ò« Ì]]]]
+			  [Pred'
+			    [Pred ›—«ŒÊ«‰œÂ]]]
+			[v‘Ê‰œ]]]]]]]]
+.
+
+28-
+
+[vP
+  [AdvP
+      [Adv'
+          [Adv¬Ì« ]]]
+  [vP
+    [NP-SBJ-1
+          [N'
+            [N Ì„ ]
+            [AdjP„·Ì ]]]
+    [vP
+      [AdvPÅÌ‘
+	    [PP«“
+		  [NP
+		    [NP
+			  [N'
+			    [N”›—]]]
+			[PP»Â
+			  [NP
+			    [N'
+				  [N¬„—Ìò«]]]]]]]
+	    
+      [vP
+        [NP-OBJ-1
+          [N'
+             [NœÌœ«—Â«Ì ]
+             [AdjP œ«—ﬂ« Ì ]]]
+        [v'
+          [PredP
+               [Pred'
+                    [PredŒÊ«Âœ œ«‘  ]]]
+		  [v]]]]]]
+?
+
+29-
+
+[FRAG
+  [NP
+    [N'
+	  [N »·Â]]]]
+.
+
+30-
+
+[vP
+  [vP
+    [NP-SBJ-1
+          [NP
+            [N'
+              [N Ì„ ]
+              [AdjP„·Ì ]]]]
+    [vP
+	  [PPœ—
+	    [NP
+		  [N'
+		    [NòÌ‘]]]]
+      [v'
+        [PredP
+             [Pred'
+                [Pred«—œÊ ]]]
+		[vŒÊ«Âœ “œ]]]]
+  [CoordP
+    [CoordÊ ]
+      [vP
+        [NP-SBJ-1*]
+        [vP
+          [PPœ— 
+            [NP
+              [NP
+                [N'
+                  [N„œ  ]]]
+              [NP
+                [NP
+                  [NP
+                    [N'
+                      [N«ﬁ«„  ]]]
+                  [NPŒÊœ ]]
+                [PPœ— 
+                  [NP«Ì‰ 
+                    [N'
+                      [NÃ“Ì—Â ]]]]]]]
+          [vP
+            [NP-OBJ-1 œÊ
+                    [N'
+                      [NœÌœ«— ]
+                      [AdjP œ«—ﬂ« Ì ]]]
+            [v'
+              [PredP
+                   [Pred'
+                        [PredŒÊ«Âœ œ«‘  ]]]
+              [v]]]]]]]
+.
+
+31-
+
+
+[vP
+    [PP»—«Ì 
+      [NP
+        [NP«Ì‰ 
+          [N'
+            [N„‰ŸÊ— ]]]]]
+    [vP
+	  [vP
+		  [NP-SBJ-1*]
+		  [v'
+			  [PredP
+				[PP»«
+				  [NPç‰œ
+					[N'
+					  [N Ì„]
+					  [ADJP«—ÊÅ«ÌÌ]]]]
+					[PredP
+					  [Pred'
+						[Pred„ﬂ« »Â ]]]
+					[CoordP
+					  [CoordÊ ]
+					  [PredP
+						[Pred'
+						  [Pred„–«ò—Â]]]]]
+			  [v‘œÂ]]]
+      [CP
+		[C'
+		  [CﬂÂ ]
+		  [vP
+            [NP-SBJ-2
+			  [NP
+			    [N'
+				  [N”›—]]]
+			  [NP
+			    [NP
+				  [N'
+				    [N»«‘ê«Â]]]
+				[NP
+				  [NP
+				    [N'
+					  [N«”Å«— «ò]]]
+				  [NP
+				    [NP
+					  [N'
+					    [N„”òÊ]]]
+					[PP»Â 
+					  [NP
+					    [N'
+						  [N «Ì—«‰]]]]]]]]
+            [vP
+			  [PP « 
+			    [NP«Ì‰ 
+				  [N'
+				    [N·ÕŸÂ ]]]]
+              [v'
+                [PredP
+                   [Pred'
+				     [ADJ-PRDﬁÿ⁄Ì]
+                     [Pred«”  ]]]
+              [v]]]]]]]]
+.
+
+32-
+
+[vP
+  [NP-SBJ
+        [NP¬‰çÂ ]
+        [CP
+          [C'
+            [CﬂÂ ]
+            [vP
+               [NP-SBJ-1*]
+               [v'
+                 [PredP
+                    [Pred'
+					  [AdjP-PRD„‘Œ’ ]
+                      [Pred «”  ]]]
+                    [v]]]]]]
+  [v'
+    [PredP
+	  [Pred'
+	    [vP-PRD
+		  [NP«Ì‰]
+		  [CP
+			[C'
+			  [CòÂ]
+			  [vP
+				[NP-SBJ-1
+				  [NP
+					[N'
+					  [N Ì„ ]
+					  [AdjP„·Ì ]]]]
+				  [vP
+					[PPœ— 
+					 [NP
+					   [N'
+						 [NﬂÌ‘ ]]]]]
+					[vP
+					  [NP-OBJ-1 œÊ
+						[NP
+						  [N'
+							[NœÌœ«—]
+							[ADJPœÊ” «‰Â]]]
+						[PP»« 
+						  [NP«Ì‰
+							[N'
+							  [N»«‘ê«Â]
+							  [ADJP—Ê”Ì]]]]]
+					  [v'
+						[PredP
+						  [Pred'
+							[NP-OBJ-1*]
+							[Pred«‰Ã«„ ]]]
+						[vŒÊ«Âœ œ«œ]]]]]]]
+		[Pred«” ]]]
+	 [v]]]
+.
+
+33-
+
+[vP
+    [NP-SBJ-1
+       [N'
+	     [N‘„«]]]
+	[vP
+	  [Adv
+	    [PP»Â 
+		  [NP
+		    [N'
+			  [N “ÊœÌ]]]]]
+	  [v'
+	    [PredP
+	      [PredP
+		    [Pred'
+		      [Predﬁ—«— «” ]]]
+		  [CP
+		    [C'
+			  [C* ]
+			  [vP
+				[NP-SBJ-1* ]
+				[v'
+				  [PredP
+				    [PP»Â 
+					  [NP
+					    [N'
+						  [N¬·„«‰]]]]
+					[Pred'
+					  [Pred ”›—]]]
+				  [vò‰Ìœ]]]]]]
+		[v]]]]
+.
+
+34-
+
+[vP
+    [AdvP
+        [Adv'
+            [Adv·ÿ›« ]]]
+    [vP
+      [PPœ— 
+        [NP
+          [NP
+            [N'
+              [N“„Ì‰Â ]]]
+          [NP
+            [NP
+              [N'
+                [N«Âœ«› ]]]
+            [NP
+			  [NP«Ì‰ 
+                [N'
+                  [N”›— ]]]
+			  [CoordP]
+			    [CoordÊ]
+				[NP
+				  [NP
+				    [N'
+					  [N «—ÌŒ]
+					  [ADJPœﬁÌﬁ]]
+				  [NP
+				    [N'
+					  [N¬‰]]]]]]]]]
+      [v'
+        [PredP
+             [Pred'
+                  [Pred Ê÷ÌÕ]]]
+		[v»œÂÌœ]]]]
+?
+				  
+35-
+				  
+[vP
+  [vP
+    [NP-SBJ
+          [N'
+            [N»‰œÂ ]]]
+    [vP
+      [PredP
+           [Pred'
+                [Predﬁ—«— »Êœ]]
+		   [PP»Â 
+		     [NP
+			   [N'
+			     [N¬·„«‰]]]]]
+	  [v»—Ê„]]]
+  [CP
+    [C'
+      [C«„« ]
+      [vP
+        [vP
+          [NP-SBJ-1
+		    [NP
+			  [N'
+			    [N  «—ÌŒ]]]
+			[NP
+			  [NP
+			    [N'
+				  [N”›—]]]
+			  [NP
+			    [N'
+				  [N„‰]]]]]
+				  
+          [v'
+            [PredP
+			  [PP»Â
+			    [NP
+				  [NP
+				    [N'
+					  [N—Ê“]]]
+					 
+				  [NP
+				    [NP
+					  [N'
+					    [NçÂ«—‘‰»Â]]]
+					[NP
+					  [N'
+					    [NœÂ„ ¬–—]]]]]]
+              [Pred'
+                [Pred„ÊòÊ·]]]
+			[v‘œ ]]]]]]]
+.
+
+36-
+
+[vP
+  [vP
+    [NP-SBJ
+          [NP
+            [N'
+              [N„‰ ]]]]
+    [vP
+	  [ADV
+	    [NPÌò
+		  [N'
+		    [NÂ› Â]]]]
+	  [vP
+	    [NP-SBJ-1*]
+        [vP
+	      [PPœ—
+		    [NP
+			  [N'
+			    [N¬·„«‰]]]]
+	      [v'
+			[PredP
+              [Pred'
+                  [Pred«ﬁ«„ ]]]
+			[vŒÊ«Â„ œ«‘ ]]]]]]
+  [CoordP]
+    [CoordÊ]
+    [vP
+	  [NP-SBJ-1*]
+	  [vP
+		[PPœ— 
+          [NP
+              [NP«Ì‰ 
+                [N'
+                  [N„œ  ]]]]]
+		[v'
+		  [PredP
+		    [PP»« 
+			  [NP
+                [NP
+                  [N'
+                    [N»«“Ìﬂ‰«‰ ]
+                    [AdjP«Ì—«‰Ì Õ«÷— ]]]
+                [PPœ— 
+                  [NP
+                    [N'
+                      [N·Ìê ]]]]]]
+			[Pred'
+			  [Pred’Õ» ]]]
+		  [vŒÊ«Â„ ò—œ]]]]]         
+.
+
+37-
+
+[vP
+  [vP
+    [AdvPÂ„ç‰Ì‰]
+    [vP
+        [NP *-1]
+        [vP
+          [PP»« 
+              [NP
+                [NP
+                  [N'
+                    [N„—»Ì«‰ ]]]
+                [NP«Ì‰ 
+                  [N'
+                    [N Ì„Â« ]]]]]
+          [vP
+			  [NP-OBJ-1
+			    [N'
+				  [N„–«ò—« Ì]]]
+			  [v'
+                [PredP
+                   [Pred'
+				     [NP-OBJ-1*]
+                     [PredŒÊ«Â„ œ«‘  ]]]
+              [v]]]]]]
+  [CP
+    [C'
+	  [C « ]
+	  [vP
+	    [vP
+		  [NP-SBJ-1*]
+		  [vP
+		    [PP«“ 
+			  [NP
+			    [NP
+				  [N'
+				    [NÊ÷⁄Ì  ]]]
+			    [NP
+				  [NP«Ì‰ 
+				    [N'
+					  [Nœ” Â ]]]
+				  [PP«“ 
+				    [NP
+					  [N'
+					    [N»«“Ìﬂ‰«‰ ]]]]]]]
+		    [v'
+			  [PredP
+				   [AdjP-PRD»Ì‘ — ¬‘‰« ]
+				   [Pred'
+					    [Pred‘Ê„ ]]]
+			  [v]]]]
+	    [CoordP
+		  [CoordÊ]
+		  [vP
+			  [NP-SBJ *-1]
+			  [vP
+			    [NP-OBJ-2
+					  [NP
+						[N'
+						  [N‘—«Ìÿ ]]]
+					  [NP¬‰Â« ]
+					  [POSTP —« ]]
+			    [vP
+				  [v'
+				    [PredP
+					  [NP
+					    [NP
+						  [N'
+						    [N„Ê—œ]]]
+					    [NP
+						  [N'
+						    [N»——”Ì]]]]
+					  [Pred'
+							[NP-OBJ-2*]
+							[Predﬁ—«— ]]]
+				    [v]œÂ„]]]]]]]]]  
+.
+
+38-
+
+[vP
+  [vP
+    [AdvPÂ„ç‰Ì‰]
+      [vP
+        [vP
+          [NP-SBJ-1
+                  [N'
+                    [N»—‰«„Â —Ì“Ì ]]]
+          [v'
+            [PredP
+                 [Pred'
+                      [Pred‘œÂ ]]]
+            [v]]]]]
+  [CP
+	[C'
+	  [C « ]
+	  [vP
+		  [NP-SBJ *-1]
+		  [vP
+			[NP-OBJ-1
+					[NP
+					  [N'
+						[NœÌœ«—Â«Ì ]]]
+					[NP
+					  [NPç‰œ 
+						[N'
+						  [N Ì„ ]]]
+					  [CP
+						[C'
+						  [CﬂÂ ]
+						  [vP
+							[NP-SBJ-1
+									[NP
+									  [N'
+									    [N»«“Ìò‰«‰]
+										[Adj«Ì—«‰Ì]]]]
+							[v'
+							  [PredP
+							    [PPœ—
+								  [NP
+								    [N' 
+									  [N¬‰]]]]
+								[Pred'
+								  [Pred»«“Ì]]]
+							  [v„Ì ò‰‰œ]]]]]]
+					[POSTP—«]]
+			[vP
+			  [PP«“
+			    [NP
+				  [N'
+				    [N‰“œÌò]]]]
+			  [v'
+			    [PredP
+				  [Pred'
+				    [Pred „«‘«]]]
+				[vò‰„]]]]]]]]
+
+.
+
+39-
+
+[vP
+  [NP-SBJ-1  »—ŒÌ
+    [PP«“
+	  [NP
+	    [NP
+		  [N'
+		    [N»«“Ìò‰«‰]]]
+		[NP
+		  [N'
+		    [N„«]]]]]]
+  [v'
+    [PredP   
+	  [PPœ—
+	    [NP
+		  [N'
+		    [Nò‘Ê—Â«Ì]
+			[ADJPœÌê—]]]]
+         [Pred'
+              [Pred ÊÅ ]]]
+	[v„Ì “‰‰œ]]]
+.
+
+40-
+
+[vP
+  [PP»—«Ì 
+    [NP
+      [NP
+        [N'
+          [N‘‰«”«ÌÌ ]]]
+      [PP«“ 
+        [NP
+          [NP
+            [N'
+              [NÊ÷⁄Ì  ]]]
+          [NP
+            [NP«Ì‰ 
+              [N'
+                [Nœ” Â ]]]
+            [PP«“ 
+              [NP
+                [N'
+                  [N»«“Ìﬂ‰«‰ ]]]]]]]]]
+  [vP
+    [NP-SBJ-1 *]
+	[vP
+	  [NP-OBJ-1 çÂ
+	    [N'
+		  [N»—‰«„Â «Ì]]]
+	  [v'
+	    [PredP
+		  [Pred'
+		    [Predœ«—Ìœ]]]
+		[v]]]]]
+?
+
+41-
+
+[vP
+  [vP
+    [NP-SBJ-1„« ]
+    [vP
+      [PPœ— 
+        [NP«Ì‰ 
+          [N'
+            [N“„Ì‰Â ]]]]
+      [vP
+        [NP-OBJ
+              [NP
+                [N'
+                  [N«ÿ·«⁄«  ]]]
+              [CoordP
+                    [CoordÊ ]
+                    [NP
+                      [N'
+                        [N„‰«»⁄ ]
+                        [AdjPﬂ«›Ì ]]]]]
+        [v'
+          [PredP
+               [Pred'
+                    [NP-OBJ *-1]
+                    [Predœ«—Ì„ ]]]
+		  [v]]]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+      [NP-SBJ *-1]
+      [vP
+          [PP«“ 
+            [NP
+              [NP
+                [N'
+                  [NÊ÷⁄Ì  ]]]
+              [NP
+			    [N'
+				  [N¬‰«‰]]]]]
+          [vP
+		    [NP-OBJ-1
+			  [N'
+			    [N¬ê«ÂÌ]]]
+			[v'
+              [PredP
+                 [Pred'
+					  [NP-OBJ-1*]
+                      [Predœ«—Ì„ ]]]
+              [v]]]]]]]
+.
+
+42-
+
+[vP
+  [ADV-CP
+    [C'
+      [C«ê— ]
+      [vP
+        [vP
+          [NP-SBJ-1
+                  [N'
+                    [N›—’  ]]]
+          [v'
+            [PredP
+                 [Pred'
+                      [Pred»«‘œ]]]
+            [v]]]]]]
+  [vP
+    [NP-SBJ-1*]
+    [vP 
+	  [PredP
+	    [PredP
+	      [Pred'
+		    [Pred‘«Ìœ]]]
+	    [v]]
+	  [CP
+	    [C']
+		  [C*]
+		  [vP
+		    [PP«“
+			  [NP
+			    [NP
+				  [N'
+				    [N¬·„«‰]]]
+				[PP»Â
+				  [NP
+				    [N'
+					  [N« —Ì‘]]]]]]
+			[v'
+			  [PredP
+			    [PredP
+			      [Pred'
+				    [Pred»—Ê„]]]
+			
+			
+			    [v]]
+			  [CP
+			    [C'
+				  [C «]
+				  [vP
+				    [NP-SBJ-1*]
+					[v'
+					  [PredP
+					    [ConjP
+						  [NP
+						    [NP
+							  [N'
+							    [NÊ÷⁄Ì ]]]
+							[NP
+							  [NP
+							    [N'
+								  [N „Â—œ«œ]]]
+							  [NP
+							    [N'
+								  [N„Ì‰«Ê‰œ]]]]]
+							  [POSTP—«]
+						  [ConjÂ„]]
+						[Pred'
+						  [Pred»——”Ì]]]
+					  [vò‰„]]]]]]]]]]]
+.
+
+43-
+
+[vP
+	[ADVP»Â—Õ«·]
+    [vP
+      [vP
+        [NP-SBJ-1
+               [NP
+                 [N'
+                   [NÂœ› ]]]
+               [NP„« ]]
+        [v'
+		  [PredP
+            [PredP
+               [Pred'
+				 [NP-PRD «Ì‰]
+                 [Pred«”  ]]]
+            [v]]]
+			[CP
+              [C'
+                [CﬂÂ ]
+                [vP
+                  [vP
+                    [NP *-1]
+                    [vP
+					  [NP-OBJ-1¬„«œÂ  —Ì‰ 
+                        [N'
+                          [N»«“Ìﬂ‰«‰ ]]
+                        [POSTP —« ]]
+                  [vP
+                    [PP»Â
+					  [NP
+					    [N'
+						  [N«—œÊ]]]]
+                    [v'
+                      [PredP
+                           [Pred'
+                                [NP-OBJ-1*]
+                                [Predﬂ‰Ì„ ]]]
+                      [v]]]]]]]]]
+      [CoordP
+        [CoordÊ]
+        [vP
+          [NP-SBJ-2*]
+          [v'
+		    [PredP
+                [PredP
+                   [Pred'
+                      [AdjP-PRD„ÿ„∆‰ ]
+                      [Pred»«‘Ìœ]]]
+                          
+				[CP
+				  [C'
+				    [C*]
+					[vP
+					  [NP-SBJ-3
+					    [NPÂ—
+					      [N'
+						    [N›—œÌ]]]
+					    [CP
+					      [C'
+						    [CòÂ]
+						    [vP
+						      [NP-SBJ-2*]
+							  [v'
+						         [PredP
+								   [Pred'
+									   [ADJ-PRD ‘«Ì” Â Ê ¬„«œÂ]
+									   [Pred»«‘œ]]
+							     [v]]]]]]]
+					  [v'
+					     [PredP
+						    [PP»Â
+						      [NP
+							    [NP
+							      [N'
+								    [N«—œÊÌ]]]
+							    [NP
+							      [N' 
+								    [N Ì„]
+							  	    [ADJP„·Ì]]]]]
+							[Pred'
+							    [Pred›—«ŒÊ«‰œÂ]]]
+						  [v„Ì ‘Ê‰œ]]]]]]]]]]]
+.
+
+44- 
+
+[vP
+    [vP
+	   [NP-SBJ
+			  [NP
+				[N'
+				  [N”›— ]]]
+			  [NP
+				[NP
+				  [N'
+					[N Ì„ «Ì—«‰ ]]]
+				[PP»Â 
+				  [NP
+					[N'
+					  [N¬„—Ìﬂ« ]]]]]]
+		[vP
+		  [AdvP  
+			[NPçÂ
+			  [N'
+				[N“„«‰Ì]]]]
+		  [vP
+			[vP
+			  [NP-SBJ-1*]
+			  
+			  [v'
+				[PredP
+				  [Pred'
+				  [Pred«‰Ã«„]]]
+				[vŒÊ«Âœ ‘œ]]]]]]
+				
+	[CoordP
+      [CoordÊ]
+	  [vP
+		    [NP-SBJ-2
+			  [NP
+			    [N'
+				  [NÕ—Ì›«‰]
+			  [NP
+			    [N'
+				  [N«Ì—«‰]]]]]]
+			[v'
+			  [PredP
+			    [NP-PRDçÂ
+				  [N'
+				    [N Ì„ Â«ÌÌ]]]
+				[Pred'
+				  [PredŒÊ«Â‰œ »Êœ]]]
+			  [v]]]]]
+?
+
+45-
+
+[vP
+  [NP-SBJ-1
+       [N'
+         [N Ì„ ]
+		 [Adj«Ì—«‰]]]
+  [vP
+    [PPœ— 
+          [NP
+            [NP
+              [N'
+                [N‰Ì„Â ]
+				[ADJPœÊ„]]]
+            [NP
+			  [N'
+				[N„«Â]
+				[ADJP¬Ì‰œÂ]]]]]]
+
+    [v'
+      [PredP
+	    [PP»Â 
+          [NP
+            [N'
+              [N¬„—Ìﬂ« ]]]]
+	    [Pred'
+	      [Pred ”›—]]]
+	  [vŒÊ«Âœ ò—œ]]]
+.
+
+46-
+
+[vP
+  [vP
+    [AdvP
+        [Adv'
+            [AdvÅÌ‘ — ]]]
+    [vP
+      [NP-SBJ-1*]
+      [v'
+	    [PredP
+          [PredP
+             [Pred'
+                 [Predﬁ—«— ]]]]]
+		  [v»Êœ]]
+		[CP
+		  [C'
+		    [C*]
+			[vP
+			  [NP-SBJ-1*]
+			  [vP
+			    [NP-OBJ-1 
+				  [NP”Â
+				    [N'
+					  [NœÌœ«—]
+					  [ADJPœÊ” «‰Â]]]
+				  [PP»«
+				    [NP
+					  [NP
+					    [N'
+						  [N«·”«·Ê«œÊ—]]]
+					  [NP
+					    [NP
+						  [N'
+						    [N„ò“Ìò]]]
+						[CoordP
+						  [CoordÊ]
+						  [NP
+						    [N'
+							  [N¬„—Ìò«]]]]]]]]
+			  [v'
+			    [PredP
+			      [PredP
+				    [Pred'
+				      [NP-OBJ-1*]
+					  [Predœ«‘ Â]]
+				  [v»«‘Ì„]]]]]]]]]
+  [CP
+	[C'
+	 [CòÂ]
+	  [vP
+		 [NP-SBJ-2
+		   [NP
+		     [N'
+		       [N»«“Ì]]]
+		   [PP»«
+			  [NP
+				[N'
+				  [N«·”«·Ê«œÊ—]]]]]
+		  [v'
+			[PredP
+			  [ADJ-PRD·€Ê]
+			  [Pred'
+				[Pred ‘œÂ «” ]]]
+			[v]]]]]]
+.
+
+47-
+
+[vP
+  [vP
+    [NP-SBJ
+          [N'
+            [N Ì„ ]
+			[Adj«Ì—«‰]]]
+    [vP
+	  [AdvP
+        [NP
+          [NP
+            [N'
+              [N—Ê“ ]]]
+          [NP
+		    [NP
+			  [QP22]
+              [N'
+                [NœÌ ]]]
+			[NP
+			  [NP
+			    [N'
+			      [N„«Â]]
+			  [PPœ—
+			    [NP
+				  [N'
+				    [N«Êò·‰œ]]]]]]]]]
+      [vP
+	    [PP»«
+		  [NP
+		    [N'
+			  [N„ò“Ìò]]]]
+		
+		[v'
+		  [PredP
+		    [Pred'
+			  [Pred œÌœ«—]]]
+		  [v„Ì ò‰œ]]]]]
+  [CoordP
+    [CoordÊ]
+      [vP
+        [NP-SBJ-1*]
+        [vP
+		  [AdvP
+		    [NP
+			  [NP 
+				[QP26]
+			    [N'
+				  [NœÌ]]]
+			  [NP
+			    [N'
+				  [N„«Â]]]]]
+
+		  [v'
+			[PredP
+               [PPœ— 
+                 [NP
+                   [NP
+                     [N'
+                       [N·Ê” ¬‰Ã·” ]]]
+                   [PP»Â 
+                     [NP
+					   [NP
+                         [N'
+                           [N„’«›]]]
+					   [NP
+					     [N'
+						   [N¬„—Ìò«]]]]]]]
+               [Pred'
+                    [PredŒÊ«Âœ —›  ]]]
+          [v]]]]]]
+.
+		  	  
+48-
+
+[vP
+  [NP-SBJ-1 
+    [NPç‰œ
+	  [N'
+	    [Nò‘Ê—]]]
+	[PP«“
+	  [NP
+		[NP
+		  [N'
+		    [NÃ„·Â]]]
+		[NP
+		  [NP
+		    [N'
+			  [NòÊÌ ]]]
+		  [CoordP
+		    [CoordÊ]
+			[NP
+			  [N'
+			    [NçÌ‰]]]]]]]] 
+  [v'
+    [PredP
+	  [PP«“
+	    [NP
+		  [NP 
+		    [N' 
+			  [N Ì„]
+			  [ADJP„·Ì]]]
+		  [NP
+		    [N'
+			  [Nò‘Ê—‘«‰]]]]]
+         [Pred'
+              [Predœ⁄Ê  »Â ⁄„· ]]]
+	[v¬Ê—œÂ «‰œ]]]
+.
+
+49-
+
+[vP
+  [NP-SBJ
+        [NP
+          [N'
+            [Nﬂ„Ì Â ]]]
+        [NP
+          [NP
+            [N'
+              [N Ì„Â«Ì ]
+              [AdjP„·Ì ]]]
+          [NP
+            [NP
+              [N'
+                [N›Ê »«· ]]]]]]
+  [vP
+    [NP-OBJ-1 çÂ
+	  [N'
+	    [N”Ì«” Ì]]]
+	[v'
+	  [PredP
+		[PPœ— 
+		  [NP«Ì‰ 
+			[N'
+			  [N“„Ì‰Â ]]]]
+		[Pred'
+		  [NP-OBJ-1*]
+		  [Predœ«—œ]]]
+	  [v]]]]
+		 
+?
+
+50-
+
+[vP
+	[vP
+	  [NP-SBJ„« ]
+	  [v'
+		[PredP
+		  [PredP
+			[Pred'
+			  [Pred»«Ìœ ]]]]]
+		[CP
+		  [C'
+			[C* ]
+			[vP
+			  [NP-OBJ-1
+				[NP
+				  [N'
+					[N»—‰«„Â Â«Ì ]]]
+				[NPŒÊœ ]
+				[POSTP —« ]]
+			  [v'
+				[PredP
+				  [PP»Â
+					[NP
+					  [N'
+						[NêÊ‰Â «Ì]]]]			 
+				  [Pred'
+					 [NP-OBJ *-1]
+					  [Pred«‰Ã«„ ]]]
+				[vœÂÌ„]]]]]]
+	[CP
+	  [C'
+		[CﬂÂ ]
+		[vP
+		  [NP-SBJ-1
+				  [NP
+					[N'
+					  [NŒ··Ì ]]]
+				  [PP»Â 
+					[NP
+					  [NP
+						[N'
+						  [N»—‰«„Â Â«Ì ]
+						  [AdjP¬ Ì Ê  ‰ŸÌ„ ‘œÂ ]]]
+					  [NP
+						[N'
+						  [N Ì„ ]
+						  [AdjP„·Ì ]]]]]]
+		  [v'
+			[PredP
+				 [Pred'
+					  [PredÊ«—œ ]]]
+			[v‰‘Êœ]]]]]]
+.
+
+51-
+
+[vP
+  [vP
+    [PP « 
+      [NP«Ì‰ 
+        [N'
+          [N·ÕŸÂ ]]]]
+    [vP
+      [NP-SBJ
+            [NP
+              [N'
+                [N”›— ]]]
+            [PP»Â 
+              [NP
+                [N'
+                  [NçÌ‰ ]]]]]
+      [v'
+        [PredP
+           [Pred'
+             [ADJ-PRD·€Ê]
+             [Pred ‘œÂ «”  ]]
+		[v]]]]]
+  [CP
+    [C'
+      [C«„« ]
+	  [vP
+	    [NP-SBJ-1
+		  [NP
+			[N'
+			  [N⁄“Ì„  ]]]
+		  [PP»Â 
+			[NP
+			  [N'
+			    [NﬂÊÌ  ]]]]]]
+	  [v'
+	    [PredP
+		  [PredP
+		     [Pred'
+			   [ADJ-PRDœ— Õ«· »——”Ì]
+				    [Pred«”  ]]
+		  [v]]
+		[CP
+          [C'
+            [C « ]
+            [vP
+              [NP *-1]
+              [vP
+                [PPœ— 
+                  [NP
+                    [N'
+                      [N›—’  ]
+                      [AdjP„‰«”» ]]]]
+                [v'
+				  [PredP
+                    [PredP
+                       [Pred'
+                            [Pred— »—ÊÌ„ ]]]
+                  [v]]
+				  [CP
+				    [C'
+					  [C*]
+					  [vP
+					    [NP-SBJ-1*]
+						[vP
+						  [PP»Â
+						    [NP«Ì‰ 
+							  [N'
+							    [Nò‘Ê—]]]]
+						  [v'
+						    [PredP
+							  [Pred'
+							    [Pred»—ÊÌ„]]]
+							[v]]]]]]]]]]]]]]]]							
+.
+
+52-
+
+[vP
+    [NP-SBJ
+          [N'
+            [N Ì„ ]
+            [AdjP„·Ì ]]]
+    [vP
+      [PP«“ 
+        [NP
+          [NP
+            [N'
+              [N»«“ê‘  ]]]
+          [PP«“ 
+            [NP
+              [N'
+                [N¬„—Ìﬂ« ]]]]]]
+      [v'
+	    [PredP
+          [PredP
+             [Pred'
+                  [Pred»«Ìœ ]]
+		  [v]]
+		
+		[CP
+		  [C'
+		    [C* ]
+			[vP
+			  [NP *-1]
+			  [vP
+				[NP-OBJ-1
+				  [N'
+				    [NŒÊœ]]
+				  [POSTP—«]]
+				[v'
+				  [PredP
+				    [ADJP-PRD¬„«œÂ
+					  [NP
+					    [NP
+					      [NP
+                            [N'
+                              [NœÌœ«— ]]]
+                          [PP»« 
+                            [NP
+                              [N'
+                                [N” «—ê«‰ ¬”Ì« ]]]]]]
+                        [CP
+                          [C'
+                            [CﬂÂ ]
+                            [vP
+                              [NP-SBJ-1*
+                                      [NP
+                                        [QP«Ê· ]
+                                        [N'
+                                          [N»Â„‰ ]]]
+                                      [PPœ— 
+                                        [NP
+                                          [N'
+                                            [NÊ—“‘ê«Â ¬“«œÌ  Â—«‰ ]]]]]
+                              [v'
+                                [PredP
+                                     [Pred'
+                                          [Pred«‰Ã«„]]]
+                                [v„Ì ‘Êœ ]]]]]]]]
+            [v'
+              [PredP
+                   [Pred'
+                        [NP *-1]
+                        [Predﬂ‰œ ]]]
+              [v]]]]]]]]]]
+.
+
+53-
+
+[vP
+  [CP-ADV·–« «ê—
+     [vP
+       [NP-SBJ-1*]
+       [v'
+	      [PredP
+			[PredP
+			  [Pred'
+                [Pred»‰« »«‘œ  ]]]
+              [v]]]]
+			[CP
+			  [C'
+			    [C*]
+				[vP
+				  [PP»Â
+				    [NP«Ì‰
+					  [N'
+					    [Nœ⁄Ê  Â«]]]]
+				  [vP
+				    [NP-OBJ-1
+					  [N' 
+					    [NÅ«”Œ]
+						[ADJPﬁÿ⁄Ì]]]
+					[v'
+					  [PredP
+					    [Pred'
+						  [Pred»œÂÌ„]]]
+					  [v]]]]]]]
+
+  [vP
+	  [NP-SBJ-1*]
+	  [v'
+	    [PredP
+          [PredP
+             [Pred'
+                  [Pred»«Ìœ ]]]
+		
+		[CP
+		  [C'
+            [C* ]
+            [vP
+               [NP-SBJ *-1]
+			   [vP
+				  [NP-OBJ-1¬‰ 
+                    [POSTP —« ]]
+				  [vP
+				  [PP»Â
+				    [AdvPÅ”
+					  [PP«“
+                       [NP
+					     [NP
+					       [N'
+                             [NœÌœ«— ]]]
+                         [PP»« 
+                           [NP
+                            [N'
+                              [N” «—ê«‰ ¬”Ì« ]]]]]
+            [v'
+              [PredP
+                   [Pred'
+                        [NP-OBJ-1*]
+                        [Pred„ÊòÊ· ]]]
+              [vò‰Ì„]]]]]]]]]]]]]]
+.
+
+54-
+
+[vP
+  [NP-SBJ
+      [N'
+        [N ÅÌ—Ê“Ì]
+		[ADJ  Â—«‰]]]
+	
+  [vP
+	[PP»« 
+          [NP
+            [NP
+              [N'
+                [N⁄»Ê— ]]]
+            [PP«“ 
+              [NP
+                [NP
+                  [N'
+                    [N”œ ]]]
+                [NP
+                  [NP
+                    [N'
+                      [N Ì„ Å«” ]]]
+                  [PPœ— 
+                    [NP
+                      [NP¬Œ—Ì‰ 
+                        [N'
+                          [NœÌœ«— ]]]
+                      [PP«“ 
+                        [NP
+                          [NP
+                            [N'
+                              [N„—Õ·Â ]]]
+                          [NP
+                            [NP
+                              [N'
+                                [N—›  ]]]
+                            [NP
+                              [NP
+                                [N'
+                                  [N„”«»ﬁ«  ]]]
+                              [NP
+                                [NP
+                                  [N'
+                                    [N›Ê »«· ]]]
+                                [NP
+								  [NP
+                                    [N'
+                                      [Nœ” Â ]
+									  [ADJ«Ê·]]]
+								  [NP 
+								    [NP
+									  [N' 
+									    [N»«‘ê«Â Â«Ì]
+										[ADJP«Ì—«‰]]]
+									[NP
+									  [NP
+									    [N'
+										  [NÃ«„]]]
+									  [NP
+									    [N'
+										  [N¬“«œê«‰]]]]]]]]]]]]]]]]]]
+	
+    [v'
+      [PredP
+        [Pred'
+          [AdjP-PRD›« Õ 
+		    [NP
+			  [NP
+			    [N'
+				  [N‰Ì„ ›’·]]]
+			  [NP«Ì‰
+			    [N'
+				  [N—ﬁ«»  Â«]]]]]
+          [Pred‘œ ]]]
+	  [v]]]]
+.
+
+55-
+
+
+[vP
+  [vP
+    [NP-SBJ
+          [NP
+            [N'
+              [N„”«»ﬁÂ ]]]
+          [NP«Ì‰
+            [QPœÊ] 
+            [N'
+              [N Ì„ ]]]]
+    [vP
+      [AdvP
+	    [PP
+			[PP *
+			  [NP
+				[N'
+				  [N⁄’—]]]
+			  [NP
+				[N'
+				  [NÅ‰Ã‘‰»Â]
+				  [ADJPê–‘ Â]]]]]
+			[CoordP
+			  [CoordÊ]
+			  [PP
+				[PPœ— 
+                  [NP
+                     [NP
+                       [N'
+                         [NÕ÷Ê— ]]]
+                     [NP
+                        [NP
+                          [QP»Ì‘ «“ çÂ· Â“«— ]
+                          [N'
+                             [N „«‘«ê— ]]]
+						[NP
+                           [N'
+                             [N   Â—«‰ ]
+							 [ADJ¬“«œÌ  Â—«‰]]]]]]
+            
+				[CoordP]
+				  [CoordÊ]
+				  [PP»Â
+				    [NP
+					  [NP
+					    [N'
+						  [Nœ«Ê—Ì]]]
+					  [NP
+					    [NP
+						  [N'
+						    [NÕ”Ì‰]]]
+						[NP
+						  [N'
+						    [N⁄”ò—Ì]]]]]]]]]
+					  
+				    
+					
+	  [v'
+		[PredP
+		  [Pred'
+		    [Pred«‰Ã«„]]]
+		[v‘œ]]]]
+  [CoordP
+    [CoordÊ]
+	[vP
+	  [PP*
+	    [NP
+		  [NP
+		    [N'
+			  [NÿÌ]]]
+		  [NP
+		    [N'
+			  [N¬‰]]]]]
+	  [vP
+	    [NP-SBJ-1
+		  [N'
+		    [N Ì„]
+			[ADJPÅÌ—Ê“Ì]]]
+		[v'
+		  [PredP
+            [PP»Â 
+              [NP 
+			    [NP
+                  [N'
+                    [N»— —Ì ]
+					[ADJP”Â »— Ìò]]]]]
+			[Pred'
+			  [Predœ” ]]]
+		  [vÌ«› ]]]]]]
+.
+
+56-
+
+[vP
+    [NP-SBJ-1«Ì‰ 
+       [N'
+         [NÅÌ—Ê“Ì ]
+         [AdjP»««—“‘ ]]]
+          
+    [vP
+	  [PredP
+		  [PredP
+			[PP»—«Ì
+			  [NP
+				[NP
+				  [N'
+					[N Ì„]]]
+				[NP
+				  [N'
+					[NÅÌ—Ê“Ì]]]]]
+			[Pred'
+			  [PredÕ«’·]
+		  [v‘œ]]]
+	  [CP
+	    [C'
+		  [Cœ— Õ«·Ì òÂ]
+		  [vP
+		    [NP-SBJ-1 «Ì‰
+			  [N'
+			    [N Ì„]]]
+			[vP
+			  [AdvP
+			    [PP «
+				  [NP
+				    [NP
+					  [N'
+					    [NœﬁÌﬁÂ 78]]]
+					[NP
+				      [N'
+					    [N„”«»ﬁÂ]]]]]]
+			  [v'
+			    [PredP
+				  [PP»«
+				    [NP
+					  [NP
+					    [N'
+						  [N‰ ÌÃÂ]]]
+					  [NP
+					    [NP
+						  [N'
+						    [N Ìò »— ’›—]]]
+						[PP«“
+						  [NP
+						    [NP
+							  [N'
+							    [NÕ—Ì›]]]
+							[NP
+							  [N'
+							    [NŒÊœ]]]]]]]]
+				  [Pred'
+				    [ADJ-PRD⁄ﬁ»]
+					[Pred»Êœ]]]
+				[v]]]]]]]]]
+.
+
+57-
+
+[vP
+  [vP
+    [NP-SBJ
+          [NP
+            [N'
+              [NÅ«” ]]]
+		  [NP
+		    [N'
+			  [N Â—«‰]]]]
+	[vP
+	  [PPœ—
+	    [NP
+		  [N'
+		    [NœﬁÌﬁÂ 32]]]]
+      [v'
+	    [PredP
+		  [PredP
+            [Pred'
+                [AdjP-PRD„Ê›ﬁ ]
+                [Pred‘œ ]]]
+				
+		  [CP
+		    [C'
+			  [C*]
+			  [vP
+			    [NP-OBJ-1
+				  [NP
+				    [N'
+					  [Nœ—Ê«“Â]]]
+				  [NP
+				    [N'
+					  [NÅÌ—Ê“Ì]]]
+				  [POSTP—«]]
+				[v'
+				  [PredP
+				    [Pred'
+					  [ADJ-PRD»«“]
+					  [Predò‰œ]]]
+				  [vò‰œ]]]]]]]]]
+				  
+				  
+					 
+				
+  [CoordP
+    [CoordÊ]
+      [C* ]
+      [vP
+        [vP
+          [NP-SBJ *-1]
+          [vP
+            [NP-OBJ-1
+                    [NP
+                      [N'
+                        [Nœ—Ê«“Â ]]]
+                    [NP
+                      [N'
+                        [NÅÌ—Ê“Ì ]]]
+                    [POSTP —« ]]
+            [v'
+              [PredP
+			    [PP»« 
+				  [NP
+				    [NPÂ„Ì‰
+					  [N'
+					    [N‰ ÌÃÂ]
+						[ADJ’›— »— Ìò]]]
+					
+					[PP»Â
+					  [NP
+					    [NP
+						  [N'
+						    [N”Êœ]]]
+						[NP
+						  [N'
+						    [NŒÊœ]]]]]]]
+                   [Pred'
+                        [NP-OBJ *-1]
+                        [Pred»Â Å«Ì«‰ ]]]
+              [v»—”«‰œ]]]]]]]
+.
+
+58-
+
+[vP
+	[vP
+	  [PPœ—
+		[NP
+		  [N'
+			[NÊﬁ ]
+			[ADJPœÊ„]]]]
+	  [vP
+		[NP-SBJ
+		  [N'
+			[NÅÌ—Ê“Ì  Â—«‰ ]]]
+		[vP
+		  [NP-OBJ
+				[N'
+				  [N”—⁄  ]
+				  [AdjP»Ì‘ —Ì ]]]
+		  [v'
+			[PredP
+			  [PP»Â 
+				[NP
+				  [N'
+					[N»«“Ì ]]]]]
+		
+			  [Pred'
+				 [NP-OBJ *-1]
+				 [Pred»Œ‘Ìœ ]]]]]]
+	[CoordP
+	  [CoordÊ]
+	  [vP
+		[NP-SBJ-1
+				[N'
+				  [N»«“Ì ]]]
+		[v'
+		  [PredP
+			   [Pred'
+				  [ADJ-PRDê” —œÂ]
+				  [Pred‘œ]]]
+		  [v‘œ ]]]]]
+.
+
+59-
+
+[vP
+	[vP
+	  [PPœ— 
+		[NP
+		  [NP
+			[N'
+			  [NœﬁÌﬁÂ 61 ]]]
+		  [NP
+			[N'
+			  [N»«“Ì ]]]]]
+	  [vP
+		[NP-SBJ
+			  [NP
+				[N'
+				  [N⁄·Ì—÷«]]]
+			  [NP
+				[NP
+				  [N'
+					[N”Â‰œ«—“Ì«‰]]]
+				[NP
+				  [NP
+					[N' 
+					  [N »«“Ìò‰]]]
+				  [NP
+					[NP
+					  [N'
+						[NŒÿ]
+						[ADJP„Ì«‰Ì]]
+					[NP
+					  [NP
+						[N'
+						  [NÅ«”]
+						  [ADJ Â—«‰]]]
+					  [CP
+						[C'
+						  [CòÂ]
+						  [vP
+							[PPœ—
+							  [NP
+								[N'
+								  [N‰Ì„Â]
+								  [ADJ‰Œ” ]]]]
+							[v'
+							  [PredP
+								  [PP»«
+									[NP
+									  [NP
+										[N'
+										  [Nò«— ]
+										  [ADJP“—œ]]]
+									  [NP
+										[N'
+										  [Nœ«Ê—]]]]]
+								  [Pred'
+									[Pred„Ê«ÃÂ]
+							  [v‘œÂ »Êœ]]]]]]]]]]]]]
+		[v'
+		  [PredP
+			[PP»Â
+			  [NP
+				[NP
+				  [N'
+					[Nœ·Ì·]]]]]
+				[NP
+				  [N'
+					[NŒ‘Ê‰ ]
+					[ADJP„Ãœœ]]]]
+			[Pred'
+			  [ADJP’«Õ»
+				[NPœÊ„Ì‰
+				  [N'
+					[Nò«— ]
+					[ADJP“—œ]]]]
+			  [Pred‘œ]]
+		  [v]]]]
+[CoordP
+  [CoordÊ]
+  [vP
+    [NP-SBJ-1*]
+	[vP
+	  [PP«“
+	    [NP
+		  [N'
+		    [N“„Ì‰]]]]
+	  [v'
+	    [PredP
+		  [Pred«Œ—«Ã]]
+		[vê—œÌœ]]]]]]
+.
+
+60-
+
+[vP
+  [vP
+	  [vP
+		[PPœ— 
+		  [NP
+			[NP
+			  [N'
+				[NœﬁÌﬁÂ 78 ]]]
+			[NP
+			  [NP
+				[N'
+				  [N Å«Ì«‰ ]]]]]]
+		[vP
+		  [NP-SBJ-1
+			[NP
+			  [N'
+				[NÅ«Ì«‰]]]
+			[NP
+			  [N'
+				[N—›⁄ ]]]]
+
+		  [NP-OBJ
+				[N'
+				  [N ÊÅ ]
+				  [AdjP«—”«·Ì ]]
+				[POSTP —« ]]
+		  [vP
+			[PP»« 
+			  [NP
+				[NP
+				  [N'
+					[N÷—»Â ]
+					[AdjP“Ì»«Ì ]]]
+				[NP
+				  [NP
+					[N'
+					  [N”— ]]]]]]
+			[v'
+			  [PredP
+			    [ADJPÊ«—œ
+				  [NP
+				    [NP
+					  [N'
+					    [Nœ—Ê«“Â]]]
+					[NP
+					  [N'
+					    [NÅ«”]]]]]
+				[Pred'
+				  [Predò—œ]]]
+			  [v]]]]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+        [NP-SBJ-1*]
+        [vP
+          [NP-OBJ-1
+                  [NP
+                    [N'
+                      [N‰ ÌÃÂ ]]]
+                  [NP
+                    [N'
+                      [N»«“Ì ]]]
+                  [POSTP —« ]]
+          [v'
+		    [PredP
+			  [PP»Â
+			    [NP
+				  [NP
+				    [N'
+					  [N ”«ÊÌ]
+					  [ADJPÌò »— Ìò]]]]]
+			  [Pred'
+			    [Pred ò‘«‰œ]]]
+			[v]]]]]]
+.
+
+61-
+
+[vP
+  [PPœ— 
+    [NP
+      [NP
+        [N'
+          [NœﬁÌﬁÂ 88 ]]]
+      [NP
+        [N'
+          [N»«“Ì ]]]]]
+  [vP
+    [NP-SBJ
+	  [NP
+	    [N'
+		  [N Ì„]]]
+	  [NP
+	    [N'
+		  [NÅ«”]
+		  [ADJP Â—«‰]]]]
+    [v'
+	  [PredP
+        [Pred'
+		  [ADJ-PRD’«Õ»
+		    [NP
+			  [NPÌò
+			    [N'
+				  [N÷—»Â]]]
+			  [NP
+			    [N'
+				  [NÅ‰«· Ì]]]]]
+		  [Pred‘œ]]]
+	  [v]]]]
+.
+
+62-
+
+[vP
+  [vP
+    [NP-SBJ
+       [N'
+         [NÃÊ«œ ‰ﬂÊ‰«„ ]]]
+		 
+    [vP
+	  [PPÅ‘  
+        [NP«Ì‰ 
+          [N'
+            [N ÊÅ ]]]]
+	  [v'
+		[PredP
+		  [Pred'
+		    [Predﬁ—«—]]]
+		[vê—› ]]]]
+[CoordP
+  [CoordÊ]
+  [vP
+    [NP-SBJ-1*]
+	[vP
+	  [NP-OBJ-1
+        [N'
+		  [N÷—»Â «Ì ]
+                  [AdjPœﬁÌﬁ «„« ‰Â ç‰œ«‰ ”‰êÌ‰ ]]]
+	  [v'
+	    [PredP
+		  [PP»Â 
+            [NP
+              [N'
+				[N ÊÅ ]]]]
+          [Pred'
+            [Pred‰Ê«Œ  ]]]
+        [v]]]]]]
+.
+
+63-
+
+[vP
+	[vP
+	  [NP-SBJ
+		[NP
+			[N'
+			  [N„Õ„œ ›‰«ÌÌ ]]]
+		[NP
+		  [NP
+			[N'
+			  [Nœ—Ê«“Â »«‰]]]
+		  [NP
+			[NP
+			  [N'
+				[NÅÌ—Ê“Ì]]]
+			[CP
+			  [C'
+				[CòÂ]
+				[vP
+				  [PP»«
+					[NP
+					  [N'
+						[NÂÊ‘Ì«—Ì]]]]
+				  [v'
+					[PredP
+					  [Pred'
+						[ADJP„ ÊÃÂ
+						  [NP
+							[NP
+							  [N'
+								[N„”Ì—]]]
+							[NP
+							  [N' 
+								[N ÊÅ]]]]]
+						[Pred‘œÂ »Êœ]]]
+					[v]]]]]]]]
+	  [vP
+	    [NP-OBJ-1
+		  [N'
+		    [N ÊÅ]]
+		 [POSTP—«]]
+		[v'
+		  [PredP
+		    [PP»«
+		      [NP
+		        [N'
+			      [N‘Ì—ÃÂ «Ì]
+			      [ADJP „«‘«ÌÌ]]]]
+			[Pred'
+			  [Predœ›⁄]]]
+		  [vò—œ]]]]
+		  
+[CoordP
+  [CoordÊ]
+  [vP
+    [NP-SBJ-1*]
+	[v'
+	  [PredP
+	    [ADJP-PRD‰«ÃÌ
+		  [NP
+		    [NP
+			  [N'
+			    [Nœ—Ê«“Â]]]
+			[NP
+			  [N'
+			    [N Ì„‘]]]]]
+		[Pred'
+		  [Pred‘œ]]]
+	  [v]]]]]
+.
+
+64- 
+
+[vP
+  [vP
+    [NP-SBJ-1
+	  [NP
+        [QPÌﬂ ]
+          [N'
+            [NœﬁÌﬁÂ ]]
+      [PP«“ 
+        [NP«Ì‰ 
+          [N'
+            [N’Õ‰Â ]]]]]]
+	[v'
+	  [PredP
+	    [Pred'
+		  [Pred‰ê–‘ Â]]]
+	  [v»Êœ]]]
+  [CP
+    [C'
+	  [CòÂ]
+	  [vP
+	    [NP-SBJ-1
+            [NP
+              [N'
+                [NÅ«Ì«‰ ]]]
+            [NP
+              [NP
+                [N'
+                  [N—›⁄  ]]]]]
+		[vP
+		  [PP»« 
+            [NP
+              [NP
+                [N'
+                  [N‰›Ê–Ì ]
+                  [AdjP”—Ì⁄ ]]]
+              [CoordP
+                [CoordÊ ]
+                [NP
+				  [NP
+				    [N'
+					  [NÃ«ê–«‘ ‰]]]
+				  [NP
+				    [NP
+					  [N'
+					    [N„«—ò«— ¬ﬁ«Ã«‰Ì«‰]]]
+					[NP
+					  [N'
+					    [N„œ«›⁄]
+						[ADJP„” ﬁÌ„]]]]]]]]
+		  [vP
+		    [ADVP»Â ÿÊ— “„Ì‰Ì]
+			[vP
+			  [vP
+				  [NP-OBJ-1ŒÊœ
+					[N'
+					  [N ÊÅ]]
+					[POSTP—«]]
+				  [v'
+					[PredP
+					  [PP»—«Ì
+						[NP
+						  [N'
+							[N⁄·Ì—÷« »«€„Ì‘Â]]]]
+					  [Pred'
+						[ADJ-PRDÅŒ Â]
+						[Predò—œ]]]
+					[v]]]
+			  [CP
+			    [C'
+				  [C « ]
+				  [vP
+					[NP-SBJ-1 ÊÌ]
+					[vP
+                       [NP-OBJ-1ÊÌ œÊ„Ì‰ 
+                          [N'
+                            [Nê· ]]
+                          [POSTP —« ]]
+					   [v'
+						  [PredP
+						    [PP»Â
+							  [NP
+							    [NP
+								  [N'
+								    [NÅ«”]]]
+								[NP
+								  [N'
+								    [N Â—«‰]]]]]
+									
+                            [Pred'
+                                [NP-OBJ-1 *]
+                                [Pred Õ„Ì·]]]
+                      [vò‰œ]]]]]]]]]]]]]
+.
+
+65-
+
+[vP
+	[vP
+	  [NP-SBJ
+		[N'
+		  [NçÌ“Ì ]]]
+		   
+	  [vP
+		[PP»Â
+		  [NP
+			[NP
+			  [N'
+				[NÅ«Ì«‰]]]
+			[NP
+			  [N'
+				[N„”«»ﬁÂ]]]]]
+		[v'
+		  [PredP
+		    [Pred'
+			  [Pred‰„«‰œÂ »Êœ]]]
+		  [v]]]]
+    [CP
+      [C'
+        [CﬂÂ ]
+        [vP
+          [NP-SBJ-1
+		    [NP
+               [N'
+                 [N„ÂœÌ Â«‘„Ì ‰”» ]]]
+			[NP
+			  [NP
+			    [N'
+			      [Nœ›«⁄]
+				  [ADJPÅÌ‘  «Œ Â]]]
+			  [NP
+			    [N'
+				  [NÅÌ—Ê“Ì]]]]]
+          [vP
+		    [PP»«
+			  [NP
+			    [NP
+				  [N'
+				    [N÷—»Â]]]
+				[NP
+				  [NP
+				    [N'
+					  [N”—]]]
+				  [PP»—«Ì
+				    [NP”Ê„Ì‰
+					  [N'
+					    [N»«—]]]]]]]
+			[vP
+			  [NP-OBJ-1
+			    [NP
+				  [N'
+				    [N Ê—]]]
+				[NP
+				  [NP
+				    [N'
+					  [Nœ—Ê«“Â]]]
+				  [NP 
+				    [NP
+					  [N'
+					    [NÅ«”]]]
+					[NP
+					  [N'
+					    [N Â—«‰]]]]]
+				[POSTP—«]]
+			  [v'
+			    [PredP
+				  [Pred'
+				    [Pred»Â ·—“Â]]]
+				[vœ—¬Ê—œ]]]]]]]]
+.
+
+66-
+
+[vP
+  [vP
+    [NP-SBJ
+          [NP
+            [N'
+              [N Ì„ ]]]
+          [NP
+            [NP
+              [N'
+                [NÅÌ—Ê“Ì ]]]]]
+         
+    [vP
+	   [PP»« 
+         [NP
+           [NP
+             [N'
+               [Nﬂ”» ]]]
+           [NP«Ì‰ 
+             [N'
+               [N»— —Ì ]]]]]
+	  [v'
+	    [PredP
+		  [Pred'
+		    [ADJ-PRD’«Õ»
+			  [NP
+			    [N'
+				  [N31«„ Ì«“]]]]
+			[Pred‘œ]]]
+		[v]]]]
+  [CP
+    [C'
+      [C « ]
+      [vP
+        [NP-SBJ-1*]
+		[v'
+		  [PredP
+		    [ADJP-PRDﬁÂ—„«‰
+			  [NP
+  			    [NP
+                  [N'
+                    [N‰Ì„ ›’· ]
+					[ADJ«Ê·]]]
+                  [NP
+                    [NP
+                      [N'
+                        [NÃ«„ ]]]
+                    [NP
+                      [N'
+                        [N¬“«œê«‰ ]]]]]]
+			[Pred‘Êœ]]]]]]]
+.
+
+67-
+
+[vP
+  [NP-SBJ
+        [NP
+          [N'
+            [NœÌœ«—Â«Ì ]]]
+        [NP
+          [NP
+            [N'
+              [N»—ê‘  ]]]
+          [NP
+            [NP
+              [N'
+                [N›Ê »«· ]]]
+            [NP
+              [NP
+                [NP
+                  [N'
+                    [NÃ«„ ]]]
+                [NP
+                  [N'
+                    [N¬“«œê«‰ ]]]]]]]]
+  [vP
+    [PP«“ 
+      [NP
+        [NP
+          [N'
+            [N„«Â ]
+            [AdjP„»«—ﬂ ]]]
+        [NP
+          [N'
+            [N—„÷«‰ ]]]]]
+    [v'
+      [PredP
+        [Pred'
+          [Pred ¬€«“ ]]]
+	  [vŒÊ«Âœ ‘œ]]]]
+.
+
+68-
+
+[vP
+  [NP-SBJ
+        [N'
+          [N‰’Ì—Ì ‰Ì« ]]]
+  [v'
+    [PredP
+      [Pred'
+        [ADJPﬁÂ—„«‰ 
+          [NP
+            [NP
+              [N'
+                [NÊ“‰Â »—œ«—Ì ]]]
+            [NP
+              [N'
+                [NÃÂ«‰ ]]]]]
+    
+       [Pred‘œ ]]]
+	[v]]]
+.
+
+69-
+
+[vP
+  [NP-SBJ
+    [NP
+        [N'
+          [N‘«ÂÌ‰ ‰’Ì—Ì ‰Ì« ]]]
+	[NP
+	  [NP
+	    [N'
+		  [N‰„«Ì‰œÂ]]]
+	  [NP
+	   [NP
+	     [N'
+		   [Nò‘Ê—„«‰]]]
+	   [PPœ—
+	     [NP
+		   [NP
+		     [N'
+			   [N—ﬁ«»  Â«Ì]]]
+		   [NP
+		     [NP
+			   [N'
+			     [Nœ” Â]]]
+			 [NP
+			   [NP
+			     [N'
+				   [N85òÌ·Êê—„]]]
+			   [NP
+			     [NP
+			       [N'
+				     [NÂ› «œ„Ì‰ œÊ—Â]]]
+				 [NP
+				   [NP
+				     [N'
+					   [N„”«»ﬁÂ Â«Ì]]]
+				   [NP
+				     [NP
+					   [N'
+					     [NÊ“‰Â »—œ«—Ì]]]
+					 [NP
+					   [NP
+					     [N'
+						   [NﬁÂ—„«‰Ì]]]
+					   [NP
+					     [NP
+						   [N'
+						     [N„—œ«‰]]]
+						 [NP
+						   [N'
+						     [NÃÂ«‰]]]]]]]]]]]]]]]
+		  
+  [vP
+    [PP»Â
+	  [NP
+	    [NP
+		  [N'
+		    [N„œ«·]]]
+		[NP
+		  [N'
+		    [Nÿ·«]]]]]
+  
+   [v'
+     [PredP
+       [Pred'
+         [Predœ”  ]]]
+	[vÌ«› ]]]]
+.
+
+70-
+
+[vP
+  [NP-SBJ
+        [N'
+          [N‰’Ì—Ì ‰Ì« ]]]
+  [vP
+    [ADVPÃ„⁄Â ‘»]
+	[vP
+	  [PPœ—
+	    [NP
+		  [NP
+		    [N'
+			  [NÅÌò«—Â«Ì]]]
+		  [NP«Ì‰
+		    [N' 
+			  [Nê—ÊÂ]]]]
+		[CP
+		  [C'
+		    [CòÂ]
+			[vP
+			  [NP-SBJ-2*]
+			  [vP
+			    [PPœ—
+			      [NP
+				    [NP
+					  [N'
+					    [NÅÌò«—Â«Ì]]]
+					[NP«Ì‰
+					  [N'
+					    [Nê—ÊÂ]]]]
+				  [CP
+				    [C'
+					  [CòÂ]
+					  [vP
+						  [PPœ—
+							[NP
+							  [NP
+								[N'
+								  [N”«·‰]
+								  [AdjPÊ“‰Â »—œ«—Ì]]]
+							  [NP
+								[NP
+								  [N'
+									[NÊ—“‘ê«Â]]]
+								[NP
+								  [NP
+									[N'
+									  [N›—‰œ‘Ì»]]]
+								  [NP
+								    [NP
+									  [N'
+									    [N‘Â—]]]
+									[NP
+									  [N'
+									    [N¬ ‰]]]]]]]]
+						  [v'
+						    [PredP
+							  [Pred'
+							    [Pred»—ê“«—]]]
+							[v‘œ]]]]]]]]]]]
+    [vP
+	    [PP»«
+		  [NP
+            [NP
+			  [N'
+			    [NÕœ ]]]
+			[NP
+			  [NP
+				[N'
+				  [N‰’«» ]]]
+			  [NP
+			    [NP
+				  [N'
+				    [N„Ã„Ê⁄ ]
+				    [AdjP390òÌ·Êê—„]]]
+				[NP
+				  [NP
+				    [N'
+					  [N215]]]
+				  [PP»Â «÷«›Â
+				    [NP
+					  [N'
+					    [N175]]]]]]]]]
+		[v'
+		  [PredP
+		    [PP»Â
+			  [NP
+			    [NP
+				  [N' 
+				    [Nò«—]]]
+				[NP
+				  [N'
+				    [NŒÊœ]]]]]
+             [Pred'
+                [PredÅ«Ì«‰ ]]]
+		  [vœ«œ]]]]]]
+.
+
+71-
+
+[FRAG
+  [NP
+     [NP
+       [N'
+         [NÊ«·Ì»«· ]]]
+     [NP
+       [NP
+         [N'
+           [N”ÊÅ—·Ìê ]]]
+       [NP
+         [N'
+           [Nﬂ‘Ê— ]]]]]]
+
+[FRAG
+    [NP
+      [NP
+	    [NP
+		  [N'
+		    [N‘ò” ]]]
+		[NP
+		  [NP
+		    [N'
+		      [NÅÌò«‰]
+			  [AdjP Â—«‰]]]]]
+          [PP«“ 
+			[NP
+              [N'
+                [N–Ê» ¬Â‰ ]
+				[AdjP«’›Â«‰]]]]]]
+				
+[vP
+   [NP-SBJ-1
+     [NP
+       [N'
+         [N Ì„ ]]]
+     [NP
+       [NP
+         [N'
+           [N]Ê«·Ì»«· ]]]
+       [NP
+         [N'
+           [N–Ê» ¬Â‰]
+		   [AdjP«’›Â«‰]]]]
+		   
+      [vP
+        [NP-OBJ-1
+             [N'
+               [NÅÌò«‰ ]
+			   [AdjP Â—«‰]]
+             [POSTP —« ]]
+        [v'
+          [PredP
+               [Pred'
+                    [NP-OBJ-1*]
+                    [Pred‘ò”  ]]]
+		  [vœ«œ]]]]
+.
+
+72-
+
+[vP
+  [NP-SBJ«Ì‰
+      [N'
+        [NœÌœ«— ]]]
+  [vP
+    [PPœ— 
+      [NP
+        [NP
+          [N'
+            [Nç«—çÊ» ]]]
+        [NP
+          [NP
+            [N'
+              [N„”«»ﬁÂ Â«Ì ]]]
+          [NP
+            [NP
+              [N'
+                [NÊ«·Ì»«· ]]]
+            [NP
+              [NP
+                [N'
+                  [N”ÊÅ—·Ìê ]]]
+              [NP
+                [N'
+                  [Nﬂ‘Ê— ]]]]]]]]
+	[vP
+	  [AdvP
+	    [NP
+		  [NP
+		    [N'
+			  [N‘«„ê«Â]]]
+		  [NP
+		    [NP
+			  [N'
+			    [NÅ‰Ã‘‰»Â]]]
+			[PPœ—
+			  [NP
+			    [NP
+				  [N'
+				    [N «·«—]]]
+				[NP
+				  [NP
+				    [N'
+					  [N‘Â—ÌÊ—]]]
+				  [NP
+				    [NP
+					  [N'
+					    [NÊ—“‘ê«Â]]]
+					[NP
+					  [NP
+					    [N'
+						  [NÊ—“‘ê«Â]]]
+					  [NP
+					    [NP
+						  [N'
+						    [N Œ Ì]]]
+						[NP
+						  [N'
+						    [N«’›Â«‰]]]]]]]]]]]]
+	  [v'
+	    [PredP
+		  [Pred'
+		    [Pred»—ê“«—]]]
+		[v‘œ]]]]]
+.
+
+73-
+
+[vP
+  [PPœ— 
+    [NP«Ì‰ 
+      [N'
+        [NœÌœ«— ]]]]
+  [vP
+    [NP-SBJ
+          [NP
+            [N'
+              [N Ì„ ]]]
+          [NP
+            [NP
+              [N'
+                [NÊ«·Ì»«· ]]]
+			[NP
+			  [NP
+			    [N'
+				  [N–Ê» ¬Â‰]
+				  [AdjP«’›Â«‰]]]
+              [PPœ— 
+                [NP
+                  [NP
+                    [QP”Â ]
+                    [N'
+                      [NêÌ„ ]
+                      [AdjPÅÌ«ÅÌ ]]]
+                  [PP»« 
+                    [NP
+					  [NP
+                        [N'
+                          [N‰ ÌÃÂ ]]]
+					  [NP
+					    [NP
+						  [N'
+						    [N 21-25]]]
+						[NP
+						  [NP
+						    [N'
+							  [N21-25]]]
+						  [CoordP
+						    [CoordÊ]
+						    [NP
+							  [N'
+							    [N37-39]]]]]]]]]]]]]
+    [vP
+      [NP-OBJ-1
+        [NP
+          [N'
+            [NÕ—Ì› ]]]
+        [NPŒÊœ ]
+        [POSTP —« ]]
+      [vP
+        [PPÅ‘  
+          [NP
+            [N'
+              [N”— ]]]]
+        [v'
+          [PredP
+               [Pred'
+                    [NP-OBJ *-1]
+                    [Predê–«‘  ]]]]]]]]
+.
+
+74-
+
+[vP
+  [AdvPÂ„ç‰Ì‰]
+  [vP
+	[PPœ— 
+	  [NP
+		[NP
+		   [N'
+			 [N«œ«„Â ]]]
+		[NP
+		  [NP
+			[N'
+			  [NÂ› Â ]
+			  [AdjPÂ› „]]]
+		  [NP
+			[NP
+			  [N'
+				[N—ﬁ«» Â«Ì ]]]
+			[NP
+			  [NP
+				[N'
+				  [NÊ«·Ì»«· ]]]
+			  [NP
+				[NP
+				  [N'
+					[NÃ«„ ]
+					[AdjP»— — ]]]
+				[NP
+				  [NP
+					[N'
+					  [N»«‘ê«ÂÂ«Ì ]
+					  [AdjP«Ì—«‰]]]]]]]]]]
+	  [vP
+		[AdvP
+		  [NP
+			[NP
+			  [N'
+				[NÅ‰Ã‘‰»Â]]]
+			[NP
+			  [N'
+				[N‘»]]]]]
+		[vP 
+		  `[NP-SBJ-1
+				[NP
+				  [N'
+					[N Ì„ „Ê Êé‰ ]
+					[Adj »—Ì“]]]
+		[vP
+		  [PP„ﬁ«»· 
+			[NP
+			  [NP
+				[N'
+				  [NÊÕœ  ]
+				  [Adj”«—Ì]]]]]
+		  [v'
+			[PredP
+			   [PP»Â 
+				 [NP
+				   [N' 
+					 [N»— —Ì]]]]
+			   [Pred'
+					[Pred—”Ìœ ]]]
+		  [v]]]]]]]]
+
+.
+
+75-
+
+[vP
+  [vP
+    [NP-SBJ-1«Ì‰
+      [N'
+        [NœÌœ«— ]]]
+    [v'
+      [PredP
+	    [PPœ—
+		  [NP
+		    [N'
+			  [N”«—Ì]]]]
+           [Pred'
+                [Pred»—ê“«— ]]]
+	  [v‘œ]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+        [NP-SBJ-2
+		  [NP
+		    [N'
+			  [N Ì„]]]
+		  [NP
+		    [N'
+			  [N„Ê Êé‰]]]]
+		[vP
+           [PP»« 
+             [NP
+               [N'
+                 [NÕ”«» ]
+				 [AdjP”Â »— ’›—]]]]
+          [v'
+            [PredP
+			  [PP«“
+			    [NP
+				  [NP
+				    [N'
+					  [N”œ]]]
+				  [NP
+				    [NP
+					  [N'
+					    [N„Ì“»«‰]]]
+					[NP
+					  [N'
+					    [NŒÊœ]]]]]]
+              [Pred'
+                [Predê–‘  ]]]
+            [v]]]]]]
+.
+
+76-
+
+
+[FRAG
+  [NP
+    [NP
+	  [N'
+	    [NœÌœ«—]]]
+	[NP
+	  [NP
+	    [N'
+		  [N—› ]]]
+	  [PP«“
+	    [NP
+		  [N'
+		    [N„—Õ·Â]
+			[AdjPœÊ„]]]]]]]
+[vP
+	[vP
+	  [NP-SBJ-1
+		[NPœÂ„Ì‰
+		  [N'
+			[NœÊ—Â]]]
+		[NP
+		  [NP
+			[N'
+			  [N„”«»ﬁ« ]]]
+		  [NP
+			[NP
+			  [N'
+				[N›Ê »«·]]]
+			[NP
+			  [NP
+				[N'
+				  [NÃ«„]]]
+			  [NP
+				[NP
+				  [N'
+					[N»—‰œê«‰]]]
+				[NP
+				  [NP
+					[N'
+					  [NÃ«„]]]
+				  [NP
+					[NP
+					  [N'
+						[N»«‘ê«Â Â«Ì]]]
+					[NP
+					  [N'
+						[N¬”Ì«]]]]]]]]]]
+				 
+		
+	  [vP
+		  [AdvP
+			  [Adv'
+				  [AdvœÌ‘» ]]]
+		  [vP
+			[PPœ— 
+			  [NP
+				[N'
+				  [NÊ—“‘ê«Â ÃœÂ ]]]]
+			[vP
+			  [NP-OBJ
+					[N'
+					  [N«‰Ã«„ ]]]
+			  [v'
+				[PredP
+					 [Pred'
+						  [Pred‘œ ]]]]]]]]
+    [CoordP
+	  [CoordÊ]
+      [vP
+        [NP-SBJ-2
+		  [NP
+		    [N'
+			  [N Ì„]]]
+		  [NP
+		    [N'
+			  [N«·« Õ«œ]
+			  [AdjP⁄—»” «‰]]]]
+        [vP
+          [PPÿÌ 
+            [NP
+              [NP¬‰]
+			  [PP*
+			    [NP
+				  [NP
+				    [N'
+					  [N»—«»—]]]
+				  [NP
+				    [N'
+					  [N«” ﬁ·«·]]]]]]]
+          [v'
+            [PredP
+			  [PP»Â 
+			    [NP
+				  [N'
+				    [N»— —Ì]
+					[AdjPÌò »— ’›—]]]
+                 [Pred'
+                      [Pred—”Ìœ ]]]
+            [v]]]]]]]
+.
+
+77-
+
+[vP
+  [NP-SBJ
+        [NP«Ì‰ 
+          [N'
+            [NœÌœ«— ]]]]
+        
+  [vP
+    
+	[PP
+	  [PPœ— 
+          [NP
+            [NP
+              [N'
+                [NÕ÷Ê— ]
+                [AdjP»Ì‘ ]]]
+            [PP«“ 
+              [NP
+			    [NP
+				  [QP20 Â“«— ]
+					[N'
+					  [N „«‘«ê— ]]]]]]]
+	  [CoordP
+	    [CoordÊ]
+		[vP
+			[PP»Â
+			  [NP
+				[NP
+				  [N'
+					[Nœ«Ê—Ì]]]
+				[NP
+				  [NP
+					[N'
+					  [N⁄»œ«··Â «·⁄Ã„Ì]]]
+				  [PP«“
+					[NP
+					  [N'
+						[N⁄À„«‰]]]]]]]
+			[v'
+			  [PredP
+				[Pred'
+                [Pred»—ê“«— ]]]
+			  [‘œ]]]]]]]
+.
+
+78-
+
+[vP
+	[vP
+	  [NP-SBJ
+			[NP
+			  [N'
+				[N«” ﬁ·«·  Â—«‰ ]]]
+			[CP
+			  [C'
+				[CﬂÂ ]
+				[vP
+				  [NP *-1]
+				  [vP
+					[PP«“ 
+					  [NP
+						[NP
+						  [N'
+							[NÊÃÊœ ]]]
+						[NP
+						  [NP
+							[N'
+							  [N—÷« Õ”‰ “«œÂ]]]
+						  [NP 
+							[NP
+							  [N'
+								[N„œ«›⁄]
+								[AdjPÅ— Ã—»Â]]]
+							[NP
+							  [N'
+								[NŒÊœ]]]]]]]
+					[vP
+					  [v'
+						[PredP
+						  [PP»Â œ·Ì·
+							[NP
+							  [N'
+								[N¬”Ì» œÌœêÌ]]]]
+							 [Pred'
+								[AdjP-PRD„Õ—Ê„ ]
+								[Pred»Êœ ]]]
+						[v]]]]]]]]
+	  [vP
+	    [PP»—«Ì
+		  [NP
+		    [NP
+			  [N'
+			    [N«” Õò«„]]]
+			[NP
+			  [N'
+			    [NŒÿ]
+				[AdjPœ›«⁄Ì]]]]]
+		[v'
+		  [PredP 
+		    [PP«“ 
+			  [NP
+			    [NP
+			      [N'
+				    [N” «— Â„œ«‰Ì ]]]
+				[NP
+				  [NP
+					[N'
+					  [NÂ«›»ﬂ ]
+					  [AdjP»«“Ìê—œ«‰ ]]]
+				  [NPŒÊœ ]]
+				[PPœ— 
+				  [NP«Ì‰ 
+					[N'
+					  [N„‰ÿﬁÂ ]]]]]]
+		    [Pred'
+			  [Pred”Êœ]]]
+		  [v»—œ]]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+      [NP *-1]
+      [vP
+        [NP-OBJ-1
+          [NP
+            [N'
+              [NÊŸÌ›Â ]]]
+		  [NP
+            [N'
+              [N»«“Ì ”«“Ì ]]]
+          [POSTP —« ]]
+        [v'
+          [PredP
+		    [PP»Â
+			  [NP
+			    [N'
+				  [N„Õ„Êœ ›ò—Ì]]]]
+            [Pred'
+              [NP-OBJ *-1]
+              [Pred”Å—œ ]]]
+              [v]]]]]]
+.
+
+79-
+
+[vP
+  [vP
+    [NP-SBJ”Ìœ 
+          [N'
+            [NÂ«œÌ ÿ»«ÿ»«ÌÌ ]]]
+    [v'
+      [PredP
+        [Pred'
+          [NP-PRD
+            [NP
+              [N'
+                [N„—œ ]]]
+            [NP
+              [NP
+                [N'
+                  [N‘„«—Â ]]]
+              [NP
+                [NP
+                  [N'
+                    [N«” ﬁ·«· ]]]
+                [PPœ— 
+                  [NP¬Œ—Ì‰ 
+                    [N'
+                      [N”‰ê— ]]]]]]]
+                  [Pred»Êœ ]]]
+	  [v]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+	  [CP-AdvÂ„çÊ‰
+	    [NP
+		  [N'
+		    [Nê–‘ Â]]]]
+	  [vP
+	    [NP-SBJ-1*]
+        [v'
+          [PredP
+             [AdjP-PRD„ÿ„∆‰ Ê ”—Å‰ÃÂ ]
+             [Pred'
+               [PredŸ«Â—]]]
+            [v‘œ ]]]]]]
+.
+
+80-
+
+[vP
+  [NP-SBJ
+    [NP
+      [N'
+        [NÃÊ«œ “—Ì‰çÂ ]]]
+	[ConjP
+	  [NP
+	    [N'
+		  [Nò«ÅÌ «‰]
+		  [AdjPŒÊ‘›ﬂ—]]]
+	  [Conj‰Ì“]]]
+  [vP
+    [PPœ—
+	  [NP
+	    [NP¬Œ—Ì‰
+		  [N'
+		    [N‰ﬁÿÂ]]]
+		[NP
+		  [N'
+		    [NŒÿ]
+			[AdjPœ›«⁄Ì]]]]]
+	[vP
+       [NP-OBJ-1
+          [N'
+            [N¬»Ì ÅÊ‘«‰ ]]
+          [POSTP —« ]]
+       [v'
+         [PredP
+            [Pred'
+              [NP-OBJ *-1]
+              [Pred„Ì ﬂ—œ ]]]
+         [v]]]]]
+.
+
+81-
+
+[vP
+  [NP-SBJ
+        [NP
+          [N'
+            [N„Õ„œ ‰Ê«“Ì ]]]
+        [CoordP
+              [CoordÊ ]
+              [NP
+                [N'
+                  [N⁄·Ì—÷« ‰Ìﬂ»Œ  Ê«ÕœÌ ]]]]]
+  [vP
+    [NP-OBJ
+          [NP
+            [N'
+              [N»«·Â«Ì ]
+              [AdjP—«”  Ê çÅ ]]]
+          [NP
+		    [NP
+              [N'
+                [N Ì„]]]
+			[NP
+			  [N'
+			    [N«” ﬁ·«·]]]]
+          [POSTP —« ]]
+    [v'
+      [PredP
+         [Pred'
+            [NP-OBJ *-1]
+            [Pred ‘òÌ· ]]]]
+	  [v„Ì œ«œ‰œ]]]
+.
+
+82-
+
+[vP
+    [NP-SBJ
+          [NP
+            [N'
+              [N»Â“«œ œ«œ«‘ “«œÂ ]]]
+          [CoordP
+                [CoordÊ ]
+                [NP
+                  [NP
+                    [N'
+                      [N⁄·Ì ·ÿÌ›Ì ]]]
+                  [PPœ— ﬂ‰«— 
+                    [NP
+                      [NP
+                        [N'
+                          [N„Õ„Êœ ›ﬂ—Ì ]]]]]]]]                  
+    [vP
+	  [PPœ— 
+        [NP
+          [N'
+            [NŒÿ ]
+            [AdjP„Ì«‰Ì ]]]]
+      [v'
+	    [PredP
+           [PredP
+             [Pred'
+                  [PredÃ«Ì]
+		   [vœ«‘ ‰œ]]]
+		
+		[CP
+		  [C'
+		    [CòÂ ]
+			[vP
+			  [PPœ—
+			    [NP«Ì‰
+				  [N' 
+				    [N„Ì«‰]]]]
+			  [vP
+				[NP-SBJ-2
+				  [N'
+				    [Nœ«œ«‘ “«œÂ]]]
+			  [vP
+			    [PredP
+				  [Pred'
+				    [NP-PRD
+					  [NP
+					    [N'
+						  [N„«„Ê— ]]]
+					  [NP
+					    [NP
+						  [N'
+						    [N„Â«—]]]
+						[NP
+						  [NP
+						    [N'
+							  [N—Ê»— Ê œÊ‰«œÊ‰Ì]]]
+						  [NP
+						    [NP
+							  [N'
+							    [NÂ«›»ò]
+								[AdjPòÂ‰Â ò«— «Ì «·Ì«ÌÌ]]]
+							[NP
+							  [N'
+							    [N«·« Õ«œ]
+								[AdjP⁄—»” «‰]]]]]]]
+					[Pred»Êœ]]]
+				[v]]]]]]]]]]
+.
+
+83-
+
+[vP
+  [NP-SBJ
+        [NP
+          [N'
+            [N⁄·Ì ·ÿÌ›Ì ]]]
+        [CP
+          [C'
+            [CﬂÂ ]
+            [vP
+              [NP *-1]
+              [vP
+                [AdvP
+                    [Adv'
+                        [AdvŒÌ·Ì “Êœ ]]]
+                [vP
+                  [NP-OBJ-1
+				    [NP
+					  [N'
+						[NŒÊœ]]]
+					[POSTP—«]]
+                  [vP
+				    [PP»Â 
+					  [NP
+                        [N'
+                          [N⁄·Ì—÷« «ﬂ»—ÅÊ— ]]]
+                    [v'
+                      [PredP
+                           [Pred'
+                                [NP-OBJ *-1]
+                                [Predœ«œ ]]]
+                      [v]]]]]]]]]]
+°
+	[vP
+	  [AdvP
+        [Adv'
+          [Adv»Ì‘ — ]]]
+	  [vP
+		[PP»Â 
+         [NP
+           [NP
+             [N'
+               [NŒÿ ]]]
+          [NP
+            [N'
+              [NÕ„·Â ]]]]]
+		[v'
+           [PredP
+              [Pred'
+                [Pred„Ì ÅÌÊ”  ]]]
+		   [v]]]]]
+.
+
+84-
+
+[vP 
+  [NP-SBJ
+		[NP
+		  [NP
+			[N'
+			  [N›—Â«œ „ÃÌœÌ ]]]
+		  [CoordP
+		    [CoordÊ ]
+		    [ConjP
+			  [NP
+			    [N'
+			      [N«Õ„œ „Ê„‰ “«œÂ ]]]
+			  [Conj‰Ì“]]]]]
+		
+  [v'
+    [PredP
+	  [Pred'
+	    [NP-PRD
+		  [NP
+			  [NP
+				[N'
+				  [N„Â«Ã„«‰ ]]]
+			  [NP
+				[N'
+				  [N«” ﬁ·«·]]]]
+		  [CP
+			[C'
+              [CﬂÂ ]
+              [vP
+                  [NP *-1]
+                  [v'
+                      [PredP
+                           [Pred'
+                                [Pred‰ Ê«‰” ‰œ ]]]      
+					  [CP
+						[C'
+						  [CÊ *]	
+						  [vP
+							[NP-SBJ-1*]
+							[vP
+							  [AdvP¬‰ ÿÊ— òÂ »«Ìœ Ê ‘«Ìœ]
+							  [vP
+							     [NP-OBJ-1
+                                   [NP
+									 [N'
+									   [N«‰ Ÿ«—« ]]]
+								   [NP
+								     [NP
+									   [N'
+									     [N Ì„]]]
+									 [NP
+                                       [N'
+									     [N«” ﬁ·«·]]]]
+								   [POSTP —« ]]
+							     [v'
+									[PredP
+									  [Pred'
+										[NP-OBJ *-1]
+                                        [Pred»—¬Ê—œÂ ]]]
+                            [v”«“‰œ]]]]]]]]]]]]]]]]
+
+.
+
+85-
+
+[vP
+  [PPœ— 
+      [NP
+        [NP¬‰ 
+          [N'
+            [N”ÊÌ ]]]
+        [NP
+          [N'
+            [N„Ìœ«‰ ]]]]]
+    [vP
+      [NP-SBJ-1
+	    [NP
+			[NP
+			  [N'
+				[N Ì„]]]
+			[NP
+			  [NP
+				[N'
+				  [N«·« Õ«œ]]]
+			  [NP
+				[N'
+				  [N⁄—»” «‰]]]]]
+		[CP
+		  [C'
+		    [CòÂ]
+			[vP
+			  [PP»—«Ì
+			    [NP«Ì‰
+				  [N'
+				    [NœÌœ«—]]]]
+			  [v'
+			    [PredP
+				  [Pred'
+				    [PredÕ”«» ÊÌéÂ «Ì »«“]]]
+				[vò—œÂ »Êœ]]]]]]
+	  [v'
+	    [PredP
+		  [Pred'
+		    [Predﬁ—«—]]]
+		[vœ«‘ ]]]]
+.
+
+86-
+
+[vP
+  [vP
+    [NP-SBJ
+          [NP«Ì‰ 
+            [N'
+              [N Ì„ ]]]]
+    [vP
+	  [PP»«
+	    [NP
+		  [NP
+		    [N'
+		      [N„»·€]]]
+		  [NP
+		    [QP750Â“«—]
+			[N'
+			  [Nœ·«—]]]]]
+	  [vP
+	    [NP-OBJ-1
+		  [NP
+		    [N'
+			  [NÂ«›»ò]
+			  [AdjPÅ« »Â ”‰ ê–«‘ Â «Ì «·Ì«ÌÌ]]]
+		  [CoordP
+		    [CoordÊ]
+			[NP
+			  [NP
+			    [N'
+				  [N»«“Ìò‰]
+				  [AdjP”«»ﬁ]]]
+			  [NP
+			    [N'
+				  [N¬À „Ì·«‰]]]
+			  [POSTP—«]]]]
+		[v'
+		  [PredP
+		    [PP»Â
+			  [NP
+			    [N'
+				  [NŒœ„ ]]]]
+			[Pred'
+			  [PredêÌ—œ]]]
+		  [v]]]]]
+		  
+  [CP
+    [C'
+      [C « ]
+      [vP
+		  [vP
+			[NP-SBJ-1*]
+			[vP
+			  [NP-OBJ-1«Ê 
+				[POSTP —« ]]
+			  [vP
+				[PPœ—
+				  [NP
+					[NP
+					  [N'
+						[N„ﬁ«»·]]]
+					[NP
+					  [N' 
+						[N«” ﬁ·«·]]]]]
+				[v'
+				  [PredP
+					[Pred'
+					  [PP-PRD»Â
+						[NP
+						  [NP
+							[N'
+							  [N⁄‰Ê«‰]]]
+						  [NP
+							[NP
+							  [N'
+								[N»«“Ìò‰]
+								[AdjP¬“«œ]]]
+							[PP»Â
+							  [NP
+								[N'
+								  [N„Ìœ«‰]]]]]]]
+					  [Pred›—” œ]]]
+				  [v]]]]]
+		  °
+		[CP
+		  [C'
+			[C « ]
+			[vP
+			  [NP *-1]
+			  [vP
+				  [AdvP
+					  [Adv'
+						  [Adv‘«Ìœ ]]]
+				  [v'
+					  [PredP
+						   [Pred' 
+						     [NP-PRD
+							   [NP
+							     [N'
+								   [Nê—Â ê‘«Ì]]]
+							   [NP
+							     [N'
+								   [N Ì„‘]]]]
+								[Pred»«‘œ ]]]
+					  [v]]]]]]]]]]
+.
+
+[vP
+  [AdvP«“ ﬁ÷«]
+  [vP
+	  [NP-SBJ
+			[NP
+			  [N'
+				[NÕ—ﬂ  ]
+				[AdjP›—Ì»‰œÂ Ê Õ—›Â «Ì ]]]
+			[NP
+			  [NPÂ„Ì‰ 
+				[N'
+				  [N»«“Ìﬂ‰ ]]]
+			  [PPœ— 
+				[NP
+				  [N'
+					[NœﬁÌﬁÂ 27 ]]]]]]
+	  [v'
+		[PredP
+			 [Pred'
+				  [Pred»«⁄À ]]]
+		[v‘œ]]]
+  [CP
+	[C'
+	  [C « ]
+	  [vP
+		[vP
+		  [NP-SBJ-1
+				  [N'
+					[Nœ«Ê— ]
+					[AdjP⁄„«‰Ì ]]]
+		  [vP
+			[NP-OBJ-1
+				[NP
+				  [N'
+					[N›—Ì»]]]
+				[NP
+				  [N'
+					[N «Ê]]]
+				[POSTP —« ]]
+			[v'
+			  [PredP
+				   [Pred'
+						[NP-OBJ *-1]
+						[Pred»ŒÊ—œ ]]]
+			  [v]]]]
+		[CoordP
+		  [CoordÊ]
+			[C'
+			  [CÊ ]
+			  [vP
+				  [vP
+					 [NP-SBJ *-1]
+					[vP
+					   [NP-OBJ-1
+						  [NP
+							[N'
+							  [N‰ﬁÿÂ ]]]
+						  [NP
+							[N'
+							  [NÅ‰«· Ì ]]]
+						  [POSTP —« ]]
+					   [vP
+						  [PP»Â 
+							[NP
+							  [NP
+								[N'
+								  [N‰›⁄]]]
+							  [NP
+								[NP
+								  [N'
+									[N Ì„ ]]]
+								[NP
+								  [N' 
+									[N«·« Õ«œ]
+									[Adj⁄—»” «‰]]]]]]
+						  [v'
+							[PredP
+							  [Pred'
+								[Pred‰‘«‰]]]
+							[vœÂœ]]]]]
+				  [CoordP
+				    [CoordÊ]
+					[vP
+					  [NP-SBJ-2
+					    [NP
+						  [N'
+						    [N ‰Â« ê·]]]
+						[NP«Ì‰
+						  [N'
+						    [N »«“Ì]]]
+					  [vP
+					    [PP«“  
+						  [NP
+						    [NP
+							  [N'
+							    [N—ÊÌ]]]
+							[NP
+							  [NP
+							    [N'
+								  [N‰ﬁÿÂ]]]
+							  [NP 
+							    [N'
+								  [NÅ‰«· Ì]]]]]]
+						[v'
+						  [PredP
+						    [PPœ—Ê‰
+							  [NP
+							    [NP
+								  [N'
+								    [Nœ—Ê«“Â]]]
+								[NP
+								  [N'
+								    [N¬»Ì ÅÊ‘«‰]]]]]
+							[Pred'
+							  [PredÃ«Ì]]]
+						  [vêÌ—œ]]]]]]]]]]]]]
+.
+
+87-
+
+[vP
+	[vP
+	  [NP-SBJ
+		  [NP
+			[NP
+			  [N'
+				[N«” ﬁ·«· ]]]
+			[CP
+			  [C'
+				[CﬂÂ ]
+				[vP
+				  [vP
+					[NP *-1]
+					[vP
+					  [AdvP
+						  [Adv'
+							  [AdvŒÊ» ]]]
+					  [v'
+						[PredP
+							 [Pred'
+								  [Pred„Ì œ«‰”  ]]]
+						[v]]]]
+				  [CP
+					[C'
+					  [C«ê— ]
+					  [vP
+						[vP
+						  [NP *-1]
+						  [vP
+							[PPœ— „ﬁ«»· 
+							  [NP
+								[N'
+								  [N‘«ê—œ«‰ ÃÊ»Ê‰›—— ]
+								  [AdjPÂ·‰œÌ ]]]]
+							[vP
+							  [AdvP
+								  [Adv'
+									  [AdvÅ” ]]]
+							  [v'
+								[PredP
+									 [Pred'
+										  [Pred»ﬂ‘œ ]]]
+								[v]]]]]
+						[CoordP
+							[CoordÊ ]
+							[vP
+							  [NP-SBJ-1*]
+							  [vP
+								[NP-OBJ-1
+									  [NP
+										[N'
+										  [N«Ã«“Â ]]]
+									  [NP
+										[NP
+										  [N'
+											[NŒÊœ‰„«ÌÌ ]]]
+										[PP»Â 
+										  [NP¬‰«‰ ]]]]
+							  [v'
+								[PredP
+									 [Pred'
+										  [NP-OBJ-1*]
+										  [PredœÂœ ]]]
+								[v]]]]]]]]]]]]
+		  [v'
+			[PredP
+			  [Peed'
+				[AdjP-PRDﬁ«œ—
+				  [PP»Â
+					[NP
+					  [N'
+						[NÃ»—«‰]]]]]
+				[Pred ‰ŒÊ«Âœ »Êœ]]]
+			[v]]]
+	  [vP
+	    [PP
+			[PP«“
+			  [NP
+				[NPÂ„«‰
+				  [N'
+					[N«» œ«]]]
+				[PP»« 
+				  [NP
+					[N'
+					  [NçÂ—Â «Ì]
+					  [AdjPÂÃÊ„Ì]]]]]]
+			[CoordP
+			  [CoordÊ]
+			  [PP
+			    [PP»«  
+				  [NP
+				    [N'
+					  [NÅ«” Â«Ì]
+					  [AdjP ò ÷—»]]]]
+				[CoordP
+				  [CoordÊ]
+				  [PP»«
+				    [NP
+					  [NP
+					    [N'
+						  [N”—⁄  »Œ‘Ìœ‰]]]
+					  [PP»Â 
+					    [NP
+						  [N'
+						    [N»«“Ì]]]]]]]]]]	  
+		[vP
+		  [AdvP
+		    [PPœ— 
+              [NP
+                [NP
+                  [N'
+                    [N„Ê«ﬁ⁄Ì ]]]
+		      [CP
+                 [C'
+                   [CﬂÂ ]
+				   [vP
+                     [NP-SBJ-1
+                       [NP
+                         [N'
+                           [N’«Õ» ]]]
+                       [NP
+                         [N'
+                           [N ÊÅ ]]]]
+					[v'
+					  [PredP
+					    [Pred'
+						  [Pred»Êœ]]]
+					  [v]]]]]]]]
+		  [v'
+		    [PredP
+			  [NP
+			    [NP
+				  [N'
+				   [NÅ«]]]
+				[PP»Â
+				  [NP
+				    [NP
+					  [N'
+					    [NÅ«Ì]]]
+					[NP
+					  [N'
+					    [NÕ—Ì›]]]]]]
+			  [Pred'
+				  [PredÅÌ‘]]]
+			[v—› ]]]]]
+°
+
+	[CoordP
+      [CoordÊ]
+	  [vP
+	    [NP-SBJ-1*]
+        [vP
+		  [PPœ—
+		    [ConjP
+			  [NPÅ«—Â «Ì
+			    [N'
+				  [N«Êﬁ« ]]]
+			  [ConjÂ„]]]
+
+
+		  [v'
+             [PredP
+                [AdjP-PRD»— — 
+                  [PP«“ 
+                    [NP
+                      [N'
+                        [NÕ—Ì› ]]]]]
+                [Pred'
+                  [Pred„Ì ‰„Êœ ]]]
+             [v]]]]]]
+.
+
+88-
+
+[vP
+	[vP
+	  [vP
+		[NP-SBJ
+			  [NP«Ì‰ 
+				[N'
+				  [N œ»Ì— «” ﬁ·«· ]]]
+			  [PP « 
+				[NP
+				  [N'
+					[NœﬁÌﬁÂ 20 ]]]]]
+		[vP
+		  [AdvP
+			  [Adv'
+				  [Adv»Â ŒÊ»Ì ]]]
+		  [v'
+			  [PredP
+				   [Pred'
+						
+						[Pred«Ã—« ]]]
+			  [v‘œ]]]]
+	  [CoordP
+		[CoordÊ]
+		[vP
+		  [vP
+			[NP-SBJ-1
+					[NPÂ— 
+					  [N'
+						[NÕ„·Â ]]]
+					[NP
+					  [NP
+						[N'
+						  [N«·« Õ«œ]]]]]               
+			[vP
+			  [PP»« 
+				[NP
+				  [NP
+					[N'
+					  [NÕ„·Â «Ì ]]]
+				  [PP«“ ”ÊÌ 
+					[NP
+					  [N'
+						[N¬»Ì ÅÊ‘«‰ ]]]]]]
+			  [PredP
+				   [Pred'
+						[PredÅ«”Œ ]]]
+			  [vœ«œÂ „Ì ‘œ]]]]
+		  [CP
+			[C'
+			  [C»Â ÿÊ—Ì ﬂÂ ]
+			  [vP
+				  [NP «” ﬁ·«·]
+				  [vP
+					[PPœ— 
+					  [NP
+						 [NP
+						   [N'
+							 [NœﬁÌﬁÂ 10 ]]]
+						 [NP
+							[NP
+							  [N'
+								[N„”«»ﬁÂ ]]]
+							[PP
+							  [PPœ— 
+								[NP
+								  [NP
+									[QPÌﬂ ]
+									  [N'
+									   [NÕ„·Â ]
+									   [AdjPœ” Â Ã„⁄Ì ]]]]
+							  [CoordP
+								[CoordÊ]
+								[PPœ—
+								  [NP
+									[N'
+									  [N‰Â«Ì ]]]
+								  [NP
+									[NP
+									  [N'
+										[N”«‰ —]]]
+									[NP
+									  [NP
+										[N'
+										  [N⁄·Ì ·ÿÌ›Ì]]]
+									  [PP«“
+										[NP
+										  [N'
+											[N—«” ]]]]]]]]]]]]]
+					[vP
+					  [NP-SBJ*]	  
+					  [v'
+						[PredP
+						  [Pred'
+							[Pred„Ì —› ]]]
+						[v]]]
+					[CP
+					  [C'
+						[C «]
+						[vP
+						  [PP»Â 
+							[NP
+							  [N'
+								[N‰ ÌÃÂ]]]]
+						  [v'
+							[PredP
+							  [Pred'
+								[Pred œ” ]]]
+							[vÌ«»œ]]]]]]]
+							   
+				 
+    [CP
+      [C'
+        [C«„« ]
+        [vP
+          [vP
+            [NP-SBJ-1
+			    [NP
+                  [N'
+                    [N«Õ„œ ›—Ì‘ ]]]
+				[NP
+				  [NP
+				    [N'
+					  [N„œ«›⁄]]]
+				  [NP
+				    [N'
+					  [N«·« Õ«œ]]]]]
+            [vP
+			  [PP»«
+			    [NP
+				  [N'
+				    [N«“ŒÊœê–‘ êÌ]]]]
+			  [v'
+                [PredP
+				  [NP
+				    [NP
+					  [N'
+					    [N„«‰⁄]]]
+                    [PP«“ 
+                     [NP
+                       [NP
+                         [N'
+                           [N“œ‰ ]]]
+                       [NP
+                         [NP
+                           [N'
+                             [N÷—»Â ]
+                             [AdjP‰Â«ÌÌ ]]]
+                         [PP Ê”ÿ 
+                           [NP
+                             [N'
+                               [N›—Â«œ „ÃÌœÌ ]]]]]]]
+                   [Pred'
+                        [Pred‘œ]]]]
+              [v ]]]]
+          [CoordP
+            [CoordÊ]
+            [vP
+                [ConjP-SBJ2
+                  [NP
+		            [N ÊÅ ]
+                    [AdjP»—ê‘ Ì ]]
+				  [ConjÂ„]]
+                [v'
+                  [PredP
+				    [PP Ê”ÿ
+					  [NP
+					    [NP
+					      [N'
+						    [N„Õ„Êœ ›ò—Ì]]]
+						[PP»Â 
+						  [NP
+						    [N'
+							  [NÃ«ÌÌ]]]]]]
+				  
+				    [Pred'
+                      [Pred—«Â ]]]
+                  [v‰»—œ]]]
+              [CoordP
+			    [CoordÊ]
+                  [vP
+                    [NP-SBJ-2*]
+                    [vP
+                      [NP-OBJ-1
+					    [NP
+						  [N'
+						    [N›÷«Ì]]]
+						[PP»«·«Ì
+                          [NP
+  						    [N'
+                             [Nœ—Ê«“Â ]]]]
+                        [POSTP —« ]]
+                      [v'
+                        [PredP
+                             [Pred'
+                                  [NP-OBJ *-1]
+                                  [Pred‘ﬂ«›  ]]]
+                        [v]]]]]]]]]]]]]]
+.
+
+89-
+
+[vP
+  [vP
+    [PP«“ 
+      [NP
+	    [NP
+          [N'
+            [NœﬁÌﬁÂ20 ]]]
+		[PPœ—
+		  [NP
+		    [N'
+			  [NÅÌ]]]
+		  [NP
+		    [NPç‰œ
+			  [N'
+			    [NÕ„·Â]
+				[AdjPŒÿ—‰«ò]]]
+			[PP Ê”ÿ
+			  [NP
+			    [N'
+				  [N«·« Õ«œ]
+				  [AdjP⁄—»” «‰]]]]]]]]
+    [vP
+      [NP-SBJ
+            [NP
+              [N'
+			    [N Ì„]]]
+			[NP
+			  [N'
+			    [N«” ﬁ·«·]]]]
+      [vP
+	     [AdvP
+              [Adv'
+                  [Adv»Â ‰«ç«— ]]]
+         [v'
+            [PredP
+                 [Pred'
+				 
+                      [Pred⁄ﬁ» ‰‘Ì‰Ì]]]
+			[vò—œ]]]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+        [vP
+          [NP-SBJ-1*]
+          [vP
+            [PP»Â 
+              [NP
+                [NP
+                  [N'
+                    [N“„Ì‰ ]]]
+                [NPŒÊœ ]]]
+            [v'
+              [PredP
+                   [Pred'
+                        [Pred—›  ]]]
+              [v]]]]
+        [CP
+          [C'
+            [CﬂÂ ]
+            [vP
+			  [vP
+				  [vP
+					[NP-SBJ
+					  [NP
+						[N'
+						  [Nœ—Œ‘‘ Â«]]]
+					  [CoordP
+						[CoordÊ]
+						[NP
+						  [NP
+							[N'
+							  [N⁄ò” «·⁄„· Â«Ì]
+							  [AdjP⁄«·Ì]]]
+						  [NP
+							[NP
+							  [N'
+								[NÂ«œÌ ÿ»«ÿ»«ÌÌ]]]
+							[PPœ—
+							  [NPç‰œ
+								[N'
+								  [N‰Ê» ]]]
+							  [PP»Â
+								[NP
+								  [N'
+									[NŒ’Ê’]]]
+								[NP
+								  [PPœ— 
+									[NP
+									  [NP
+										[N'
+										  [Nœﬁ«Ìﬁ20]]]
+									  [CoordP
+										[CoordÊ]
+										[NP
+										  [NP
+											[N'
+											  [N22]]]
+										  [PP*
+											[NP 
+											  [N'
+												[N—ÊÌ]]]
+											[NP 
+											  [NP
+												[N'
+												  [N÷—»« ]]]
+											  [NP
+												[NP
+												  [N'
+													[NÕ„“Â «œ—Ì”]]]
+												[CoordP
+												  [CoordÊ]
+												  [NP
+													[N'
+													  [N Õ”‰ «·ÌÊ„Ì]]]]]]]]]]]]]]]]]]
+					[v'
+					  [PredP
+						[Pred'
+						  [Pred„«‰⁄]
+						  [PP«“
+							[NP  
+							  [NP
+								[N'
+								  [N”ﬁÊÿ]]]
+							  [NP 
+								[NP
+								  [N'
+									[Nœ—Ê«“Â]]]
+								[NP
+								  [N'
+									[N«” ﬁ·«·]]]]]]
+					  [v‘œ]]]]]]]]]] 
+				[CP
+                  [C'
+                    [C«„« ]
+                    [vP
+					  [vP
+					    [AdvP”—«‰Ã«„]
+                        [vP
+						  [NP 
+						    [N'
+							  [N—Ê»— Ê œÊ‰«œÊ‰Ì]]]
+                          [vP
+						    [PPœ—
+							  [NP
+							    [NP
+							      [N' 
+								    [NœﬁÌﬁÂ 27]]]
+								[PP*
+								  [NP
+								    [NP
+									  [N'
+									    [N—ÊÌ]]]
+									[NP 
+									  [NP
+									    [N'
+										  [NÅ«”]]]
+									  [NP
+									    [NP 
+										  [N'
+										    [N„Õ„œ ‰Ê—]]]
+										[PP»«
+										  [NP
+										    [NP 
+											  [N'
+											    [N‰›Ê–]]]
+											[PP«“
+											  [NP
+											    [NP
+												  [N' 
+												    [Nﬁ·»]]]
+												[NP
+												  [NP
+												    [N'
+													  [Nœ›«⁄]]]
+												  [NP
+												    [N'
+													  [N«” ﬁ·«·]]]]]]]]]]]]]]
+							[vP
+							  [NP-OBJ-1
+							    [N'
+								  [NŒÊœ]]
+								[POSTP—«]]
+							  [v'
+							    [PredP
+								  [PP»«
+								    [NP
+									  [N'
+									    [Nÿ»«ÿ»«ÌÌ]]]]
+								  [Pred'
+								    [AdjP ò »Â  ò]
+									[Pred”«Œ ]]]
+									
+									
+					  [CoordP
+					    [CoordÊ]
+						[vP
+						   [CP
+						     [C'
+							   [Cœ— Õ«·Ì òÂ]
+							   [vP
+							     [NP-SBJ
+								   [N'
+								     [Nÿ»«ÿ»«ÌÌ]]]
+								 [vP
+								   [NP-OBJ-1
+								     [NP
+									   [N'
+									     [N ÊÅ]]]
+									 [NP
+									   [N'
+									     [N«Ê]]]
+									 [POSTP—«]]
+								   [vP
+								     [PP
+									   [PP»«
+									     [NP 
+										   [N'
+										     [NŒ—ÊÃ]]]
+										 [PP«“
+										   [NP
+										     [N'
+											   [Nœ—Ê«“Â]]]]]
+									   [CoordP
+									     [CoordÊ]
+										 [PP»«
+										   [NP
+										     [N'
+											   [N„‘ ]]]]]]
+							     
+								     [v'
+									   [PredP
+									     [Pred'
+										   [Predœ›⁄]]]
+									   [vò—œ]]]]]
+						   [vP
+						     [vP
+						       [NP-SBJ
+							     [NP
+							       [N'
+								     [N ⁄«œ·]]]
+							     [NP
+							       [N'
+								     [NœÊ‰«œÊ‰Ì]]]]
+									 
+							   [v'
+								 [PredP
+								   [Pred'
+								     [Pred»Â Â„]]]
+								 [vŒÊ—œ]]]]]]
+								 
+							 [CoordP
+							   [CoordÊ]
+							   [vP
+							     [vP
+								 
+								 
+								 
+								 [CoordP
+								   [CoordÊ]
+								   [vP
+								     [vP
+										 [NP-SBJ
+										   [N'
+											 [Nœ«Ê—]]]
+										 [vP
+										   [NP-OBJ
+											 [NP
+											   [N'
+												 [N‰ﬁÿÂ]]]
+											 [NP
+											   [N'
+												 [NÅ‰«· Ì]]]
+											 [POSTP—«]]
+										   [v'
+											 [PredP
+											   [Pred'
+												 [NP-OBJ*]
+												 [Pred‰‘«‰]]]
+											 [vœ«œ]]]]
+									 [CoordP
+									   [CoordÊ]
+									   [vP
+									     [vP
+											 [PP œ—
+											   [NP
+												 [N'
+												   [N‰ ÌÃÂ]]]]
+											 [vP
+											   [NP-SBJ
+											     [N'
+												   [NÕ„“Â «œ—Ì” ›·« Â]]]
+												   
+											   [vP
+											     [NP-OBJ
+												   [N'
+												     [N ÊÅ]]
+												   [POSTP—«]]
+												 [v'
+												   [PredP
+												     [PP*
+													   [NP
+													     [NP
+														   [N'
+														     [NŒ·«›]]]
+														 [NP
+														   [NP
+														     [N'
+															   [NÃÂ ]]]
+														   [NP
+														     [NP
+															   [N'
+															     [NÕ—ò ]]]
+															 [NP
+															   [NP
+															     [N'
+															       [Nÿ»«ÿ»«ÌÌ]]]
+															   [PPœ—Ê‰
+															     [NP
+																   [NP
+																     [N'
+																	   [Nœ—Ê«“Â]]]
+																   [NP
+																     [N'
+																	   [N«” ﬁ·«·]]]]]]]]]]
+													 [Pred'
+													   [PredÃ«Ì]]]
+												   [vœ«œ]]]]]
+										 [CP
+										   [C'
+										     [C «]
+											 [vP
+											   [NP-SBJ
+											     [N'
+												   [N‰Ì„Â]
+												   [AdjP«Ê·]]]
+											   [vP
+											     [PP»«
+												   [NP
+												     [NPÂ„Ì‰
+													   [N'
+													     [N‰ ÌÃÂ]]]
+													 [PP»Â
+													   [NP
+													     [NP
+														   [N'
+														     [N”Êœ]]]
+														 [NP
+														   [NP
+														     [N'
+															   [N Ì„]]]
+														   [NP
+														     [N'
+															   [N«·« Õ«œ]]]]]]]]
+												 [v'
+												   [PredP
+												     [Pred'
+													   [PredÅ«Ì«‰]]]
+												   [vÌ«»œ]]]]]]]]]]]]]]]]]]]]]]]]]
+
+.
+
+90-
+
+[vP
+  [vP
+    [NP-SBJ
+          [N'
+            [N«” ﬁ·«· ]]]
+	[vP
+	  [NP-OBJ-1
+	    [N'
+		  [N‰Ì„Â]
+		  [AdjPœÊ„]]
+		[POSTP—«]]
+	  [vP
+	    [PP»Â
+		  [NP
+		    [NP
+			  [N'
+			    [Nﬁ’œ]]]
+			[NP
+			  [NP
+			    [N'
+				  [NÃ»—«‰]]]
+			  [NP
+			    [N'
+				  [Nê·]
+				  [AdjPŒÊ—œÂ]]]]]]
+		[v'
+		  [PredP
+		    [PP»Â
+			  [NP
+			    [N'
+				  [N„Ìœ«‰]]]]
+		    [Pred'
+			  [NP-OBJ-1*]
+			  [Pred¬„œ]]]
+		 [v]]]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+        [vP
+          [NP-SBJ-1*]
+          [vP
+		    [PP»Â
+			  [NP
+			    [NP
+			      [N'
+				    [N„—« »]
+					[AdjP»Â —]]]
+				[PP«“
+				  [NP
+				    [N'
+					  [N‰Ì„Â]
+					  [AdjP‰Œ” ]]]]]]
+            [v'
+              [PredP
+                   [Pred'
+                        [PredŸ«Â—]]]
+              [v‘œ]]]]
+        [CoordP
+          [CoordÊ]
+          [vP
+              [vP
+                [NP-SBJ-1*]
+                [vP
+					[PPœ— 
+                          [NP
+                            [NP»Ì‘ — 
+                              [N'
+                                [N“„«‰ ]]]
+                            [NP
+                              [NP
+                                [N'
+                                  [N»«“Ì ]]]
+                              [PP»— 
+                                [NP
+                                  [NP
+                                    [N'
+                                      [N ÊÅ ]]]
+                                  [CoordP
+                                        [CoordÊ ]
+                                        [NP
+                                          [N'
+                                            [N„Ìœ«‰ ]]]]]]]]]
+                        [v'
+                          [PredP
+                               [Pred'
+                                    [Pred ”·ÿ]]]
+                          [vœ«‘ ]]]]
+					
+              [CoordP
+                [CoordÊ]
+				[vP
+				  [vP
+				    [CP-ADV«ê—
+                      [NP-SBJ-2 ò„Ì
+					    [N'
+						  [N»Œ ]]]
+                   
+                      [v' 
+						[PredP
+						  [Pred'
+						    [NP-PRD
+							  [NP
+							    [N'
+								  [NÌ«—]]]
+							  [NP«Ì‰
+							    [N'
+								  [N Ì„]]]]
+							[Pred»Êœ]]]
+						  [v»Êœ]]]]
+						  
+					[vP
+						[AdvP
+						  [Adv'
+							[AdvÕœ«ﬁ· ]]]
+						[v'
+							[PredP
+							  [Pred'
+								[Pred„Ì  Ê«‰”  ]]]]]
+							[CP
+							  [C'
+								[C* ]
+								[vP
+									[NP *-1]
+									[vP
+									  [PP»« 
+										[NP
+										  [N'
+											[N‰ ÌÃÂ ]
+											[AdjP„”«ÊÌ ]]]]
+									  [vP
+										[NP-OBJ-1
+										  [N'
+										    [N„Ìœ«‰]]
+										  [POSTP—«]]
+										[v'
+										  [PredP
+											   [Pred'
+													[Pred —ò ]]]
+										  [vò‰œ]]]]]]]]
+				  [CoordP
+					[CoordÊ]		
+					[vP
+					  [vP
+						  [NP-SBJ
+							[NP
+							  [N'
+								[NÕ„·« ]]]
+							[NP
+							  [N'
+								[N«” ﬁ·«·]]]]
+						  [vP
+							  [AdvP
+								  [Adv'
+									  [Adv»Â ÊÌéÂ ]]]
+							  [v'
+								[PredP
+									 [PP»« 
+									   [NP
+										 [NP
+										   [NP
+											 [N'
+											   [NÃ÷Ê— ]]]
+										   [NP
+											 [NP
+											   [N'
+												[N⁄·Ì—÷« «ò»—ÅÊ—]]]
+											 [CP
+											   [C'
+												[CﬂÂ ]
+												[vP
+												   [NP *-1]
+												   [vP
+													 [PPœ— 
+													   [NP
+														 [NP
+														   [N'
+															 [NœﬁÌﬁÂ 38 ]]]
+														 [NP
+														   [NP
+															 [N'
+															   [N»«“Ì ]]]
+														   [PP»Â Ã«Ì 
+															 [NP
+															   [NP
+																 [N'
+																   [N⁄·Ì ·ÿÌ›Ì ]]]
+															   [PP»Â 
+																 [NP
+																   [N'
+																	 [N„Ìœ«‰ ]]]]]]]]]]]]]]
+													 [v'
+													   [PredP
+															[Pred'
+																 [Pred¬„œÂ »Êœ ]]]
+													   [v]]]]]]]]]
+									 [Pred'
+										  [Pred]]]
+					  [vP
+					    [vP
+							[NP-SBJ
+								  [N'
+									[NÕ„·«  «” ﬁ·«· ]]]
+							[vP
+							  [NP-OBJ
+									[N'
+									  [N‰Ÿ„ ]
+									  [AdjP»Â —Ì 
+										  [NP
+											[PP»Â 
+											  [NPŒÊœ ]]
+											[NPŒÊœ ]]]]]
+							  [v'
+								[PredP
+									 [Pred'
+										  [NP *-1]
+										  [Predê—› Â »Êœ ]]]]]]
+						[CoordP
+						  [CoordÊ]
+						  [vP
+						    [vP
+						      [NP-SBJ-1«Ì‰ 
+								[N'
+									[N»«“Ìﬂ‰ ]]]
+							  [vP
+							    [NP-OBJ-1
+								  [NP
+								    [N'
+								      [N„Êﬁ⁄Ì Â«Ì]
+									  [AdjP„‰«”»Ì]]]
+								  [PP»« 
+									 [NP
+									   [NP
+									     [N'
+									       [NÅ«”Â«Ì ]]]
+									   [NP
+										 [NPŒÊœ 
+										   [N'
+										     [N„Êﬁ⁄Ì Â«Ì ]
+										     [AdjP„‰«”»Ì ]]]
+										 [PP»—«Ì 
+										   [NP
+										     [NP
+										       [N'
+											     [N„Â«Ã„«‰ ]]]
+											 [NP
+											   [N'
+												 [N Ì„‘ ]]]]]]]]]
+									 [Pred'
+									    [NP-OBJ-1*]
+										[Pred œ«—ò ]]]
+								[vœÌœ]]
+							[CP
+							  [C'
+								[CﬂÂ ]
+								[vP
+								  [NP-SBJ *-1]
+								  [v'
+								    [PredP
+										[NP
+										  [NPÂ— 
+											[N'
+											  [N»«— ]]]
+										  [PP»« 
+											[NP
+											  [NP
+												[N'
+												  [N»Ì œﬁ Ì ]]]
+										    [CoordP
+									   		  [CoordÊ ]
+											  [NP
+											    [N'
+												  [N‘ «»“œêÌ «” ﬁ·«·ÌÂ« ]]]
+											  [CoordP
+												[CoordÊ ]
+												  [NP
+												    [NP
+													  [N'
+													   [N¬›”«ÌœêÌ—Ì ]]]
+													[CoordP
+													  [CoordÊ]
+													  [NP
+													    [NP
+														  [N'
+														    [N«“ ŒÊœê–‘ êÌ]]]
+														[NP
+														  [NP
+														    [N'
+															  [N„œ«›⁄«‰]]]
+														  [NP
+														    [N'
+															  [N«·« Õ«œ]]]]]]]]]]]]
+										  [Pred'
+										    [Adj-PRD»Ì À„—]
+											[Pred„«‰œ]]]
+									[v]]]]]]]]]]]]]]]		
+.
+
+91-
+	
+[vP	
+	[vP
+	  [vP
+		[PPœ— 
+		  [NP
+			[N'
+			  [Nœﬁ«Ìﬁ67Ê83 ]]]]
+		[vP
+		  [NP-SBJ
+				[NP
+				  [N'
+					[N Ì„ «·« Õ«œ ]]]]
+		  [v'
+			[PredP
+				 [Pred'
+					  [Adj-PRD»Â ÿÊ— ÃœÌ Œÿ—¬›—Ì‰]
+					  [Pred‘œ ]]]]]]
+	  [CP
+		[C'
+		  [CﬂÂ ]
+		  [vP
+			[vP
+			  [NP-SBJ
+				[NP”Ìœ
+				  [N'
+					[NÂ«œÌ ÿ»«ÿ»«ÌÌ]]]
+				[CoordP
+				  [CoordÊ]
+				  [NP
+					[N'
+					  [N„Õ„œ ‰Ê«“Ì]]]]]
+			  [vP
+				[NP-OBJ
+				  [NP
+					[N'
+					  [Nœ—Ê«“Â]]]
+				  [NP
+					[N'
+					  [N«” ﬁ·«·]]]
+				  [POSTP—«]]
+				[vP
+				  [PPœ— 
+					[NP
+					  [N'
+						[N‰Ê»  ]
+						[Adj«Ê·]]]]
+				  [v'  
+					[PredP
+					  [Pred'
+						[NP-OBJ *-1]
+						[Pred‰Ã«  ]]]
+					  [vœ«œ‰œ]]]]]]
+    [CoordP
+	  [CoordÊ]
+	  [vP
+        [vP
+           [PPœ— 
+             [NP
+               [N'
+                  [N‰Ê»  ]
+				  [AdjœÊ„]]]
+           [vP
+              [NP-SBJ-1
+                 [NP
+				   [NP
+				     [N'
+					   [N÷—»Â]]]
+				   [NP
+                     [N'
+                       [N—Ê»— Ê œÊ‰«œÊ‰Ì ]]]]
+                 [CP
+                   [C'
+                     [CﬂÂ ]
+					 [vP
+                        [NP-SBJ-1
+                           [QP«“ Ìﬂ ]
+                             [N'
+                               [NÕ—ﬂ  ]
+                               [AdjP«Ì” ê«ÂÌ ]]]
+                        [v'
+                          [PredP
+                             [Pred'
+                               [Pred“œÂ ‘œ ]]]
+                          [v]]]]]]
+                  [v'
+                    [PredP
+					  [PP»Â
+					    [NP
+						  [NP
+						    [N'
+							  [NÅ«ÌÂ]]]
+						  [NP
+						    [NP
+							  [N'
+							    [NœÌ—ò]
+								[Adj⁄„ÊœÌ]]]
+							[NP
+							  [NP
+							    [N'
+								  [Nœ—Ê«“Â]]]
+							  [NP
+							    [N'
+								  [N«” ﬁ·«·]]]]]]]
+
+					  [Pred'
+                         [Pred«’«» ]]]
+                    [vﬂ—œ ]]]]]]]]]]]
+.
+
+92-
+
+[vP
+  [vP
+    [AdvP
+        [Adv'
+            [Adv«ﬂ‰Ê‰ ]]]
+    [vP
+      [NP-SBJ
+            [N'
+              [N«” ﬁ·«· ]]]
+      [v'
+	    [PredP
+            [PP»Â 
+              [NP
+                [NP
+                  [NP
+                    [N'
+                      [N»«“Ì ]]]
+                  [NP
+				    [NP
+                      [N'
+                       [N»—ê‘  ]]]]
+                   [CoordP
+                        [CoordÊ ]
+                        [NP
+                          [NP
+                            [N'
+                              [NÕ„«Ì  ]
+                              [AdjP»Ìœ—Ì€ ]]]
+                          [NP
+                            [NP
+                              [N'
+                                [N „«‘«ê—«‰ ]]]
+                            [NP
+                              [NP
+                                [N'
+                                  [Nﬂ‘Ê—„«‰ ]]]
+                              [PPœ— 
+                                [NP
+								  [NP
+								    [N'
+									  [NÊ—“‘ê«Â]]]
+								  [NP
+								    [NP
+									  [N'
+									    [N¬“«œÌ]]]
+									[NP
+                                      [N'
+                                         [N Â—«‰ ]]]]]]]]]]]]]
+               [Pred'
+			     [Predç‘„]]
+                    [Predœ«—œ ]]
+		
+		[vœ«—œ]]]]
+		
+  [CP
+    [C'
+      [C « ]
+      [vP
+        [NP *-1]
+        [vP
+          [PP»« 
+            [NP
+              [NP
+                [N'
+                  [NÅÌ—Ê“Ì ]]]
+              [PP»— 
+                [NP«Ì‰ 
+                  [N'
+                    [NÕ—Ì› ]]]]]]
+          [v'
+            [PredP
+                 [PP»Â 
+                   [NP
+				     [NP
+                       [N'
+                         [NœÌœ«—]]]
+					  [NP
+					    [N'
+						  [N«·“Ê—«]
+						  [Adj⁄—«ﬁ]]]]]
+                 [Pred'
+                      [Pred»—Êœ ]]]
+            [v]]]]]]]
+.
+
+93-
+
+[vP
+  [vP
+    [NP-SBJ
+          [NP
+            [N'
+              [NœÌœ«— ]]]
+          [NP
+            [NP
+              [N'
+                [N»—ê‘  ]]]
+            [NP
+              [QPœÊ ]«Ì‰ 
+              [N'
+                [N Ì„ ]]]]]
+    [vP
+      [AdvP
+	    [NP 
+		  [NP
+            [N'
+              [N—Ê“ Ã„⁄Â ]]] 
+          [NP
+		    [NP
+              [QP12 ]
+              [N'
+               [N¬–— ]
+			[NP
+			  [N'
+			    [N„«Â]]]]]]]]
+        [vP
+            [PPœ— 
+                [NP
+				   [NP
+				      [N'
+					    [NÊ—“‘ê«Â]]]
+				   [NP
+				     [NP
+					  [N'
+						[N¬“«œÌ]]]
+					 [NP
+                       [N'
+                         [N Â—«‰ ]]]]]]
+            [v'
+              [PredP
+                 [Pred'
+                      [Pred»—ê“«— ]]]
+			  [v„Ì ‘Êœ]]]]]
+  [CoordP
+    [CoordÊ
+    [vP
+       [NP-SBJ-1
+           [NP
+              [N'
+                [N»—‰œÂ ]]]
+           [NP
+		     [NP
+               [N'
+                 [N„Ã„Ê⁄ ]]]
+			 [NP
+			   [NPœÊ
+			     [N'
+			       [NœÌœ«—]
+				   [Adj—›   Ê »—ê‘ ]]]
+			   [NP«Ì‰
+			     [N'
+				   [N„—Õ·Â]]]]]]
+          [v'
+            [PredP
+			  [PP»Â
+			    [NP
+				  [N'
+				    [N„—Õ·Â]
+					[Adj”Ê„]]]]
+                 
+                 [Pred'
+                      [Pred’⁄Êœ ]]]
+            [vŒÊ«Âœ ò—œ]]]]]]
+.
+
+94-
+
+[FRAG
+    [NP
+        [NP
+          [N'
+            [N‰ «ÌÃ ]]]
+        [NP
+          [NP
+            [N'
+              [NÅÌﬂ«—Â«Ì ]]]
+          [NP
+            [NP
+              [N'
+                [N‘ÿ—‰Ã ]]]
+            [NP
+              [NP
+                [N'
+                  [N€—» ¬”Ì« ]]]
+              [PPœ— 
+                [NP
+                  [N'
+                    [N Â—«‰ ]]]]]]]]]
+[vP
+    [NP-SBJ-1
+        [NP
+           [N'
+              [NœÊ— ]
+              [AdjPÅ«Ì«‰Ì ]]]
+        [NP
+            [NP
+              [N'
+                [N„”«»ﬁ«  ]]]
+            [NP
+              [NP
+                [N'
+                  [N‘ÿ—‰Ã ]]]
+              [NP
+                [NP
+                  [N'
+                    [NﬁÂ—„«‰Ì ]]]
+                [NP
+                  [NP
+                    [N'
+                      [N„‰ÿﬁÂ ]]]
+                  [NP
+                    [N'
+                      [N€—» ¬”Ì« ]]]]]]]]
+    [vP
+      [AdvP
+          [Adv'
+              [AdvœÌ—Ê“ ]]]
+      [vP
+        [PPœ— 
+          [NP
+            [NP
+              [N'
+                [N„Õ· ]]]
+            [NP
+              [NP
+                [N'
+                  [N›œ—«”ÌÊ‰ ]]]
+              [NP
+                [N'
+                  [N‘ÿ—‰Ã «Ì—«‰ ]]]]]]
+        [v'
+          [PredP
+               [Pred'
+                    [Pred«‰Ã«„ ]]]
+		  [v‘œ]]]]]
+.
+
+95-
+
+[vP
+  [PPœ—
+    [NP
+	  [NP
+	    [N'
+		  [N—ﬁ«» Â«Ì]]]
+	  [NP
+	    [N'
+		  [NœÌ—Ê“]]]]]
+  [vP
+    [NP-SBJ
+       [NP
+		 [N'
+		   [N«” «œ]]]
+	   [NP
+	     [NP
+           [N'
+             [N›ÌœÂ]
+			 [Adj·»‰«‰Ì]]]
+	     [NP
+	       [N'
+		     [N›«œÌ ⁄Ìœ]]]]]
+    [vP
+	  [PP„ﬁ«»· 
+        [NP
+		  [NP
+            [N'
+              [N«” «œ ]
+              [AdjP»Ì‰ «·„··Ì ]]]
+		  [NP
+		    [NP
+		      [N'
+			    [N«„Ì— »«ﬁ—Ì]]]
+			[PP«“
+			  [NP
+			    [N'
+				  [N«Ì—«‰]]]]]]]
+
+        [v'
+          [PredP
+		    [PP»Â 
+                [NP
+                  [N'
+                    [N ”«ÊÌ ]]]]
+            [Pred'
+              [Pred—”Ìœ ]]]
+		  [v]]]]]
+.
+
+96-
+
+[vP
+  [NP-SBJ
+    [NP
+        [N'
+          [N«” «œ ]
+          [AdjP»“—ê ﬁÿ—Ì ]]]
+	[NP
+	  [N'
+	    [N«·„÷ÌÕﬂÌ]]]]
+  [vP
+	  [PP»—«»— 
+		[NP
+		  [NP
+			[N'
+			  [N«” «œ ]]]
+		  [NP
+			[NP
+			  [N'
+				[N›ÌœÂ]]]
+			[NP
+			  [NP
+			    [N'
+				  [N«Õ”«‰ ﬁ«∆„ „ﬁ«„Ì]]]
+			  [PP«“ 
+			    [NP
+				  [NP
+				    [N'
+					  [N«Ì—«‰ ]]]
+                  [PP»Â 
+                    [NP
+                      [N'
+                        [N»— —Ì ]]]]]]]]]]
+    [v'
+	  [PredP
+        [Pred'
+          [Predœ”  ]]]
+	  [vÌ«› ]]]]
+.
+
+97-
+
+[vP
+	[vP
+	  [vP
+		[NP-SBJ
+		  [NP
+			  [N'
+				[N«„Ì— „·«ÕÌ ]]]
+		  [NP
+				  [N'
+					[N«” «œ ]]]
+				[NP
+				  [NP
+					[N'
+					  [N›œ—«”ÌÊ‰ ]
+					  [AdjP»Ì‰ «·„··Ì ]]]
+				  [NP
+					[NP
+					  [N'
+						[N‘ÿ—‰Ã ]]]]]]
+		[vP	
+			[PP»— 
+			  [NP
+				[NP
+				  [N'
+					[NÌÊ‰” ’›ÌÂ ]]]
+				[PP«“ 
+				  [NP
+					[N'
+					  [N”Ê—ÌÂ ]]]]]]
+		  [v'
+			[PredP
+				[Pred'
+				 	[Pred€·»Â ]]]
+			[vò—œ]]]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+        [NP-SBJ-1
+                [NP
+                  [N'
+                    [NÅÌò«—]]]
+				[NP
+				  [NP
+				    [N'
+					  [N«·”⁄Ìœ]]]
+                  [PP«“ 
+                    [NP
+                      [NP
+                        [N'
+                          [Nﬁÿ— ]]]
+                    [CoordP
+                          [CoordÊ ]
+                          [NP
+                            [NP
+                              [N'
+                                [N‰Ã«— «Õ„œ ]]]
+                            [PP«“ 
+                              [NP
+                                [NP
+                                  [N'
+                                    [N·»‰«‰ ]]]]]]]]]]]
+        [v'
+          [PredP
+		     [PP»Â 
+			   [NP
+			     [N'
+				   [N ”«ÊÌ]]]]
+             [Pred'
+                 [Pred«‰Ã«„Ìœ ]]]
+          [v]]]]]
+.
+
+98-
+
+[vP
+  [vP
+    [PPœ— 
+      [NP
+        [NP
+          [N'
+            [Nﬁ”„  ]]]
+        [NP
+          [NP
+            [N'
+              [N»«‰Ê«‰ ]]]]]]
+    [vP
+	  [NP-SBJ 
+            [NP
+              [N'
+                [N‘Ì—Ì‰ ‰Ê«»Ì ]]]
+            [PP„ﬁ«»· 
+              [NP
+                [NP
+                  [N'
+                    [NÕ—Ì›Ì ]]]
+                [PP«“ 
+                  [NP
+                    [NP
+                      [N'
+                        [N⁄—«ﬁ ]]]
+                    [PP»Â 
+                      [NP
+                        [NP
+                          [N'
+                            [N‰«„ ]]]
+						[NP
+						  [N'
+						    [N«·—Ê›Ì]]]]]]]]]]
+	  [v'
+		  [PredP
+			[PP»Â
+			  [NP
+				[N'
+				  [N ”«ÊÌ]]]]
+			[Pred'
+			  [Pred—”Ìœ ]]]
+		  [v]]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+        [NP-SBJ-1
+                [NP
+                  [N'
+                    [N‘«Ì” Â ﬁ«œ—Ì ÅÊ— ]]]]
+           
+        [v'
+          [PredP
+		     [PP»— 
+                [NP
+                  [N'
+                    [N‘«œÌ Å—Ìœ— ]]]]
+             [Pred'
+                [Pred€·»Â]]]
+          [vﬂ—œ ]]]]]
+.
+
+99-
+
+[FRAG
+  [NP
+        [NP
+          [N'
+            [N‰ «ÌÃ ]]]
+        [NP
+          [NP
+            [N'
+              [N—ﬁ«» Â«Ì ]]]
+          [NP
+            [NP
+              [N'
+                [N›Ê »«· ]]]
+            [NP
+              [NP
+                [N'
+                  [NÃ«„ ]]]
+              [NP
+                [NP
+                  [N'
+                    [N« Õ«œÌÂ ]]]
+                [NP
+                  [N'
+                    [N»«‘ê«ÂÂ«Ì ]
+					[Adj«—ÊÅ«]]]]]]]]]
+[vP
+    [NP-SBJ
+          [NP
+            [N'
+              [NœÌœ«—Â«Ì ]]]
+          [NP
+            [NP
+              [N'
+                [N»—ê‘  ]]]
+            [PP«“ 
+              [NP
+                [NP
+                  [N'
+                    [N„—Õ·Â ]]]
+                [NP
+                  [NP
+                    [N'
+                      [N—ﬁ«» Â«Ì ]]]
+                  [NP
+                    [NP
+                      [N'
+                        [N›Ê »«· ]]]
+                    [NP
+                      [NP
+                        [N'
+                          [NÃ«„ ]]]
+                      [NP
+                        [NP
+                          [N'
+                            [N« Õ«œÌÂ ]]]
+                        [NP
+						  [NP
+                            [N'
+                              [N»«‘ê«ÂÂ«Ì ]
+							  [Adj«—ÊÅ«]]]
+						  [NP
+						    [N'
+							  [NÌÊ›«]]]]]]]]]]]]
+    [vP
+        [PP»« 
+          [NP
+		    [NP
+              [N'
+                [N»—ê“«—Ì ]]]
+			[NP
+			  [NP 
+			    [QPÌ«“œÂ]
+				[N'
+				  [NœÌœ«—]]]
+			  [PPœ—
+			    [NP
+				  [N'
+				    [N‘Â—Â«Ì]
+					[Adj„Œ ·›]]]
+				[NP«Ì‰
+				  [N'
+				    [Nﬁ«—Â]]]]]]]
+        [v'
+          [PredP
+               [Pred'
+                    [Pred«œ«„Â ]]]
+		  [vÌ«› ]]]]
+.
+
+100-
+
+[vP
+  [NP-SBJ
+        [NP
+          [NP
+            [N'
+              [NœÌœ«— ]]]
+          [NP
+		    [NP
+              [N'
+                [N Ì„ Â«Ì]]]]
+			[NP
+			  [NP
+			    [N'
+				  [N«”Å« «—ò]
+				  [Adj„”òÊ —Ê”ÌÂ]]]
+			  [CoordP
+			    [CoordÊ]
+				[NP
+				  [N'
+				    [N·Ìœ“ÌÊ‰«Ì œ]
+					[Adj«‰ê·Ì”]]]]]]]
+  [vP
+    [PP»Â œ·Ì· 
+       [NP
+         [NP
+           [N'
+             [N‘œ  ]]]
+       [NP
+	     [NP
+           [N'
+             [N”—„« ]]]
+		 [CoordP
+		   [CoordÊ
+		   [NP
+		     [NP
+			   [N'
+			     [N‰«„”«⁄œ »Êœ‰]]]
+			 [NP
+			   [NP
+			     [N'
+			       [N“„Ì‰]]]
+			   [PPœ—
+			     [NP
+				   [N'
+				     [N„”òÊ]]]]]]]]]]]
+    [v'
+	  [PredP
+		[PP»Â 
+          [NP
+            [NP
+              [N'
+                [N—Ê“ ]]]
+            [NP
+			  [NP
+			    [QPÌ«“œÂ„]
+                [N'
+                  [N¬–— ]]]
+			  [NP
+			    [N'
+				  [N„«Â]]]]]]
+        [Pred'
+          [AdjP-PRD„ÊﬂÊ· ]
+          [Pred‘œ ]]]
+	  [v]]]]
+.
+
+101-
+
+[vP
+    [PPœ— 
+      [NP
+        [N'
+          [NœÌœ«—Â«Ì ]
+          [AdjP«‰Ã«„ ‘œÂ ]]]]
+    [vP
+      [NP-SBJ
+        [N'
+          [N‰ «ÌÃ ]
+          [AdjP“Ì— ]]]
+      [v'
+	    [PredP
+		  [PP»Â
+		    [NP
+			  [N'
+			    [Nœ” ]]]]
+		  [Pred'
+		    [Pred¬„œ]]]
+		[v]]]]
+.
+[vP
+   [NP-SBJ
+     [NP
+	   [N'
+	     [N‰«„]]]
+	 [NP
+	   [N'
+	     [N Ì„ Â«Ì]
+		 [Adj„Ì“»«‰]]]]
+   [vP
+     [AdvP‰Œ” ]
+	 [v'
+	   [PredP
+	     [Pred'
+		   [Pred¬„œÂ «” ]]]
+	   [v]]]]
+:
+[FRAG
+	[NP
+	  [NP
+        [N'
+          [N”· «ÊÌêÊ ]
+		  [Adj«”Å«‰Ì«]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N7]]]
+		[NP
+		  [NP
+		    [N'
+			  [N»‰›Ìò«]
+			  [AdjÅ— €«·]]]
+		  [NP
+		    [N'
+			  [N’›—]]]]]]]
+		  
+[FRAG
+	[NP
+	  [NP
+        [N'
+          [NœÌÅÊ— ÌÊ ·«ò—Ê‰«]
+		  [Adj«”Å«‰Ì«]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N4]]]
+		[NP
+		  [NP
+		    [N'
+			  [NÅ«‰« Ì‰«ÌòÊÊ”]
+			  [AdjÌÊ‰«‰]]]
+		  [NP
+		    [N'
+			  [N2]]]]]]]
+			  
+
+[FRAG
+	[NP
+	  [NP
+        [N'
+          [NœÌÅÊ— ÌÊ ·«ò—Ê‰«]
+		  [Adj«”Å«‰Ì«]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N4]]]
+		[NP
+		  [NP
+		    [N'
+			  [NÅ«‰« Ì‰«ÌòÊÊ”]
+			  [AdjÌÊ‰«‰]]]
+		  [NP
+		    [N'
+			  [N2]]]]]]]
+
+[FRAG
+	[NP
+	  [NP
+        [N'
+          [N«·„ÅÌ«òÊ” ]
+		  [AdjÌÊ‰«‰]]]
+	  [NP
+	    [NP
+		  [N'
+		    [NÌò]]]
+		[NP
+		  [NP
+		    [N'
+			  [NÌÊÊ‰ Ê” «Ì «· —œ«„]
+			  [AdjÂ·‰œ]]]
+		  [NP
+		    [NP
+		      [N'
+			    [N’›—]]]
+			[NP
+			  [NP
+			    [N'
+			      [N—∆«· „«ÌÊ—ﬂ«Ì]
+				  [Adj«”Å«‰Ì«]]]
+			  [NP
+			    [N'
+				  [NÌò]]]]]]]]]
+				  
+[FRAG
+	[NP
+	  [NP
+        [N'
+          [Nê·«”òÊ —‰Ã—“ ]
+		  [Adj«”ò« ·‰œ]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N2]]]
+		[NP
+		  [NP
+		    [N'
+			  [N»—Ê”Ì« œÊ— „Ê‰œ]
+			  [Adj¬·„«‰]]]
+		  [NP
+		    [N'
+			  [N’›—]]]]]]]
+
+[FRAG
+	[NP
+	  [NP
+        [N'
+          [N¬—”‰«·]
+		  [Adj«‰ê·Ì”]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N3]]]
+		[NP
+		  [NP
+		    [N'
+			  [N‰«‰  ]
+			  [Adj›—«‰”Â]]]
+		  [NP
+		    [N'
+			  [N’›—]]]]]]]
+
+[FRAG
+	[NP
+	  [NP
+        [N'
+          [NÅ«—„«Ì ]
+		  [Adj«Ì «·Ì«]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N2]]]
+		[NP
+		  [NP
+		    [N'
+			  [N«‘ Ê—„ ê—« “ ]
+			  [Adj« —Ì‘]]]
+		  [NP
+		    [N'
+			  [NÌò]]]]]]]
+
+[FRAG
+	[NP
+	  [NP
+        [N'
+          [N«”·«ÊÌ« Å—«ê]
+		  [Adj«”·Ê«òÌ]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N4]]]
+		[NP
+		  [NP
+		    [N'
+			  [N«” Ê« »Œ«—” ]
+			  [Adj—„«‰Ì]]]
+		  [NP
+		    [N'
+			  [NÌò]]]]]]]
+
+[FRAG
+	[NP
+	  [NP
+        [N'
+          [N·ÌÊ‰]
+		  [Adj›—«‰”Â]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N3]]]
+		[NP
+		  [NP
+		    [N'
+			  [NÊ—œ—»—„‰]
+			  [Adj¬·„«‰]]]
+		  [NP
+		    [N'
+			  [N’›—]]]]]]] 
+[FRAG
+	[NP
+	  [NP
+        [N'
+          [N·«‰” ]
+		  [Adj›—«‰”Â]]]
+	  [NP
+	    [NP
+		  [N'
+		    [NÌò]]]
+		[NP
+		  [NP
+		    [N'
+			  [Nò«Ì“—”·« —‰]
+			  [Adj¬·„«‰]]]
+		  [NP
+		    [N'
+			  [N2]]]]]]]
+		  
+.
+
+102-
+
+[vP
+  [NP-SBJ
+        [NP
+          [N'
+            [NœÌœ«—Â«Ì ]]]
+        [NP
+          [NP
+            [N'
+              [N»—ê‘  ]]]]]
+  [v'
+    [PredP
+	  [NP
+	    [NP
+		  [N'
+		    [N—Ê“Â«Ì]]]
+		[NP
+		  [NP
+		    [QP16Ê18]
+			[N'
+			  [N¬–—]]]
+		  [NP
+		    [N'
+			  [N„«Â]]]]]
+      [Pred'
+         [Pred»—ê“«— ]]]
+	[vŒÊ«Âœ ‘œ]]]
+.
+
+103-
+
+[FRAG
+  [NP
+	[N'
+	  [N‰ «ÌÃ ]
+	  [AdjPÅ«Ì«‰Ì ]]]
+  [NP
+	[NP
+	  [N'
+		[N ‰Ì”]]]
+	[PP—ÊÌ 
+	  [NP
+		[NP
+		  [N'
+			[N„Ì“ ]]]
+		[NP
+		  [N'
+			[N‰ÊÃÊ«‰«‰]
+			[Adj«Ì—«‰]]]]]]]
+			
+[vP			
+	[vP
+	  [NP-SBJ
+		[NP
+		  [NP
+			[N'
+			  [N„—Õ·Â ]
+			  [AdjPÅ«Ì«‰Ì ]]]
+		[NP
+		  [NP
+			[N'
+			  [N„”«»ﬁ«  ]
+			  [AdjP¬“«œ ]]]
+		  [CoordP
+			[CoordÊ]
+			[NP
+			  [NP
+				[N'
+				  [N—œÂ »‰œÌ]]]
+			  [NP
+				[NP
+				  [N'
+					[NÅÌ‰ê Å‰ê]]]
+				[NP
+				  [N'
+					[N‰ÊÃÊ«‰«‰]
+					[Adj«Ì—«‰]]]]]]]]
+				
+		[CP
+		  [C'
+			[CòÂ]
+			[vP
+			  [PPœ—
+				[NP
+				  [NP
+					[N'
+					  [N”«·‰]]]
+				  [NP
+					[NP
+					  [N'
+						[N22»Â„‰]]]
+					[NP
+					  [NP
+						[N'
+						  [N‘Â—” «‰]]]
+					  [NP
+						[N'
+						  [NÌ“œ]]]]]]]
+			  [v' 
+				[PredP
+				  [Pred'
+					[PredÃ—Ì«‰]]]
+				[vœ«‘ ]]]]]]
+	  [vP
+	    [AdvPœÌ—Ê“]
+		[v'
+		   [PredP
+			 [Pred'
+			   [Pred»Â Å«Ì«‰]]]
+			
+		   [v—”Ìœ]]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+	  [PP*
+	    [NP
+		  [NP
+		    [N'
+			  [NÿÌ]]]
+		  [NP
+		    [N'
+			  [N¬‰]]]]]
+        [vP
+			[NP-SBJ-1  
+			  [NP
+			    [N'
+                  [N«›‘Ì‰ ‰Ê—Ê“Ì ]]]
+              [PP«“ 
+                [NP
+                  [N'
+                    [NŒÊ“” «‰ ]]]]]
+          [vP
+            [NP-OBJ-1 
+               [N'
+                 [N„ﬁ«„ ]
+				 [Adj‰Œ” ]]
+               [POSTP —« ]]
+            [v'
+                [PredP
+                     [Pred'
+                          [NP-OBJ-1*]
+                          [Pred»Â œ” ]]]
+                [v¬Ê—œ]]]]]]]
+.
+
+104-
+
+[vP
+  [vP
+    [NP-SBJ
+          [NP
+            [N'
+              [N„Õ„œ ›—ﬁœ«‰Ì ]]]
+          [PP«“ 
+            [NP
+              [N'
+                [N«’›Â«‰ ]]]]]
+    [v'
+	  [PredP
+	    [Pred'
+		  [ADJ-PRDœÊ„]
+		  [Pred‘œ]]]
+      [v]]]
+  [CoordP
+    [CoordÊ]
+    [vP
+        [NP-SBJ-1
+                [NP
+                  [N'
+                    [N⁄«—› «Õ„œÌ ›— ]]]
+                [PP«“ 
+                  [NP
+                    [NP
+                      [N'
+                        [NêÌ·«‰ ]]]
+                    [CoordP
+                          [CoordÊ ]
+                          [NP
+                            [NP
+                              [N'
+                                [N„ÌœÌ« ·ÿ› «··Â ‰”»Ì ]]]
+                            [PP«“ 
+                              [NP
+                                [N'
+                                  [Nﬂ—œ” «‰ ]]]]]]]]]
+        [vP
+		  [AdvP„‘ —ò«]
+		  [vP
+		    [PP»Â
+			  [NP
+			    [N'
+				  [N„ﬁ«„]
+				  [Adj”Ê„]]]]
+			[v'
+			  [PredP
+                [Pred'
+                   [Predœ” ]]]
+          [vÌ«› ‰œ]]]]]]]
+.
+
+105-
+
+[FRAG
+  [NP
+        [NP
+          [N'
+            [N¬êÂÌ ]]]
+        [NP
+          [NP
+            [N'
+              [N„“«ÌœÂ ]]]
+          [NP
+            [NP
+              [N'
+                [N›—Ê‘ ]]]
+            [NP
+              [NP
+                [N'
+                  [N„«‘Ì‰ ]]]
+              [NP
+                [N'
+                  [N»«›‰œêÌ ]]]]]]]]
+				  
+[vP
+    [NP
+	  [NP
+        [N'
+          [N ⁄œ«œ ]]]
+	  [NP
+	    [NPœÊ
+		  [N'
+		    [Nœ” ê«Â]]]
+		[NP
+		  [NP
+		    [N'
+			  [N„«‘Ì‰]
+			  [Adj»«›‰œêÌ]]]
+		  [NP
+		    [NP
+		      [N'
+			    [N«Ì—Ã ]]]
+			[NP
+			  [NP
+			    [N'
+				  [N”«Œ ]]]
+			  [NP
+			    [N'
+				  [Nò‘Ê—]
+				  [Adjçò Ê «”·Ê«òÌ]]]]]]]]
+	
+    [vP
+	  [AdvP»Â ’Ê—  ò«„·« ‰Ê]
+	  [v'
+        [PredP
+          [Pred'
+            [Pred»Â ›—Ê‘ ]]]
+		[v„Ì —”œ]]]]
+.
+
+106-
+
+[vP
+  [NP
+    [N'
+      [N„ ﬁ«÷Ì«‰]]]
+  [vP
+    [PP»—«Ì
+	  [NP
+	    [NP
+		  [N'
+		    [Nò”»]]]
+		[NP
+		  [NP
+		    [N'
+		      [N«ÿ·«⁄« ]
+			  [Adj»Ì‘ —]]]	  
+	      [PP»«
+		    [NP
+		      [NP
+			    [N'
+			      [N‘„«—Â]]]
+			  [NP
+			    [NP
+			      [N'
+				    [N ·›‰ Â«Ì]]]
+			    [NP
+			      [N'
+				    [N6433961-2]]]]]]]]]
+    [vP
+	  [PredP
+		[NP
+		  [N'
+		    [N „«”]]]
+		[Pred'
+		  [PredÕ«’·]]]
+	  [v›—„«Ì‰œ]]]]
+.
+
+107-
+
+[FRAG
+  [NP
+        [NP
+          [N'
+            [N¬êÂÌ ]]]
+        [NP
+          [NP
+            [N'
+              [Nœ⁄Ê  ]]]
+          [NP
+            [NP
+              [N'
+                [N„Ã„⁄ ]
+                [AdjP⁄„Ê„Ì ]]]
+            [NP
+              [NP
+                [N'
+                  [N‘—ﬂ  ]
+                  [AdjP Ê·ÌœÌ Ê ’‰⁄ Ì ]]]
+              [NP
+                [NP
+                  [N'
+                    [N Ê« ]]]
+                [PP»« 
+                  [NP
+                    [N'
+                      [N„”∆Ê·Ì  ]
+                      [AdjP„ÕœÊœ ]]]]]]]]]]
+.
+
+[vP
+	[vP
+	  [PP»Â
+		[NP
+		  [NP«Ì‰
+			[N'
+			  [NÊ”Ì·Â]]]
+		  [PP«“
+			[NP
+			  [NPò·ÌÂ
+				[N'
+				  [N’«Õ»«‰]
+			  [NP
+				[NP
+				  [N'
+					[N”Â„ «·‘—òÂ]]]
+				[NP
+				  [NP
+					[N'
+					  [N‘—ò ]
+					  [Adj Ê·ÌœÌ Ê ’‰⁄ Ì]]]
+				  [NP
+					[NP
+					  [N'
+						[N Ê«]]]
+					[PP»«
+					  [NP
+						[NP
+						  [N'
+							[N„”∆Ê·Ì ]
+							[Adj„ÕœÊœ]]]
+						[CoordP
+						  [CoordÌ«]
+						  [NP
+							[NP
+							  [N'
+								[N‰„«Ì‰œê«‰]
+								[Adjﬁ«‰Ê‰Ì]]]
+							[NP
+							  [N'
+								[N¬‰ Â«]]]]]]]]]]]]]]]]
+		
+	  [vP
+		[NP-SBJ*]
+		[v'
+		  [PredP
+			[Pred'
+			  [Predœ⁄Ê ]]]
+		  [v„Ì ‘Êœ]]]]
+    [CP
+      [C'
+        [CòÂ ]
+		[vP
+			[NP-SBJ *-2]
+            [vP
+              [PPœ— 
+			    [NP
+					[NP
+					  [NP
+						[N'
+						  [NÃ·”Â ]]]
+					  [NP
+						[NP
+						  [NP
+							[N'
+							  [N„Ã„⁄ ]
+							  [AdjP⁄„Ê„Ì ]]]
+						  [NP
+							[NP«Ì‰ 
+							  [N'
+								[N‘—ﬂ  ]]]]]]]]
+				[CP
+                  [C'
+                    [CﬂÂ ]
+                    [vP
+                      [NP-SBJ*-3]
+                      [vP
+                        [PPœ— 
+                          [NP
+						    [NP
+                              [N'
+                                [N «—ÌŒ ]]]
+							[NP
+							  [NP
+							    [N'
+								  [N1378/9/15]]]
+							  [NP
+							    [NP
+								  [N'
+								    [N”«⁄ ]]]
+								[NP
+								  [NPœÂ
+								    [N'
+									  [N’»Õ]]]
+								  [PPœ—
+								    [NP
+									  [NP
+									    [N'
+										  [N„Õ·]]]
+									  [NP
+									    [NP
+										  [N'
+										    [N‘—ò ]]]
+										[NP
+										  [NP
+										    [N'
+											  [Nœ«—ÊÅŒ‘]]]
+										  [NP
+										    [NP
+											  [N'
+											    [NÊ«ﬁ⁄]]]
+											[PPœ—
+											  [NP
+											    [NP
+												  [N'
+												    [N Â—«‰]]]
+												[NP
+												  [NP
+												    [N'
+													  [N« Ê»«‰]]]
+												  [NP
+												    [NP
+													  [N'
+													    [Nò—Ã]]]
+													[NP
+													  [NP
+													    [N'
+													      [NòÌ·Ê„ —18]]]
+													  [NP
+													    [NP
+														  [N'
+														    [NŒÌ«»«‰]]]
+														[NP
+														  [N'
+														    [Nœ«—ÊÅŒ‘]]]]]]]]]]]]]]]]]]]
+														
+													  
+                        [v'
+                          [PredP
+                            [Pred'
+                               [Pred»—ê“«— ]]]
+                          [v„Ì ê—œœ]]]]]]]]]
+                        
+             [v'
+               [PredP
+			     
+                 [Pred'
+                    [PredÕ÷Ê— ]]]
+               [v»Â Â„ —”«‰‰œ]]]]]
+.
+
+108-
+
+[FRAG
+  [NP
+     [NP
+        [N'
+          [N¬êÂÌ ]]]
+     [NP
+        [N'
+  		  [N«” Œœ«„ ]]]]]
+[vP
+    [NP-SBJ-1
+	  [NPÌò
+	    [N'
+		  [N‘—ò ]
+		  [Adj Ê·ÌœÌ]]]
+	  [NP
+		[N'
+		  [N„Õ’Ê·« ]
+	      [Adj ‘ÊÌ‰œÂ Ê »Âœ«‘ Ì „⁄ »—]]]]
+	[vP
+	  [NP-OBJ-1
+	    [N'
+		  [N‰Ì—ÊÂ«Ì]
+		  [Adj Œ’’Ì]]
+		[POSTP—«]]
+	  [v'
+	    [PredP
+		  [PP»Â 
+		    [NP
+			  [N'
+			    [NÂ„ò«—Ì]]]]
+		  [Pred'
+		    [Predœ⁄Ê ]]]
+		[v„Ì ‰„«Ìœ]]]]
+.
+
+
+109-
+
+[FRAG
+	[NP
+	  [N'
+		[NœÌÅ·„ ]]]
+	[CoordP
+		  [CoordÌ« ]
+		  [NP
+			[NP
+			  [N'
+				[N›Êﬁ œÌÅ·„ ]]]
+			[NP
+			  [NP
+				[N'
+				  [N—‘ Â Â«Ì ]]]
+			  [NP
+				[NP
+				  [N'
+					[N„ﬂ«‰Ìﬂ ]]]
+				[NP
+				  [NP
+				    [N'
+					  [N»—ﬁ ]]]
+				  [CoordP
+				    [CoordÊ]
+					[NP
+					  [NP
+					    [N'
+						  [N„«‘Ì‰ «»“«—]]]
+					  [PP»«
+					    [NP
+						  [NP
+						    [QPÕœ«ﬁ· œÊ]
+						    [N'
+							  [N”«·]]]
+						  [NP
+						    [NP
+							  [N'
+							    [N”«»ﬁÂ]]]
+							[NP
+							  [N'
+							    [Nò«—]
+								[Adj„›Ìœ]]]]]]]]]]]]]]
+.
+
+110-
+
+[FRAG
+    [NP
+       [N'
+          [N„Â‰œ” ]]]
+    [NP
+      [NP
+         [N'
+            [N„ﬂ«‰Ìﬂ ]]]
+      [NP
+	    [NP
+           [N'
+             [N·Ì”«‰” ]]]
+		[PP»«
+		  [NP
+		    [NP
+			  [QPÕœ«ﬁ· 5]
+			  [N'
+			    [N”«·]]]
+			[NP
+			  [NP
+			    [N'
+				  [N”«»ﬁÂ]]]
+			  [NP
+			    [N'
+				  [Nò«—]
+				  [Adj„›Ìœ]]]]]]]]]
+.
+
+111-
+
+[vP
+  [vP
+    [NP-SBJ
+          [N'
+            [N„ ﬁ«÷Ì«‰ ]]]
+    [v'
+      [PredP
+           [Pred'
+                [Pred„Ì  Ê«‰‰œ ]]]]]
+   [CP
+     [C'
+       [C* ]
+      [vP
+        [vP
+          [NP *-1]
+          [vP
+            [AdvP
+                [Adv'
+                    [AdvÕœ«ﬂÀ— ]]]
+            [vP
+              [PP «
+			    [NP
+				  [NP
+				    [N'
+					  [NÅ«Ì«‰]]]
+				  [NP
+				    [NP
+					  [N'
+					    [N¬–—]]]
+					[NP
+					  [NP
+					    [N'
+						  [N„«Â]]]
+					  [NP
+					    [NP
+					      [N'
+						    [N78]]]
+						[PP»«
+						  [NP
+						    [NP
+							  [N'
+							    [N’‰œÊﬁ]
+								[AdjÅ” Ì]]]
+							[NP
+							  [NP
+							    [N'
+								  [N‘„«—Â]]]
+							  [NP
+							    [N'
+								  [N3478/15815]]]]]]]]]]]
+              [v'
+                [PredP
+                  [Pred'
+                    [Pred„ò« »Â]]]
+                [v]]]]]
+        [CoordP
+          [CoordÊ]
+          [vP
+              [NP *-1]
+              [vP
+                [NP-OBJ-1
+                        [NP
+                          [N'
+                            [N„œ«—ﬂ ]]]
+                        [NPŒÊœ ]
+                        [POSTP —« ]]
+                [v'
+                  [PredP
+                       [Pred'
+                            [NP «—”«·]
+                            [Pred›—„«Ì‰œ ]]]
+                  [v]]]]]]]]]
+.
+
+112-
+
+[FRAG
+  [NP
+      [NP
+        [N'
+          [N¬êÂÌ ]]]
+      [NP
+        [NP
+          [N'
+            [N«Ã«—Â ]]]
+        [NP
+          [N'
+            [N„«‘Ì‰ ¬·«  ]]]]]]
+[vP
+  [NP-SBJ
+    [NP
+	  [NP
+	    [N'
+		  [N ⁄œ«œ]]]
+	  [NP
+	    [NPÅ‰Ã
+		  [N'
+		    [Nœ” ê«Â]]]
+		[NP
+		  [NP
+		    [N'
+			  [N„«‘Ì‰]
+			  [Adj —«‘ cnc]]]
+		  [NP
+		    [NP
+			  [N'
+			    [N„œ·]
+				[Adj TM 180 VDf]]]
+			[NP
+			  [NP
+			    [N'
+				  [N”«Œ ]]]
+			  [NP
+			    [NP
+				  [N'
+				    [Nò‘Ê—]
+					[Adj¬·„«‰]]]
+				[NP
+				  [NP
+				    [N'
+					  [N”«·]]]
+				  [NP
+				    [NP
+					  [N'
+					    [N”«Œ ]
+					[NP
+					  [NP
+					    [N'
+						  [N1992]]]
+					  [CoordP
+					    [CoordÊ]
+						  [NP
+						    [ConjP
+							  [ConjÂ„ç‰Ì‰]
+							  [NPÌò
+							    [N'
+								  [Nœ” ê«Â]
+								  [Adj —«‘ Â‘  „ÕÊ—]]]]
+							[NP
+							  [NP
+							    [N'
+								  [N„œ·]
+								  [AA 48]]]
+							  [NP
+							    [NP
+								  [N'
+								    [N”«Œ ]]]
+								[NP
+								  [NP
+								    [N'
+								      [Nò‘Ê—]
+									  [Adj ¬·„«‰]]]
+								  [NP
+								    [NP
+									  [N'
+									    [N”«·]]]
+									[NP
+									  [NP
+									    [N'
+										  [N”«Œ ]]]
+									  [NP
+									    [NP
+										  [N'
+										    [N1992]]]
+										[PP»Â
+										  [NP
+										    [NP
+											  [N'
+											    [NÂ„—«Â]]]
+											[NP
+											  [N'
+											    [N«„ò«‰« ]
+												[AdjÃ‰»Ì]]]]]]]]]]]]]]]]]]]]]]]]]
+  [v'
+    [PredP
+	  [PPœ—
+	    [NP
+		  [NP
+		    [N'
+			  [N‘Â—]]]
+		  [NP
+		    [N'
+			  [N »—Ì“]]]]]
+	  [Pred'
+	    [Pred«Ã«—Â]]]
+	[vœ«œÂ „Ì ‘Êœ]]]
+.
+
+113-
+
+[vP
+  [NP
+    [N'
+      [N„ ﬁ«÷Ì«‰]]]
+  [vP
+    [PP»—«Ì
+	  [NP
+	    [NP
+		  [N'
+		    [Nò”»]]]
+		[NP
+		  [NP
+		    [N'
+		      [N«ÿ·«⁄« ]
+			  [Adj»Ì‘ —]]]	  
+	      [PP»«
+		    [NP
+		      [NP
+			    [N'
+			      [N‘„«—Â]]]
+			  [NP
+			    [NP
+			      [N'
+				    [N ·›‰ Â«Ì]]]
+			    [NP
+			      [N'
+				    [N6433961-2]]]]]]]]]
+    [vP
+	  [PredP
+		[NP
+		  [N'
+		    [N „«”]]]
+		[Pred'
+		  [PredÕ«’·]]]
+	  [v‰„«ÌÌœ]]]]
+.
+
+114-
+
+[FRAG
+   [NP
+     [N'
+        [N¬êÂÌ ]]]
+  [NP
+     [NP
+        [N'
+          [N„‰«ﬁ’Â ]]]
+     [NP
+        [N'
+          [NŒ—Ìœ ]]]]]
+		  
+
+[vP
+	[vP
+	  [NP-SBJ-11
+		[NP
+		  [N'
+			[N‘—ﬂ  „ê«„Ê Ê— ]]]
+		[NP
+		  [NP
+			[N'
+			  [N Ê·Ìœò‰‰œÂ]]]
+		  [NP
+			[NP«‰Ê«⁄
+			  [N'
+				[NﬁÊ«Ì]
+				[Adj„Õ—òÂ]]]
+			[NP
+			  [N'
+				[NŒÊœ—Ê]]]]]]
+		  
+	  [v'
+	    [PredP
+		  [Pred'
+		    [Predœ— ‰Ÿ—]]]
+		[vœ«—œ]]]
+	[CP
+	  [C'
+	    [C*]
+		[vP
+		  [NP-SBJ-1*]
+		  [vP
+		    [NP-OBJ
+			   [NP
+			     [N'
+				   [N ⁄œ«œ]]]
+			   [NP
+			     [NPÂ› «œ Â“«—
+				   [N'
+				     [Nœ” ]]]
+				 [NP
+				   [N'
+				     [Nò«—»—« Ê—]
+					 [Adj„Ê—œ‰Ì«“]]]]
+			  [POSTP—«]]
+			[vP
+				[PP«“
+				  [NP
+					[NP
+					  [N'
+						[Nÿ—Ìﬁ]]]
+					[NP
+					  [N'
+						[N„‰«ﬁ’Â]]]]]
+				[v'
+				  [PredP
+				    [Pred'
+					  [PredŒ—Ìœ«—Ì]]]
+				  [v‰„«Ìœ]]]]]]]]
+.
+
+115-
+
+[vP
+	[vP
+	  [NP-SBJ*]
+	  [vP
+		[PP«“ 
+		  [NP
+			[N'
+			  [N„ ﬁ«÷Ì«‰ ]]]]
+		[v'
+		  [PredP
+			[Pred'
+			  [Predœ⁄Ê  ]]]
+		  [v„Ì ‘Êœ]]]]
+	[CP
+      [C'
+        [C* ]
+        [vP
+          [NP-SBJ-2*]
+		  [vP
+            [AdvPÕœ«òÀ—
+			  [PP «
+				[NP
+				  [NP
+                    [N'
+                      [N «—ÌŒ ]]]
+				  [NP
+				    [N'
+					  [N1378/9/15]]]]]
+            
+            [vP
+                [PP
+                  [NP
+				    [NP
+					  [N'
+					    [NÃÂ ]]]
+				    [NP
+                      [N'
+                        [Nœ—Ì«›  ]]]
+                        [NP
+                          [N'
+                            [N«”‰«œ ]]]]
+                        [CoordP
+                          [CoordÊ ]
+                          [NP
+                            [NP
+                              [N'
+                                [N‘—«Ìÿ ]]]
+                            [NP
+                              [NP
+                                [N'
+                                  [N‘—ﬂ  ]]]
+                              [PPœ— 
+                                [NP
+                                  [NP
+                                    [N'
+                                      [N„‰«ﬁ’Â ]]]]]]]]]
+
+				[v'
+                   [PredP
+					  [PP»Â 
+						[NP
+						  [NP
+							[N'
+							  [Nò«—Œ«‰Â ]]]
+						  [NP
+						    [NP
+						      [N'
+							    [N„ê«„Ê Ê—]]]
+						    [PP»Â 
+							  [NP
+							    [NP
+								  [N'
+								    [N¬œ—” ]]]
+							    [NP
+								  [NP
+								    [N'
+									  [NﬂÌ·Ê„ — ]
+									  [Adj18]]]
+								  [NP
+								    [NP
+									  [N'
+									    [NÃ«œÂ ]
+									    [AdjPﬁœÌ„ ]]]
+								    [NP
+									  [NP
+									    [N'
+										  [Nﬂ—Ã ]]]
+									  [NP
+									    [NP
+										  [N'
+										    [NÊ«Õœ ]]]
+									    [NP
+										  [N'
+										    [N»«“—ê«‰Ì ]
+										    [AdjPŒ«—ÃÌ ]]]]]]]]]]]]
+                      [Pred'
+                        [Pred„—«Ã⁄Â]]]
+              [v‰„«Ì‰œ]]]]]]]]]
+.
+
+116-
+
+[FRAG
+   [NP
+     [N'
+        [N ·›‰ ]]]
+   [NP
+     [NP
+       [N'
+         [N „«” ]]]
+	 [NP
+	   [N'
+	     [N6028106]]]]]
+[FRAG
+   [NP
+     [NP
+       [N'
+         [N—Ê«»ÿ ]
+         [AdjP⁄„Ê„Ì ]]]
+     [NP
+	   [NP
+         [N'
+           [N‘—ò ]]]
+	   [NP
+	     [N'
+		   [N„ê«„Ê Ê—]]]]]]
+
+[FRAG 
+  [NP
+    [NP
+	  [N'
+	    [N¬êÂÌ]]]
+	[NP
+	  [N'
+	    [N„“«ÌœÂ]]]]]
+
+		
+[vP
+	[vP
+	  [NP-SBJ-1
+		[NP
+		  [N'
+			[N‘—ò ]]]
+		[NP
+		  [NP
+			[N'
+			  [N”Ì„«‰]]]
+		  [NP
+			[NP
+			  [N'
+				[Nò—„«‰]
+				[AdjP”Â«„Ì ⁄«„ ]]]]]]
+	  [v'
+		[PredP
+			[Pred'
+			  [Predœ— ‰Ÿ– ]]]
+		[vœ«—œ]]]
+  [CP
+    [C'
+      [C* ]
+      [vP
+        [NP-SBJ-1]
+        [vP
+          [NP-OBJ-1
+                  [NP
+                    [N'
+                      [N¬Â‰ ¬·«  ]
+                      [AdjP÷«Ì⁄« Ì „ÊÃÊœ ]]]
+                  [PPœ— 
+                    [NP
+                      [N'
+                        [Nﬂ«—Œ«‰Â ]]]]
+                  [POSTP —« ]]
+          [vP
+            [PP»Â
+			  [NP
+                [N'
+                  [N„“«ÌœÂ ]]]]
+            [v'
+              [PredP
+                   [Pred'
+                        [NP-OBJ-1*]
+                        [Predê–«—œ ]]]
+              [v]]]]]]]]
+.
+
+117-
+
+[vP
+	[vP
+	  [NP-SBJ-1*]
+	  [v'
+		[PredP
+			 [PP«“ 
+			   [NP
+				 [NP
+				   [N'
+					 [N„ ﬁ«÷Ì«‰ ]
+					 [AdjP„Õ —„Ì ]]]
+				 [CP
+				   [C'
+					 [CﬂÂ ]
+					 [vP
+					   [NP-SBJ *-2]
+					   [vP
+						 [AdjP-PRDœ«—«Ì 
+						   [NP
+							 [N'
+							   [Nòœ]
+							   [Adj«ﬁ ’«œÌ]]]]
+							   
+						 [v'
+						   [PredP
+							 [Pred'
+							   [PredÂ” ‰œ ]]]
+						   [v]]]]]]]]  
+			 [Pred'
+				  [Pred ﬁ«÷«]]]
+		[vœ«—œ]]]
+	[CP
+	  [C'
+	    [C*]
+		[vP
+		  [vP
+			  [PPœ— 
+				[NP
+				  [NP
+					[N'
+					  [N’Ê—  ]]]
+				  [NP
+					[NP
+					  [N'
+						[N „«Ì· ]]]
+					[PP»Â 
+					  [NP
+						[NP
+						  [N'
+							[Nœ› — ]]]
+						[NP
+						  [NP
+							[N'
+							  [Nﬂ«—Œ«‰Ã«  ]]]
+						  [NP
+							[N'
+							  [N”Ì„«‰ ﬂ—„«‰ ]]]]]]]]]
+			  [v'
+			    [PredP
+				  [Pred'
+				    [Pred„—«Ã⁄Â]]]]]
+		  [CoordP
+		    [CoordÊ]
+			[vP
+			  [AdvPÅ”
+				  [PP«“ 
+					[NP
+					  [NP
+						[N'
+						  [N»«“œÌœ ]]]
+					  [PP«“ 
+						[NP
+						  [NP
+							[N'
+							  [N¬Â‰ ¬·«  ]]]
+						  [CoordP
+								[CoordÊ ]
+								[NP
+								  [NP
+									[N'
+									  [Nœ—Ì«›  ]]]
+								  [NP
+									[NP
+									  [N'
+										[N»—ê ]]]
+									[NP
+									  [NP
+										[N'
+										  [N‘—«Ìÿ ]]]
+									  [NP
+										[NP
+										  [N'
+											[NﬁÌ„  ]]]
+										[NP
+										  [NP
+										    [N'
+											  [NÅÌ‘‰Â«œÌ ]]]
+										  [NP
+										    [NP
+											  [N'
+											    [NŒÊœ]]]
+											[PPœ—
+											  [NP
+											    [NP
+											      [N'
+												    [NÅ«ò ]
+												    [Adj”—»” Â]]]]]]]]]]]]]]]]]
+			  [vP
+				[AdvPÕœ«òÀ—
+				  [PP «
+				    [NP
+					  [NP
+					    [N'
+						  [NÅ«Ì«‰]]]
+					  [NP
+					    [NP
+						  [N'
+						    [NÊﬁ ]
+							[Adj«œ«—Ì]]]
+						[NP
+						  [NP
+						    [N'
+							  [N—Ê“]]]
+						  [NP
+						    [NP
+							  [N'
+							    [N”Â ‘‰»Â]]]
+							[NP 
+							  [NP”Ì «„
+							    [N'
+								  [N¬–—]]]
+							  [NP
+							    [NP
+								  [N'
+								    [N„«Â]]]
+								[NP
+								  [N'
+								    [N78]]]]]]]]]]]
+				[vP
+				  [NP-OBJ*]
+				  [v'
+					  [PredP
+					    [PP»Â
+						  [NP
+						    [NP
+							  [N'
+							    [Nœ› —]]]
+							[NP
+							  [NP
+							    [N'
+								  [Nò«—Œ«‰Ã« ]]]
+							  [NP
+							    [NP
+								  [N'
+								    [N”Ì„«‰]]]
+								  
+								[NP
+								  [NP
+								    [N'
+									  [Nò—„«‰]]]
+								  [NP
+								    [NP
+									  [N'
+									    [NÊ«ﬁ⁄]]]
+									[PPœ—
+									  [NP
+									    [N'
+										  [NòÌ·Ê„ —17]]]
+									  [NP
+									    [N'
+										  [NÃ«œÂ]
+										  [Adj Â—«‰]]]]]]]]]]
+						   [Pred'
+								[Pred ÕÊÌ·]]]
+					  [v›—„«Ì‰œ]]]]]]]]]]
+.
+
+118-
+
+[vP
+	[vP
+		[AdvP÷„‰« ]
+		[vP
+		  [NP *-1]
+		  [vP
+			[PP»Â 
+			  [NP
+				[NP
+				  [N'
+					[NÅÌ‘‰Â«œ« Ì ]]]
+				[CP
+				  [C'
+					[CﬂÂ ]
+					[vP
+					  [NP *-1]
+					  [vP
+						[NP»⁄œ
+						  [PP«“
+							[NP
+								[N'
+								  [N„Ê⁄œ ]
+								  [AdjP„ﬁ—— ]]]]]
+						[v'
+						  [PredP
+							   [Pred'
+									[Pred«—«∆Â ]]]
+						  [vê—œœ]]]]]]]]
+			[v'
+			  [PredP
+				[Pred'
+				  [Pred — Ì» «À—]]]
+			  [vœ«œÂ ‰ŒÊ«Âœ ‘œ]]]]]
+	[CP-ADV„÷«›« »Â «Ì‰ 
+      [C'
+        [CòÂ]
+        [vP
+          [NP-SBJ-2
+		    [NP
+			  [N'
+			    [N‘—ò ]]]
+			[NP
+			  [NP
+			    [N'
+			      [N”Ì„«‰]]]
+			  [NP
+			    [N'
+				  [Nò—„«‰]]]]]
+          [vP
+            [PPœ— 
+              [NP
+                [NP
+                  [N'
+                    [N—œ ]]]
+			    [CoordP
+                  [CoordÌ« ]
+                  [NP
+                    [NP
+                      [N'
+                        [Nﬁ»Ê· ]]]
+                    [NP
+                      [N'
+  					   [NÅÌ‘‰Â«œ«  ]]]]]]]
+			[v'
+				[PredP
+				  [Pred'
+				    [Adj-PRD„Œ «—]
+                    [Pred«”  ]]]
+              [v]]]]]]]
+.
+
+119-
+
+[FRAG
+   [NP
+		[NP
+		  [N'
+			[N‘—ò ]]]
+		[NP
+		  [NP
+			[N'
+			  [N”Ì„«‰]]]
+		  [NP
+			[N'
+			  [Nò—„«‰]
+				[AdjP”Â«„Ì ⁄«„ ]]]]]]
+
+[FRAG
+   [NP
+     [N'
+        [N¬êÂÌ ]]]
+  [NP
+     [NP
+        [N'
+          [N„‰«ﬁ’Â ]]]
+     [NP
+        [N'
+          [NŒ—Ìœ ]]]]]
+		  
+[vP				
+	[vP
+		[NP-SBJ-1
+		  [NP
+			[N'
+			  [N‘—ﬂ  ]]]
+		  [NP
+			[NP
+			  [N'
+				[N’‰«Ì⁄ ]]]
+			[NP
+			  [NP
+				[N'
+				  [N‰”«ÃÌ «Ì—«‰ ]]]
+			  [AdjPÊ«»” Â
+				[PP»Â 
+				  [NP
+					[NP
+					  [N'
+						[N”«“„«‰]]]
+					[NP
+					  [NP
+						[N'
+						  [Nê” —‘]]]
+					  [CoordP
+						[CoordÊ]
+						[NP
+						  [NP
+							[N'
+							  [N‰Ê”«“Ì]]]
+						  [NP
+							[N'
+							  [N’‰«Ì⁄]
+							  [Adj«Ì—«‰]]]]]]]]]]]]
+			[v'
+			  [PredP
+				 [Pred'
+					[Predœ— ‰Ÿ—]]]
+			  [vœ«—œ]]]
+  [CP
+    [C'
+      [C* ]
+      [vP
+		[PP»Â
+		  [NP
+		    [NP
+			  [N'
+			    [N„‰ŸÊ—]]]
+			[NP
+			  [NP
+			    [N'
+				  [N«›“«Ì‘]]]
+			  [NP
+			    [NP
+				  [N'
+				    [N⁄„ﬁ]]]
+				[NP
+				  [NP
+				    [N'
+					  [N”«Œ ]]]
+				  [NP
+				    [NP
+					  [N'
+					    [Nœ«Œ·]]]
+					[NP
+					  [NP
+					    [N'
+					      [N„«‘Ì‰]
+						  [Adj—Ì”‰œêÌ]]]
+					  [NP
+					    [NP
+						  [N'
+						    [N—Ì‰ê]
+							[Adj Ê·ÌœÌ]]]
+						[NP
+						  [N'
+						    [NŒÊœ]]]]]]]]]]]
+		[vP
+		  [NP-OBJ-1 
+		    [NP
+			  [N'
+			    [N ⁄œ«œÌ]]]
+			[PP«“
+			  [NP
+			    [NP
+			      [N'
+				    [Nﬁÿ⁄« ]
+					[AdjÊ«—œ« Ì]]]
+				[NP
+				  [N'
+				    [NŒÊœ]]]]]
+			[POSTP—«]]
+		  [v' 
+		    [PredP
+			  [PP »Â
+			    [NP
+				  [NP
+				    [N'
+					  [N”«Œ ]]]
+				  [PP«“
+				    [NP
+					  [NP
+					    [N'
+						  [Nÿ—Ìﬁ]]]
+					  [NP
+					    [NP
+						  [N'
+						    [N„‰«ﬁ’Â]]]
+						[PP»Â
+						  [NP
+						    [N'
+							  [N”«“‰œê«‰]
+							  [AdjPœ«Œ·Ì Ê«Ãœ ‘—«Ìÿ]]]]]]]]]
+			  [Pred'
+			     [NP-OBJ-1*]
+			     [PredÊ«ê–«—]]]
+			[v‰„«Ìœ]]]]]]]
+.
+
+120-
+
+[vP
+  [vP
+    [CP
+      [C'
+        [C·–« ]
+        [vP
+          [NP-SBJ-1*]
+          [vP
+            [PP«“ 
+              [NP
+                [NPﬂ·ÌÂ 
+                  [N'
+                    [N‘—ﬂ Â«Ì ]
+                    [AdjP Ê·ÌœÌ ]]]]
+                [CP
+                  [C'
+                    [CﬂÂ ]
+                    [vP
+                      [NP *-1]
+                      [v'
+					    [PredP
+							[AdjP-PRDœ«—«Ì 
+							  [NP
+								[NP
+								  [N'
+									[N«„ò«‰« ]
+									[Adj„‰«”»]]]
+								[PPœ—
+								  [NP
+									[NP
+									  [N'
+										[N“„Ì‰Â Â«Ì]
+										[AdjêÊ‰«êÊ‰]]]
+									[NP
+									  [NP
+										[N'
+										  [N—ÌŒ Â ê—Ì]]]
+									  [NP
+										[NP
+										  [N'
+											[N„«‘Ì‰ ò«—Ì]]]
+										[NP
+										  [NP
+											[N'
+											  [NÅ—”]]]
+										  [CoordP
+											[CoordÊ]
+											[NP
+											  [N'
+												[N€Ì—Â]]]]]]]]]]]
+								[Pred'
+								  [Pred„Ì »«‘‰œ]]]]]]]]
+								  
+			[v'			
+				[PredP
+				  [Pred'
+				    [Predœ—ŒÊ«” ]]]
+				[v„Ì ‘Êœ]]]]]]]
+  [CP
+    [C'
+      [C* ]
+      [vP
+        [vP
+          [NP-SBJ-2*]
+          [vP
+            [PP»—«Ì 
+              [NP
+                [NP
+                  [N'
+                    [Nœ—Ì«›  ]]]
+                [NP
+				  [NP
+                    [N'
+                      [N«ÿ·«⁄«  ]
+                      [AdjP»Ì‘ — ]]]
+				  [NP
+				    [NP
+					  [N'
+					    [N‰ﬁ‘Â]]]
+					[CoordP
+					  [CoordÊ]
+					  [NP
+					    [NP
+						  [N'
+						    [N„‘Œ’« ]]]
+						[NP
+						  [NP
+						    [N'
+							  [Nﬁÿ⁄« ]]]
+						  [CoordP
+						    [CoordÊ]
+							[ConjP
+							  [ConjÂ„ç‰Ì‰]
+							  [NP
+							    [NP
+								  [N'
+								    [N—ÊÌ ]]]
+								[NP
+								  [N'
+								    [N¬‰Â«]]]]]]]]]]]]]
+			[vP
+				[AdvPÕœ«òÀ—
+				  [NP
+				    [NPœÊ
+					  [N'
+					    [NÂ› Â]]]
+					[AdvPÅ”
+					  [PP«“
+					    [NP
+						  [NP
+						    [N'
+							  [Nœ—Ã]]]
+						  [NP
+						    [NP
+							  [N'
+							    [N¬êÂÌ]]]]]]]]]
+				[vP
+				  	[PP»«
+					  [NP
+					    [NP
+						  [N'
+						    [N‘„«—Â]]]
+						[NP
+						  [NP
+						    [N'
+							  [N ·›‰ Â«Ì]]]
+						  [NP
+						    [N'
+							  [N163392-6]]]]]]
+					
+					[v'
+						[PredP
+						  
+						  [NP
+							[N'
+							  [N „«”]]]
+						  [Pred'
+							[PredÕ«’·]]]
+						[v‰„«Ì‰œ]]]]]]]]]]
+.
+
+121-
+ 
+[FRAG
+  [NP
+	[NP
+	  [N'
+	    [N«ÿ·«⁄ÌÂ]]]
+	[NP
+	  [NP
+	    [N'
+		  [N‘—ò ]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N”Ì„«‰]]]
+		[NP
+		  [N'
+		    [N„«“‰œ—«‰]
+			[AdjP”Â«„Ì ⁄«„]]]]]]]
+			
+[FRAG
+  [NP
+    [NP
+	  [N'
+	    [NÅ—œ«Œ ]]]
+	[NP
+	  [NP
+	    [N'
+		  [N”Êœ]]]
+	  [NP
+	    [NP
+		  [N'
+		    [N”Â«„]]]
+		[NP
+		  [NP
+		    [N'
+			  [N„—»Êÿ]]]
+		  [PP»Â
+		    [NP
+			  [NP
+			    [N'
+				  [N”«·]
+				  [Adj„«·Ì „‰ ÂÌ]]]
+			  [PP»Â
+			    [NP
+				  [N'
+				    [N1377/12/29]]]]]]]]]]]
+			  
+  
+[vP
+  [vP
+    [NP-SBJ-1*]
+	[vP
+		[PP»Â 
+		  [NP
+			[NP
+			  [N'
+				[N«ÿ·«⁄ ]]]
+			[NP
+			   [N'
+				[N”Â«„œ«—«‰ ]
+				[AdjP„Õ —„ ]]]]]
+		[v'
+		  [PredP
+			[Pred'
+			  [Pred„Ì —”«‰œ]]]
+		  [v]]]]
+  [CP
+    [C'
+      [C* ]
+      [vP
+        [NP-SBJ-2*]
+        [vP
+          [PP»—«Ì 
+            [NP
+              [NP
+                [N'
+                  [Nœ—Ì«›  ]]]
+              [NP
+                [NP
+                  [N'
+                    [N”Êœ ]]]
+                [NP
+                  [NP
+                    [N'
+                      [N⁄„·ﬂ—œ ]]]
+                  [NP
+                    [NP
+                      [N'
+                        [N”«· ]
+                        [AdjP„«·Ì ]]]
+					[NP
+					  [NP
+					    [N'
+					      [N1377]]]
+                      [PP»«
+					    [PPœ—
+							[NP
+							  [N'
+							    [Nœ”  ]]]
+							[NP
+							  [NP
+							    [N'
+								  [Nœ«‘ ‰]]]
+							  [NP
+								[NP
+								  [N'
+								    [Nﬂ«—  ]]]
+								[NP
+								  [NP
+							        [N'
+								      [N‘‰«”«∆Ì ]
+								      [AdjP„⁄ »— ]]]
+								  [NP
+								    [NP
+									  [N'
+									    [N‘‰«”‰«„Â]]]
+									[CoordP
+									  [CoordÌ«]
+									  [NP
+									    [NP
+										  [N'
+										    [NêÊ«ÂÌ‰«„Â]]]
+										[NP
+										  [NP
+										    [N'
+											  [N—«‰‰œêÌ]]]
+										  [PP
+											[PPœ—
+											  [NP
+											    [N'
+												  [N”«⁄« ]
+												  [Adj«œ«—Ì]]]
+										      [NP
+												[NP
+												  [N'—Ê“Â«Ì]
+												  [Adj€Ì— ⁄Ì·]]
+											[CoordP
+											  [CoordÊ]
+											  [PP»Â
+											    [NP 
+												  [NP
+												    [N'
+													  [N‘—Õ]]]
+												  [NP
+												    [NP
+													  [N'
+													    [NÃœÊ·]
+														[Adj“Ì—]]]
+													[PP»Â
+													  [NP
+													    [N'
+														  [Nœ«Ì—Â]]]
+													  [NP
+													    [NP
+														  [N'
+														    [N”Â«„]]]
+														[NP
+														  [NP
+														    [N'
+															  [N‘—ò ]]]
+														  [NP
+														    [NP
+															  [N'
+															    [NÊ«ﬁ⁄]]]
+															[PPœ—
+															  [NP
+															    [NP
+																  [N'
+																    [NŒÌ«»«‰]]]
+																[NP
+																  [NP 
+																    [N'
+																	  [N¬›—Ìﬁ«]
+																	  [AdjP»«·« —]]]
+																  [PP«“
+																    [NP
+																	  [NP
+																	    [N'
+																		  [NÅ·]]]
+																	  [NP
+																	    [NP
+																		  [N'
+																		    [N„Ì—œ«„«œ]]]
+																		[NP
+																		  [NP
+																		    [N'
+																			  [NŒÌ«»«‰]]]
+																		  [NP
+																		    [NP‘ÂÌœ
+																			  [N'
+																			    [N” «—Ì]]]
+																			[NP
+																			  [NP
+																			    [N'
+																				  [N„‰‘Ì]]]
+																			  [NP
+																			    [NP
+																				  [N'
+																				    [NÅ·«ò]]]
+																				[NP
+																				  [N'
+																				    [N40]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]
+		
+		  [v'
+		    [PredP
+			  [Pred'
+			    [Pred„—«Ã⁄Â]]]
+			[v›—„«Ì‰œ]]]]]]]
