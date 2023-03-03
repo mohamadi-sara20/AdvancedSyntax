@@ -1,4037 +1,4037 @@
-W * N N,COM,SING,EZ ใฬแำ
-W * N N,COM,SING,EZ ิๆัวํ
-W * AJ AJ,SIM วำแวใํ
-W * PUNC PUNC ก
-W * ADV ADV,GENR,TIME ัํัๆา
-W * PUNC PUNC ป
-W * N N,PR,SING,DAY ไฬ ิไศๅ
-W * PUNC PUNC ซ
-W * P P ฯั
+W * N N,COM,SING,EZ ู…ุฌูุณ
+W * N N,COM,SING,EZ ุดูุฑุงู
+W * AJ AJ,SIM ุงุณูุงู…ู
+W * PUNC PUNC ุ
+W * ADV ADV,GENR,TIME ูพุฑูุฑูุฒ
+W * PUNC PUNC ยป
+W * N N,PR,SING,DAY ูพูุฌ ุดูุจู
+W * PUNC PUNC ยซ
+W * P P ุฏุฑ
 W * NUM NUM,CAR,NOMI,SING 2
-W * N N,COM,SING,EZ ไๆศส
-W * N N,COM,SING,TIME ีศอ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,TIME ศฺฯวาูๅั
-W * N N,COM,SING,EZ ฬแำๅ
-W * AJ AJ,SIM ฺแไํ
-W * V V,PA,SIM,POS,3 ฯวิส
-W * CONJ CONJ ๆ
-W * P P,EZ ุํ
-W * PRO PRO,DEMO,SING ยไ
+W * N N,COM,SING,EZ ููุจุช
+W * N N,COM,SING,TIME ุตุจุญ
+W * CONJ CONJ ู
+W * N N,COM,SING,TIME ุจุนุฏุงุฒุธูุฑ
+W * N N,COM,SING,EZ ุฌูุณู
+W * AJ AJ,SIM ุนููู
+W * V V,PA,SIM,POS,3 ุฏุงุดุช
+W * CONJ CONJ ู
+W * P P,EZ ุทู
+W * PRO PRO,DEMO,SING ุขู
 W * NUM NUM,CAR,NOMI,SING 9
-W * N N,COM,SING,EZ ใวฯๅ
-W * PRO PRO,INDF,SING ฯํั
-W * P P วา
-W * N N,COM,SING,EZ แวํอๅ
-W * N N,COM,SING,EZ ศัไวใๅ
-W * NUM NUM,ORD,AJC,EZ ำๆใ
-W * N N,COM,SING,EZ สๆำฺๅ
-W * AJ AJ,SIM วÞสีวฯํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM วฬสใวฺํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM,EZ Ýัๅไํ
-W * N N,COM,SING,EZ ฬใๅๆัํ
-W * AJ AJ,SIM,EZ วำแวใํ
-W * N N,PR,SING,LOC วํัวไ
-W * POSTP POSTP ัว
-W * N N,COM,SING วีแวอ
-W * CONJ CONJ ๆ
-W * N N,COM,SING สีๆํศ
-W * V V,PA,SIM,POS,3 ฿ัฯ
+W * N N,COM,SING,EZ ู…ุงุฏู
+W * PRO PRO,INDF,SING ุฏูฺฏุฑ
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ูุงูุญู
+W * N N,COM,SING,EZ ุจุฑูุงู…ู
+W * NUM NUM,ORD,AJC,EZ ุณูู…
+W * N N,COM,SING,EZ ุชูุณุนู
+W * AJ AJ,SIM ุงูุชุตุงุฏู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ุงุฌุชู…ุงุนู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM,EZ ูุฑููฺฏู
+W * N N,COM,SING,EZ ุฌู…ููุฑู
+W * AJ AJ,SIM,EZ ุงุณูุงู…ู
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ุงุตูุงุญ
+W * CONJ CONJ ู
+W * N N,COM,SING ุชุตููุจ
+W * V V,PA,SIM,POS,3 ูุฑุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ าวัิ
-W * N N,COM,SING,EZ ฮศัไวั
-W * AJ AJ,SIM,EZ วัแใวไํ
-W * N N,PR,PL วุแวฺวส
-W * AJ AJ,SIM อว฿ํ
-W * V V,COP,PRES,POS,3 วำส
+W * N N,COM,SING,EZ ฺฏุฒุงุฑุด
+W * N N,COM,SING,EZ ุฎุจุฑูฺฏุงุฑ
+W * AJ AJ,SIM,EZ ูพุงุฑูู…ุงูู
+W * N N,PR,PL ุงุทูุงุนุงุช
+W * AJ AJ,SIM ุญุงูู
+W * V V,COP,PRES,POS,3 ุงุณุช
 W * PUNC PUNC :
-W * P P ศๅ ใๆฬศ
-W * N N,COM,SING,EZ ใวฯๅ
+W * P P ุจู ู…ูุฌุจ
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 152
 W * PUNC PUNC :
-W * N N,COM,PL,LOC ฯวไิวๅ ๅว
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ไๅวฯๅวํ
-W * N N,COM,SING,EZ ยใๆาิ
-W * AJ AJ,SIM,EZ ฺวแํ
-W * N N,COM,SING,LOC ฿ิๆั
-W * CONJ CONJ ๆ
-W * CONJ CONJ ไํา
-W * N N,COM,PL,EZ ใัว฿า
-W * AJ AJ,SIM สอÞํÞวสํ
-W * PUNC PUNC ก
-W * V V,PRES,POS,6 ใํ สๆวไไฯ
-W * P P ไำศส ศๅ
-W * N N,COM,SING,EZ สิ฿ํแ
-W * N N,COM,PL,EZ ิั฿สๅวํ
-W * AJ AJ,SIM,EZ ฯๆแสํ
-W * N N,COM,PL,EZ ฮฯใวส
-W * AJ AJ,SIM ฺแใํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM สอÞํÞวสํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM Ýไํ
-W * P P ศว
-W * N N,COM,PL,EZ ใÞััวส
-W * AJ AJ,SIM ฮวี
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ สวศฺ
-W * N N,COM,SING,EZ Þวไๆไ
-W * N N,COM,SING สฬวัส
-W * N N,COM,SING วÞฯวใ
-W * V V,SUB,POS,6 ฿ไไฯ
+W * N N,COM,PL,LOC ุฏุงูุดฺฏุงู ูุง
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ููุงุฏูุงู
+W * N N,COM,SING,EZ ุขู…ูุฒุด
+W * AJ AJ,SIM,EZ ุนุงูู
+W * N N,COM,SING,LOC ูุดูุฑ
+W * CONJ CONJ ู
+W * CONJ CONJ ููุฒ
+W * N N,COM,PL,EZ ู…ุฑุงูุฒ
+W * AJ AJ,SIM ุชุญูููุงุชู
+W * PUNC PUNC ุ
+W * V V,PRES,POS,6 ู…ู ุชูุงููุฏ
+W * P P ูุณุจุช ุจู
+W * N N,COM,SING,EZ ุชุดููู
+W * N N,COM,PL,EZ ุดุฑูุชูุงู
+W * AJ AJ,SIM,EZ ุฏููุชู
+W * N N,COM,PL,EZ ุฎุฏู…ุงุช
+W * AJ AJ,SIM ุนูู…ู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ุชุญูููุงุชู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ููู
+W * P P ุจุง
+W * N N,COM,PL,EZ ู…ูุฑุฑุงุช
+W * AJ AJ,SIM ุฎุงุต
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุชุงุจุน
+W * N N,COM,SING,EZ ูุงููู
+W * N N,COM,SING ุชุฌุงุฑุช
+W * N N,COM,SING ุงูุฏุงู…
+W * V V,SUB,POS,6 ูููุฏ
 W * PUNC PUNC .
-W * ADV ADV,GENR,SIM อฯว฿หั
+W * ADV ADV,GENR,SIM ุญุฏุงูุซุฑ
 W * NUM NUM,CAR,NOMI,SING 49
-W * N N,COM,SING ฯัีฯ
-W * P P วา
-W * N N,COM,PL,EZ ำๅวใ ฯวัวไ
-W * DET DET,DEMO วํไ
-W * N N,COM,PL ิั฿สๅว
-W * PUNC PUNC ก
-W * N N,COM,PL,EZ วฺึวํ
-W * N N,COM,SING,EZ ๅํรส
-W * AJ AJ,SIM ฺแใํ
-W * PUNC PUNC ก
-W * N N,COM,PL,EZ ฿วัิไวำวไ
-W * AJ AJ,SIM ๆๅิํ
-W * PUNC PUNC ก
-W * N N,COM,PL ส฿ไำํไๅว
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ฿วั฿ไวไ
-W * DET DET,DEMO ๅใวไ
-W * N N,COM,SING,LOC ฯวไิวๅ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ใฤำำๅ
-W * N N,COM,SING,EZ ยใๆาิ
-W * AJ AJ,SIM ฺวแํ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ใั฿า
-W * AJ AJ,SIM สอÞํÞวสํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ๆๅิํ
-W * V V,AUX,FUT,POS,6 ฮๆวๅไฯ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ำๅวใ ฯวัวไ
-W * N N,COM,SING,EZ ิั฿ส
-W * AJ AJ,SIM ใัศๆุ
-W * P P วา
-W * N N,COM,SING,EZ ใอฯๆฯํส
-W * N N,COM,SING,EZ Þวไๆไ
-W * N N,COM,SING,EZ ใไฺ
-W * N N,COM,SING,EZ ใฯวฮแๅ
-W * N N,COM,PL,EZ ฿วัใไฯวไ
-W * AJ AJ,SIM ฯๆแสํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM,EZ ใีๆศ
-W * N N,PR,SING,MON ฯํ
-W * N N,COM,SING,TIME,EZ ใวๅ
+W * N N,COM,SING ุฏุฑุตุฏ
+W * P P ุงุฒ
+W * N N,COM,PL,EZ ุณูุงู… ุฏุงุฑุงู
+W * DET DET,DEMO ุงูู
+W * N N,COM,PL ุดุฑูุชูุง
+W * PUNC PUNC ุ
+W * N N,COM,PL,EZ ุงุนุถุงู
+W * N N,COM,SING,EZ ููุฃุช
+W * AJ AJ,SIM ุนูู…ู
+W * PUNC PUNC ุ
+W * N N,COM,PL,EZ ูุงุฑุดูุงุณุงู
+W * AJ AJ,SIM ูพฺููุดู
+W * PUNC PUNC ุ
+W * N N,COM,PL ุชููุณูููุง
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ูุงุฑููุงู
+W * DET DET,DEMO ูู…ุงู
+W * N N,COM,SING,LOC ุฏุงูุดฺฏุงู
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ู…ุคุณุณู
+W * N N,COM,SING,EZ ุขู…ูุฒุด
+W * AJ AJ,SIM ุนุงูู
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ู…ุฑูุฒ
+W * AJ AJ,SIM ุชุญูููุงุชู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ูพฺููุดู
+W * V V,AUX,FUT,POS,6 ุฎูุงููุฏ
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ุณูุงู… ุฏุงุฑุงู
+W * N N,COM,SING,EZ ุดุฑูุช
+W * AJ AJ,SIM ู…ุฑุจูุท
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ู…ุญุฏูุฏูุช
+W * N N,COM,SING,EZ ูุงููู
+W * N N,COM,SING,EZ ู…ูุน
+W * N N,COM,SING,EZ ู…ุฏุงุฎูู
+W * N N,COM,PL,EZ ูุงุฑู…ูุฏุงู
+W * AJ AJ,SIM ุฏููุชู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM,EZ ู…ุตูุจ
+W * N N,PR,SING,MON ุฏู
+W * N N,COM,SING,TIME,EZ ู…ุงู
 W * NUM NUM,CAR,NOMI,SING 1337
-W * AJ AJ,SIM ใำสหไํ
-W * V V,PRES,POS,6 ใํ ิๆไฯ
+W * AJ AJ,SIM ู…ุณุชุซูู
+W * V V,PRES,POS,6 ู…ู ุดููุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ ใวฯๅ
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 153
-W * AJ AJ,SIM ใัศๆุ
-W * P P ศๅ
-W * N N,COM,SING Ýัๅไ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ๅไั
-W * PUNC PUNC ก
-W * N N,COM,PL,EZ วัสศวุวส
-W * AJ AJ,SIM ฬใฺํ
-W * CONJ CONJ ๆ
-W * N N,COM,SING สัศํส ศฯไํ
-W * V V,COP,PRES,POS,3 วำส
-W * CONJ CONJ ๆ
-W * P P ศั วำวำ
-W * PRO PRO,DEMO,SING ยไ
+W * AJ AJ,SIM ู…ุฑุจูุท
+W * P P ุจู
+W * N N,COM,SING ูุฑููฺฏ
+W * CONJ CONJ ู
+W * N N,COM,SING ููุฑ
+W * PUNC PUNC ุ
+W * N N,COM,PL,EZ ุงุฑุชุจุงุทุงุช
+W * AJ AJ,SIM ุฌู…ุนู
+W * CONJ CONJ ู
+W * N N,COM,SING ุชุฑุจูุช ุจุฏูู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * CONJ CONJ ู
+W * P P ุจุฑ ุงุณุงุณ
+W * PRO PRO,DEMO,SING ุขู
 W * PUNC PUNC :
-W * N N,COM,PL,EZ ฯำสวๅๅวํ
-W * AJ AJ,SIM วฬัวํํ
-W * V V,PRES,POS,6 ใํ สๆวไไฯ
-W * PUNC PUNC ก
-W * N N,COM,PL วใ฿วไวส
-W * PUNC PUNC ก
-W * N N,COM,PL สรำํำวส
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ Ýึวๅวํ
-W * AJ AJ,SIM Ýัๅไํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM ๅไัํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ๆัาิํ
-W * PUNC PUNC ก
-W * N N,COM,PL,EZ ุัอๅวํ
-W * AJ AJ,SIM ไํใๅ สใวใ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,LOC,EZ วัวึํ
-W * AJ AJ,SIM ใสฺแÞ
-W * POSTP POSTP ัว
-W * P P ฯั
-W * N N,COM,PL,LOC,EZ ใไวุÞ
-W * AJ AJ,SIM ิๅัํ
-W * P P ศว
-W * N N,COM,SING,EZ วๆแๆํส
-W * N N,COM,PL,LOC,EZ ิๅัๅวํ
-W * AJ AJ,SIM ศาั
-W * P P ศๅ
-W * N N,COM,PL,EZ ศฮิๅวํ
-W * AJ AJ,SIM Ûํัฯๆแสํ
-W * P P ศว
-W * N N,COM,SING,EZ วๆแๆํส
-W * N N,COM,PL,EZ วิฮวี
-W * AJ AJ,SIM อÞํÞํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM อÞๆÞํ
-W * PUNC PUNC ก
-W * N N,COM,PL,LOC ิๅัฯวัํๅว
-W * CONJ CONJ ๆ
-W * N N,COM,PL,YA วํหวััวไํ
-W * CONJ CONJ ฿ๅ
-W * N N,COM,SING,EZ ํิํไๅ
-W * AJ AJ,SIM ๆัาิํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM Ýัๅไํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ๅไัํ
-W * V V,PRES,POS,6 ฯวัไฯ
-W * PUNC PUNC ก
-W * P P ฯั
-W * N N,COM,SING,EZ Þวแศ
-W * N N,COM,PL,EZ Þัวัฯวฯๅวํ
-W * N N,COM,SING วฬวัๅ
-W * PUNC PUNC ก
-W * N N,COM,SING วฬวัๅ
-W * P P ศๅ
-W * N N,COM,SING,EZ ิัุ
-W * N N,COM,SING สใแํ฿
-W * CONJ CONJ ๆ
-W * N N,COM,SING Ýัๆิ
-W * PUNC PUNC ก
-W * AJ AJ,SIM ๆวะวั
-W * V V,SUB,POS,6 ฿ไไฯ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ฯัยใฯๅวํ
-W * AJ AJ,SIM ไวิํ
-W * P P วา
-W * PRO PRO,DEMO,SING ยไ
-W * POSTP POSTP ัว
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ วอฯวห
-W * N N,COM,PL,EZ Ýึวๅวํ
-W * AJ AJ,SIM Ýัๅไํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM ๅไัํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ๆัาิํ
-W * P P ฯั
-W * N N,COM,PL,LOC,EZ ใไวุÞ
-W * AJ AJ,SIM สๆำฺๅ ไํวÝสๅ
-W * CONJ CONJ ํว
-W * ADV ADV,INTSF,COMP ฿ใสั
-W * AJ AJ,SIM สๆำฺๅ ํวÝสๅ
-W * P P ศๅ
-W * N N,COM,SING ใีัÝ
-W * V V,SUB,POS,6 ศัำวไไฯ
+W * N N,COM,PL,EZ ุฏุณุชฺฏุงููุงู
+W * AJ AJ,SIM ุงุฌุฑุงูู
+W * V V,PRES,POS,6 ู…ู ุชูุงููุฏ
+W * PUNC PUNC ุ
+W * N N,COM,PL ุงู…ูุงูุงุช
+W * PUNC PUNC ุ
+W * N N,COM,PL ุชุฃุณูุณุงุช
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ูุถุงูุงู
+W * AJ AJ,SIM ูุฑููฺฏู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ููุฑู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ูุฑุฒุดู
+W * PUNC PUNC ุ
+W * N N,COM,PL,EZ ุทุฑุญูุงู
+W * AJ AJ,SIM ููู…ู ุชู…ุงู…
+W * CONJ CONJ ู
+W * N N,COM,PL,LOC,EZ ุงุฑุงุถู
+W * AJ AJ,SIM ู…ุชุนูู
+W * POSTP POSTP ุฑุง
+W * P P ุฏุฑ
+W * N N,COM,PL,LOC,EZ ู…ูุงุทู
+W * AJ AJ,SIM ุดูุฑู
+W * P P ุจุง
+W * N N,COM,SING,EZ ุงููููุช
+W * N N,COM,PL,LOC,EZ ุดูุฑูุงู
+W * AJ AJ,SIM ุจุฒุฑฺฏ
+W * P P ุจู
+W * N N,COM,PL,EZ ุจุฎุดูุงู
+W * AJ AJ,SIM ุบูุฑุฏููุชู
+W * P P ุจุง
+W * N N,COM,SING,EZ ุงููููุช
+W * N N,COM,PL,EZ ุงุดุฎุงุต
+W * AJ AJ,SIM ุญูููู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุญูููู
+W * PUNC PUNC ุ
+W * N N,COM,PL,LOC ุดูุฑุฏุงุฑููุง
+W * CONJ CONJ ู
+W * N N,COM,PL,YA ุงูุซุงุฑฺฏุฑุงูู
+W * CONJ CONJ ูู
+W * N N,COM,SING,EZ ูพูุดููู
+W * AJ AJ,SIM ูุฑุฒุดู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ูุฑููฺฏู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ููุฑู
+W * V V,PRES,POS,6 ุฏุงุฑูุฏ
+W * PUNC PUNC ุ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ูุงูุจ
+W * N N,COM,PL,EZ ูุฑุงุฑุฏุงุฏูุงู
+W * N N,COM,SING ุงุฌุงุฑู
+W * PUNC PUNC ุ
+W * N N,COM,SING ุงุฌุงุฑู
+W * P P ุจู
+W * N N,COM,SING,EZ ุดุฑุท
+W * N N,COM,SING ุชู…ููู
+W * CONJ CONJ ู
+W * N N,COM,SING ูุฑูุด
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ูุงฺฏุฐุงุฑ
+W * V V,SUB,POS,6 ูููุฏ
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ุฏุฑุขู…ุฏูุงู
+W * AJ AJ,SIM ูุงุดู
+W * P P ุงุฒ
+W * PRO PRO,DEMO,SING ุขู
+W * POSTP POSTP ุฑุง
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุงุญุฏุงุซ
+W * N N,COM,PL,EZ ูุถุงูุงู
+W * AJ AJ,SIM ูุฑููฺฏู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ููุฑู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ูุฑุฒุดู
+W * P P ุฏุฑ
+W * N N,COM,PL,LOC,EZ ู…ูุงุทู
+W * AJ AJ,SIM ุชูุณุนู ููุงูุชู
+W * CONJ CONJ ูุง
+W * ADV ADV,INTSF,COMP ูู…ุชุฑ
+W * AJ AJ,SIM ุชูุณุนู ูุงูุชู
+W * P P ุจู
+W * N N,COM,SING ู…ุตุฑู
+W * V V,SUB,POS,6 ุจุฑุณุงููุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ ำวาใวไ
-W * N N,COM,SING ศัไวใๅ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ศๆฯฬๅ
-W * PUNC PUNC ก
-W * AJ AJ,SIM ใๆูÝ
-W * V V,COP,PRES,POS,3 วำส
-W * P P ฯั
-W * N N,COM,PL,EZ แๆวํอ
-W * N N,COM,SING,EZ ศๆฯฬๅ
-W * ADV ADV,GENR,TIME ำวแวไๅ
-W * PUNC PUNC ก
-W * N N,COM,PL,EZ วฺสศวัวส
-W * N N,COM,PL,EZ ศฮิๅวํ
-W * N N,COM,SING Ýัๅไ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ๅไั
-W * PUNC PUNC ก
-W * N N,COM,SING สัศํส ศฯไํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ๆัาิํ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING,EZ ุๆั
-W * AJ AJ,SIM ฺวฯแวไๅ
-W * P P ฯั
-W * N N,COM,SING,EZ ำัวำั
-W * N N,COM,SING,LOC ฿ิๆั
-W * N N,COM,SING สฮีํี
-W * V V,SUB,POS,3 ฯๅฯ
+W * N N,COM,SING,EZ ุณุงุฒู…ุงู
+W * N N,COM,SING ุจุฑูุงู…ู
+W * CONJ CONJ ู
+W * N N,COM,SING ุจูุฏุฌู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ู…ูุธู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * P P ุฏุฑ
+W * N N,COM,PL,EZ ููุงูุญ
+W * N N,COM,SING,EZ ุจูุฏุฌู
+W * ADV ADV,GENR,TIME ุณุงูุงูู
+W * PUNC PUNC ุ
+W * N N,COM,PL,EZ ุงุนุชุจุงุฑุงุช
+W * N N,COM,PL,EZ ุจุฎุดูุงู
+W * N N,COM,SING ูุฑููฺฏ
+W * CONJ CONJ ู
+W * N N,COM,SING ููุฑ
+W * PUNC PUNC ุ
+W * N N,COM,SING ุชุฑุจูุช ุจุฏูู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ูุฑุฒุดู
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING,EZ ุทูุฑ
+W * AJ AJ,SIM ุนุงุฏูุงูู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุณุฑุงุณุฑ
+W * N N,COM,SING,LOC ูุดูุฑ
+W * N N,COM,SING ุชุฎุตูุต
+W * V V,SUB,POS,3 ุฏูุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,SING,EZ ใวฯๅ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 154
 W * PUNC PUNC :
-W * CONJ CONJ ฺแวๆๅ ศั
-W * N N,COM,PL,EZ ๆูวํÝ
-W * AJ AJ,SIM,EZ ฮวี
-W * N N,COM,PL,EZ ิๆัวๅวํ
-W * AJ AJ,SIM,EZ วำแวใํ
-W * N N,COM,SING,LOC ิๅั
-W * CONJ CONJ ๆ
-W * N N,COM,SING,LOC ัๆำสว
-W * PUNC PUNC ก
-W * N N,COM,PL,EZ ิๆัวๅวํ
-W * AJ AJ,SIM ใาศๆั
-W * AJ AJ,SIM ใๆูÝ
-W * V V,PERF,POS,6 ิฯๅ วไฯ
-W * P P,EZ ึใไ
-W * N N,COM,SING,EZ ศััำํ
-W * N N,COM,PL ใิ฿แวส
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ไวัำวํํๅวํ
-W * AJ AJ,SIM Ýัๅไํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM ๅไัํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM ๆัาิํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ยใๆาิํ
-W * P P ฯั
-W * N N,COM,SING อÝู
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ไวๅฯวัํ
-W * N N,COM,PL,EZ ศไวๅวํ
-W * AJ AJ,SIM Ýัๅไํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM ใะๅศํ
-W * PUNC PUNC ก
-W * N N,COM,PL,LOC ใำวฬฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ แาวั
-W * N N,COM,PL ิๅฯว
-W * PUNC PUNC ก
-W * N N,COM,SING ศๅัๅ ศัฯวัํ
-W * P P วา
-W * DET DET,DEMO ยไ
-W * N N,COM,PL ใัว฿า
-W * CONJ CONJ ๆ
-W * N N,COM,SING สแวิ
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ ฬแศ
-W * N N,COM,SING,EZ ๅใ฿วัํ
-W * N N,COM,SING ใัฯใ
-W * P P ฯั
-W * N N,COM,SING,EZ วํฬวฯ
-W * N N,COM,PL สรำํำวส
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ Ýึวๅวํ
-W * N N,COM,SING,EZ ใๆัฯ
-W * N N,COM,SING ไํวา
-W * CONJ CONJ ๆ
-W * N N,COM,SING ๅใ฿วัํ
-W * P P ฯั
-W * N N,COM,SING อÝวูส
-W * P P วา
-W * N N,COM,PL ศไวๅว
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ยหวั
-W * AJ AJ,SIM สวัํฮํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM Ýัๅไํ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,LOC,EZ ใอๆุๅ ๅวํ
-W * AJ AJ,SIM Ýัๅไํ
+W * CONJ CONJ ุนูุงูู ุจุฑ
+W * N N,COM,PL,EZ ูุธุงูู
+W * AJ AJ,SIM,EZ ุฎุงุต
+W * N N,COM,PL,EZ ุดูุฑุงูุงู
+W * AJ AJ,SIM,EZ ุงุณูุงู…ู
+W * N N,COM,SING,LOC ุดูุฑ
+W * CONJ CONJ ู
+W * N N,COM,SING,LOC ุฑูุณุชุง
+W * PUNC PUNC ุ
+W * N N,COM,PL,EZ ุดูุฑุงูุงู
+W * AJ AJ,SIM ู…ุฒุจูุฑ
+W * AJ AJ,SIM ู…ูุธู
+W * V V,PERF,POS,6 ุดุฏู ุงูุฏ
+W * P P,EZ ุถู…ู
+W * N N,COM,SING,EZ ุจุฑุฑุณู
+W * N N,COM,PL ู…ุดููุงุช
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ูุงุฑุณุงูููุงู
+W * AJ AJ,SIM ูุฑููฺฏู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ููุฑู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ูุฑุฒุดู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุขู…ูุฒุดู
+W * P P ุฏุฑ
+W * N N,COM,SING ุญูุธ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ูฺฏุงูุฏุงุฑู
+W * N N,COM,PL,EZ ุจูุงูุงู
+W * AJ AJ,SIM ูุฑููฺฏู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ู…ุฐูุจู
+W * PUNC PUNC ุ
+W * N N,COM,PL,LOC ู…ุณุงุฌุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ฺฏูุฒุงุฑ
+W * N N,COM,PL ุดูุฏุง
+W * PUNC PUNC ุ
+W * N N,COM,SING ุจูุฑู ุจุฑุฏุงุฑู
+W * P P ุงุฒ
+W * DET DET,DEMO ุขู
+W * N N,COM,PL ู…ุฑุงูุฒ
+W * CONJ CONJ ู
+W * N N,COM,SING ุชูุงุด
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุฌูุจ
+W * N N,COM,SING,EZ ูู…ูุงุฑู
+W * N N,COM,SING ู…ุฑุฏู…
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุงูุฌุงุฏ
+W * N N,COM,PL ุชุฃุณูุณุงุช
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ูุถุงูุงู
+W * N N,COM,SING,EZ ู…ูุฑุฏ
+W * N N,COM,SING ููุงุฒ
+W * CONJ CONJ ู
+W * N N,COM,SING ูู…ูุงุฑู
+W * P P ุฏุฑ
+W * N N,COM,SING ุญูุงุธุช
+W * P P ุงุฒ
+W * N N,COM,PL ุจูุงูุง
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ุขุซุงุฑ
+W * AJ AJ,SIM ุชุงุฑูุฎู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ูุฑููฺฏู
+W * CONJ CONJ ู
+W * N N,COM,PL,LOC,EZ ู…ุญูุทู ูุงู
+W * AJ AJ,SIM ูุฑููฺฏู
 W * PUNC PUNC -
-W * AJ AJ,SIM สวัํฮํ
-W * CONJ CONJ ๆ
-W * CONJ CONJ ไํา
-W * N N,COM,SING ใใวไฺส
-W * P P วา
-W * N N,COM,SING,EZ สÛํํั
-W * N N,COM,SING,EZ ฿วัศัํ
-W * PRO PRO,DEMO,PL ยไๅว
-W * N N,COM,SING วÞฯวใ
-W * V V,SUB,POS,6 ฿ไไฯ
+W * AJ AJ,SIM ุชุงุฑูุฎู
+W * CONJ CONJ ู
+W * CONJ CONJ ููุฒ
+W * N N,COM,SING ู…ู…ุงูุนุช
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ุชุบููุฑ
+W * N N,COM,SING,EZ ูุงุฑุจุฑู
+W * PRO PRO,DEMO,PL ุขููุง
+W * N N,COM,SING ุงูุฏุงู…
+W * V V,SUB,POS,6 ูููุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ ใวฯๅ
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 155
-W * AJ AJ,SIM ใัศๆุ
-W * P P ศๅ
-W * N N,COM,SING,EZ สิ฿ํแ
-W * N N,COM,SING,EZ ำวาใวไ
-W * AJ AJ,SIM,EZ ใแํ
-W * N N,COM,PL ฬๆวไวไ
-W * V V,COP,PRES,POS,3 วำส
-W * CONJ CONJ ฿ๅ
-W * P P ศว
-W * N N,COM,SING,EZ ๅฯÝ
-W * N N,COM,SING ำวาใวไฯๅํ
-W * PUNC PUNC ก
-W * N N,COM,SING ศวาิไวำํ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ สศํํไ
-W * N N,COM,PL,EZ ใำวํแ
-W * N N,COM,PL ฬๆวไวไ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ไๆฬๆวไวไ
-W * N N,COM,SING,LOC ฿ิๆั
-W * N N,COM,SING วํฬวฯ
-W * V V,PRES,POS,3 ใํ ิๆฯ
+W * AJ AJ,SIM ู…ุฑุจูุท
+W * P P ุจู
+W * N N,COM,SING,EZ ุชุดููู
+W * N N,COM,SING,EZ ุณุงุฒู…ุงู
+W * AJ AJ,SIM,EZ ู…ูู
+W * N N,COM,PL ุฌูุงูุงู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * CONJ CONJ ูู
+W * P P ุจุง
+W * N N,COM,SING,EZ ูุฏู
+W * N N,COM,SING ุณุงุฒู…ุงูุฏูู
+W * PUNC PUNC ุ
+W * N N,COM,SING ุจุงุฒุดูุงุณู
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุชุจููู
+W * N N,COM,PL,EZ ู…ุณุงูู
+W * N N,COM,PL ุฌูุงูุงู
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ููุฌูุงูุงู
+W * N N,COM,SING,LOC ูุดูุฑ
+W * N N,COM,SING ุงูุฌุงุฏ
+W * V V,PRES,POS,3 ู…ู ุดูุฏ
 W * PUNC PUNC .
-W * P P ศั วำวำ
-W * N N,COM,SING,EZ ใวฯๅ
+W * P P ุจุฑ ุงุณุงุณ
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 156
 W * PUNC PUNC :
-W * N N,COM,SING,EZ ใั฿า
-W * N N,COM,PL,EZ วใๆั
-W * N N,COM,SING,EZ ใิวั฿ส
-W * N N,COM,PL,EZ าไวไ
-W * N N,COM,SING ัํวำส ฬใๅๆัํ
-W * AJ AJ,SIM ใๆูÝ
-W * V V,PASTP ิฯๅ
-W * V V,COP,PRES,POS,3 วำส
-W * N N,COM,PL,EZ ุัอๅวํ
-W * AJ AJ,SIM,EZ ใไวำศ
-W * AJ AJ,SIM ยใๆาิํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM Ýัๅไํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ิÛแํ
-W * POSTP POSTP ัว
-W * P P,EZ ศัวํ
-W * N N,COM,PL าไวไ
-W * N N,COM,SING สๅํๅ
-W * V V,SUB,POS,3 ฿ไฯ
-W * CONJ CONJ ๆ
-W * P P,EZ ฬๅส
-W * N N,COM,SING สีๆํศ
-W * P P ฯั
-W * N N,COM,SING,EZ วฮสํวั
-W * N N,COM,PL,EZ ใัวฬฺ
-W * AJ AJ,SIM ใัศๆุ
-W * N N,COM,SING Þัวั
-W * V V,SUB,POS,3 ฯๅฯ
+W * N N,COM,SING,EZ ู…ุฑูุฒ
+W * N N,COM,PL,EZ ุงู…ูุฑ
+W * N N,COM,SING,EZ ู…ุดุงุฑูุช
+W * N N,COM,PL,EZ ุฒูุงู
+W * N N,COM,SING ุฑูุงุณุช ุฌู…ููุฑู
+W * AJ AJ,SIM ู…ูุธู
+W * V V,PASTP ุดุฏู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * N N,COM,PL,EZ ุทุฑุญูุงู
+W * AJ AJ,SIM,EZ ู…ูุงุณุจ
+W * AJ AJ,SIM ุขู…ูุฒุดู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ูุฑููฺฏู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุดุบูู
+W * POSTP POSTP ุฑุง
+W * P P,EZ ุจุฑุงู
+W * N N,COM,PL ุฒูุงู
+W * N N,COM,SING ุชููู
+W * V V,SUB,POS,3 ููุฏ
+W * CONJ CONJ ู
+W * P P,EZ ุฌูุช
+W * N N,COM,SING ุชุตููุจ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุงุฎุชูุงุฑ
+W * N N,COM,PL,EZ ู…ุฑุงุฌุน
+W * AJ AJ,SIM ู…ุฑุจูุท
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,SUB,POS,3 ุฏูุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,SING,EZ ใวฯๅ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 157
 W * PUNC PUNC :
-W * N N,COM,PL,LOC,EZ ๆาวัสฮวไๅ ๅวํ
-W * N N,COM,SING ยใๆาิ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ัๆัิ
-W * PUNC PUNC ก
-W * N N,COM,SING Ýัๅไ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ยใๆาิ
-W * AJ AJ,SIM ฺวแํ
-W * PUNC PUNC ก
-W * N N,COM,SING ศๅฯวิส
-W * PUNC PUNC ก
-W * N N,COM,SING ฯัใวไ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ยใๆาิ
-W * N N,COM,SING าิ฿ํ
-W * PUNC PUNC ก
-W * N N,COM,SING Ýัๅไ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ วัิวฯ
-W * AJ AJ,SIM วำแวใํ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ำวาใวไ
-W * N N,COM,SING ีฯว
-W * CONJ CONJ ๆ
-W * N N,COM,SING ำํใว
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ไํัๆํ
-W * N N,COM,SING,EZ ใÞวๆใส
-W * N N,PR,SING ศำํฬ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ำวาใวไ
-W * N N,COM,PL,EZ สศแํÛวส
-W * AJ AJ,SIM วำแวใํ
-W * PUNC PUNC ก
-W * N N,COM,SING,LOC,EZ ฯÝสั
-W * N N,COM,PL,EZ สศแํÛวส
-W * AJ AJ,SIM วำแวใํ
-W * CONJ CONJ ๆ
-W * PRO PRO,INDF,SING ฯํั
-W * N N,COM,PL,YA ฯำสวๅๅวํํ
-W * CONJ CONJ ฿ๅ
-W * P P วา
-W * N N,COM,SING,EZ ศๆฯฬๅ
-W * AJ AJ,SIM ฺใๆใํ
-W * N N,COM,SING วำสÝวฯๅ
-W * V V,PRES,POS,6 ใํ ฿ไไฯ
-W * PUNC PUNC ก
-W * V V,COP,AJCC,6 ใๆูÝ วไฯ
-W * NUM NUM,CAR,NOMI,SING,YA ํ฿ํ
-W * P P วา
-W * N N,COM,PL,EZ ใัว฿า
-W * AJ AJ,SIM,EZ ๆๅิํ
-W * AJ AJ,SIM,EZ ใๆฬๆฯ
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ วไฬวใ
-W * N N,COM,PL,EZ ใุวแฺวส
-W * AJ AJ,SIM ใำสใั
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ๅใๅ ฬวไศๅ
-W * P P ฯั
-W * N N,COM,SING,EZ าใํไๅ
-W * N N,COM,SING ศๅัๅ ํัํ
-W * P P วา
-W * N N,COM,PL ฺแๆใ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ส฿ไๆแๆํ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ๅไั
-W * AJ AJ,SIM ฯํไํ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ วÝ฿วั
-W * N N,PR,SING วใวใ
-W * N N,PR,SING ฮใํไํ
-W * N N,COM,SING ใรใๆั
-W * V V,SUB,POS,6 ฿ไไฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ าใํไๅ
-W * N N,COM,SING,EZ ใิวั฿ส
-W * N N,COM,PL,EZ ฯวไิฬๆํวไ
-W * N N,COM,PL,EZ ฯๆัๅ ๅวํ
-W * N N,COM,PL,EZ สอีํแวส
-W * AJ AJ,SIM ส฿ใํแํ
-W * POSTP POSTP ัว
-W * P P ฯั
-W * N N,COM,PL,EZ ๆๅิๅวํ
-W * AJ AJ,SIM ใัสศุ
-W * P P ศว
-W * DET DET,DEMO วํไ
-W * N N,COM,PL วใๆั
-W * N N,COM,SING Ýัวๅใ
-W * V V,SUB,POS,6 ฿ไไฯ
+W * N N,COM,PL,LOC,EZ ูุฒุงุฑุชุฎุงูู ูุงู
+W * N N,COM,SING ุขู…ูุฒุด
+W * CONJ CONJ ู
+W * N N,COM,SING ูพุฑูุฑุด
+W * PUNC PUNC ุ
+W * N N,COM,SING ูุฑููฺฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุขู…ูุฒุด
+W * AJ AJ,SIM ุนุงูู
+W * PUNC PUNC ุ
+W * N N,COM,SING ุจูุฏุงุดุช
+W * PUNC PUNC ุ
+W * N N,COM,SING ุฏุฑู…ุงู
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุขู…ูุฒุด
+W * N N,COM,SING ูพุฒุดูู
+W * PUNC PUNC ุ
+W * N N,COM,SING ูุฑููฺฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุงุฑุดุงุฏ
+W * AJ AJ,SIM ุงุณูุงู…ู
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ุณุงุฒู…ุงู
+W * N N,COM,SING ุตุฏุง
+W * CONJ CONJ ู
+W * N N,COM,SING ุณูู…ุง
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ููุฑูู
+W * N N,COM,SING,EZ ู…ูุงูู…ุช
+W * N N,PR,SING ุจุณูุฌ
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ุณุงุฒู…ุงู
+W * N N,COM,PL,EZ ุชุจููุบุงุช
+W * AJ AJ,SIM ุงุณูุงู…ู
+W * PUNC PUNC ุ
+W * N N,COM,SING,LOC,EZ ุฏูุชุฑ
+W * N N,COM,PL,EZ ุชุจููุบุงุช
+W * AJ AJ,SIM ุงุณูุงู…ู
+W * CONJ CONJ ู
+W * PRO PRO,INDF,SING ุฏูฺฏุฑ
+W * N N,COM,PL,YA ุฏุณุชฺฏุงููุงูู
+W * CONJ CONJ ูู
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ุจูุฏุฌู
+W * AJ AJ,SIM ุนู…ูู…ู
+W * N N,COM,SING ุงุณุชูุงุฏู
+W * V V,PRES,POS,6 ู…ู ูููุฏ
+W * PUNC PUNC ุ
+W * V V,COP,AJCC,6 ู…ูุธู ุงูุฏ
+W * NUM NUM,CAR,NOMI,SING,YA ููู
+W * P P ุงุฒ
+W * N N,COM,PL,EZ ู…ุฑุงูุฒ
+W * AJ AJ,SIM,EZ ูพฺููุดู
+W * AJ AJ,SIM,EZ ู…ูุฌูุฏ
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุงูุฌุงู…
+W * N N,COM,PL,EZ ู…ุทุงูุนุงุช
+W * AJ AJ,SIM ู…ุณุชู…ุฑ
+W * CONJ CONJ ู
+W * AJ AJ,SIM ูู…ู ุฌุงูุจู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุฒู…ููู
+W * N N,COM,SING ุจูุฑู ฺฏูุฑู
+W * P P ุงุฒ
+W * N N,COM,PL ุนููู…
+W * CONJ CONJ ู
+W * N N,COM,SING ุชูููููฺู
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ููุฑ
+W * AJ AJ,SIM ุฏููู
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ุงููุงุฑ
+W * N N,PR,SING ุงู…ุงู…
+W * N N,PR,SING ุฎู…ููู
+W * N N,COM,SING ู…ุฃู…ูุฑ
+W * V V,SUB,POS,6 ูููุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุฒู…ููู
+W * N N,COM,SING,EZ ู…ุดุงุฑูุช
+W * N N,COM,PL,EZ ุฏุงูุดุฌููุงู
+W * N N,COM,PL,EZ ุฏูุฑู ูุงู
+W * N N,COM,PL,EZ ุชุญุตููุงุช
+W * AJ AJ,SIM ุชูู…ููู
+W * POSTP POSTP ุฑุง
+W * P P ุฏุฑ
+W * N N,COM,PL,EZ ูพฺููุดูุงู
+W * AJ AJ,SIM ู…ุฑุชุจุท
+W * P P ุจุง
+W * DET DET,DEMO ุงูู
+W * N N,COM,PL ุงู…ูุฑ
+W * N N,COM,SING ูุฑุงูู…
+W * V V,SUB,POS,6 ูููุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING าใํไๅ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ำวาใวไ
-W * N N,COM,PL,EZ วใๆั
-W * AJ AJ,SIM วฯวัํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM วำสฮฯวใํ
-W * PUNC PUNC ก
-W * V V,AUX,NIN,POS ศวํฯ
-W * N N,COM,SING,EZ ศัไวใๅ
-W * AJ AJ,SIM,EZ ยใๆาิํ
-W * AJ AJ,SIM,YA ๆํๅ วํ
-W * P P,EZ ฬๅส
-W * N N,COM,SING,INFI,EZ ิไวำวไฯไ
-W * N N,COM,PL,EZ ใศวไํ
-W * AJ AJ,SIM ไูัํ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ วไฯํิๅ ๅวํ
-W * AJ AJ,SIM ำํวำํ
+W * P P ุฏุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุฒู…ููู
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ุณุงุฒู…ุงู
+W * N N,COM,PL,EZ ุงู…ูุฑ
+W * AJ AJ,SIM ุงุฏุงุฑู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุงุณุชุฎุฏุงู…ู
+W * PUNC PUNC ุ
+W * V V,AUX,NIN,POS ุจุงูุฏ
+W * N N,COM,SING,EZ ุจุฑูุงู…ู
+W * AJ AJ,SIM,EZ ุขู…ูุฒุดู
+W * AJ AJ,SIM,YA ููฺู ุงู
+W * P P,EZ ุฌูุช
+W * N N,COM,SING,INFI,EZ ุดูุงุณุงูุฏู
+W * N N,COM,PL,EZ ู…ุจุงูู
+W * AJ AJ,SIM ูุธุฑู
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ุงูุฏูุดู ูุงู
+W * AJ AJ,SIM ุณูุงุณู
 W * PUNC PUNC -
-W * AJ AJ,SIM,EZ ฯํไํ
-W * N N,PR,SING วใวใ
-W * N N,PR,SING ฮใํไํ
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ ยใๆาิ ํวศํ
-W * N N,COM,PL ใฯํัวไ
-W * N N,COM,SING สๅํๅ
-W * V V,SUB,POS,3 ฿ไฯ
+W * AJ AJ,SIM,EZ ุฏููู
+W * N N,PR,SING ุงู…ุงู…
+W * N N,PR,SING ุฎู…ููู
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุขู…ูุฒุด ูุงุจู
+W * N N,COM,PL ู…ุฏูุฑุงู
+W * N N,COM,SING ุชููู
+W * V V,SUB,POS,3 ููุฏ
 W * PUNC PUNC .
-W * CONJ CONJ ๅใไํไ
-W * P P ศๅ ใไูๆั
-W * N N,COM,SING,EZ ยใๆาิ
-W * AJ AJ,SIM,EZ ๅใวไํ
-W * N N,PR,SING Þัยไ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ำวาใวไ
-W * N N,COM,PL,EZ สศแํÛวส
-W * AJ AJ,SIM วำแวใํ
-W * PUNC PUNC ก
-W * V V,AUX,NIN,POS ศวํฯ
-W * P P ฯั
-W * N N,COM,SING,EZ ำุอ
-W * N N,COM,SING,LOC ฿ิๆั
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ไÞวุ
-W * AJ AJ,SIM ใอัๆใ
-W * P P ไำศส ศๅ
-W * N N,COM,SING Ýัวฮๆวไ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ยใๆาิ
-W * N N,PR,SING Þัยไ
-W * N N,COM,SING วÞฯวใ
-W * V V,SUB,POS,3 ฿ไฯ
+W * CONJ CONJ ูู…ฺููู
+W * P P ุจู ู…ูุธูุฑ
+W * N N,COM,SING,EZ ุขู…ูุฒุด
+W * AJ AJ,SIM,EZ ูู…ฺฏุงูู
+W * N N,PR,SING ูุฑุขู
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ุณุงุฒู…ุงู
+W * N N,COM,PL,EZ ุชุจููุบุงุช
+W * AJ AJ,SIM ุงุณูุงู…ู
+W * PUNC PUNC ุ
+W * V V,AUX,NIN,POS ุจุงูุฏ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุณุทุญ
+W * N N,COM,SING,LOC ูุดูุฑ
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ููุงุท
+W * AJ AJ,SIM ู…ุญุฑูู…
+W * P P ูุณุจุช ุจู
+W * N N,COM,SING ูุฑุงุฎูุงู
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุขู…ูุฒุด
+W * N N,PR,SING ูุฑุขู
+W * N N,COM,SING ุงูุฏุงู…
+W * V V,SUB,POS,3 ููุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,SING,EZ ใวฯๅ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 158
 W * PUNC PUNC :
-W * N N,COM,PL,EZ าวัิๅวํ
-W * AJ AJ,SIM ๆๅิํ
-W * CONJ CONJ ๆ
-W * N N,COM,PL วํวไ ไวใๅ ๅว
-W * P P ศๅ ฺไๆวไ
-W * N N,COM,SING,EZ วหั
-W * AJ AJ,SIM,EZ ใิใๆแ
-W * N N,COM,PL,EZ ใÝวฯ
-W * N N,COM,SING,EZ Þวไๆไ
-W * N N,COM,SING อใวํส
-W * P P วา
-W * N N,COM,PL,EZ อÞๆÞ
-W * N N,COM,PL ใฤแÝวไ
-W * PUNC PUNC ก
-W * N N,COM,PL ใีไÝวไ
-W * CONJ CONJ ๆ
-W * N N,COM,PL ๅไัใไฯวไ
-W * AJ AJ,SIM ใอำๆศ
-W * V V,PRES,POS,3 ใํ ิๆฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ฯๆแส
-W * AJ AJ,SIM ใๆูÝ
-W * V V,COP,PRES,POS,3 วำส
-W * P P,EZ ฬๅส
-W * N N,COM,SING อใวํส
-W * P P วา
-W * N N,COM,PL,EZ ฯํฯยๆัไฯวไ
-W * N N,COM,PL,EZ ไัใ วÝาวัๅวํ
-W * AJ AJ,SIM ไฯัำวไๅ วํ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ยหวั
-W * AJ AJ,SIM ๅไัํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ำํไใวํํ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ไอๆๅ
-W * N N,COM,SING,EZ หศส
-W * DET DET,DEMO วํไ
-W * N N,COM,PL ยหวั
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ วำสÝวฯๅ
-W * AJ AJ,SIM วไอีวัํ
-W * P P,EZ สๆำุ
-W * N N,COM,PL,EZ ีวอศวไ
-W * PRO PRO,DEMO,PL ยไ ๅว
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ แวํอๅ
-W * AJ AJ,SIM ใัศๆุ
-W * POSTP POSTP ัว
-W * N N,COM,SING สๅํๅ
-W * CONJ CONJ ๆ
-W * P P ศๅ
-W * N N,COM,SING,EZ ใฬแำ
-W * N N,COM,SING,EZ ิๆัวํ
-W * AJ AJ,SIM วำแวใํ
-W * N N,COM,SING วัวฦๅ
-W * V V,SUB,POS,3 ฯๅฯ
+W * N N,COM,PL,EZ ฺฏุฒุงุฑุดูุงู
+W * AJ AJ,SIM ูพฺููุดู
+W * CONJ CONJ ู
+W * N N,COM,PL ูพุงูุงู ูุงู…ู ูุง
+W * P P ุจู ุนููุงู
+W * N N,COM,SING,EZ ุงุซุฑ
+W * AJ AJ,SIM,EZ ู…ุดู…ูู
+W * N N,COM,PL,EZ ู…ูุงุฏ
+W * N N,COM,SING,EZ ูุงููู
+W * N N,COM,SING ุญู…ุงูุช
+W * P P ุงุฒ
+W * N N,COM,PL,EZ ุญููู
+W * N N,COM,PL ู…ุคููุงู
+W * PUNC PUNC ุ
+W * N N,COM,PL ู…ุตููุงู
+W * CONJ CONJ ู
+W * N N,COM,PL ููุฑู…ูุฏุงู
+W * AJ AJ,SIM ู…ุญุณูุจ
+W * V V,PRES,POS,3 ู…ู ุดูุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING ุฏููุช
+W * AJ AJ,SIM ู…ูุธู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * P P,EZ ุฌูุช
+W * N N,COM,SING ุญู…ุงูุช
+W * P P ุงุฒ
+W * N N,COM,PL,EZ ูพุฏูุฏุขูุฑูุฏฺฏุงู
+W * N N,COM,PL,EZ ูุฑู… ุงูุฒุงุฑูุงู
+W * AJ AJ,SIM ฺูุฏุฑุณุงูู ุงู
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ุขุซุงุฑ
+W * AJ AJ,SIM ููุฑู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุณููู…ุงูู
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ูุญูู
+W * N N,COM,SING,EZ ุซุจุช
+W * DET DET,DEMO ุงูู
+W * N N,COM,PL ุขุซุงุฑ
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุงุณุชูุงุฏู
+W * AJ AJ,SIM ุงูุญุตุงุฑู
+W * P P,EZ ุชูุณุท
+W * N N,COM,PL,EZ ุตุงุญุจุงู
+W * PRO PRO,DEMO,PL ุขู ูุง
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ูุงูุญู
+W * AJ AJ,SIM ู…ุฑุจูุท
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ุชููู
+W * CONJ CONJ ู
+W * P P ุจู
+W * N N,COM,SING,EZ ู…ุฌูุณ
+W * N N,COM,SING,EZ ุดูุฑุงู
+W * AJ AJ,SIM ุงุณูุงู…ู
+W * N N,COM,SING ุงุฑุงุฆู
+W * V V,SUB,POS,3 ุฏูุฏ
 W * PUNC PUNC .
-W * P P ศั วำวำ
-W * N N,COM,SING,EZ ใวฯๅ
+W * P P ุจุฑ ุงุณุงุณ
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 159
 W * PUNC PUNC :
-W * P P ฯั
-W * N N,COM,PL,LOC,YA ิๅัๅวํํ
-W * CONJ CONJ ฿ๅ
-W * AJ AJ,SIM ศํิ
-W * P P วา
-W * NUM NUM,CAR,NOMI,SING 15 ๅาวั
-W * N N,COM,SING ไÝั
-W * N N,COM,SING ฬใฺํส
-W * V V,PRES,POS,6 ฯวัไฯ
-W * PUNC PUNC ก
-W * N N,COM,PL,LOC,EZ ิๅัฯวัํๅวํ
-W * N N,COM,SING,LOC ฿ิๆั
-W * PUNC PUNC ก
-W * V V,PRES,POS,6 ใํ สๆวไไฯ
-W * ADV ADV,GENR,SIM ัรำว๐
-W * CONJ CONJ ํว
-W * P P ศว
-W * N N,COM,SING,EZ ใิวั฿ส
-W * N N,COM,PL,EZ วิฮวี
-W * AJ AJ,SIM อÞํÞํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM อÞๆÞํ
-W * P P,EZ ศัวํ
-W * N N,COM,SING ำวฮส
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ศวาำวาํ
-W * N N,COM,PL,LOC,EZ ำํไใวๅวํ
-W * AJ AJ,SIM ใๆฬๆฯ
-W * P P วา
-W * N N,COM,PL,EZ สำๅํแวส
-W * AJ AJ,SIM ศวไ฿ํ
-W * N N,COM,SING วำสÝวฯๅ
-W * V V,SUB,POS,6 ฿ไไฯ
+W * P P ุฏุฑ
+W * N N,COM,PL,LOC,YA ุดูุฑูุงูู
+W * CONJ CONJ ูู
+W * AJ AJ,SIM ุจูุด
+W * P P ุงุฒ
+W * NUM NUM,CAR,NOMI,SING 15 ูุฒุงุฑ
+W * N N,COM,SING ููุฑ
+W * N N,COM,SING ุฌู…ุนูุช
+W * V V,PRES,POS,6 ุฏุงุฑูุฏ
+W * PUNC PUNC ุ
+W * N N,COM,PL,LOC,EZ ุดูุฑุฏุงุฑููุงู
+W * N N,COM,SING,LOC ูุดูุฑ
+W * PUNC PUNC ุ
+W * V V,PRES,POS,6 ู…ู ุชูุงููุฏ
+W * ADV ADV,GENR,SIM ุฑุฃุณุงู
+W * CONJ CONJ ูุง
+W * P P ุจุง
+W * N N,COM,SING,EZ ู…ุดุงุฑูุช
+W * N N,COM,PL,EZ ุงุดุฎุงุต
+W * AJ AJ,SIM ุญูููู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุญูููู
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING ุณุงุฎุช
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุจุงุฒุณุงุฒู
+W * N N,COM,PL,LOC,EZ ุณููู…ุงูุงู
+W * AJ AJ,SIM ู…ูุฌูุฏ
+W * P P ุงุฒ
+W * N N,COM,PL,EZ ุชุณูููุงุช
+W * AJ AJ,SIM ุจุงููู
+W * N N,COM,SING ุงุณุชูุงุฏู
+W * V V,SUB,POS,6 ูููุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ สรใํไ
-W * N N,COM,SING,LOC,EZ าใํไ
-W * AJ AJ,SIM ใไวำศ
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ ำวฮส
-W * N N,COM,SING ำํไใว
-W * CONJ CONJ ๆ
-W * N N,COM,SING,LOC,EZ ใฬสใฺ
-W * AJ AJ,SIM Ýัๅไํ
-W * P P ฯั
-W * N N,COM,PL,LOC,EZ ิๅั฿ๅวํ
-W * AJ AJ,SIM ฬฯํฯวแวอฯวห
-W * P P ศๅ
-W * N N,COM,SING,EZ ฺๅฯๅ
-W * N N,COM,SING,EZ ๆาวัส
-W * N N,COM,SING,LOC ใำ฿ไ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ิๅัำวาํ
-W * CONJ CONJ ๆ
-W * P P ฯั
-W * N N,COM,PL,EZ ุัอๅวํ
-W * N N,COM,SING,EZ สๆำฺๅ
-W * AJ AJ,SIM ิๅัํ
-W * P P ฯั
-W * N N,COM,SING,EZ วฮสํวั
-W * N N,COM,PL,LOC ิๅัฯวัํๅว
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,COP,PA,POS,3 ศๆฯ
+W * N N,COM,SING,EZ ุชุฃู…ูู
+W * N N,COM,SING,LOC,EZ ุฒู…ูู
+W * AJ AJ,SIM ู…ูุงุณุจ
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุณุงุฎุช
+W * N N,COM,SING ุณููู…ุง
+W * CONJ CONJ ู
+W * N N,COM,SING,LOC,EZ ู…ุฌุชู…ุน
+W * AJ AJ,SIM ูุฑููฺฏู
+W * P P ุฏุฑ
+W * N N,COM,PL,LOC,EZ ุดูุฑููุงู
+W * AJ AJ,SIM ุฌุฏูุฏุงูุงุญุฏุงุซ
+W * P P ุจู
+W * N N,COM,SING,EZ ุนูุฏู
+W * N N,COM,SING,EZ ูุฒุงุฑุช
+W * N N,COM,SING,LOC ู…ุณูู
+W * CONJ CONJ ู
+W * N N,COM,SING ุดูุฑุณุงุฒู
+W * CONJ CONJ ู
+W * P P ุฏุฑ
+W * N N,COM,PL,EZ ุทุฑุญูุงู
+W * N N,COM,SING,EZ ุชูุณุนู
+W * AJ AJ,SIM ุดูุฑู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุงุฎุชูุงุฑ
+W * N N,COM,PL,LOC ุดูุฑุฏุงุฑููุง
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,COP,PA,POS,3 ุจูุฏ
 W * PUNC PUNC .
-W * DET DET,DEMO วํไ
-W * N N,COM,PL,LOC าใํไๅว
-W * P P ศๅ
-W * N N,COM,SING,EZ ศๅวํ
-W * AJ AJ,SIM ใไุÞๅ วํ
-W * CONJ CONJ ๆ
-W * P P ศๅ ีๆัส
-W * N N,COM,PL,EZ วÞำวุ
+W * DET DET,DEMO ุงูู
+W * N N,COM,PL,LOC ุฒู…ูููุง
+W * P P ุจู
+W * N N,COM,SING,EZ ุจูุงู
+W * AJ AJ,SIM ู…ูุทูู ุงู
+W * CONJ CONJ ู
+W * P P ุจู ุตูุฑุช
+W * N N,COM,PL,EZ ุงูุณุงุท
 W * NUM NUM,CAR,NOMI,SING 10
-W * RES RES,MADJ ำวแๅ
-W * AJ AJ,SIM ๆวะวั
-W * V V,PRES,POS,3 ใํ ิๆฯ
+W * RES RES,MADJ ุณุงูู
+W * AJ AJ,SIM ูุงฺฏุฐุงุฑ
+W * V V,PRES,POS,3 ู…ู ุดูุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * DET DET,DEMO ๅใํไ
-W * N N,COM,SING าใํไๅ
-W * PUNC PUNC ก
-W * N N,COM,PL,LOC,EZ ิๅัฯวัํๅวํ
-W * N N,COM,PL,LOC,EZ ิๅัๅวํ
-W * AJ AJ,SIM ศํิ
-W * P P วา
-W * NUM NUM,CAR,NOMI,SING 15 ๅาวั
-W * N N,COM,SING ไÝั
-W * N N,COM,SING ฬใฺํส
-W * V V,PRES,POS,6 ใํ สๆวไไฯ
-W * N N,COM,PL,LOC,EZ าใํไๅวํ
-W * AJ AJ,SIM ใไวำศ
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ ำวฮส
-W * N N,COM,SING ำํไใว
-W * CONJ CONJ ๆ
-W * N N,COM,SING,LOC,EZ ใฬสใฺ
-W * AJ AJ,SIM Ýัๅไํ
-W * POSTP POSTP ัว
-W * CONJ CONJ ฿ๅ
-W * P P ฯั
-W * N N,COM,SING,EZ ใวแ฿ํส
-W * N N,COM,SING,LOC ิๅัฯวัํ
-W * V V,COP,PRES,POS,3 วำส
-W * PUNC PUNC ก
-W * P P,EZ ศฯๆไ
-W * N N,COM,SING,EZ วไสÞวแ
-W * N N,COM,SING ใวแ฿ํส
-W * P P ฯั
-W * N N,COM,SING,EZ Þวแศ
-W * N N,COM,SING Þัวัฯวฯ
-W * P P ศว
-W * N N,COM,SING,EZ ฯัํวÝส
-W * N N,COM,SING,EZ อฯวÞแ
-W * N N,COM,SING ำๅใ
-W * P P,EZ ศวศส
-W * N N,COM,SING,LOC าใํไ
-W * PUNC PUNC ก
-W * P P,EZ ศัวํ
-W * N N,COM,SING,TIME,EZ ใฯส
+W * P P ุฏุฑ
+W * DET DET,DEMO ูู…ูู
+W * N N,COM,SING ุฒู…ููู
+W * PUNC PUNC ุ
+W * N N,COM,PL,LOC,EZ ุดูุฑุฏุงุฑููุงู
+W * N N,COM,PL,LOC,EZ ุดูุฑูุงู
+W * AJ AJ,SIM ุจูุด
+W * P P ุงุฒ
+W * NUM NUM,CAR,NOMI,SING 15 ูุฒุงุฑ
+W * N N,COM,SING ููุฑ
+W * N N,COM,SING ุฌู…ุนูุช
+W * V V,PRES,POS,6 ู…ู ุชูุงููุฏ
+W * N N,COM,PL,LOC,EZ ุฒู…ูููุงู
+W * AJ AJ,SIM ู…ูุงุณุจ
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุณุงุฎุช
+W * N N,COM,SING ุณููู…ุง
+W * CONJ CONJ ู
+W * N N,COM,SING,LOC,EZ ู…ุฌุชู…ุน
+W * AJ AJ,SIM ูุฑููฺฏู
+W * POSTP POSTP ุฑุง
+W * CONJ CONJ ูู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ู…ุงูููุช
+W * N N,COM,SING,LOC ุดูุฑุฏุงุฑู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * PUNC PUNC ุ
+W * P P,EZ ุจุฏูู
+W * N N,COM,SING,EZ ุงูุชูุงู
+W * N N,COM,SING ู…ุงูููุช
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ูุงูุจ
+W * N N,COM,SING ูุฑุงุฑุฏุงุฏ
+W * P P ุจุง
+W * N N,COM,SING,EZ ุฏุฑูุงูุช
+W * N N,COM,SING,EZ ุญุฏุงูู
+W * N N,COM,SING ุณูู…
+W * P P,EZ ุจุงุจุช
+W * N N,COM,SING,LOC ุฒู…ูู
+W * PUNC PUNC ุ
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,TIME,EZ ู…ุฏุช
 W * NUM NUM,CAR,NOMI,SING 25
-W * N N,COM,SING,TIME ำวแ
-W * P P ฯั
-W * N N,COM,SING,EZ วฮสํวั
-W * N N,COM,PL,EZ วÝัวฯ
-W * AJ AJ,SIM อÞํÞํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM อÞๆÞํ
-W * N N,COM,SING Þัวั
-W * V V,SUB,POS,6 ฯๅไฯ
+W * N N,COM,SING,TIME ุณุงู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุงุฎุชูุงุฑ
+W * N N,COM,PL,EZ ุงูุฑุงุฏ
+W * AJ AJ,SIM ุญูููู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุญูููู
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,SUB,POS,6 ุฏููุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,PL,EZ ใๆวัฯ
-W * N N,COM,SING,EZ ศวาำวาํ
-W * N N,COM,PL,LOC ำํไใวๅว
-W * CONJ CONJ ๆ
-W * N N,COM,PL,LOC,EZ ใฬสใฺๅวํ
-W * AJ AJ,SIM Ýัๅไํ
-W * CONJ CONJ ํว
-W * N N,COM,SING,EZ ำวฮส
-W * N N,COM,PL,LOC,EZ ำํไใวๅวํ
-W * AJ AJ,SIM ฬฯํฯ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,LOC,EZ สวแวัๅวํ
-W * N N,COM,SING ไใวํิ
-W * PUNC PUNC ก
-W * N N,COM,PL,LOC ิๅัฯวัํๅว
-W * V V,COP,AJCC,6 ใๆูÝ วไฯ
-W * P P,EZ ศฯๆไ
-W * N N,COM,SING,EZ ฯัํวÝส
-W * DET DET,INDF ๅั
-W * CL CL,SING ไๆฺ
-W * N N,COM,PL ฺๆวัึ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ๅาํไๅ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ัๆวไๅ
-W * N N,COM,SING ำวฮส
-W * PUNC PUNC ก
-W * AJ AJ,SIM ีวฯั
-W * CONJ CONJ ๆ
-W * P P ฯั
-W * N N,COM,SING,EZ ีๆัส
-W * N N,COM,SING ๅใ ยๅไํ
-W * P P ศว
-W * N N,COM,PL,EZ ุัอๅวํ
-W * AJ AJ,SIM,EZ ฬวใฺ
-W * AJ AJ,SIM ิๅัํ
-W * PUNC PUNC ก
-W * ADV ADV,GENR,SIM อฯว฿หั
-W * AJ AJ,SIM,EZ ใฺวฯแ
-W * N N,COM,SING,EZ าํัศไวํ
-W * N N,COM,PL,LOC,EZ ำวแไๅวํ
-W * N N,COM,SING ไใวํิ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ใฬๆา
-W * N N,COM,SING,EZ ำวฮส
-W * AJ AJ,SIM สฬวัํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ฮฯใวสํ
-W * AJ AJ,SIM ีวฯั
-W * V V,SUB,POS,6 ฿ไไฯ
+W * P P ุฏุฑ
+W * N N,COM,PL,EZ ู…ูุงุฑุฏ
+W * N N,COM,SING,EZ ุจุงุฒุณุงุฒู
+W * N N,COM,PL,LOC ุณููู…ุงูุง
+W * CONJ CONJ ู
+W * N N,COM,PL,LOC,EZ ู…ุฌุชู…ุนูุงู
+W * AJ AJ,SIM ูุฑููฺฏู
+W * CONJ CONJ ูุง
+W * N N,COM,SING,EZ ุณุงุฎุช
+W * N N,COM,PL,LOC,EZ ุณููู…ุงูุงู
+W * AJ AJ,SIM ุฌุฏูุฏ
+W * CONJ CONJ ู
+W * N N,COM,PL,LOC,EZ ุชุงูุงุฑูุงู
+W * N N,COM,SING ูู…ุงูุด
+W * PUNC PUNC ุ
+W * N N,COM,PL,LOC ุดูุฑุฏุงุฑููุง
+W * V V,COP,AJCC,6 ู…ูุธู ุงูุฏ
+W * P P,EZ ุจุฏูู
+W * N N,COM,SING,EZ ุฏุฑูุงูุช
+W * DET DET,INDF ูุฑ
+W * CL CL,SING ููุน
+W * N N,COM,PL ุนูุงุฑุถ
+W * CONJ CONJ ู
+W * N N,COM,SING ูุฒููู
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ูพุฑูุงูู
+W * N N,COM,SING ุณุงุฎุช
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ุตุงุฏุฑ
+W * CONJ CONJ ู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุตูุฑุช
+W * N N,COM,SING ูู… ุขููฺฏู
+W * P P ุจุง
+W * N N,COM,PL,EZ ุทุฑุญูุงู
+W * AJ AJ,SIM,EZ ุฌุงู…ุน
+W * AJ AJ,SIM ุดูุฑู
+W * PUNC PUNC ุ
+W * ADV ADV,GENR,SIM ุญุฏุงูุซุฑ
+W * AJ AJ,SIM,EZ ู…ุนุงุฏู
+W * N N,COM,SING,EZ ุฒูุฑุจูุงู
+W * N N,COM,PL,LOC,EZ ุณุงูููุงู
+W * N N,COM,SING ูู…ุงูุด
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ู…ุฌูุฒ
+W * N N,COM,SING,EZ ุณุงุฎุช
+W * AJ AJ,SIM ุชุฌุงุฑู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุฎุฏู…ุงุชู
+W * AJ AJ,SIM ุตุงุฏุฑ
+W * V V,SUB,POS,6 ูููุฏ
 W * PUNC PUNC .
-W * N N,COM,PL,LOC ำํไใวๅว
-W * CONJ CONJ ๆ
-W * N N,COM,PL,LOC,EZ ใฬสใฺๅวํ
-W * AJ AJ,SIM Ýัๅไํ
-W * CONJ CONJ ฿ๅ
-W * P P ศว
-W * N N,COM,SING วำสÝวฯๅ
-W * P P วา
-W * DET DET,DEMO วํไ
-W * N N,COM,PL วใสํวาวส
-W * V V,PASTP ำวฮสๅ
-W * V V,PRES,POS,6 ใํ ิๆไฯ
-W * PUNC PUNC ก
-W * P P สว
+W * N N,COM,PL,LOC ุณููู…ุงูุง
+W * CONJ CONJ ู
+W * N N,COM,PL,LOC,EZ ู…ุฌุชู…ุนูุงู
+W * AJ AJ,SIM ูุฑููฺฏู
+W * CONJ CONJ ูู
+W * P P ุจุง
+W * N N,COM,SING ุงุณุชูุงุฏู
+W * P P ุงุฒ
+W * DET DET,DEMO ุงูู
+W * N N,COM,PL ุงู…ุชูุงุฒุงุช
+W * V V,PASTP ุณุงุฎุชู
+W * V V,PRES,POS,6 ู…ู ุดููุฏ
+W * PUNC PUNC ุ
+W * P P ุชุง
 W * NUM NUM,CAR,NOMI,SING 10
-W * N N,COM,SING,TIME ำวแ
-W * P P ำ
-W * P P วา
-W * N N,COM,SING ศๅัๅ ศัฯวัํ
-W * PUNC PUNC ก
-W * AJ AJ,SIM ใฬวา
-W * P P ศๅ
-W * N N,COM,SING,EZ สÛํํั
-W * N N,COM,SING ฿วัศัํ
-W * V V,AUX,FUT,NEG,6 ไฮๆวๅไฯ
-W * V V,COP,PA,POS,3 ศๆฯ
+W * N N,COM,SING,TIME ุณุงู
+W * P P ูพุณ
+W * P P ุงุฒ
+W * N N,COM,SING ุจูุฑู ุจุฑุฏุงุฑู
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ู…ุฌุงุฒ
+W * P P ุจู
+W * N N,COM,SING,EZ ุชุบููุฑ
+W * N N,COM,SING ูุงุฑุจุฑู
+W * V V,AUX,FUT,NEG,6 ูุฎูุงููุฏ
+W * V V,COP,PA,POS,3 ุจูุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ ใวฯๅ
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 160
-W * AJ AJ,SIM ใัศๆุ
-W * P P ศๅ
-W * N N,COM,PL,EZ วÞฯวใวส
-W * N N,COM,PL,EZ ฯำสวๅๅวํ
-W * AJ AJ,SIM ฯๆแสํ
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ ิไวฮส
-W * N N,COM,PL,EZ สอๆแวส
-W * AJ AJ,SIM,EZ Ýัๅไํ
-W * N N,COM,SING ฬวใฺๅ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ วÝาวํิ
-W * N N,COM,SING,EZ ฿วัยํํ
-W * N N,COM,PL,EZ ฯำสวๅๅวํ
-W * AJ AJ,SIM Ýัๅไํ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ำวใวไฯๅํ
-W * N N,COM,PL,EZ Ýฺวแํสๅวํ
-W * AJ AJ,SIM Ýัๅไํ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ วฺใวแ
-W * N N,COM,SING,EZ ไูวัส
-W * AJ AJ,SIM ใำสใั
-W * P P ศั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ัๆๅ
-W * V V,COP,NC,3 Ýฺวแํสๅวำส
+W * AJ AJ,SIM ู…ุฑุจูุท
+W * P P ุจู
+W * N N,COM,PL,EZ ุงูุฏุงู…ุงุช
+W * N N,COM,PL,EZ ุฏุณุชฺฏุงููุงู
+W * AJ AJ,SIM ุฏููุชู
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุดูุงุฎุช
+W * N N,COM,PL,EZ ุชุญููุงุช
+W * AJ AJ,SIM,EZ ูุฑููฺฏู
+W * N N,COM,SING ุฌุงู…ุนู
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ุงูุฒุงูุด
+W * N N,COM,SING,EZ ูุงุฑุขูู
+W * N N,COM,PL,EZ ุฏุณุชฺฏุงููุงู
+W * AJ AJ,SIM ูุฑููฺฏู
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ุณุงู…ุงูุฏูู
+W * N N,COM,PL,EZ ูุนุงููุชูุงู
+W * AJ AJ,SIM ูุฑููฺฏู
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุงุนู…ุงู
+W * N N,COM,SING,EZ ูุธุงุฑุช
+W * AJ AJ,SIM ู…ุณุชู…ุฑ
+W * P P ุจุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ฺฏุฑูู
+W * V V,COP,NC,3 ูุนุงููุชูุงุณุช
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,SING,EZ ใวฯๅ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 161
 W * PUNC PUNC :
-W * N N,COM,SING,EZ ๆาวัส
-W * N N,COM,SING,LOC ใำ฿ไ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ิๅัำวาํ
-W * PUNC PUNC ก
-W * N N,COM,PL,LOC ิๅัฯวัํๅว
-W * CONJ CONJ ๆ
-W * PRO PRO,INDF,SING ฯํั
-W * N N,COM,PL,EZ ำวาใวไๅวํ
-W * N N,COM,SING ใำฦๆแ
-W * P P ฯั
-W * N N,COM,SING,EZ าใํไๅ
-W * N N,COM,SING ุัวอํ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ วฬัวํ
-W * N N,COM,PL,EZ ุัอๅวํ
-W * AJ AJ,SIM ฬวใฺ
-W * PUNC PUNC ก
-W * AJ AJ,SIM สÝีํแํ
-W * CONJ CONJ ๆ
-W * N N,PR,SING,EZ ๅวฯํ
-W * AJ AJ,SIM ิๅัํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ัๆำสวํํ
-W * PUNC PUNC ก
-W * V V,COP,AJCC,6 ใๆูÝ วไฯ
-W * N N,COM,PL,6 ุัอๅวํิวไ
-W * POSTP POSTP ัว
-W * P P ศว
-W * N N,COM,SING,EZ ใอๆัํส
-W * N N,COM,PL,LOC ใำวฬฯ
-W * N N,COM,SING สๅํๅ
-W * CONJ CONJ ๆ
-W * N N,COM,SING วฬัว
-W * V V,SUB,POS,6 ฿ไไฯ
+W * N N,COM,SING,EZ ูุฒุงุฑุช
+W * N N,COM,SING,LOC ู…ุณูู
+W * CONJ CONJ ู
+W * N N,COM,SING ุดูุฑุณุงุฒู
+W * PUNC PUNC ุ
+W * N N,COM,PL,LOC ุดูุฑุฏุงุฑููุง
+W * CONJ CONJ ู
+W * PRO PRO,INDF,SING ุฏูฺฏุฑ
+W * N N,COM,PL,EZ ุณุงุฒู…ุงููุงู
+W * N N,COM,SING ู…ุณุฆูู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุฒู…ููู
+W * N N,COM,SING ุทุฑุงุญู
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุงุฌุฑุงู
+W * N N,COM,PL,EZ ุทุฑุญูุงู
+W * AJ AJ,SIM ุฌุงู…ุน
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ุชูุตููู
+W * CONJ CONJ ู
+W * N N,PR,SING,EZ ูุงุฏู
+W * AJ AJ,SIM ุดูุฑู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุฑูุณุชุงูู
+W * PUNC PUNC ุ
+W * V V,COP,AJCC,6 ู…ูุธู ุงูุฏ
+W * N N,COM,PL,6 ุทุฑุญูุงูุดุงู
+W * POSTP POSTP ุฑุง
+W * P P ุจุง
+W * N N,COM,SING,EZ ู…ุญูุฑูุช
+W * N N,COM,PL,LOC ู…ุณุงุฌุฏ
+W * N N,COM,SING ุชููู
+W * CONJ CONJ ู
+W * N N,COM,SING ุงุฌุฑุง
+W * V V,SUB,POS,6 ูููุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * DET DET,DEMO ๅใํไ
-W * N N,COM,SING ฮีๆี
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ๆาวัส
-W * N N,COM,SING,LOC ใำ฿ไ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ิๅัำวาํ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,LOC ิๅัฯวัํๅว
-W * PUNC PUNC ก
-W * AJ AJ,SIM ใๆูÝ
-W * V V,PERF,POS,6 ิฯๅ วไฯ
-W * P P ฯั
-W * DET DET,INDF,EZ สใวใํ
-W * N N,COM,PL,LOC,EZ ิๅั฿ๅวํ
-W * AJ AJ,SIM ไๆศไํวฯ
-W * PUNC PUNC ก
-W * N N,COM,SING,LOC,EZ าใํไ
-W * AJ AJ,SIM,YA ใไวำศํ
-W * POSTP POSTP ัว
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ วอฯวห
-W * N N,COM,SING,LOC ใำฬฯ
-W * N N,COM,SING ํิ ศํไํ
-W * V V,SUB,POS,6 ฿ไไฯ
-W * CONJ CONJ ๆ
-W * P P ำ
-W * P P วา
-W * N N,COM,SING ยใวฯๅ ำวาํ
-W * PUNC PUNC ก
-W * P P,EZ ศฯๆไ
-W * N N,COM,SING,EZ ฯัํวÝส
-W * N N,COM,SING ๅาํไๅ
-W * P P ฯั
-W * N N,COM,SING,EZ วฮสํวั
-W * N N,COM,PL,EZ ใสÞวึํวไ
-W * N N,COM,SING,EZ ำวฮส
-W * N N,COM,PL,LOC ใำวฬฯ
-W * N N,COM,SING Þัวั
-W * V V,SUB,POS,6 ฯๅไฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ Þํใส
-W * N N,COM,PL,LOC วัวึํ
-W * POSTP POSTP ัว
-W * P P ฯั
-W * N N,COM,SING,EZ ๅาํไๅ
-W * AJ AJ,SIM ใัศๆุ
-W * P P ศๅ
-W * N N,COM,SING,EZ ยใวฯๅ ำวาํ
-W * N N,COM,PL,LOC าใํไๅว
-W * N N,COM,SING ใไูๆั
-W * V V,SUB,POS,6 ฿ไไฯ
+W * P P ุฏุฑ
+W * DET DET,DEMO ูู…ูู
+W * N N,COM,SING ุฎุตูุต
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ูุฒุงุฑุช
+W * N N,COM,SING,LOC ู…ุณูู
+W * CONJ CONJ ู
+W * N N,COM,SING ุดูุฑุณุงุฒู
+W * CONJ CONJ ู
+W * N N,COM,PL,LOC ุดูุฑุฏุงุฑููุง
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ู…ูุธู
+W * V V,PERF,POS,6 ุดุฏู ุงูุฏ
+W * P P ุฏุฑ
+W * DET DET,INDF,EZ ุชู…ุงู…ู
+W * N N,COM,PL,LOC,EZ ุดูุฑููุงู
+W * AJ AJ,SIM ููุจููุงุฏ
+W * PUNC PUNC ุ
+W * N N,COM,SING,LOC,EZ ุฒู…ูู
+W * AJ AJ,SIM,YA ู…ูุงุณุจู
+W * POSTP POSTP ุฑุง
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุงุญุฏุงุซ
+W * N N,COM,SING,LOC ู…ุณุฌุฏ
+W * N N,COM,SING ูพูุด ุจููู
+W * V V,SUB,POS,6 ูููุฏ
+W * CONJ CONJ ู
+W * P P ูพุณ
+W * P P ุงุฒ
+W * N N,COM,SING ุขู…ุงุฏู ุณุงุฒู
+W * PUNC PUNC ุ
+W * P P,EZ ุจุฏูู
+W * N N,COM,SING,EZ ุฏุฑูุงูุช
+W * N N,COM,SING ูุฒููู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุงุฎุชูุงุฑ
+W * N N,COM,PL,EZ ู…ุชูุงุถูุงู
+W * N N,COM,SING,EZ ุณุงุฎุช
+W * N N,COM,PL,LOC ู…ุณุงุฌุฏ
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,SUB,POS,6 ุฏููุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ููู…ุช
+W * N N,COM,PL,LOC ุงุฑุงุถู
+W * POSTP POSTP ุฑุง
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ูุฒููู
+W * AJ AJ,SIM ู…ุฑุจูุท
+W * P P ุจู
+W * N N,COM,SING,EZ ุขู…ุงุฏู ุณุงุฒู
+W * N N,COM,PL,LOC ุฒู…ูููุง
+W * N N,COM,SING ู…ูุธูุฑ
+W * V V,SUB,POS,6 ูููุฏ
 W * PUNC PUNC .
-W * P P ศั วํๅ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING าวัิ
+W * P P ุจุฑ ูพุงูู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ฺฏุฒุงุฑุด
 W * PUNC PUNC :
-W * N N,COM,SING,EZ ฬแำๅ
-W * N N,COM,SING,TIME,EZ ัๆา
-W * N N,PR,SING,DAY,EZ ไฬ ิไศๅ
-W * N N,COM,SING,EZ ใฬแำ
-W * N N,COM,SING,EZ ิๆัวํ
-W * AJ AJ,SIM วำแวใํ
-W * PUNC PUNC ก
-W * N N,COM,SING,TIME,EZ ำวฺส
-W * NUM NUM,CAR,NOMI,SING 14 ๆ 45
-W * N N,COM,SING,TIME ฯÞํÞๅ
-W * N N,COM,SING วํวไ
-W * V V,PA,SIM,POS,3 ํวÝส
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ฯไศวแๅ
-W * N N,COM,SING ศอห
-W * P P ฯั ใๆัฯ
-W * N N,COM,PL,EZ ํิไๅวฯๅวํ
-W * AJ AJ,SIM ใุัอ ิฯๅ
-W * P P ฯั ฮีๆี
-W * N N,COM,SING,EZ ใวฯๅ
+W * N N,COM,SING,EZ ุฌูุณู
+W * N N,COM,SING,TIME,EZ ุฑูุฒ
+W * N N,PR,SING,DAY,EZ ูพูุฌ ุดูุจู
+W * N N,COM,SING,EZ ู…ุฌูุณ
+W * N N,COM,SING,EZ ุดูุฑุงู
+W * AJ AJ,SIM ุงุณูุงู…ู
+W * PUNC PUNC ุ
+W * N N,COM,SING,TIME,EZ ุณุงุนุช
+W * NUM NUM,CAR,NOMI,SING 14 ู 45
+W * N N,COM,SING,TIME ุฏูููู
+W * N N,COM,SING ูพุงูุงู
+W * V V,PA,SIM,POS,3 ูุงูุช
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุฏูุจุงูู
+W * N N,COM,SING ุจุญุซ
+W * P P ุฏุฑ ู…ูุฑุฏ
+W * N N,COM,PL,EZ ูพูุดููุงุฏูุงู
+W * AJ AJ,SIM ู…ุทุฑุญ ุดุฏู
+W * P P ุฏุฑ ุฎุตูุต
+W * N N,COM,SING,EZ ู…ุงุฏู
 W * NUM NUM,CAR,NOMI,SING 161
-W * P P ศๅ
-W * N N,COM,SING,EZ ฬแำๅ
-W * AJ AJ,SIM,EZ ฺแไํ
-W * N N,COM,SING,TIME,EZ ีศอ
-W * ADV ADV,GENR,TIME วใัๆา
-W * PUNC PUNC ป
-W * N N,PR,SING,DAY ิไศๅ
-W * PUNC PUNC ซ
-W * AJ AJ,SIM ใๆ฿ๆแ
-W * V V,PA,SIM,POS,3 ิฯ
+W * P P ุจู
+W * N N,COM,SING,EZ ุฌูุณู
+W * AJ AJ,SIM,EZ ุนููู
+W * N N,COM,SING,TIME,EZ ุตุจุญ
+W * ADV ADV,GENR,TIME ุงู…ุฑูุฒ
+W * PUNC PUNC ยป
+W * N N,PR,SING,DAY ุดูุจู
+W * PUNC PUNC ยซ
+W * AJ AJ,SIM ู…ูููู
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM,EZ ใแํ
-W * N N,COM,SING,EZ Ýๆสศวแ
-W * N N,PR,SING,LOC วํัวไ
-W * P P ฯั
-W * N N,PR,SING,LOC ฿ํิ
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM,EZ ู…ูู
+W * N N,COM,SING,EZ ููุชุจุงู
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ููุด
 W * PUNC PUNC #
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM,EZ ใแํ
-W * N N,COM,SING,EZ Ýๆสศวแ
-W * N N,COM,SING,LOC,4 ฿ิๆัใวไ
-W * CONJ CONJ ฿ๅ
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * P P,EZ ศัวํ
-W * N N,COM,SING อึๆั
-W * P P ฯั
-W * N N,COM,PL,EZ ใำวศÞวส
-W * AJ AJ,SIM,EZ ใÞฯใวสํ
-W * N N,COM,SING,EZ ฬวใ
-W * N N,COM,PL,EZ ใแสๅวํ
-W * N N,PR,SING,LOC ยำํว
-W * AJ AJ,SIM ยใวฯๅ
-W * V V,PRES,POS,3 ใํ ฿ไฯ
-W * PUNC PUNC ก
-W * N N,COM,SING Þัวั
-W * V V,COP,PRES,POS,3 วำส
-W * ADV ADV,GENR,TIME ศาๆฯํ
-W * N N,COM,SING,LOC,EZ วัฯๆํ
-W * N N,COM,SING,EZ ยใวฯๅ ำวาํ
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * N N,COM,SING ิัๆฺ
-W * V V,SUB,POS,3 ฿ไฯ
-W * CONJ CONJ ๆ
-W * CONJ CONJ ำำ
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ วไฬวใ
-W * NUM NUM,CAR,NOMI,SING ฯๆ
-W * N N,COM,SING,EZ ฯํฯวั
-W * AJ AJ,SIM สฯวั฿วสํ
-W * N N,COM,SING,EZ ัวๅํ
-W * N N,PR,SING,LOC ยใัํ฿ว
-W * V V,SUB,POS,3 ิๆฯ
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM,EZ ู…ูู
+W * N N,COM,SING,EZ ููุชุจุงู
+W * N N,COM,SING,LOC,4 ูุดูุฑู…ุงู
+W * CONJ CONJ ูู
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING ุญุถูุฑ
+W * P P ุฏุฑ
+W * N N,COM,PL,EZ ู…ุณุงุจูุงุช
+W * AJ AJ,SIM,EZ ู…ูุฏู…ุงุชู
+W * N N,COM,SING,EZ ุฌุงู…
+W * N N,COM,PL,EZ ู…ูุชูุงู
+W * N N,PR,SING,LOC ุขุณูุง
+W * AJ AJ,SIM ุขู…ุงุฏู
+W * V V,PRES,POS,3 ู…ู ููุฏ
+W * PUNC PUNC ุ
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * ADV ADV,GENR,TIME ุจุฒูุฏู
+W * N N,COM,SING,LOC,EZ ุงุฑุฏูู
+W * N N,COM,SING,EZ ุขู…ุงุฏู ุณุงุฒู
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ุดุฑูุน
+W * V V,SUB,POS,3 ููุฏ
+W * CONJ CONJ ู
+W * CONJ CONJ ุณูพุณ
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุงูุฌุงู…
+W * NUM NUM,CAR,NOMI,SING ุฏู
+W * N N,COM,SING,EZ ุฏูุฏุงุฑ
+W * AJ AJ,SIM ุชุฏุงุฑูุงุชู
+W * N N,COM,SING,EZ ุฑุงูู
+W * N N,PR,SING,LOC ุขู…ุฑููุง
+W * V V,SUB,POS,3 ุดูุฏ
 W * PUNC PUNC .
-W * CONJ CONJ ๅใไํไ
-W * N N,PR,SING,EZ ฬแวแ
-W * N N,PR,SING ุวแศํ
-W * N N,COM,SING,EZ ใฯํั
-W * N N,COM,SING,EZ ฿ใํสๅ
-W * N N,COM,PL,EZ สํใๅวํ
-W * AJ AJ,SIM,EZ ใแํ
-W * N N,COM,SING Ýๆสศวแ
-W * PUNC PUNC ก
-W * N N,COM,SING,TIME,EZ ๅÝสๅ
-W * AJ AJ,SIM ยํไฯๅ
-W * P P ศๅ
-W * N N,PR,SING,LOC ยแใวไ
-W * N N,COM,SING ำÝั
-W * V V,PRES,POS,3 ใํ ฿ไฯ
-W * CONJ CONJ สว
-W * N N,COM,PL,EZ ิัวํุ
-W * N N,COM,PL,EZ ศวาํ฿ไวไ
-W * AJ AJ,SIM,EZ วํัวไํ
-W * AJ AJ,SIM อวึั
-W * P P ฯั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING,LOC ฿ิๆั
-W * POSTP POSTP ัว
-W * N N,COM,SING,EZ ใๆัฯ
-W * N N,COM,SING ศััำํ
-W * N N,COM,SING Þัวั
-W * V V,SUB,POS,3 ฯๅฯ
-W * CONJ CONJ สว
-W * N N,COM,PL ศๅสัํไ ๅว
-W * P P ศๅ
-W * N N,COM,SING,LOC,EZ วัฯๆํ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING,LOC วํัวไ
-W * V V,PASTP Ýัวฮๆวไฯๅ
-W * V V,SUB,POS,6 ิๆไฯ
+W * CONJ CONJ ูู…ฺููู
+W * N N,PR,SING,EZ ุฌูุงู
+W * N N,PR,SING ุทุงูุจู
+W * N N,COM,SING,EZ ู…ุฏูุฑ
+W * N N,COM,SING,EZ ูู…ูุชู
+W * N N,COM,PL,EZ ุชูู…ูุงู
+W * AJ AJ,SIM,EZ ู…ูู
+W * N N,COM,SING ููุชุจุงู
+W * PUNC PUNC ุ
+W * N N,COM,SING,TIME,EZ ููุชู
+W * AJ AJ,SIM ุขููุฏู
+W * P P ุจู
+W * N N,PR,SING,LOC ุขูู…ุงู
+W * N N,COM,SING ุณูุฑ
+W * V V,PRES,POS,3 ู…ู ููุฏ
+W * CONJ CONJ ุชุง
+W * N N,COM,PL,EZ ุดุฑุงูุท
+W * N N,COM,PL,EZ ุจุงุฒูููุงู
+W * AJ AJ,SIM,EZ ุงูุฑุงูู
+W * AJ AJ,SIM ุญุงุถุฑ
+W * P P ุฏุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING,LOC ูุดูุฑ
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING,EZ ู…ูุฑุฏ
+W * N N,COM,SING ุจุฑุฑุณู
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,SUB,POS,3 ุฏูุฏ
+W * CONJ CONJ ุชุง
+W * N N,COM,PL ุจูุชุฑูู ูุง
+W * P P ุจู
+W * N N,COM,SING,LOC,EZ ุงุฑุฏูู
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * V V,PASTP ูุฑุงุฎูุงูุฏู
+W * V V,SUB,POS,6 ุดููุฏ
 W * PUNC PUNC .
-W * P P ศๅ
-W * DET DET,DEMO ๅใํไ
-W * N N,COM,SING ใไวำศส
-W * N N,COM,SING,EZ ฮศัไวั
-W * N N,COM,SING,EZ ฮศัาวัํ
-W * N N,COM,SING,EZ ฬใๅๆัํ
-W * AJ AJ,SIM วำแวใํ
-W * ADV ADV,GENR,TIME ฯํัๆา
-W * N N,COM,SING,YA Ýส ๆๆํํ
-W * P P ศว
-W * PRO PRO,PERS,SING,3 ๆํ
-W * N N,COM,SING สัสํศ
-W * V V,PA,SIM,POS,3 ฯวฯ
-W * CONJ CONJ ฿ๅ
-W * N N,COM,SING,EZ ใวอีแ
-W * PRO PRO,DEMO,SING ยไ
-W * P P ฯั
-W * N N,COM,SING ํ
-W * V V,PRES,POS,3 ใํ ยํฯ
+W * P P ุจู
+W * DET DET,DEMO ูู…ูู
+W * N N,COM,SING ู…ูุงุณุจุช
+W * N N,COM,SING,EZ ุฎุจุฑูฺฏุงุฑ
+W * N N,COM,SING,EZ ุฎุจุฑฺฏุฒุงุฑู
+W * N N,COM,SING,EZ ุฌู…ููุฑู
+W * AJ AJ,SIM ุงุณูุงู…ู
+W * ADV ADV,GENR,TIME ุฏูุฑูุฒ
+W * N N,COM,SING,YA ฺฏูุช ูฺฏููู
+W * P P ุจุง
+W * PRO PRO,PERS,SING,3 ูู
+W * N N,COM,SING ุชุฑุชูุจ
+W * V V,PA,SIM,POS,3 ุฏุงุฏ
+W * CONJ CONJ ูู
+W * N N,COM,SING,EZ ู…ุงุญุตู
+W * PRO PRO,DEMO,SING ุขู
+W * P P ุฏุฑ
+W * N N,COM,SING ูพู
+W * V V,PRES,POS,3 ู…ู ุขูุฏ
 W * PUNC PUNC :
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM,EZ ใแํ
-W * N N,COM,SING,EZ Ýๆสศวแ
-W * N N,COM,SING,LOC,4 ฿ิๆัใวไ
-W * P P วา
-W * DET DET,QU ๅ
-W * N N,COM,SING,YA าใวไํ
-W * N N,COM,SING,EZ ฿วั
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * N N,COM,SING ยÛวา
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ฿ัฯ
-W * PUNC PUNC ฟ
-W * CONJ CONJ ๅใวไ ุๆัํ ฿ๅ
-W * N N,COM,SING วำสอึวั
-W * V V,PRES,POS,5 ฯวัํฯ
-W * N N,COM,SING,TIME ไํใ Ýีแ
-W * NUM NUM,ORD,AJC,EZ วๆแ
-W * N N,COM,PL,EZ ัÞวศสๅวํ
-W * N N,COM,SING,EZ ฬวใ
-W * N N,COM,PL ยาวฯวไ
-W * N N,COM,SING,TIME,EZ ัๆา
-W * ADV ADV,GENR,TIME ะิสๅ
-W * P P ศๅ
-W * N N,COM,SING วํวไ
-W * V V,PA,SIM,POS,3 ัำํฯ
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM,EZ ู…ูู
+W * N N,COM,SING,EZ ููุชุจุงู
+W * N N,COM,SING,LOC,4 ูุดูุฑู…ุงู
+W * P P ุงุฒ
+W * DET DET,QU ฺู
+W * N N,COM,SING,YA ุฒู…ุงูู
+W * N N,COM,SING,EZ ูุงุฑ
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ุขุบุงุฒ
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ูุฑุฏ
+W * PUNC PUNC ุ
+W * CONJ CONJ ูู…ุงู ุทูุฑู ูู
+W * N N,COM,SING ุงุณุชุญุถุงุฑ
+W * V V,PRES,POS,5 ุฏุงุฑูุฏ
+W * N N,COM,SING,TIME ููู… ูุตู
+W * NUM NUM,ORD,AJC,EZ ุงูู
+W * N N,COM,PL,EZ ุฑูุงุจุชูุงู
+W * N N,COM,SING,EZ ุฌุงู…
+W * N N,COM,PL ุขุฒุงุฏฺฏุงู
+W * N N,COM,SING,TIME,EZ ุฑูุฒ
+W * ADV ADV,GENR,TIME ฺฏุฐุดุชู
+W * P P ุจู
+W * N N,COM,SING ูพุงูุงู
+W * V V,PA,SIM,POS,3 ุฑุณูุฏ
 W * PUNC PUNC .
-W * N N,COM,SING ๅฯÝ
-W * PRO PRO,DEMO,SING วํไ
-W * V V,COP,PRES,POS,3 วำส
-W * CONJ CONJ ฿ๅ
-W * N N,COM,PL ศวาํ฿ไวไ
-W * ADV GENR,SIM ฯั อวแ อวึั 
-W * N N,COM,SING วำสัวอส
-W * V V,SUB,POS,6 ฿ไไฯ
-W * CONJ CONJ ๆ
-W * CONJ CONJ ำำ
-W * N N,COM,PL ใแํ ๆิวไ
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ ๅÝสๅ
-W * NUM NUM,ORD,AJC,EZ ไฮำส
-W * N N,COM,SING,TIME,EZ ใวๅ
-W * AJ AJ,SIM,EZ ใศวั฿
-W * N N,PR,SING,MON ัใึวไ
-W * P P ศๅ
-W * N N,COM,SING,LOC,EZ วัฯๆํ
-W * AJ AJ,SIM สฯวั฿วสํ
-W * V V,PASTP Ýัวฮๆวไฯๅ
-W * V V,SUB,POS,6 ิๆไฯ
+W * N N,COM,SING ูุฏู
+W * PRO PRO,DEMO,SING ุงูู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * CONJ CONJ ูู
+W * N N,COM,PL ุจุงุฒูููุงู
+W * ADV GENR,SIM ุฏุฑ ุญุงู ุญุงุถุฑ 
+W * N N,COM,SING ุงุณุชุฑุงุญุช
+W * V V,SUB,POS,6 ูููุฏ
+W * CONJ CONJ ู
+W * CONJ CONJ ุณูพุณ
+W * N N,COM,PL ู…ูู ูพูุดุงู
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ููุชู
+W * NUM NUM,ORD,AJC,EZ ูุฎุณุช
+W * N N,COM,SING,TIME,EZ ู…ุงู
+W * AJ AJ,SIM,EZ ู…ุจุงุฑู
+W * N N,PR,SING,MON ุฑู…ุถุงู
+W * P P ุจู
+W * N N,COM,SING,LOC,EZ ุงุฑุฏูู
+W * AJ AJ,SIM ุชุฏุงุฑูุงุชู
+W * V V,PASTP ูุฑุงุฎูุงูุฏู
+W * V V,SUB,POS,6 ุดููุฏ
 W * PUNC PUNC .
-W * ADV ADV,GENR,QU ยํว
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM ใแํ
-W * ADV ADV,GENR,SIM ํิ
-W * P P วา
-W * N N,COM,SING ำÝั
-W * P P ศๅ
-W * N N,PR,SING,LOC ยใัํ฿ว
-W * PUNC PUNC ก
-W * N N,COM,PL,EZ ฯํฯวัๅวํ
-W * AJ AJ,SIM สฯวั฿วสํ
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ฯวิส
-W * PUNC PUNC ฟ
-W * RES RES,PS ศแๅ
+W * ADV ADV,GENR,QU ุขูุง
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM ู…ูู
+W * ADV ADV,GENR,SIM ูพูุด
+W * P P ุงุฒ
+W * N N,COM,SING ุณูุฑ
+W * P P ุจู
+W * N N,PR,SING,LOC ุขู…ุฑููุง
+W * PUNC PUNC ุ
+W * N N,COM,PL,EZ ุฏูุฏุงุฑูุงู
+W * AJ AJ,SIM ุชุฏุงุฑูุงุชู
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ุฏุงุดุช
+W * PUNC PUNC ุ
+W * RES RES,PS ุจูู
 W * PUNC PUNC .
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM ใแํ
-W * P P ฯั
-W * N N,PR,SING,LOC ฿ํิ
-W * N N,COM,SING วัฯๆ
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 าฯ
-W * CONJ CONJ ๆ
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ ใฯส
-W * N N,COM,SING,EZ วÞวใส
-W * PRO PRO,REFL ฮๆฯ
-W * P P ฯั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING,LOC ฬาํัๅ
-W * NUM NUM,CAR,NOMI,SING ฯๆ
-W * N N,COM,SING,EZ ฯํฯวั
-W * AJ AJ,SIM สฯวั฿วสํ
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ฯวิส
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM ู…ูู
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ููุด
+W * N N,COM,SING ุงุฑุฏู
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ุฒุฏ
+W * CONJ CONJ ู
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ู…ุฏุช
+W * N N,COM,SING,EZ ุงูุงู…ุช
+W * PRO PRO,REFL ุฎูุฏ
+W * P P ุฏุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING,LOC ุฌุฒูุฑู
+W * NUM NUM,CAR,NOMI,SING ุฏู
+W * N N,COM,SING,EZ ุฏูุฏุงุฑ
+W * AJ AJ,SIM ุชุฏุงุฑูุงุชู
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ุฏุงุดุช
 W * PUNC PUNC .
-W * P P,EZ ศัวํ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ใไูๆั
-W * P P ศว
-W * DET DET,INDF ไฯ
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM วัๆวํํ
-W * N N,COM,SING ใ฿วสศๅ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ใะว฿ัๅ
-W * V V,PASTP ิฯๅ
-W * CONJ CONJ ฿ๅ
-W * P P สว
-W * DET DET,DEMO วํไ
-W * N N,COM,SING แอูๅ
-W * N N,COM,SING,EZ ำÝั
-W * N N,COM,SING,LOC,EZ ศวิวๅ
-W * N N,PR,SING,EZ วำวัสว฿
-W * N N,PR,SING,LOC ใำ฿ๆ
-W * P P ศๅ
-W * N N,PR,SING,LOC วํัวไ
-W * AJ AJ,SIM Þฺุํ
-W * V V,COP,PRES,POS,3 วำส
+W * P P,EZ ุจุฑุงู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ู…ูุธูุฑ
+W * P P ุจุง
+W * DET DET,INDF ฺูุฏ
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM ุงุฑููพุงูู
+W * N N,COM,SING ู…ูุงุชุจู
+W * CONJ CONJ ู
+W * N N,COM,SING ู…ุฐุงูุฑู
+W * V V,PASTP ุดุฏู
+W * CONJ CONJ ูู
+W * P P ุชุง
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ูุญุธู
+W * N N,COM,SING,EZ ุณูุฑ
+W * N N,COM,SING,LOC,EZ ุจุงุดฺฏุงู
+W * N N,PR,SING,EZ ุงุณูพุงุฑุชุงู
+W * N N,PR,SING,LOC ู…ุณูู
+W * P P ุจู
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * AJ AJ,SIM ูุทุนู
+W * V V,COP,PRES,POS,3 ุงุณุช
 W * PUNC PUNC .
-W * PRO PRO,INDF,SING ยไๅ
-W * CONJ CONJ ฿ๅ
-W * AJ AJ,SIM ใิฮี
-W * V V,COP,PRES,POS,3 วำส
-W * PRO PRO,DEMO,SING วํไ
-W * V V,COP,PRES,POS,3 วำส
-W * CONJ CONJ ฿ๅ
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM ใแํ
-W * P P ฯั
-W * N N,PR,SING,LOC ฿ํิ
-W * NUM NUM,CAR,NOMI,SING ฯๆ
-W * N N,COM,SING,EZ ฯํฯวั
-W * AJ AJ,SIM ฯๆำสวไๅ
-W * P P ศว
-W * DET DET,DEMO วํไ
-W * N N,COM,SING,LOC,EZ ศวิวๅ
-W * AJ AJ,SIM ัๆำํ
-W * N N,COM,SING วไฬวใ
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ฯวฯ
+W * PRO PRO,INDF,SING ุขูฺู
+W * CONJ CONJ ูู
+W * AJ AJ,SIM ู…ุดุฎุต
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * PRO PRO,DEMO,SING ุงูู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * CONJ CONJ ูู
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM ู…ูู
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ููุด
+W * NUM NUM,CAR,NOMI,SING ุฏู
+W * N N,COM,SING,EZ ุฏูุฏุงุฑ
+W * AJ AJ,SIM ุฏูุณุชุงูู
+W * P P ุจุง
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING,LOC,EZ ุจุงุดฺฏุงู
+W * AJ AJ,SIM ุฑูุณู
+W * N N,COM,SING ุงูุฌุงู…
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ุฏุงุฏ
 W * PUNC PUNC .
-W * N N,COM,SING Þัวั
-W * V V,COP,PRES,POS,3 วำส
-W * PRO PRO,PERS,PL,2 ิใว
-W * ADV ADV,GENR,TIME ศาๆฯํ
-W * P P ศๅ
-W * N N,PR,SING,LOC ยแใวไ
-W * N N,COM,SING ำÝั
-W * V V,SUB,POS,5 ฿ไํฯ
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * PRO PRO,PERS,PL,2 ุดู…ุง
+W * ADV ADV,GENR,TIME ุจุฒูุฏู
+W * P P ุจู
+W * N N,PR,SING,LOC ุขูู…ุงู
+W * N N,COM,SING ุณูุฑ
+W * V V,SUB,POS,5 ูููุฏ
 W * PUNC PUNC .
-W * ADV ADV,GENR,SIM แุÝว
-W * P P ฯั
-W * N N,COM,SING,EZ าใํไๅ
-W * N N,COM,PL,EZ วๅฯวÝ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ำÝั
-W * CONJ CONJ ๆ
-W * N N,COM,SING,TIME,EZ สวัํฮ
-W * AJ AJ,SIM,EZ ฯÞํÞ
-W * PRO PRO,DEMO,SING ยไ
-W * N N,COM,SING สๆึํอ
-W * V V,SUB,POS,5 ศฯๅํฯ
-W * PUNC PUNC ฟ
-W * N N,COM,SING Þัวั
-W * V V,COP,PA,POS,3 ศๆฯ
-W * N N,COM,SING ศไฯๅ
-W * P P ศๅ
-W * N N,PR,SING,LOC ยแใวไ
-W * V V,SUB,POS,1 ศัๆใ
-W * CONJ CONJ วใว
-W * N N,COM,SING,TIME,EZ สวัํฮ
-W * N N,COM,SING,EZ ำÝั
-W * PRO PRO,PERS,SING,1 ใไ
-W * P P ศๅ
-W * N N,COM,SING,TIME,EZ ัๆา
-W * N N,PR,SING,DAY ๅวัิไศๅ
-W * NUM NUM,ORD,NOMI,SING,EZ ฯๅใ
-W * N N,PR,SING,MON ยะั
-W * AJ AJ,SIM ใๆ฿ๆแ
-W * V V,PA,SIM,POS,3 ิฯ
+W * ADV ADV,GENR,SIM ูุทูุง
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุฒู…ููู
+W * N N,COM,PL,EZ ุงูุฏุงู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุณูุฑ
+W * CONJ CONJ ู
+W * N N,COM,SING,TIME,EZ ุชุงุฑูุฎ
+W * AJ AJ,SIM,EZ ุฏููู
+W * PRO PRO,DEMO,SING ุขู
+W * N N,COM,SING ุชูุถูุญ
+W * V V,SUB,POS,5 ุจุฏููุฏ
+W * PUNC PUNC ุ
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * N N,COM,SING ุจูุฏู
+W * P P ุจู
+W * N N,PR,SING,LOC ุขูู…ุงู
+W * V V,SUB,POS,1 ุจุฑูู…
+W * CONJ CONJ ุงู…ุง
+W * N N,COM,SING,TIME,EZ ุชุงุฑูุฎ
+W * N N,COM,SING,EZ ุณูุฑ
+W * PRO PRO,PERS,SING,1 ู…ู
+W * P P ุจู
+W * N N,COM,SING,TIME,EZ ุฑูุฒ
+W * N N,PR,SING,DAY ฺูุงุฑุดูุจู
+W * NUM NUM,ORD,NOMI,SING,EZ ุฏูู…
+W * N N,PR,SING,MON ุขุฐุฑ
+W * AJ AJ,SIM ู…ูููู
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * PRO PRO,PERS,SING,1 ใไ
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * N N,COM,SING,TIME ๅÝสๅ
-W * P P ฯั
-W * N N,PR,SING,LOC ยแใวไ
-W * N N,COM,SING วÞวใส
-W * V V,AUX,FUT,POS,1 ฮๆวๅใ
-W * V V,PA,SIM,POS,3 ฯวิส
-W * CONJ CONJ ๆ
-W * P P ฯั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING,TIME ใฯส
-W * P P ศว
-W * N N,COM,PL,EZ ศวาํ฿ไวไ
-W * AJ AJ,SIM,EZ วํัวไํ
-W * AJ AJ,SIM อวึั
-W * P P ฯั
-W * N N,COM,SING,EZ แํ
-W * NUM NUM,CAR,NOMI,SING ํ฿ ๆ ฯๆ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING,LOC ฿ิๆั
-W * N N,COM,SING ีอศส
-W * V V,AUX,FUT,POS,1 ฮๆวๅใ
-W * V V,PA,SIM,POS,3 ฿ัฯ
+W * PRO PRO,PERS,SING,1 ู…ู
+W * NUM NUM,CAR,NOMI,SING ูู
+W * N N,COM,SING,TIME ููุชู
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ุขูู…ุงู
+W * N N,COM,SING ุงูุงู…ุช
+W * V V,AUX,FUT,POS,1 ุฎูุงูู…
+W * V V,PA,SIM,POS,3 ุฏุงุดุช
+W * CONJ CONJ ู
+W * P P ุฏุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING,TIME ู…ุฏุช
+W * P P ุจุง
+W * N N,COM,PL,EZ ุจุงุฒูููุงู
+W * AJ AJ,SIM,EZ ุงูุฑุงูู
+W * AJ AJ,SIM ุญุงุถุฑ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ููฺฏ
+W * NUM NUM,CAR,NOMI,SING ูู ู ุฏู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING,LOC ูุดูุฑ
+W * N N,COM,SING ุตุญุจุช
+W * V V,AUX,FUT,POS,1 ุฎูุงูู…
+W * V V,PA,SIM,POS,3 ูุฑุฏ
 W * PUNC PUNC .
-W * CONJ CONJ ๅใไํไ
-W * P P ศว
-W * N N,COM,PL,EZ ใัศํวไ
-W * DET DET,DEMO วํไ
-W * N N,COM,PL สํใๅว
-W * N N,COM,PL,YA ใะว฿ัวสํ
-W * V V,AUX,FUT,POS,1 ฮๆวๅใ
-W * V V,PA,SIM,POS,3 ฯวิส
-W * CONJ CONJ สว
-W * P P วา
-W * N N,COM,SING,EZ ๆึฺํส
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ฯำสๅ
-W * P P วา
-W * N N,COM,PL ศวาํ฿ไวไ
-W * ADV ADV,GENR,COMP ศํิสั
-W * AJ AJ,SIM ยิไว
-W * V V,SUB,POS,1 ิๆใ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ิัวํุ
-W * PRO PRO,DEMO,PL ยไๅว
-W * POSTP POSTP ัว
-W * N N,COM,SING,EZ ใๆัฯ
-W * N N,COM,SING ศััำํ
-W * N N,COM,SING Þัวั
-W * V V,SUB,POS,1 ฯๅใ
+W * CONJ CONJ ูู…ฺููู
+W * P P ุจุง
+W * N N,COM,PL,EZ ู…ุฑุจูุงู
+W * DET DET,DEMO ุงูู
+W * N N,COM,PL ุชูู…ูุง
+W * N N,COM,PL,YA ู…ุฐุงูุฑุงุชู
+W * V V,AUX,FUT,POS,1 ุฎูุงูู…
+W * V V,PA,SIM,POS,3 ุฏุงุดุช
+W * CONJ CONJ ุชุง
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ูุถุนูุช
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุฏุณุชู
+W * P P ุงุฒ
+W * N N,COM,PL ุจุงุฒูููุงู
+W * ADV ADV,GENR,COMP ุจูุดุชุฑ
+W * AJ AJ,SIM ุขุดูุง
+W * V V,SUB,POS,1 ุดูู…
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ุดุฑุงูุท
+W * PRO PRO,DEMO,PL ุขููุง
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING,EZ ู…ูุฑุฏ
+W * N N,COM,SING ุจุฑุฑุณู
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,SUB,POS,1 ุฏูู…
 W * PUNC PUNC .
-W * CONJ CONJ ๅใไํไ
-W * N N,COM,SING ศัไวใๅ ัําํ
-W * V V,PASTP ิฯๅ
-W * CONJ CONJ สว
-W * N N,COM,PL,EZ ฯํฯวัๅวํ
-W * DET DET,INDF ไฯ
-W * N N,COM,SING สํใ
-W * CONJ CONJ ฿ๅ
-W * N N,COM,PL,EZ ศวาํ฿ไวไ
-W * AJ AJ,SIM วํัวไํ
-W * P P ฯั
-W * PRO PRO,DEMO,SING ยไ
-W * N N,COM,SING ศวาํ
-W * V V,PRES,POS,6 ใํ ฿ไไฯ
-W * POSTP POSTP ัว
-W * CONJ CONJ ไํา
-W * P P วา
-W * N N,COM,SING ไาฯํ฿
-W * N N,COM,SING สใวิว
-W * V V,SUB,POS,1 ฿ไใ
+W * CONJ CONJ ูู…ฺููู
+W * N N,COM,SING ุจุฑูุงู…ู ุฑูุฒู
+W * V V,PASTP ุดุฏู
+W * CONJ CONJ ุชุง
+W * N N,COM,PL,EZ ุฏูุฏุงุฑูุงู
+W * DET DET,INDF ฺูุฏ
+W * N N,COM,SING ุชูู…
+W * CONJ CONJ ูู
+W * N N,COM,PL,EZ ุจุงุฒูููุงู
+W * AJ AJ,SIM ุงูุฑุงูู
+W * P P ุฏุฑ
+W * PRO PRO,DEMO,SING ุขู
+W * N N,COM,SING ุจุงุฒู
+W * V V,PRES,POS,6 ู…ู ูููุฏ
+W * POSTP POSTP ุฑุง
+W * CONJ CONJ ููุฒ
+W * P P ุงุฒ
+W * N N,COM,SING ูุฒุฏูู
+W * N N,COM,SING ุชู…ุงุดุง
+W * V V,SUB,POS,1 ููู…
 W * PUNC PUNC .
-W * DET DET,INDF ศัฮํ
-W * P P วา
-W * N N,COM,PL,EZ ศวาํ฿ไวไ
-W * PRO PRO,PERS,PL,1 ใว
-W * P P ฯั
-W * N N,COM,PL,LOC,EZ ฿ิๆัๅวํ
-W * PRO PRO,INDF,SING ฯํั
-W * CONJ CONJ ไํา
-W * N N,COM,SING สๆ
-W * V V,PRES,POS,6 ใํ าไไฯ
+W * DET DET,INDF ุจุฑุฎู
+W * P P ุงุฒ
+W * N N,COM,PL,EZ ุจุงุฒูููุงู
+W * PRO PRO,PERS,PL,1 ู…ุง
+W * P P ุฏุฑ
+W * N N,COM,PL,LOC,EZ ูุดูุฑูุงู
+W * PRO PRO,INDF,SING ุฏูฺฏุฑ
+W * CONJ CONJ ููุฒ
+W * N N,COM,SING ุชููพ
+W * V V,PRES,POS,6 ู…ู ุฒููุฏ
 W * PUNC PUNC .
-W * P P,EZ ศัวํ
-W * N N,COM,SING ิไวำวํํ
-W * P P วา
-W * N N,COM,SING,EZ ๆึฺํส
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ฯำสๅ
-W * P P วา
-W * N N,COM,PL ศวาํ฿ไวไ
-W * DET DET,QU ๅ
-W * N N,COM,SING,YA ศัไวใๅ วํ
-W * V V,PRES,POS,5 ฯวัํฯ
-W * PUNC PUNC ฟ
-W * PRO PRO,PERS,PL,1 ใว
-W * P P ฯั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING าใํไๅ
-W * N N,COM,PL วุแวฺวส
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ใไวศฺ
-W * AJ AJ,SIM ฿วÝํ
-W * V V,PRES,POS,4 ฯวัํใ
-W * CONJ CONJ ๆ
-W * P P วา
-W * N N,COM,SING,EZ ๆึฺํส
-W * PRO PRO,PERS,PL,3 ยไวไ
-W * N N,COM,SING ยวๅํ
-W * V V,PRES,POS,4 ฯวัํใ
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING ุดูุงุณุงูู
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ูุถุนูุช
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุฏุณุชู
+W * P P ุงุฒ
+W * N N,COM,PL ุจุงุฒูููุงู
+W * DET DET,QU ฺู
+W * N N,COM,SING,YA ุจุฑูุงู…ู ุงู
+W * V V,PRES,POS,5 ุฏุงุฑูุฏ
+W * PUNC PUNC ุ
+W * PRO PRO,PERS,PL,1 ู…ุง
+W * P P ุฏุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุฒู…ููู
+W * N N,COM,PL ุงุทูุงุนุงุช
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ู…ูุงุจุน
+W * AJ AJ,SIM ูุงูู
+W * V V,PRES,POS,4 ุฏุงุฑูู…
+W * CONJ CONJ ู
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ูุถุนูุช
+W * PRO PRO,PERS,PL,3 ุขูุงู
+W * N N,COM,SING ุขฺฏุงูู
+W * V V,PRES,POS,4 ุฏุงุฑูู…
 W * PUNC PUNC .
-W * CONJ CONJ,COND วั
-W * N N,COM,SING Ýัีส
-W * V V,SUB,POS,3 ศวิฯ
-W * ADV ADV,GENR,SIM ิวํฯ
-W * P P วา
-W * N N,PR,SING,LOC ยแใวไ
-W * P P ศๅ
-W * N N,PR,SING,LOC วสัํิ
-W * V V,SUB,POS,1 ศัๆใ
-W * CONJ CONJ สว
-W * N N,COM,SING,EZ ๆึฺํส
-W * N N,PR,SING,EZ ใๅัฯวฯ
-W * N N,PR,SING ใํไวๆไฯ
-W * POSTP POSTP ัว
-W * CONJ CONJ ๅใ
-W * N N,COM,SING ศััำํ
-W * V V,SUB,POS,1 ฿ไใ
+W * CONJ CONJ,COND ุงฺฏุฑ
+W * N N,COM,SING ูุฑุตุช
+W * V V,SUB,POS,3 ุจุงุดุฏ
+W * ADV ADV,GENR,SIM ุดุงูุฏ
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ุขูู…ุงู
+W * P P ุจู
+W * N N,PR,SING,LOC ุงุชุฑูุด
+W * V V,SUB,POS,1 ุจุฑูู…
+W * CONJ CONJ ุชุง
+W * N N,COM,SING,EZ ูุถุนูุช
+W * N N,PR,SING,EZ ู…ูุฑุฏุงุฏ
+W * N N,PR,SING ู…ููุงููุฏ
+W * POSTP POSTP ุฑุง
+W * CONJ CONJ ูู…
+W * N N,COM,SING ุจุฑุฑุณู
+W * V V,SUB,POS,1 ููู…
 W * PUNC PUNC .
-W * CONJ CONJ ศๅัอวแ
-W * N N,COM,SING,EZ ๅฯÝ
-W * PRO PRO,PERS,PL,1 ใว
-W * PRO PRO,DEMO,SING วํไ
-W * V V,COP,PRES,POS,3 วำส
-W * CONJ CONJ ฿ๅ
-W * AJ AJ,SUP ยใวฯๅ สัํไ
-W * N N,COM,PL ศวาํ฿ไวไ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING วัฯๆ
-W * N N,COM,SING ฯฺๆส
-W * V V,SUB,POS,4 ฿ไํใ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ใุใฦไ
-W * V V,SUB,POS,5 ศวิํฯ
-W * DET DET,INDF ๅั
-W * N N,COM,SING,YA Ýัฯํ
-W * CONJ CONJ ฿ๅ
-W * AJ AJ,SIM ิวํำสๅ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ยใวฯๅ
-W * V V,SUB,POS,3 ศวิฯ
-W * P P ศๅ
-W * N N,COM,SING,LOC,EZ วัฯๆํ
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM ใแํ
-W * V V,PASTP Ýัวฮๆวไฯๅ
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ิฯ
+W * CONJ CONJ ุจูุฑุญุงู
+W * N N,COM,SING,EZ ูุฏู
+W * PRO PRO,PERS,PL,1 ู…ุง
+W * PRO PRO,DEMO,SING ุงูู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * CONJ CONJ ูู
+W * AJ AJ,SUP ุขู…ุงุฏู ุชุฑูู
+W * N N,COM,PL ุจุงุฒูููุงู
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING ุงุฑุฏู
+W * N N,COM,SING ุฏุนูุช
+W * V V,SUB,POS,4 ูููู…
+W * CONJ CONJ ู
+W * AJ AJ,SIM ู…ุทู…ุฆู
+W * V V,SUB,POS,5 ุจุงุดูุฏ
+W * DET DET,INDF ูุฑ
+W * N N,COM,SING,YA ูุฑุฏู
+W * CONJ CONJ ูู
+W * AJ AJ,SIM ุดุงูุณุชู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุขู…ุงุฏู
+W * V V,SUB,POS,3 ุจุงุดุฏ
+W * P P ุจู
+W * N N,COM,SING,LOC,EZ ุงุฑุฏูู
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM ู…ูู
+W * V V,PASTP ูุฑุงุฎูุงูุฏู
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ ำÝั
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING,LOC วํัวไ
-W * P P ศๅ
-W * N N,PR,SING,LOC ยใัํ฿ว
-W * DET DET,QU ๅ
-W * N N,COM,SING,YA าใวไํ
-W * N N,COM,SING วไฬวใ
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ อัํÝวไ
-W * N N,PR,SING,LOC วํัวไ
-W * DET DET,QU ๅ
-W * N N,COM,PL,YA สํใๅวํํ
-W * V V,AUX,FUT,POS,6 ฮๆวๅไฯ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * PUNC PUNC ฟ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING,LOC วํัวไ
-W * P P ฯั
-W * N N,COM,SING,EZ ไํใๅ
-W * NUM NUM,ORD,AJC,EZ ฯๆใ
-W * N N,PR,SING,MON ฯํ
-W * N N,COM,SING,TIME,EZ ใวๅ
-W * AJ AJ,SIM ยํไฯๅ
-W * P P ศๅ
-W * N N,PR,SING,LOC ยใัํ฿ว
-W * N N,COM,SING ำÝั
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ฿ัฯ
+W * N N,COM,SING,EZ ุณูุฑ
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * P P ุจู
+W * N N,PR,SING,LOC ุขู…ุฑููุง
+W * DET DET,QU ฺู
+W * N N,COM,SING,YA ุฒู…ุงูู
+W * N N,COM,SING ุงูุฌุงู…
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ุญุฑููุงู
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * DET DET,QU ฺู
+W * N N,COM,PL,YA ุชูู…ูุงูู
+W * V V,AUX,FUT,POS,6 ุฎูุงููุฏ
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ููู…ู
+W * NUM NUM,ORD,AJC,EZ ุฏูู…
+W * N N,PR,SING,MON ุฏู
+W * N N,COM,SING,TIME,EZ ู…ุงู
+W * AJ AJ,SIM ุขููุฏู
+W * P P ุจู
+W * N N,PR,SING,LOC ุขู…ุฑููุง
+W * N N,COM,SING ุณูุฑ
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ูุฑุฏ
 W * PUNC PUNC .
-W * ADV ADV,GENR,COMP,TIME ํิสั
-W * N N,COM,SING Þัวั
-W * V V,COP,PA,POS,3 ศๆฯ
-W * P P ฯั
-W * N N,PR,SING,LOC ยใัํ฿ว
-W * NUM NUM,CAR,NOMI,SING ำๅ
-W * N N,COM,SING,EZ ฯํฯวั
-W * AJ AJ,SIM ฯๆำสวไๅ
-W * P P ศว
-W * N N,PR,SING,LOC วแำวแๆวฯๆั
-W * PUNC PUNC ก
-W * N N,PR,SING,LOC ใ฿าํ฿
-W * CONJ CONJ ๆ
-W * N N,PR,SING,LOC ยใัํ฿ว
-W * V V,PASTP ฯวิสๅ
-W * V V,SUB,POS,4 ศวิํใ
-W * CONJ CONJ ฿ๅ
-W * N N,COM,SING ศวาํ
-W * P P ศว
-W * N N,PR,SING,LOC วแำวแๆวฯๆั
-W * N N,COM,SING แÛๆ
-W * V V,PASTP ิฯๅ
-W * V V,COP,PRES,POS,3 วำส
+W * ADV ADV,GENR,COMP,TIME ูพูุดุชุฑ
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ุขู…ุฑููุง
+W * NUM NUM,CAR,NOMI,SING ุณู
+W * N N,COM,SING,EZ ุฏูุฏุงุฑ
+W * AJ AJ,SIM ุฏูุณุชุงูู
+W * P P ุจุง
+W * N N,PR,SING,LOC ุงูุณุงููุงุฏูุฑ
+W * PUNC PUNC ุ
+W * N N,PR,SING,LOC ู…ูุฒูู
+W * CONJ CONJ ู
+W * N N,PR,SING,LOC ุขู…ุฑููุง
+W * V V,PASTP ุฏุงุดุชู
+W * V V,SUB,POS,4 ุจุงุดูู…
+W * CONJ CONJ ูู
+W * N N,COM,SING ุจุงุฒู
+W * P P ุจุง
+W * N N,PR,SING,LOC ุงูุณุงููุงุฏูุฑ
+W * N N,COM,SING ูุบู
+W * V V,PASTP ุดุฏู
+W * V V,COP,PRES,POS,3 ุงุณุช
 W * PUNC PUNC .
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING,LOC วํัวไ
-W * N N,COM,SING,TIME,EZ ัๆา
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * N N,COM,SING,TIME,EZ ุฑูุฒ
 W * NUM NUM,CAR,NOMI,SING,EZ 22
-W * N N,PR,SING,MON ฯํ
-W * N N,COM,SING,TIME ใวๅ
-W * P P ฯั
-W * N N,PR,SING,LOC วๆ฿แไฯ
-W * P P ศว
-W * N N,PR,SING,LOC ใ฿าํ฿
-W * N N,COM,SING ฯํฯวั
-W * V V,PRES,POS,3 ใํ ฿ไฯ
-W * CONJ CONJ ๆ
+W * N N,PR,SING,MON ุฏู
+W * N N,COM,SING,TIME ู…ุงู
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ุงููููุฏ
+W * P P ุจุง
+W * N N,PR,SING,LOC ู…ูุฒูู
+W * N N,COM,SING ุฏูุฏุงุฑ
+W * V V,PRES,POS,3 ู…ู ููุฏ
+W * CONJ CONJ ู
 W * NUM NUM,CAR,NOMI,SING,EZ 26
-W * N N,PR,SING,MON ฯํ
-W * N N,COM,SING,TIME ใวๅ
-W * P P ฯั
-W * N N,PR,SING,LOC แๆำ ยไฬแำ
-W * P P ศๅ
-W * N N,COM,SING,EZ ใีวÝ
-W * N N,PR,SING,LOC ยใัํ฿ว
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ัÝส
+W * N N,PR,SING,MON ุฏู
+W * N N,COM,SING,TIME ู…ุงู
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ููุณ ุขูุฌูุณ
+W * P P ุจู
+W * N N,COM,SING,EZ ู…ุตุงู
+W * N N,PR,SING,LOC ุขู…ุฑููุง
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ุฑูุช
 W * PUNC PUNC .
-W * DET DET,INDF ไฯ
-W * N N,COM,SING,LOC ฿ิๆั
-W * ADV ADV,GENR,EXM วาฬใแๅ
-W * N N,PR,SING,LOC ฿ๆํส
-W * CONJ CONJ ๆ
-W * N N,PR,SING,LOC ํไ
-W * P P วา
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM,EZ ใแํ
-W * N N,COM,SING,LOC,4 ฿ิๆัใวไ
-W * N N,COM,SING ฯฺๆส
-W * P P ศๅ
-W * N N,COM,SING ฺใแ
-W * V V,PERF,POS,6 ยๆัฯๅ วไฯ
+W * DET DET,INDF ฺูุฏ
+W * N N,COM,SING,LOC ูุดูุฑ
+W * ADV ADV,GENR,EXM ุงุฒุฌู…ูู
+W * N N,PR,SING,LOC ูููุช
+W * CONJ CONJ ู
+W * N N,PR,SING,LOC ฺูู
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM,EZ ู…ูู
+W * N N,COM,SING,LOC,4 ูุดูุฑู…ุงู
+W * N N,COM,SING ุฏุนูุช
+W * P P ุจู
+W * N N,COM,SING ุนู…ู
+W * V V,PERF,POS,6 ุขูุฑุฏู ุงูุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ ฿ใํสๅ
-W * N N,COM,PL,EZ สํใๅวํ
-W * AJ AJ,SIM,EZ ใแํ
-W * N N,COM,SING Ýๆสศวแ
-W * P P ฯั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING าใํไๅ
-W * DET DET,QU ๅ
-W * N N,COM,SING,YA ำํวำสํ
-W * V V,PRES,POS,3 ฯวัฯ
-W * PUNC PUNC ฟ
-W * PRO PRO,PERS,PL,1 ใว
-W * V V,AUX,NIN,POS ศวํฯ
-W * N N,COM,PL,EZ ศัไวใๅ ๅวํ
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING,YA ๆไๅ วํ
-W * N N,COM,SING วไฬวใ
-W * V V,SUB,POS,4 ฯๅํใ
-W * CONJ CONJ ฿ๅ
-W * N N,COM,SING,YA ฮแแํ
-W * P P ศๅ
-W * N N,COM,PL,EZ ศัไวใๅ ๅวํ
-W * AJ AJ,SIM ยสํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM,EZ สไูํใ ิฯๅ
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM ใแํ
-W * N N,COM,SING ๆวัฯ
-W * V V,SUB,NEG,3 ไิๆฯ
+W * N N,COM,SING,EZ ูู…ูุชู
+W * N N,COM,PL,EZ ุชูู…ูุงู
+W * AJ AJ,SIM,EZ ู…ูู
+W * N N,COM,SING ููุชุจุงู
+W * P P ุฏุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุฒู…ููู
+W * DET DET,QU ฺู
+W * N N,COM,SING,YA ุณูุงุณุชู
+W * V V,PRES,POS,3 ุฏุงุฑุฏ
+W * PUNC PUNC ุ
+W * PRO PRO,PERS,PL,1 ู…ุง
+W * V V,AUX,NIN,POS ุจุงูุฏ
+W * N N,COM,PL,EZ ุจุฑูุงู…ู ูุงู
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING,YA ฺฏููู ุงู
+W * N N,COM,SING ุงูุฌุงู…
+W * V V,SUB,POS,4 ุฏููู…
+W * CONJ CONJ ูู
+W * N N,COM,SING,YA ุฎููู
+W * P P ุจู
+W * N N,COM,PL,EZ ุจุฑูุงู…ู ูุงู
+W * AJ AJ,SIM ุขุชู
+W * CONJ CONJ ู
+W * AJ AJ,SIM,EZ ุชูุธูู… ุดุฏู
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM ู…ูู
+W * N N,COM,SING ูุงุฑุฏ
+W * V V,SUB,NEG,3 ูุดูุฏ
 W * PUNC PUNC .
-W * P P สว
-W * DET DET,DEMO วํไ
-W * N N,COM,SING แอูๅ
-W * N N,COM,SING ำÝั
-W * P P ศๅ
-W * N N,PR,SING,LOC ํไ
-W * N N,COM,SING แÛๆ
-W * V V,PASTP ิฯๅ
-W * CONJ CONJ วใว
-W * N N,COM,SING ฺาํใส
-W * P P ศๅ
-W * N N,PR,SING,LOC ฿ๆํส
-W * P P ฯั
-W * N N,COM,SING,EZ อวแ
-W * N N,COM,SING ศััำํ
-W * V V,COP,PRES,POS,3 วำส
-W * CONJ CONJ สว
-W * P P ฯั
-W * N N,COM,SING,EZ Ýัีส
-W * AJ AJ,SIM ใไวำศ
-W * V V,SUB,POS,4 ศสๆวไํใ
-W * P P ศๅ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING,LOC ฿ิๆั
-W * V V,SUB,POS,4 ศัๆํใ
+W * P P ุชุง
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ูุญุธู
+W * N N,COM,SING ุณูุฑ
+W * P P ุจู
+W * N N,PR,SING,LOC ฺูู
+W * N N,COM,SING ูุบู
+W * V V,PASTP ุดุฏู
+W * CONJ CONJ ุงู…ุง
+W * N N,COM,SING ุนุฒูู…ุช
+W * P P ุจู
+W * N N,PR,SING,LOC ูููุช
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุญุงู
+W * N N,COM,SING ุจุฑุฑุณู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * CONJ CONJ ุชุง
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ูุฑุตุช
+W * AJ AJ,SIM ู…ูุงุณุจ
+W * V V,SUB,POS,4 ุจุชูุงููู…
+W * P P ุจู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING,LOC ูุดูุฑ
+W * V V,SUB,POS,4 ุจุฑููู…
 W * PUNC PUNC .
-W * N N,COM,SING,EZ สํใ
-W * AJ AJ,SIM ใแํ
-W * P P ำ
-W * P P วา
-W * N N,COM,SING ศวาิส
-W * P P วา
-W * N N,PR,SING,LOC ยใัํ฿ว
-W * V V,AUX,NIN,POS ศวํฯ
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * AJ AJ,SIM,EZ ยใวฯๅ
-W * N N,COM,SING ฯํฯวั
-W * P P ศว
-W * N N,COM,PL,EZ ำสวัวไ
-W * N N,PR,SING,LOC ยำํว
-W * CONJ CONJ ฿ๅ
-W * NUM NUM,ORD,NOMI,SING,EZ วๆแ
-W * N N,PR,SING,MON ศๅใไ
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ ๆัาิวๅ
-W * N N,PR,SING ยาวฯํ
-W * N N,PR,SING,LOC สๅัวไ
-W * N N,COM,SING วไฬวใ
-W * V V,PRES,POS,3 ใํ ิๆฯ
-W * PUNC PUNC ก
-W * V V,SUB,POS,3 ฿ไฯ
+W * N N,COM,SING,EZ ุชูู…
+W * AJ AJ,SIM ู…ูู
+W * P P ูพุณ
+W * P P ุงุฒ
+W * N N,COM,SING ุจุงุฒฺฏุดุช
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ุขู…ุฑููุง
+W * V V,AUX,NIN,POS ุจุงูุฏ
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * AJ AJ,SIM,EZ ุขู…ุงุฏู
+W * N N,COM,SING ุฏูุฏุงุฑ
+W * P P ุจุง
+W * N N,COM,PL,EZ ุณุชุงุฑฺฏุงู
+W * N N,PR,SING,LOC ุขุณูุง
+W * CONJ CONJ ูู
+W * NUM NUM,ORD,NOMI,SING,EZ ุงูู
+W * N N,PR,SING,MON ุจูู…ู
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ูุฑุฒุดฺฏุงู
+W * N N,PR,SING ุขุฒุงุฏู
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * N N,COM,SING ุงูุฌุงู…
+W * V V,PRES,POS,3 ู…ู ุดูุฏ
+W * PUNC PUNC ุ
+W * V V,SUB,POS,3 ููุฏ
 W * PUNC PUNC .
-W * CONJ CONJ แะว
-W * CONJ CONJ,COND วั
-W * N N,COM,SING ศไว
-W * V V,SUB,POS,3 ศวิฯ
-W * P P ศๅ
-W * DET DET,DEMO วํไ
-W * N N,COM,PL ฯฺๆสๅว
-W * N N,COM,SING,EZ วำฮ
-W * AJ AJ,SIM Þฺุํ
-W * V V,SUB,POS,4 ศฯๅํใ
-W * V V,AUX,NIN,POS ศวํฯ
-W * PRO PRO,DEMO,SING ยไ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * P P ำ
-W * P P วา
-W * N N,COM,SING ฯํฯวั
-W * P P ศว
-W * N N,COM,PL,EZ ำสวัวไ
-W * N N,PR,SING,LOC ยำํว
-W * AJ AJ,SIM ใๆ฿ๆแ
-W * V V,SUB,POS,4 ฿ไํใ
+W * CONJ CONJ ูุฐุง
+W * CONJ CONJ,COND ุงฺฏุฑ
+W * N N,COM,SING ุจูุง
+W * V V,SUB,POS,3 ุจุงุดุฏ
+W * P P ุจู
+W * DET DET,DEMO ุงูู
+W * N N,COM,PL ุฏุนูุชูุง
+W * N N,COM,SING,EZ ูพุงุณุฎ
+W * AJ AJ,SIM ูุทุนู
+W * V V,SUB,POS,4 ุจุฏููู…
+W * V V,AUX,NIN,POS ุจุงูุฏ
+W * PRO PRO,DEMO,SING ุขู
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * P P ูพุณ
+W * P P ุงุฒ
+W * N N,COM,SING ุฏูุฏุงุฑ
+W * P P ุจุง
+W * N N,COM,PL,EZ ุณุชุงุฑฺฏุงู
+W * N N,PR,SING,LOC ุขุณูุง
+W * AJ AJ,SIM ู…ูููู
+W * V V,SUB,POS,4 ูููู…
 W * PUNC PUNC .
-W * N N,PR,SING,EZ ํัๆาํ
-W * N N,PR,SING,LOC สๅัวไ
-W * P P ศว
-W * N N,COM,SING ฺศๆั
-W * P P วา
-W * N N,COM,SING,LOC,EZ ำฯ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING วำ
-W * P P ฯั
-W * NUM NUM,ORD,AJC ยฮัํไ
-W * N N,COM,SING ฯํฯวั
-W * P P วา
-W * N N,COM,SING,EZ ใัอแๅ
-W * N N,COM,SING,EZ ัÝส
-W * N N,COM,PL,EZ ใำวศÞวส
-W * N N,COM,SING,EZ Ýๆสศวแ
-W * N N,COM,SING ฯำสๅ
-W * NUM NUM,ORD,AJC,EZ วๆแ
-W * N N,COM,PL,LOC,EZ ศวิวๅๅวํ
-W * N N,PR,SING,LOC วํัวไ
-W * PUNC PUNC ป
-W * N N,COM,SING,EZ ฬวใ
-W * N N,COM,PL ยาวฯวไ
-W * PUNC PUNC ซ
-W * PUNC PUNC ก
-W * AJ AJ,SIM,EZ Ýวสอ
-W * N N,COM,SING,TIME ไํใ Ýีแ
-W * DET DET,DEMO วํไ
-W * N N,COM,PL ัÞวศสๅว
-W * V V,PA,SIM,POS,3 ิฯ
+W * N N,PR,SING,EZ ูพูุฑูุฒู
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * P P ุจุง
+W * N N,COM,SING ุนุจูุฑ
+W * P P ุงุฒ
+W * N N,COM,SING,LOC,EZ ุณุฏ
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING ูพุงุณ
+W * P P ุฏุฑ
+W * NUM NUM,ORD,AJC ุขุฎุฑูู
+W * N N,COM,SING ุฏูุฏุงุฑ
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ู…ุฑุญูู
+W * N N,COM,SING,EZ ุฑูุช
+W * N N,COM,PL,EZ ู…ุณุงุจูุงุช
+W * N N,COM,SING,EZ ููุชุจุงู
+W * N N,COM,SING ุฏุณุชู
+W * NUM NUM,ORD,AJC,EZ ุงูู
+W * N N,COM,PL,LOC,EZ ุจุงุดฺฏุงููุงู
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * PUNC PUNC ยป
+W * N N,COM,SING,EZ ุฌุงู…
+W * N N,COM,PL ุขุฒุงุฏฺฏุงู
+W * PUNC PUNC ยซ
+W * PUNC PUNC ุ
+W * AJ AJ,SIM,EZ ูุงุชุญ
+W * N N,COM,SING,TIME ููู… ูุตู
+W * DET DET,DEMO ุงูู
+W * N N,COM,PL ุฑูุงุจุชูุง
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ ใำวศÞๅ
-W * DET DET,DEMO วํไ
-W * NUM NUM,CAR,NOMI,SING ฯๆ
-W * N N,COM,SING สํใ
-W * N N,COM,SING,TIME,EZ ฺีั
-W * N N,PR,SING,DAY,EZ ไฬิไศๅ
-W * ADV ADV,GENR,TIME ะิสๅ
-W * CONJ CONJ ๆ
-W * P P ฯั
-W * N N,COM,SING,EZ อึๆั
-W * AJ AJ,SIM ศํิ
-W * P P วา
-W * NUM NUM,CAR,NOMI,SING ๅแ ๅาวั
-W * N N,COM,SING,EZ สใวิวั
-W * N N,COM,SING,LOC,EZ ๆัาิวๅ
-W * N N,PR,SING,EZ ยาวฯํ
-W * N N,PR,SING,LOC สๅัวไ
-W * CONJ CONJ ๆ
-W * P P ศๅ
-W * N N,COM,SING,EZ ฯวๆัํ
-W * N N,PR,SING,EZ อำํไ
-W * N N,PR,SING ฺำ฿ัํ
-W * N N,COM,SING วไฬวใ
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ๆ
-W * P P,EZ ุํ
-W * PRO PRO,DEMO,SING ยไ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING ํัๆาํ
-W * P P ศๅ
-W * N N,COM,SING,EZ ศัสัํ
+W * N N,COM,SING,EZ ู…ุณุงุจูู
+W * DET DET,DEMO ุงูู
+W * NUM NUM,CAR,NOMI,SING ุฏู
+W * N N,COM,SING ุชูู…
+W * N N,COM,SING,TIME,EZ ุนุตุฑ
+W * N N,PR,SING,DAY,EZ ูพูุฌุดูุจู
+W * ADV ADV,GENR,TIME ฺฏุฐุดุชู
+W * CONJ CONJ ู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุญุถูุฑ
+W * AJ AJ,SIM ุจูุด
+W * P P ุงุฒ
+W * NUM NUM,CAR,NOMI,SING ฺูู ูุฒุงุฑ
+W * N N,COM,SING,EZ ุชู…ุงุดุงฺฏุฑ
+W * N N,COM,SING,LOC,EZ ูุฑุฒุดฺฏุงู
+W * N N,PR,SING,EZ ุขุฒุงุฏู
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * CONJ CONJ ู
+W * P P ุจู
+W * N N,COM,SING,EZ ุฏุงูุฑู
+W * N N,PR,SING,EZ ุญุณูู
+W * N N,PR,SING ุนุณูุฑู
+W * N N,COM,SING ุงูุฌุงู…
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ู
+W * P P,EZ ุทู
+W * PRO PRO,DEMO,SING ุขู
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING ูพูุฑูุฒู
+W * P P ุจู
+W * N N,COM,SING,EZ ุจุฑุชุฑู
 W * NUM NUM,CAR,NOMI,SING 3
-W * P P ศั
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * N N,COM,SING ฯำส
-W * V V,PA,SIM,POS,3 ํวÝส
+W * P P ุจุฑ
+W * NUM NUM,CAR,NOMI,SING ูู
+W * N N,COM,SING ุฏุณุช
+W * V V,PA,SIM,POS,3 ูุงูุช
 W * PUNC PUNC .
-W * DET DET,DEMO วํไ
-W * N N,COM,SING,EZ ํัๆาํ
-W * AJ AJ,SIM ศววัาิ
-W * P P ฯั
-W * N N,COM,SING,YA อวแํ
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING ํัๆาํ
-W * N N,COM,SING อวีแ
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ฿ๅ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING สํใ
-W * P P สว
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING,EZ ูพูุฑูุฒู
+W * AJ AJ,SIM ุจุงุงุฑุฒุด
+W * P P ุฏุฑ
+W * N N,COM,SING,YA ุญุงูู
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING ูพูุฑูุฒู
+W * N N,COM,SING ุญุงุตู
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ูู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุชูู…
+W * P P ุชุง
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING,EZ 78
-W * N N,COM,SING ใำวศÞๅ
-W * P P ศว
-W * N N,COM,SING,EZ ไสํฬๅ
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * P P ศั
-W * NUM NUM,CAR,NOMI,SING ีÝั
-W * P P วา
-W * N N,COM,SING,EZ อัํÝ
-W * PRO PRO,REFL ฮๆฯ
-W * ADV ADV,GENR,SIM ฺÞศ
-W * V V,COP,PA,POS,3 ศๆฯ
+W * N N,COM,SING ู…ุณุงุจูู
+W * P P ุจุง
+W * N N,COM,SING,EZ ูุชูุฌู
+W * NUM NUM,CAR,NOMI,SING ูู
+W * P P ุจุฑ
+W * NUM NUM,CAR,NOMI,SING ุตูุฑ
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ุญุฑูู
+W * PRO PRO,REFL ุฎูุฏ
+W * ADV ADV,GENR,SIM ุนูุจ
+W * V V,COP,PA,POS,3 ุจูุฏ
 W * PUNC PUNC .
-W * N N,PR,SING,EZ วำ
-W * N N,PR,SING,LOC สๅัวไ
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * N N,PR,SING,EZ ูพุงุณ
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING,EZ 32
-W * N N,COM,SING ใำวศÞๅ
-W * P P,EZ สๆำุ
-W * N N,PR,SING,EZ ๅวิใ
-W * N N,PR,SING อํฯัํ
-W * AJ AJ,SIM ใๆÝÞ
-W * V V,PA,SIM,POS,3 ิฯ
-W * N N,COM,SING,LOC,EZ ฯัๆวาๅ
-W * N N,COM,SING ํัๆาํ
-W * POSTP POSTP ัว
-W * AJ AJ,SIM ศวา
-W * V V,SUB,POS,3 ฿ไฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ไํใๅ
-W * NUM NUM,ORD,AJC ไฮำส
-W * POSTP POSTP ัว
-W * P P ศว
-W * DET DET,DEMO ๅใํไ
-W * N N,COM,SING,EZ ไสํฬๅ
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * P P ศั
-W * NUM NUM,CAR,NOMI,SING ีÝั
-W * P P ศๅ
-W * N N,COM,SING,EZ ำๆฯ
-W * PRO PRO,REFL ฮๆฯ
-W * P P ศๅ
-W * N N,COM,SING วํวไ
-W * V V,SUB,POS,3 ศัำวไฯ
+W * N N,COM,SING ู…ุณุงุจูู
+W * P P,EZ ุชูุณุท
+W * N N,PR,SING,EZ ูุงุดู…
+W * N N,PR,SING ุญูุฏุฑู
+W * AJ AJ,SIM ู…ููู
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * N N,COM,SING,LOC,EZ ุฏุฑูุงุฒู
+W * N N,COM,SING ูพูุฑูุฒู
+W * POSTP POSTP ุฑุง
+W * AJ AJ,SIM ุจุงุฒ
+W * V V,SUB,POS,3 ููุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ููู…ู
+W * NUM NUM,ORD,AJC ูุฎุณุช
+W * POSTP POSTP ุฑุง
+W * P P ุจุง
+W * DET DET,DEMO ูู…ูู
+W * N N,COM,SING,EZ ูุชูุฌู
+W * NUM NUM,CAR,NOMI,SING ูู
+W * P P ุจุฑ
+W * NUM NUM,CAR,NOMI,SING ุตูุฑ
+W * P P ุจู
+W * N N,COM,SING,EZ ุณูุฏ
+W * PRO PRO,REFL ุฎูุฏ
+W * P P ุจู
+W * N N,COM,SING ูพุงูุงู
+W * V V,SUB,POS,3 ุจุฑุณุงูุฏ
 W * PUNC PUNC .
-W * P P ฯั ๆÞส
-W * NUM NUM,ORD,AJC ฯๆใ
-W * N N,PR,SING,EZ ํัๆาํ
-W * N N,PR,SING,LOC สๅัวไ
-W * P P ศๅ
-W * N N,COM,SING ศวาํ
-W * N N,COM,SING,EZ ำัฺส
-W * AJ AJ,COMP,YA ศํิสัํ
-W * V V,PA,SIM,POS,3 ศฮิํฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ศวาํ
-W * AJ AJ,SIM ำสัฯๅ
-W * V V,PA,SIM,POS,3 ิฯ
+W * P P ุฏุฑ ููุช
+W * NUM NUM,ORD,AJC ุฏูู…
+W * N N,PR,SING,EZ ูพูุฑูุฒู
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * P P ุจู
+W * N N,COM,SING ุจุงุฒู
+W * N N,COM,SING,EZ ุณุฑุนุช
+W * AJ AJ,COMP,YA ุจูุดุชุฑู
+W * V V,PA,SIM,POS,3 ุจุฎุดูุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING ุจุงุฒู
+W * AJ AJ,SIM ฺฏุณุชุฑุฏู
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING,EZ 61
-W * N N,COM,SING ศวาํ
-W * N N,PR,SING ฺแํัึว
-W * N N,PR,SING ำๅไฯัวาํวไ
-W * N N,COM,SING,EZ ศวาํ฿ไ
-W * N N,COM,SING,EZ ฮุ
-W * AJ AJ,SIM,EZ ใํวไํ
-W * N N,PR,SING,EZ วำ
-W * N N,PR,SING,LOC สๅัวไ
-W * CONJ CONJ ฿ๅ
-W * P P ฯั
-W * N N,COM,SING,EZ ไํใๅ
-W * NUM NUM,ORD,AJC ไฮำส
-W * P P ศว
-W * N N,COM,SING,EZ ฿วัส
-W * AJ AJ,SIM,EZ าัฯ
-W * N N,COM,SING ฯวๆั
-W * AJ AJ,SIM ใๆวฬๅ
-W * V V,PASTP ิฯๅ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * PUNC PUNC ก
-W * P P ศๅ ฯแํแ
-W * N N,COM,SING,EZ ฮิๆไส
-W * AJ AJ,SIM ใฬฯฯ
-W * N N,COM,SING,EZ ีวอศ
-W * NUM NUM,ORD,AJC ฯๆใํไ
-W * N N,COM,SING,EZ ฿วัส
-W * AJ AJ,SIM าัฯ
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ๆ
-W * P P วา
-W * N N,COM,SING,LOC าใํไ
-W * N N,COM,SING วฮัวฬ
-W * V V,PA,SIM,POS,3 ัฯํฯ
+W * N N,COM,SING ุจุงุฒู
+W * N N,PR,SING ุนููุฑุถุง
+W * N N,PR,SING ุณููุฏุฑุงุฒูุงู
+W * N N,COM,SING,EZ ุจุงุฒููู
+W * N N,COM,SING,EZ ุฎุท
+W * AJ AJ,SIM,EZ ู…ูุงูู
+W * N N,PR,SING,EZ ูพุงุณ
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * CONJ CONJ ูู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ููู…ู
+W * NUM NUM,ORD,AJC ูุฎุณุช
+W * P P ุจุง
+W * N N,COM,SING,EZ ูุงุฑุช
+W * AJ AJ,SIM,EZ ุฒุฑุฏ
+W * N N,COM,SING ุฏุงูุฑ
+W * AJ AJ,SIM ู…ูุงุฌู
+W * V V,PASTP ุดุฏู
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * PUNC PUNC ุ
+W * P P ุจู ุฏููู
+W * N N,COM,SING,EZ ุฎุดููุช
+W * AJ AJ,SIM ู…ุฌุฏุฏ
+W * N N,COM,SING,EZ ุตุงุญุจ
+W * NUM NUM,ORD,AJC ุฏูู…ูู
+W * N N,COM,SING,EZ ูุงุฑุช
+W * AJ AJ,SIM ุฒุฑุฏ
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ู
+W * P P ุงุฒ
+W * N N,COM,SING,LOC ุฒู…ูู
+W * N N,COM,SING ุงุฎุฑุงุฌ
+W * V V,PA,SIM,POS,3 ฺฏุฑุฏูุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING,EZ 78
-W * N N,COM,SING ใำวศÞๅ
-W * N N,PR,SING,EZ วํวไ
-W * N N,COM,SING ัÝฺส
-W * N N,COM,SING,EZ สๆ
-W * AJ AJ,SIM วัำวแํ
-W * POSTP POSTP ัว
-W * P P ศว
-W * N N,COM,SING,EZ ึัศๅ
-W * AJ AJ,SIM,EZ าํศวํ
-W * N N,COM,SING ำั
-W * P P,EZ ๆวัฯ
-W * N N,COM,SING,LOC,EZ ฯัๆวาๅ
-W * N N,COM,SING วำ
-W * V V,PA,SIM,POS,3 ฿ัฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ไสํฬๅ
-W * N N,COM,SING ศวาํ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING,EZ สำวๆํ
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * P P ศั
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * V V,PA,SIM,POS,3 ฿ิวไฯ
+W * N N,COM,SING ู…ุณุงุจูู
+W * N N,PR,SING,EZ ูพุงูุงู
+W * N N,COM,SING ุฑูุนุช
+W * N N,COM,SING,EZ ุชููพ
+W * AJ AJ,SIM ุงุฑุณุงูู
+W * POSTP POSTP ุฑุง
+W * P P ุจุง
+W * N N,COM,SING,EZ ุถุฑุจู
+W * AJ AJ,SIM,EZ ุฒูุจุงู
+W * N N,COM,SING ุณุฑ
+W * P P,EZ ูุงุฑุฏ
+W * N N,COM,SING,LOC,EZ ุฏุฑูุงุฒู
+W * N N,COM,SING ูพุงุณ
+W * V V,PA,SIM,POS,3 ูุฑุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ูุชูุฌู
+W * N N,COM,SING ุจุงุฒู
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING,EZ ุชุณุงูู
+W * NUM NUM,CAR,NOMI,SING ูู
+W * P P ุจุฑ
+W * NUM NUM,CAR,NOMI,SING ูู
+W * V V,PA,SIM,POS,3 ูุดุงูุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING,EZ 88
-W * N N,COM,SING ศวาํ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING,EZ วำ
-W * N N,PR,SING,LOC สๅัวไ
-W * N N,COM,SING,EZ ีวอศ
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * N N,COM,SING,EZ ึัศๅ
-W * N N,COM,SING ไวแสํ
-W * V V,PA,SIM,POS,3 ิฯ
+W * N N,COM,SING ุจุงุฒู
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING,EZ ูพุงุณ
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * N N,COM,SING,EZ ุตุงุญุจ
+W * NUM NUM,CAR,NOMI,SING ูู
+W * N N,COM,SING,EZ ุถุฑุจู
+W * N N,COM,SING ูพูุงูุชู
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * N N,PR,SING,EZ ฬๆวฯ
-W * N N,PR,SING ไ฿ๆไวใ
-W * P P,EZ ิส
-W * DET DET,DEMO วํไ
-W * N N,COM,SING สๆ
-W * N N,COM,SING Þัวั
-W * V V,PA,SIM,POS,3 ัÝส
-W * CONJ CONJ ๆ
-W * N N,COM,SING,YA ึัศๅ วํ
-W * AJ AJ,SIM ฯÞํÞ
-W * CONJ CONJ วใว
-W * ADV ADV,GENR,SIM ไๅ ไฯวไ
-W * AJ AJ,SIM ำไํไ
-W * P P ศๅ
-W * N N,COM,SING สๆ
-W * V V,PA,SIM,POS,3 ไๆวฮส
+W * N N,PR,SING,EZ ุฌูุงุฏ
+W * N N,PR,SING ููููุงู…
+W * P P,EZ ูพุดุช
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุชููพ
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,PA,SIM,POS,3 ฺฏุฑูุช
+W * CONJ CONJ ู
+W * N N,COM,SING,YA ุถุฑุจู ุงู
+W * AJ AJ,SIM ุฏููู
+W * CONJ CONJ ุงู…ุง
+W * ADV ADV,GENR,SIM ูู ฺูุฏุงู
+W * AJ AJ,SIM ุณูฺฏูู
+W * P P ุจู
+W * N N,COM,SING ุชููพ
+W * V V,PA,SIM,POS,3 ููุงุฎุช
 W * PUNC PUNC .
-W * N N,PR,SING,EZ ใอใฯ
-W * N N,PR,SING Ýไวํํ
-W * N N,COM,SING,EZ ฯัๆวาๅ ศวไ
-W * N N,PR,SING ํัๆาํ
-W * CONJ CONJ ฿ๅ
-W * P P ศว
-W * N N,COM,SING ๅๆิํวัํ
-W * AJ AJ,SIM,EZ ใสๆฬๅ
-W * N N,COM,SING,EZ ใำํั
-W * N N,COM,SING สๆ
-W * V V,PASTP ิฯๅ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * PUNC PUNC ก
-W * P P ศว
-W * N N,COM,SING,YA ิํัฬๅ วํ
-W * AJ AJ,SIM สใวิวํํ
-W * N N,COM,SING สๆ
-W * POSTP POSTP ัว
-W * N N,COM,SING ฯÝฺ
-W * V V,PA,SIM,POS,3 ฿ัฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ไวฬํ
-W * N N,COM,SING,LOC,EZ ฯัๆวาๅ
-W * N N,COM,SING,3 สํใิ
-W * V V,PA,SIM,POS,3 ิฯ
+W * N N,PR,SING,EZ ู…ุญู…ุฏ
+W * N N,PR,SING ููุงูู
+W * N N,COM,SING,EZ ุฏุฑูุงุฒู ุจุงู
+W * N N,PR,SING ูพูุฑูุฒู
+W * CONJ CONJ ูู
+W * P P ุจุง
+W * N N,COM,SING ููุดูุงุฑู
+W * AJ AJ,SIM,EZ ู…ุชูุฌู
+W * N N,COM,SING,EZ ู…ุณูุฑ
+W * N N,COM,SING ุชููพ
+W * V V,PASTP ุดุฏู
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * PUNC PUNC ุ
+W * P P ุจุง
+W * N N,COM,SING,YA ุดูุฑุฌู ุงู
+W * AJ AJ,SIM ุชู…ุงุดุงูู
+W * N N,COM,SING ุชููพ
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ุฏูุน
+W * V V,PA,SIM,POS,3 ูุฑุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ูุงุฌู
+W * N N,COM,SING,LOC,EZ ุฏุฑูุงุฒู
+W * N N,COM,SING,3 ุชูู…ุด
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * N N,COM,SING,TIME ฯÞํÞๅ
-W * P P วา
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ีอไๅ
-W * V V,PASTP,NEG ไะิสๅ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * CONJ CONJ ฿ๅ
-W * N N,PR,SING,EZ วํวไ
-W * N N,COM,SING ัÝฺส
-W * P P ศว
-W * N N,COM,SING,YA ไÝๆะํ
-W * AJ AJ,SIM ำัํฺ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ฬว
-W * N N,COM,SING,INFI,EZ ะวิสไ
-W * N N,PR,SING ใวั฿วั
-W * N N,PR,SING ยÞวฬวไํวไ
-W * N N,COM,SING,EZ ใฯวÝฺ
-W * AJ AJ,SIM,EZ ใำสÞํใ
-W * PRO PRO,REFL ฮๆฯ
-W * N N,COM,SING สๆ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING,EZ ุๆั
-W * AJ AJ,SIM าใํไํ
-W * P P,EZ ศัวํ
-W * N N,PR,SING,EZ ฺแํ
-W * N N,PR,SING ศวÛใํิๅ
-W * AJ AJ,SIM ฮสๅ
-W * V V,PA,SIM,POS,3 ฿ัฯ
-W * CONJ CONJ สว
-W * PRO PRO,PERS,SING,3 ๆํ
-W * NUM NUM,ORD,AJC ฯๆใํไ
-W * N N,COM,SING แ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,PR,SING,EZ วำ
-W * N N,PR,SING,LOC สๅัวไ
-W * N N,COM,SING สอใํแ
-W * V V,SUB,POS,3 ฿ไฯ
+W * NUM NUM,CAR,NOMI,SING ูู
+W * N N,COM,SING,TIME ุฏูููู
+W * P P ุงุฒ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุตุญูู
+W * V V,PASTP,NEG ูฺฏุฐุดุชู
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * CONJ CONJ ูู
+W * N N,PR,SING,EZ ูพุงูุงู
+W * N N,COM,SING ุฑูุนุช
+W * P P ุจุง
+W * N N,COM,SING,YA ูููุฐู
+W * AJ AJ,SIM ุณุฑูุน
+W * CONJ CONJ ู
+W * N N,COM,SING ุฌุง
+W * N N,COM,SING,INFI,EZ ฺฏุฐุงุดุชู
+W * N N,PR,SING ู…ุงุฑูุงุฑ
+W * N N,PR,SING ุขูุงุฌุงููุงู
+W * N N,COM,SING,EZ ู…ุฏุงูุน
+W * AJ AJ,SIM,EZ ู…ุณุชููู…
+W * PRO PRO,REFL ุฎูุฏ
+W * N N,COM,SING ุชููพ
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING,EZ ุทูุฑ
+W * AJ AJ,SIM ุฒู…ููู
+W * P P,EZ ุจุฑุงู
+W * N N,PR,SING,EZ ุนูู
+W * N N,PR,SING ุจุงุบู…ูุดู
+W * AJ AJ,SIM ูพุฎุชู
+W * V V,PA,SIM,POS,3 ูุฑุฏ
+W * CONJ CONJ ุชุง
+W * PRO PRO,PERS,SING,3 ูู
+W * NUM NUM,ORD,AJC ุฏูู…ูู
+W * N N,COM,SING ฺฏู
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,PR,SING,EZ ูพุงุณ
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * N N,COM,SING ุชุญู…ูู
+W * V V,SUB,POS,3 ููุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,YA ําํ
-W * P P ศๅ
-W * N N,COM,SING,EZ วํวไ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ใำวศÞๅ
-W * V V,PASTP,NEG ไใวไฯๅ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * CONJ CONJ ฿ๅ
-W * N N,PR,SING,EZ ใๅฯํ
-W * N N,PR,SING ๅวิใํ ไำศ
-W * N N,COM,SING,EZ ฯÝวฺ
-W * AJ AJ,SIM,EZ ํิ สวฮสๅ
-W * N N,PR,SING ํัๆาํ
-W * P P ศว
-W * N N,COM,SING,EZ ึัศๅ
-W * N N,COM,SING ำั
-W * P P,EZ ศัวํ
-W * NUM NUM,ORD,AJC ำๆใํไ
-W * N N,COM,SING ศวั
-W * N N,COM,SING,EZ สๆั
-W * N N,COM,SING,LOC,EZ ฯัๆวาๅ
-W * N N,PR,SING,EZ วำ
-W * N N,PR,SING,LOC สๅัวไ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING แัาๅ
-W * V V,PA,SIM,POS,3 ฯัยๆัฯ
+W * N N,COM,SING,YA ฺูุฒู
+W * P P ุจู
+W * N N,COM,SING,EZ ูพุงูุงู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ู…ุณุงุจูู
+W * V V,PASTP,NEG ูู…ุงูุฏู
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * CONJ CONJ ูู
+W * N N,PR,SING,EZ ู…ูุฏู
+W * N N,PR,SING ูุงุดู…ู ูุณุจ
+W * N N,COM,SING,EZ ุฏูุงุน
+W * AJ AJ,SIM,EZ ูพูุด ุชุงุฎุชู
+W * N N,PR,SING ูพูุฑูุฒู
+W * P P ุจุง
+W * N N,COM,SING,EZ ุถุฑุจู
+W * N N,COM,SING ุณุฑ
+W * P P,EZ ุจุฑุงู
+W * NUM NUM,ORD,AJC ุณูู…ูู
+W * N N,COM,SING ุจุงุฑ
+W * N N,COM,SING,EZ ุชูุฑ
+W * N N,COM,SING,LOC,EZ ุฏุฑูุงุฒู
+W * N N,PR,SING,EZ ูพุงุณ
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING ูุฑุฒู
+W * V V,PA,SIM,POS,3 ุฏุฑุขูุฑุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ สํใ
-W * N N,COM,SING ํัๆาํ
-W * P P ศว
-W * N N,COM,SING,EZ ฿ำศ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ศัสัํ
-W * N N,COM,SING,EZ ีวอศ
+W * N N,COM,SING,EZ ุชูู…
+W * N N,COM,SING ูพูุฑูุฒู
+W * P P ุจุง
+W * N N,COM,SING,EZ ูุณุจ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุจุฑุชุฑู
+W * N N,COM,SING,EZ ุตุงุญุจ
 W * NUM NUM,CAR,NOMI,SING 31
-W * N N,COM,SING วใสํวา
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ สว
-W * N N,COM,SING,EZ Þๅัใวไ
-W * N N,COM,SING,TIME,EZ ไํใ Ýีแ
-W * NUM NUM,ORD,AJC,EZ วๆแ
-W * N N,COM,SING,EZ ฬวใ
-W * N N,COM,PL ยาวฯวไ
-W * V V,SUB,POS,3 ิๆฯ
+W * N N,COM,SING ุงู…ุชูุงุฒ
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ุชุง
+W * N N,COM,SING,EZ ููุฑู…ุงู
+W * N N,COM,SING,TIME,EZ ููู… ูุตู
+W * NUM NUM,ORD,AJC,EZ ุงูู
+W * N N,COM,SING,EZ ุฌุงู…
+W * N N,COM,PL ุขุฒุงุฏฺฏุงู
+W * V V,SUB,POS,3 ุดูุฏ
 W * PUNC PUNC .
-W * N N,COM,PL,EZ ฯํฯวัๅวํ
-W * N N,COM,SING,EZ ศัิส
-W * N N,COM,SING,EZ Ýๆสศวแ
-W * N N,COM,SING,EZ ฬวใ
-W * N N,COM,PL ยาวฯวไ
-W * P P ำ
-W * P P วา
-W * N N,COM,SING,TIME,EZ ใวๅ
-W * AJ AJ,SIM,EZ ใศวั฿
-W * N N,PR,SING,MON ัใึวไ
-W * N N,COM,SING ยÛวา
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ิฯ
-W * PUNC PUNC .
-W * PUNC PUNC #
-W * N N,PR,SING ไีํัํ ไํว
-W * N N,COM,SING,EZ Þๅัใวไ
-W * N N,COM,SING,EZ ๆาไๅ ศัฯวัํ
-W * N N,COM,SING ฬๅวไ
-W * V V,PA,SIM,POS,3 ิฯ
+W * N N,COM,PL,EZ ุฏูุฏุงุฑูุงู
+W * N N,COM,SING,EZ ุจุฑฺฏุดุช
+W * N N,COM,SING,EZ ููุชุจุงู
+W * N N,COM,SING,EZ ุฌุงู…
+W * N N,COM,PL ุขุฒุงุฏฺฏุงู
+W * P P ูพุณ
+W * P P ุงุฒ
+W * N N,COM,SING,TIME,EZ ู…ุงู
+W * AJ AJ,SIM,EZ ู…ุจุงุฑู
+W * N N,PR,SING,MON ุฑู…ุถุงู
+W * N N,COM,SING ุขุบุงุฒ
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,PR,SING,EZ ิวๅํไ
-W * N N,PR,SING ไีํัํ ไํว
-W * N N,COM,SING,EZ ไใวํไฯๅ
-W * N N,COM,SING,LOC,4 ฿ิๆัใวไ
-W * P P ฯั
-W * N N,COM,PL,EZ ัÞวศสๅวํ
-W * N N,COM,SING,EZ ฯำสๅ
+W * N N,PR,SING ูุตูุฑู ููุง
+W * N N,COM,SING,EZ ููุฑู…ุงู
+W * N N,COM,SING,EZ ูุฒูู ุจุฑุฏุงุฑู
+W * N N,COM,SING ุฌูุงู
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * PUNC PUNC .
+W * PUNC PUNC #
+W * N N,PR,SING,EZ ุดุงููู
+W * N N,PR,SING ูุตูุฑู ููุง
+W * N N,COM,SING,EZ ูู…ุงููุฏู
+W * N N,COM,SING,LOC,4 ูุดูุฑู…ุงู
+W * P P ุฏุฑ
+W * N N,COM,PL,EZ ุฑูุงุจุชูุงู
+W * N N,COM,SING,EZ ุฏุณุชู
 W * NUM NUM,CAR,NOMI,SING 85
-W * N N,COM,SING,EZ ฿ํแๆัใ
-W * NUM NUM,ORD,AJC ๅÝสวฯใํไ
-W * N N,COM,SING,EZ ฯๆัๅ
-W * N N,COM,PL,EZ ใำวศÞๅ ๅวํ
-W * N N,COM,SING,EZ ๆาไๅ ศัฯวัํ
-W * N N,COM,SING,EZ Þๅัใวไํ
-W * N N,COM,PL,EZ ใัฯวไ
-W * N N,COM,SING ฬๅวไ
-W * PUNC PUNC ก
-W * P P ศๅ
-W * N N,COM,SING,EZ ใฯวแ
-W * N N,COM,SING ุแว
-W * N N,COM,SING ฯำส
-W * V V,PA,SIM,POS,3 ํวÝส
+W * N N,COM,SING,EZ ููููฺฏุฑู…
+W * NUM NUM,ORD,AJC ููุชุงุฏู…ูู
+W * N N,COM,SING,EZ ุฏูุฑู
+W * N N,COM,PL,EZ ู…ุณุงุจูู ูุงู
+W * N N,COM,SING,EZ ูุฒูู ุจุฑุฏุงุฑู
+W * N N,COM,SING,EZ ููุฑู…ุงูู
+W * N N,COM,PL,EZ ู…ุฑุฏุงู
+W * N N,COM,SING ุฌูุงู
+W * PUNC PUNC ุ
+W * P P ุจู
+W * N N,COM,SING,EZ ู…ุฏุงู
+W * N N,COM,SING ุทูุง
+W * N N,COM,SING ุฏุณุช
+W * V V,PA,SIM,POS,3 ูุงูุช
 W * PUNC PUNC .
-W * N N,PR,SING ไีํัํ ไํว
-W * N N,PR,SING,DAY ฬใฺๅ
-W * N N,COM,SING,TIME ิศ
-W * P P ฯั
-W * N N,COM,PL,EZ ํ฿วัๅวํ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ัๆๅ
-W * CONJ CONJ ฿ๅ
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ ำวแไ
-W * N N,COM,SING,EZ ๆาไๅ ศัฯวัํ
-W * N N,COM,SING,LOC,EZ ๆัาิวๅ
-W * N N,PR,SING,LOC,EZ Ýัไฯิํ
-W * N N,COM,SING,LOC,EZ ิๅั
-W * N N,PR,SING,LOC ยสไ
-W * AJ AJ,SIM ศัาวั
-W * V V,PA,SIM,POS,3 ิฯ
-W * PUNC PUNC ก
-W * P P ศว
-W * N N,COM,SING,EZ อฯ
-W * N N,COM,SING,EZ ไีวศ
-W * N N,COM,SING,EZ ใฬใๆฺ
+W * N N,PR,SING ูุตูุฑู ููุง
+W * N N,PR,SING,DAY ุฌู…ุนู
+W * N N,COM,SING,TIME ุดุจ
+W * P P ุฏุฑ
+W * N N,COM,PL,EZ ูพููุงุฑูุงู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ฺฏุฑูู
+W * CONJ CONJ ูู
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ุณุงูู
+W * N N,COM,SING,EZ ูุฒูู ุจุฑุฏุงุฑู
+W * N N,COM,SING,LOC,EZ ูุฑุฒุดฺฏุงู
+W * N N,PR,SING,LOC,EZ ูุฑูุฏุดููพ
+W * N N,COM,SING,LOC,EZ ุดูุฑ
+W * N N,PR,SING,LOC ุขุชู
+W * AJ AJ,SIM ุจุฑฺฏุฒุงุฑ
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * PUNC PUNC ุ
+W * P P ุจุง
+W * N N,COM,SING,EZ ุญุฏ
+W * N N,COM,SING,EZ ูุตุงุจ
+W * N N,COM,SING,EZ ู…ุฌู…ูุน
 W * NUM NUM,CAR,NOMI,SING 390
-W * N N,COM,SING ฿ํแๆัใ
-W * PUNC PUNC ป
+W * N N,COM,SING ููููฺฏุฑู…
+W * PUNC PUNC ยป
 W * NUM NUM,CAR,NOMI,SING 215
-W * P P ศๅ วึวÝๅ
+W * P P ุจู ุงุถุงูู
 W * NUM NUM,CAR,NOMI,SING 175
-W * PUNC PUNC ซ
-W * P P ศๅ
-W * N N,COM,SING,EZ ฿วั
-W * PRO PRO,REFL ฮๆฯ
-W * N N,COM,SING วํวไ
-W * V V,PA,SIM,POS,3 ฯวฯ
+W * PUNC PUNC ยซ
+W * P P ุจู
+W * N N,COM,SING,EZ ูุงุฑ
+W * PRO PRO,REFL ุฎูุฏ
+W * N N,COM,SING ูพุงูุงู
+W * V V,PA,SIM,POS,3 ุฏุงุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ๆวแํศวแ
-W * N N,COM,SING,EZ ำๆัแํ
-W * N N,COM,SING,LOC ฿ิๆั
+W * N N,COM,SING,EZ ูุงููุจุงู
+W * N N,COM,SING,EZ ุณููพุฑููฺฏ
+W * N N,COM,SING,LOC ูุดูุฑ
 W * PUNC PUNC #
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ิ฿ำส
-W * N N,PR,SING,EZ ํ฿วไ
-W * N N,PR,SING,LOC สๅัวไ
-W * P P วา
-W * N N,PR,SING,EZ ะๆศ ยๅไ
-W * N N,PR,SING,LOC วีÝๅวไ
+W * N N,COM,SING,EZ ุดูุณุช
+W * N N,PR,SING,EZ ูพููุงู
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * P P ุงุฒ
+W * N N,PR,SING,EZ ุฐูุจ ุขูู
+W * N N,PR,SING,LOC ุงุตููุงู
 W * PUNC PUNC #
-W * N N,COM,SING,EZ สํใ
-W * N N,COM,SING,EZ ๆวแํศวแ
-W * N N,PR,SING,EZ ะๆศ ยๅไ
-W * N N,PR,SING,LOC วีÝๅวไ
-W * PUNC PUNC ก
-W * N N,PR,SING,EZ ํ฿วไ
-W * N N,PR,SING,LOC สๅัวไ
-W * POSTP POSTP ัว
-W * N N,COM,SING ิ฿ำส
-W * V V,PA,SIM,POS,3 ฯวฯ
+W * N N,COM,SING,EZ ุชูู…
+W * N N,COM,SING,EZ ูุงููุจุงู
+W * N N,PR,SING,EZ ุฐูุจ ุขูู
+W * N N,PR,SING,LOC ุงุตููุงู
+W * PUNC PUNC ุ
+W * N N,PR,SING,EZ ูพููุงู
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ุดูุณุช
+W * V V,PA,SIM,POS,3 ุฏุงุฏ
 W * PUNC PUNC .
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ฯํฯวั
-W * P P ฯั
-W * N N,COM,SING,EZ วัๆศ
-W * N N,COM,PL,EZ ใำวศÞๅ ๅวํ
-W * N N,COM,SING,EZ ๆวแํศวแ
-W * N N,COM,SING,EZ ำๆัแํ
-W * N N,COM,SING,LOC ฿ิๆั
-W * N N,COM,SING,TIME,EZ ิวใวๅ
-W * N N,PR,SING,DAY ไฬ ิไศๅ
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ สวแวั
-W * NUM NUM,CAR,NOMI,SING,EZ ๅÝฯๅ
-W * N N,PR,SING,MON,EZ ิๅัํๆั
-W * N N,COM,SING,LOC,EZ ๆัาิวๅ
-W * N N,PR,SING,EZ สฮสํ
-W * N N,PR,SING,LOC วีÝๅวไ
-W * AJ AJ,SIM ศัาวั
-W * V V,PA,SIM,POS,3 ิฯ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุฏูุฏุงุฑ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ฺุงุฑฺูุจ
+W * N N,COM,PL,EZ ู…ุณุงุจูู ูุงู
+W * N N,COM,SING,EZ ูุงููุจุงู
+W * N N,COM,SING,EZ ุณููพุฑููฺฏ
+W * N N,COM,SING,LOC ูุดูุฑ
+W * N N,COM,SING,TIME,EZ ุดุงู…ฺฏุงู
+W * N N,PR,SING,DAY ูพูุฌ ุดูุจู
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ุชุงูุงุฑ
+W * NUM NUM,CAR,NOMI,SING,EZ ููุฏู
+W * N N,PR,SING,MON,EZ ุดูุฑููุฑ
+W * N N,COM,SING,LOC,EZ ูุฑุฒุดฺฏุงู
+W * N N,PR,SING,EZ ุชุฎุชู
+W * N N,PR,SING,LOC ุงุตููุงู
+W * AJ AJ,SIM ุจุฑฺฏุฒุงุฑ
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ฯํฯวั
-W * N N,COM,SING,EZ สํใ
-W * N N,COM,SING,EZ ๆวแํศวแ
-W * N N,PR,SING,EZ ะๆศ ยๅไ
-W * N N,PR,SING,LOC วีÝๅวไ
-W * P P ฯั
-W * NUM NUM,CAR,NOMI,SING ำๅ
-W * N N,COM,SING,EZ ํใ
-W * AJ AJ,SIM ํวํ
-W * P P ศว
-W * N N,COM,SING,EZ ไสํฬๅ
+W * P P ุฏุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุฏูุฏุงุฑ
+W * N N,COM,SING,EZ ุชูู…
+W * N N,COM,SING,EZ ูุงููุจุงู
+W * N N,PR,SING,EZ ุฐูุจ ุขูู
+W * N N,PR,SING,LOC ุงุตููุงู
+W * P P ุฏุฑ
+W * NUM NUM,CAR,NOMI,SING ุณู
+W * N N,COM,SING,EZ ฺฏูู…
+W * AJ AJ,SIM ูพูุงูพู
+W * P P ุจุง
+W * N N,COM,SING,EZ ูุชูุฌู
 W * NUM NUM,CAR,NOMI,SING 25
 W * PUNC PUNC -
 W * NUM NUM,CAR,NOMI,SING 21
-W * PUNC PUNC ก
+W * PUNC PUNC ุ
 W * NUM NUM,CAR,NOMI,SING 25
 W * PUNC PUNC -
-W * NUM NUM,CAR,NOMI,SING 21 ๆ 39
+W * NUM NUM,CAR,NOMI,SING 21 ู 39
 W * PUNC PUNC -
 W * NUM NUM,CAR,NOMI,SING 37
-W * N N,COM,SING,EZ อัํÝ
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * P P,EZ ิส
-W * N N,COM,SING ำั
-W * V V,PA,SIM,POS,3 ะวิส
+W * N N,COM,SING,EZ ุญุฑูู
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * P P,EZ ูพุดุช
+W * N N,COM,SING ุณุฑ
+W * V V,PA,SIM,POS,3 ฺฏุฐุงุดุช
 W * PUNC PUNC .
-W * CONJ CONJ ๅใไํไ
-W * P P ฯั
-W * N N,COM,SING,EZ วฯวใๅ
-W * N N,COM,SING,TIME,EZ ๅÝสๅ
-W * NUM NUM,ORD,AJC,EZ ๅÝสใ
-W * N N,COM,PL,EZ ัÞวศสๅวํ
-W * N N,COM,SING,EZ ๆวแํศวแ
-W * N N,COM,SING,EZ ฬวใ
-W * AJ AJ,COMP,EZ ศัสั
-W * N N,COM,PL,LOC,EZ ศวิวๅๅวํ
-W * N N,PR,SING,LOC วํัวไ
-W * PUNC PUNC ก
-W * N N,PR,SING,DAY ไฬ ิไศๅ
-W * N N,COM,SING,TIME ิศ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING,EZ ใๆสๆไ
-W * N N,PR,SING,LOC สศัํา
-W * P P,EZ ใÞวศแ
-W * N N,COM,SING,EZ ๆอฯส
-W * N N,PR,SING,LOC ำวัํ
-W * P P ศๅ
-W * N N,COM,SING ศัสัํ
-W * V V,PA,SIM,POS,3 ัำํฯ
+W * CONJ CONJ ูู…ฺููู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุงุฏุงู…ู
+W * N N,COM,SING,TIME,EZ ููุชู
+W * NUM NUM,ORD,AJC,EZ ููุชู…
+W * N N,COM,PL,EZ ุฑูุงุจุชูุงู
+W * N N,COM,SING,EZ ูุงููุจุงู
+W * N N,COM,SING,EZ ุฌุงู…
+W * AJ AJ,COMP,EZ ุจุฑุชุฑ
+W * N N,COM,PL,LOC,EZ ุจุงุดฺฏุงููุงู
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * PUNC PUNC ุ
+W * N N,PR,SING,DAY ูพูุฌ ุดูุจู
+W * N N,COM,SING,TIME ุดุจ
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING,EZ ู…ูุชูฺู
+W * N N,PR,SING,LOC ุชุจุฑูุฒ
+W * P P,EZ ู…ูุงุจู
+W * N N,COM,SING,EZ ูุญุฏุช
+W * N N,PR,SING,LOC ุณุงุฑู
+W * P P ุจู
+W * N N,COM,SING ุจุฑุชุฑู
+W * V V,PA,SIM,POS,3 ุฑุณูุฏ
 W * PUNC PUNC .
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ฯํฯวั
-W * P P ฯั
-W * N N,PR,SING,LOC ำวัํ
-W * AJ AJ,SIM ศัาวั
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING ใๆสๆไ
-W * P P ศว
-W * N N,COM,SING,EZ อำวศ
-W * NUM NUM,CAR,NOMI,SING ำๅ
-W * P P ศั
-W * NUM NUM,CAR,NOMI,SING ีÝั
-W * P P วา
-W * N N,COM,SING,LOC,EZ ำฯ
-W * N N,COM,SING,EZ ใําศวไ
-W * PRO PRO,REFL ฮๆฯ
-W * V V,PA,SIM,POS,3 ะิส
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุฏูุฏุงุฑ
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ุณุงุฑู
+W * AJ AJ,SIM ุจุฑฺฏุฒุงุฑ
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING ู…ูุชูฺู
+W * P P ุจุง
+W * N N,COM,SING,EZ ุญุณุงุจ
+W * NUM NUM,CAR,NOMI,SING ุณู
+W * P P ุจุฑ
+W * NUM NUM,CAR,NOMI,SING ุตูุฑ
+W * P P ุงุฒ
+W * N N,COM,SING,LOC,EZ ุณุฏ
+W * N N,COM,SING,EZ ู…ูุฒุจุงู
+W * PRO PRO,REFL ุฎูุฏ
+W * V V,PA,SIM,POS,3 ฺฏุฐุดุช
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ฯํฯวั
-W * N N,COM,SING ัÝส
-W * P P วา
-W * N N,COM,SING,EZ ใัอแๅ
-W * NUM NUM,ORD,AJC ฯๆใ
+W * N N,COM,SING,EZ ุฏูุฏุงุฑ
+W * N N,COM,SING ุฑูุช
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ู…ุฑุญูู
+W * NUM NUM,ORD,AJC ุฏูู…
 W * PUNC PUNC #
-W * NUM NUM,ORD,AJC ฯๅใํไ
-W * N N,COM,SING,EZ ฯๆัๅ
-W * N N,COM,PL,EZ ใำวศÞวส
-W * N N,COM,SING,EZ Ýๆสศวแ
-W * N N,COM,SING,EZ ฬวใ
-W * N N,COM,PL,EZ ศัไฯวไ
-W * N N,COM,SING,EZ ฬวใ
-W * N N,COM,PL,LOC,EZ ศวิวๅ ๅวํ
-W * N N,PR,SING,LOC ยำํว
-W * PUNC PUNC ก
-W * ADV ADV,GENR,TIME ฯํิศ
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ ๆัาิวๅ
-W * N N,PR,SING,LOC ฬฯๅ
-W * N N,COM,SING วไฬวใ
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ๆ
-W * P P,EZ ุํ
-W * PRO PRO,DEMO,SING ยไ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING,EZ วแวสอวฯ
-W * N N,PR,SING,LOC ฺัศำสวไ
-W * P P,EZ ศัวศั
-W * N N,PR,SING วำสÞแวแ
-W * P P ศๅ
-W * N N,COM,SING,EZ ศัสัํ
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * P P ศั
-W * NUM NUM,CAR,NOMI,SING ีÝั
-W * V V,PA,SIM,POS,3 ัำํฯ
+W * NUM NUM,ORD,AJC ุฏูู…ูู
+W * N N,COM,SING,EZ ุฏูุฑู
+W * N N,COM,PL,EZ ู…ุณุงุจูุงุช
+W * N N,COM,SING,EZ ููุชุจุงู
+W * N N,COM,SING,EZ ุฌุงู…
+W * N N,COM,PL,EZ ุจุฑูุฏฺฏุงู
+W * N N,COM,SING,EZ ุฌุงู…
+W * N N,COM,PL,LOC,EZ ุจุงุดฺฏุงู ูุงู
+W * N N,PR,SING,LOC ุขุณูุง
+W * PUNC PUNC ุ
+W * ADV ADV,GENR,TIME ุฏูุดุจ
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ูุฑุฒุดฺฏุงู
+W * N N,PR,SING,LOC ุฌุฏู
+W * N N,COM,SING ุงูุฌุงู…
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ู
+W * P P,EZ ุทู
+W * PRO PRO,DEMO,SING ุขู
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING,EZ ุงูุงุชุญุงุฏ
+W * N N,PR,SING,LOC ุนุฑุจุณุชุงู
+W * P P,EZ ุจุฑุงุจุฑ
+W * N N,PR,SING ุงุณุชููุงู
+W * P P ุจู
+W * N N,COM,SING,EZ ุจุฑุชุฑู
+W * NUM NUM,CAR,NOMI,SING ูู
+W * P P ุจุฑ
+W * NUM NUM,CAR,NOMI,SING ุตูุฑ
+W * V V,PA,SIM,POS,3 ุฑุณูุฏ
 W * PUNC PUNC .
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ฯํฯวั
-W * P P ฯั
-W * N N,COM,SING,EZ อึๆั
-W * AJ AJ,SIM ศํิ
-W * P P วา
-W * NUM NUM,CAR,NOMI,SING 20 ๅาวั
-W * N N,COM,SING สใวิวั
-W * CONJ CONJ ๆ
-W * P P ศๅ
-W * N N,COM,SING,EZ ฯวๆัํ
-W * N N,PR,SING ฺศฯวแแๅ
-W * N N,PR,SING วแฺฬใํ
-W * P P วา
-W * N N,PR,SING,LOC ฺใวไ
-W * AJ AJ,SIM ศัาวั
-W * V V,PA,SIM,POS,3 ิฯ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุฏูุฏุงุฑ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุญุถูุฑ
+W * AJ AJ,SIM ุจูุด
+W * P P ุงุฒ
+W * NUM NUM,CAR,NOMI,SING 20 ูุฒุงุฑ
+W * N N,COM,SING ุชู…ุงุดุงฺฏุฑ
+W * CONJ CONJ ู
+W * P P ุจู
+W * N N,COM,SING,EZ ุฏุงูุฑู
+W * N N,PR,SING ุนุจุฏุงููู
+W * N N,PR,SING ุงูุนุฌู…ู
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ุนู…ุงู
+W * AJ AJ,SIM ุจุฑฺฏุฒุงุฑ
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * N N,PR,SING,EZ วำสÞแวแ
-W * N N,PR,SING,LOC สๅัวไ
-W * CONJ CONJ ฿ๅ
-W * P P วา
-W * N N,COM,SING,EZ ๆฬๆฯ
-W * N N,PR,SING ัึว
-W * N N,PR,SING อำไ าวฯๅ
-W * N N,COM,SING,EZ ใฯวÝฺ
-W * AJ AJ,SIM,EZ ัสฬัศๅ
-W * PRO PRO,REFL ฮๆฯ
-W * P P ศๅ ฯแํแ
-W * N N,COM,SING ยำํศ ฯํฯํ
-W * AJ AJ,SIM ใอัๆใ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * PUNC PUNC ก
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ วำสอ฿วใ
-W * N N,COM,SING,EZ ฮุ
-W * AJ AJ,SIM ฯÝวฺํ
-W * P P วา
-W * N N,PR,SING,EZ ำสวั
-W * N N,PR,SING ๅใฯวไํ
-W * N N,COM,SING,EZ ๅวÝศ฿
-W * AJ AJ,SIM,EZ ศวาํัฯวไ
-W * PRO PRO,REFL ฮๆฯ
-W * P P ฯั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING,LOC ใไุÞๅ
-W * N N,COM,SING ำๆฯ
-W * V V,PA,SIM,POS,3 ศัฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ๆูํÝๅ
-W * N N,COM,SING ศวาํ ำวาํ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,PR,SING,EZ ใอใๆฯ
-W * N N,PR,SING Ý฿ัํ
-W * V V,PA,SIM,POS,3 ำัฯ
+W * N N,PR,SING,EZ ุงุณุชููุงู
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * CONJ CONJ ูู
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ูุฌูุฏ
+W * N N,PR,SING ุฑุถุง
+W * N N,PR,SING ุญุณู ุฒุงุฏู
+W * N N,COM,SING,EZ ู…ุฏุงูุน
+W * AJ AJ,SIM,EZ ูพุฑุชุฌุฑุจู
+W * PRO PRO,REFL ุฎูุฏ
+W * P P ุจู ุฏููู
+W * N N,COM,SING ุขุณูุจ ุฏูุฏฺฏู
+W * AJ AJ,SIM ู…ุญุฑูู…
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * PUNC PUNC ุ
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุงุณุชุญูุงู…
+W * N N,COM,SING,EZ ุฎุท
+W * AJ AJ,SIM ุฏูุงุนู
+W * P P ุงุฒ
+W * N N,PR,SING,EZ ุณุชุงุฑ
+W * N N,PR,SING ูู…ุฏุงูู
+W * N N,COM,SING,EZ ูุงูุจู
+W * AJ AJ,SIM,EZ ุจุงุฒูฺฏุฑุฏุงู
+W * PRO PRO,REFL ุฎูุฏ
+W * P P ุฏุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING,LOC ู…ูุทูู
+W * N N,COM,SING ุณูุฏ
+W * V V,PA,SIM,POS,3 ุจุฑุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ูุธููู
+W * N N,COM,SING ุจุงุฒู ุณุงุฒู
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,PR,SING,EZ ู…ุญู…ูุฏ
+W * N N,PR,SING ููุฑู
+W * V V,PA,SIM,POS,3 ุณูพุฑุฏ
 W * PUNC PUNC .
-W * N N,PR,SING,SURN ำํฯ
-W * N N,PR,SING,EZ ๅวฯํ
-W * N N,PR,SING ุศวุศวํํ
-W * N N,COM,SING,EZ ใัฯ
-W * N N,COM,SING,EZ ิใวัๅ
-W * NUM NUM,CAR,NOMI,SING,EZ ํ฿
-W * N N,PR,SING วำสÞแวแ
-W * P P ฯั
-W * NUM NUM,ORD,AJC ยฮัํไ
-W * N N,COM,SING,LOC ำไั
-W * V V,COP,PA,POS,3 ศๆฯ
-W * CONJ CONJ ๆ
-W * ADV ADV,GENR,EXM ๅใๆไ
-W * N N,COM,SING,TIME ะิสๅ
-W * AJ AJ,SIM ใุใฦไ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ำัไฬๅ
-W * N N,COM,SING ูวๅั
-W * V V,PA,SIM,POS,3 ิฯ
+W * N N,PR,SING,SURN ุณูุฏ
+W * N N,PR,SING,EZ ูุงุฏู
+W * N N,PR,SING ุทุจุงุทุจุงูู
+W * N N,COM,SING,EZ ู…ุฑุฏ
+W * N N,COM,SING,EZ ุดู…ุงุฑู
+W * NUM NUM,CAR,NOMI,SING,EZ ูู
+W * N N,PR,SING ุงุณุชููุงู
+W * P P ุฏุฑ
+W * NUM NUM,ORD,AJC ุขุฎุฑูู
+W * N N,COM,SING,LOC ุณูฺฏุฑ
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * CONJ CONJ ู
+W * ADV ADV,GENR,EXM ูู…ฺูู
+W * N N,COM,SING,TIME ฺฏุฐุดุชู
+W * AJ AJ,SIM ู…ุทู…ุฆู
+W * CONJ CONJ ู
+W * AJ AJ,SIM ุณุฑูพูุฌู
+W * N N,COM,SING ุธุงูุฑ
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * N N,PR,SING,EZ ฬๆวฯ
-W * N N,PR,SING าัํไๅ
-W * N N,COM,SING,EZ ฿วํสวไ
-W * AJ AJ,SIM,EZ ฮๆิÝ฿ั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING สํใ
-W * CONJ CONJ ไํา
-W * P P ฯั
-W * NUM NUM,ORD,AJC ยฮัํไ
-W * N N,COM,SING,EZ ไÞุๅ
-W * N N,COM,SING,EZ ฮุ
-W * AJ AJ,SIM ฯÝวฺํ
-W * PUNC PUNC ก
-W * N N,COM,PL ยศํ ๆิวไ
-W * POSTP POSTP ัว
-W * N N,COM,SING ๅฯวํส
-W * V V,PA,IMPERF,POS,3 ใํ ฿ัฯ
+W * N N,PR,SING,EZ ุฌูุงุฏ
+W * N N,PR,SING ุฒุฑููฺู
+W * N N,COM,SING,EZ ูุงูพูุชุงู
+W * AJ AJ,SIM,EZ ุฎูุดููุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุชูู…
+W * CONJ CONJ ููุฒ
+W * P P ุฏุฑ
+W * NUM NUM,ORD,AJC ุขุฎุฑูู
+W * N N,COM,SING,EZ ููุทู
+W * N N,COM,SING,EZ ุฎุท
+W * AJ AJ,SIM ุฏูุงุนู
+W * PUNC PUNC ุ
+W * N N,COM,PL ุขุจู ูพูุดุงู
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ูุฏุงูุช
+W * V V,PA,IMPERF,POS,3 ู…ู ูุฑุฏ
 W * PUNC PUNC .
-W * N N,PR,SING,EZ ใอใฯ
-W * N N,PR,SING ไๆวาํ
-W * CONJ CONJ ๆ
-W * N N,PR,SING ฺแํัึว
-W * N N,PR,SING ไํ฿ศฮส ๆวอฯํ
-W * N N,COM,PL,EZ ศวแๅวํ
-W * AJ AJ,SIM ัวำส
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM,EZ 
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING วำสÞแวแ
-W * POSTP POSTP ัว
-W * N N,COM,SING สิ฿ํแ
-W * V V,PA,IMPERF,POS,6 ใํ ฯวฯไฯ
+W * N N,PR,SING,EZ ู…ุญู…ุฏ
+W * N N,PR,SING ููุงุฒู
+W * CONJ CONJ ู
+W * N N,PR,SING ุนููุฑุถุง
+W * N N,PR,SING ูููุจุฎุช ูุงุญุฏู
+W * N N,COM,PL,EZ ุจุงููุงู
+W * AJ AJ,SIM ุฑุงุณุช
+W * CONJ CONJ ู
+W * AJ AJ,SIM,EZ ฺูพ
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING ุงุณุชููุงู
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ุชุดููู
+W * V V,PA,IMPERF,POS,6 ู…ู ุฏุงุฏูุฏ
 W * PUNC PUNC .
-W * N N,PR,SING,EZ ศๅาวฯ
-W * N N,PR,SING ฯวฯวิ าวฯๅ
-W * CONJ CONJ ๆ
-W * N N,PR,SING,EZ ฺแํ
-W * N N,PR,SING แุํÝํ
-W * P P ฯั ฿ไวั
-W * N N,PR,SING,EZ ใอใๆฯ
-W * N N,PR,SING Ý฿ัํ
-W * P P ฯั
-W * N N,COM,SING,EZ ฮุ
-W * AJ AJ,SIM ใํวไํ
-W * N N,COM,SING ฬวํ
-W * V V,PA,SIM,POS,6 ฯวิสไฯ
-W * CONJ CONJ ฿ๅ
-W * CONJ CONJ ฯั วํไ ใํวไ
-W * N N,PR,SING ฯวฯวิ าวฯๅ
-W * N N,COM,SING,EZ ใวใๆั
-W * N N,COM,SING,EZ ใๅวั
-W * N N,PR,SING ัๆศัสๆ
-W * N N,PR,SING ฯๆไวฯๆไํ
-W * N N,COM,SING,EZ ๅวÝศ฿
-W * AJ AJ,SIM,EZ ฿ๅไๅ ฿วั
-W * N N,PR,SING,EZ วํสวแํวํํ
-W * N N,PR,SING,EZ วแวสอวฯ
-W * N N,PR,SING,LOC ฺัศำสวไ
-W * V V,COP,PA,POS,3 ศๆฯ
+W * N N,PR,SING,EZ ุจูุฒุงุฏ
+W * N N,PR,SING ุฏุงุฏุงุด ุฒุงุฏู
+W * CONJ CONJ ู
+W * N N,PR,SING,EZ ุนูู
+W * N N,PR,SING ูุทููู
+W * P P ุฏุฑ ููุงุฑ
+W * N N,PR,SING,EZ ู…ุญู…ูุฏ
+W * N N,PR,SING ููุฑู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุฎุท
+W * AJ AJ,SIM ู…ูุงูู
+W * N N,COM,SING ุฌุงู
+W * V V,PA,SIM,POS,6 ุฏุงุดุชูุฏ
+W * CONJ CONJ ูู
+W * CONJ CONJ ุฏุฑ ุงูู ู…ูุงู
+W * N N,PR,SING ุฏุงุฏุงุด ุฒุงุฏู
+W * N N,COM,SING,EZ ู…ุงู…ูุฑ
+W * N N,COM,SING,EZ ู…ูุงุฑ
+W * N N,PR,SING ุฑูุจุฑุชู
+W * N N,PR,SING ุฏููุงุฏููู
+W * N N,COM,SING,EZ ูุงูุจู
+W * AJ AJ,SIM,EZ ูููู ูุงุฑ
+W * N N,PR,SING,EZ ุงูุชุงููุงูู
+W * N N,PR,SING,EZ ุงูุงุชุญุงุฏ
+W * N N,PR,SING,LOC ุนุฑุจุณุชุงู
+W * V V,COP,PA,POS,3 ุจูุฏ
 W * PUNC PUNC .
-W * N N,PR,SING,EZ ฺแํ
-W * N N,PR,SING แุํÝํ
-W * CONJ CONJ ฿ๅ
-W * ADV ADV,INTSF,SIM ฮํแํ
-W * ADV ADV,GENR,TIME าๆฯ
-W * N N,COM,SING,EZ ฬวํ
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,PR,SING ฺแํัึว
-W * N N,PR,SING ว฿ศัๆั
-W * V V,PA,SIM,POS,3 ฯวฯ
-W * PUNC PUNC ก
-W * ADV ADV,GENR,COMP ศํิสั
-W * P P ศๅ
-W * N N,COM,SING,EZ ฮุ
-W * N N,COM,SING อใแๅ
-W * V V,PA,IMPERF,POS,3 ใํ ํๆำส
+W * N N,PR,SING,EZ ุนูู
+W * N N,PR,SING ูุทููู
+W * CONJ CONJ ูู
+W * ADV ADV,INTSF,SIM ุฎููู
+W * ADV ADV,GENR,TIME ุฒูุฏ
+W * N N,COM,SING,EZ ุฌุงู
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,PR,SING ุนููุฑุถุง
+W * N N,PR,SING ุงูุจุฑูพูุฑ
+W * V V,PA,SIM,POS,3 ุฏุงุฏ
+W * PUNC PUNC ุ
+W * ADV ADV,GENR,COMP ุจูุดุชุฑ
+W * P P ุจู
+W * N N,COM,SING,EZ ุฎุท
+W * N N,COM,SING ุญู…ูู
+W * V V,PA,IMPERF,POS,3 ู…ู ูพููุณุช
 W * PUNC PUNC .
-W * N N,PR,SING,EZ Ýัๅวฯ
-W * N N,PR,SING ใฬํฯํ
-W * CONJ CONJ ๆ
-W * N N,PR,SING,EZ วอใฯ
-W * N N,PR,SING ใๆใไ าวฯๅ
-W * CONJ CONJ ไํา
-W * N N,COM,PL,EZ ใๅวฬใวไ
-W * N N,PR,SING วำสÞแวแ
-W * V V,COP,PA,POS,6 ศๆฯไฯ
-W * CONJ CONJ ฿ๅ
-W * V V,PA,SIM,NEG,6 ไสๆวไำสไฯ
-W * DET DET,DEMO ยไ
-W * N N,COM,SING ุๆั
-W * CONJ CONJ ฿ๅ
-W * V V,AUX,NIN,POS ศวํฯ
-W * CONJ CONJ ๆ
-W * ADV ADV,GENR,SIM ิวํฯ
-W * N N,COM,PL,EZ วไสูวัวส
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING วำสÞแวแ
-W * POSTP POSTP ัว
-W * V V,PASTP ศัยๆัฯๅ
-W * V V,SUB,POS,6 ำวาไฯ
+W * N N,PR,SING,EZ ูุฑูุงุฏ
+W * N N,PR,SING ู…ุฌูุฏู
+W * CONJ CONJ ู
+W * N N,PR,SING,EZ ุงุญู…ุฏ
+W * N N,PR,SING ู…ูู…ู ุฒุงุฏู
+W * CONJ CONJ ููุฒ
+W * N N,COM,PL,EZ ู…ูุงุฌู…ุงู
+W * N N,PR,SING ุงุณุชููุงู
+W * V V,COP,PA,POS,6 ุจูุฏูุฏ
+W * CONJ CONJ ูู
+W * V V,PA,SIM,NEG,6 ูุชูุงูุณุชูุฏ
+W * DET DET,DEMO ุขู
+W * N N,COM,SING ุทูุฑ
+W * CONJ CONJ ูู
+W * V V,AUX,NIN,POS ุจุงูุฏ
+W * CONJ CONJ ู
+W * ADV ADV,GENR,SIM ุดุงูุฏ
+W * N N,COM,PL,EZ ุงูุชุธุงุฑุงุช
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING ุงุณุชููุงู
+W * POSTP POSTP ุฑุง
+W * V V,PASTP ุจุฑุขูุฑุฏู
+W * V V,SUB,POS,6 ุณุงุฒูุฏ
 W * PUNC PUNC .
 W * PUNC PUNC -
-W * P P ฯั
-W * DET DET,DEMO ยไ
-W * N N,COM,SING,EZ ำๆํ
-W * N N,COM,SING,LOC ใํฯวไ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING,EZ วแวสอวฯ
-W * N N,PR,SING,LOC ฺัศำสวไ
-W * N N,COM,SING Þัวั
-W * V V,PA,SIM,POS,3 ฯวิส
-W * PUNC PUNC ก
-W * CONJ CONJ ฿ๅ
-W * P P,EZ ศัวํ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ฯํฯวั
-W * N N,COM,SING,EZ อำวศ
-W * AJ AJ,SIM,YA ๆํๅ วํ
-W * AJ AJ,SIM ศวา
-W * V V,PASTP ฿ัฯๅ
-W * V V,COP,PA,POS,3 ศๆฯ
+W * P P ุฏุฑ
+W * DET DET,DEMO ุขู
+W * N N,COM,SING,EZ ุณูู
+W * N N,COM,SING,LOC ู…ูุฏุงู
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING,EZ ุงูุงุชุญุงุฏ
+W * N N,PR,SING,LOC ุนุฑุจุณุชุงู
+W * N N,COM,SING ูุฑุงุฑ
+W * V V,PA,SIM,POS,3 ุฏุงุดุช
+W * PUNC PUNC ุ
+W * CONJ CONJ ูู
+W * P P,EZ ุจุฑุงู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุฏูุฏุงุฑ
+W * N N,COM,SING,EZ ุญุณุงุจ
+W * AJ AJ,SIM,YA ููฺู ุงู
+W * AJ AJ,SIM ุจุงุฒ
+W * V V,PASTP ูุฑุฏู
+W * V V,COP,PA,POS,3 ุจูุฏ
 W * PUNC PUNC .
-W * DET DET,DEMO วํไ
-W * N N,COM,SING สํใ
-W * P P ศว
-W * N N,COM,SING,EZ ใศแÛ
-W * NUM NUM,CAR,NOMI,SING 750 ๅาวั
-W * N N,PR,SING ฯแวั
-W * V V,PA,SIM,POS,3 สๆวไำส
-W * N N,COM,SING,EZ ๅวÝศ฿
-W * N N,COM,SING ว
-W * P P ศๅ
-W * N N,COM,SING ำไ
-W * V V,PASTP ะวิสๅ
-W * N N,PR,SING วํสวแํวํํ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ศวาํ฿ไ
-W * AJ AJ,SIM,EZ ำวศÞ
-W * N N,PR,SING ย ห ใํแวไ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING ฮฯใส
-W * V V,SUB,POS,3 ํัฯ
-W * CONJ CONJ สว
-W * PRO PRO,PERS,SING,3 วๆ
-W * POSTP POSTP ัว
-W * P P ศๅ ฺไๆวไ
-W * N N,COM,SING,EZ ศวาํ฿ไ
-W * AJ AJ,SIM ยาวฯ
-W * P P ฯั ใÞวศแ
-W * N N,PR,SING วำสÞแวแ
-W * P P ศๅ
-W * N N,COM,SING,LOC ใํฯวไ
-W * V V,SUB,POS,3 Ýัำสฯ
-W * PUNC PUNC ก
-W * CONJ CONJ สว
-W * ADV ADV,GENR,SIM ิวํฯ
-W * AJ AJ,SIM,EZ ัๅ ิวํ
-W * N N,COM,SING,3 สํใิ
-W * V V,SUB,POS,3 ศวิฯ
-W * PUNC PUNC ก
-W * P P วา
-W * N N,COM,SING Þึว
-W * N N,COM,SING,EZ อั฿ส
-W * AJ AJ,SIM Ýัํศไฯๅ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM,EZ อัÝๅ วํ
-W * DET DET,DEMO ๅใํไ
-W * N N,COM,SING ศวาํ฿ไ
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุชูู…
+W * P P ุจุง
+W * N N,COM,SING,EZ ู…ุจูุบ
+W * NUM NUM,CAR,NOMI,SING 750 ูุฒุงุฑ
+W * N N,PR,SING ุฏูุงุฑ
+W * V V,PA,SIM,POS,3 ุชูุงูุณุช
+W * N N,COM,SING,EZ ูุงูุจู
+W * N N,COM,SING ูพุง
+W * P P ุจู
+W * N N,COM,SING ุณู
+W * V V,PASTP ฺฏุฐุงุดุชู
+W * N N,PR,SING ุงูุชุงููุงูู
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุจุงุฒููู
+W * AJ AJ,SIM,EZ ุณุงุจู
+W * N N,PR,SING ุข ุซ ู…ููุงู
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING ุฎุฏู…ุช
+W * V V,SUB,POS,3 ฺฏูุฑุฏ
+W * CONJ CONJ ุชุง
+W * PRO PRO,PERS,SING,3 ุงู
+W * POSTP POSTP ุฑุง
+W * P P ุจู ุนููุงู
+W * N N,COM,SING,EZ ุจุงุฒููู
+W * AJ AJ,SIM ุขุฒุงุฏ
+W * P P ุฏุฑ ู…ูุงุจู
+W * N N,PR,SING ุงุณุชููุงู
+W * P P ุจู
+W * N N,COM,SING,LOC ู…ูุฏุงู
+W * V V,SUB,POS,3 ูุฑุณุชุฏ
+W * PUNC PUNC ุ
+W * CONJ CONJ ุชุง
+W * ADV ADV,GENR,SIM ุดุงูุฏ
+W * AJ AJ,SIM,EZ ฺฏุฑู ฺฏุดุงู
+W * N N,COM,SING,3 ุชูู…ุด
+W * V V,SUB,POS,3 ุจุงุดุฏ
+W * PUNC PUNC ุ
+W * P P ุงุฒ
+W * N N,COM,SING ูุถุง
+W * N N,COM,SING,EZ ุญุฑูุช
+W * AJ AJ,SIM ูุฑูุจูุฏู
+W * CONJ CONJ ู
+W * AJ AJ,SIM,EZ ุญุฑูู ุงู
+W * DET DET,DEMO ูู…ูู
+W * N N,COM,SING ุจุงุฒููู
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING 27
-W * AJ AJ,SIM ศวฺห
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ สว
-W * N N,COM,SING,EZ ฯวๆั
-W * AJ AJ,SIM ฺใวไํ
-W * N N,COM,SING,EZ Ýัํศ
-W * PRO PRO,PERS,SING,3 วๆ
-W * POSTP POSTP ัว
-W * V V,SUB,POS,3 ศฮๆัฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ไÞุๅ
-W * N N,COM,SING ไวแสํ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING,EZ ไÝฺ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING,EZ วแวสอวฯ
-W * N N,PR,SING,LOC ฺัศำสวไ
-W * N N,COM,SING ไิวไ
-W * V V,SUB,POS,3 ฯๅฯ
-W * CONJ CONJ ๆ
-W * CL CL,SING สไๅว
-W * N N,COM,SING,EZ แ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ศวาํ
-W * P P วา ัๆํ
-W * N N,COM,SING,EZ ไÞุๅ
-W * N N,COM,SING ไวแสํ
-W * N N,COM,SING,EZ ฯัๆไ
-W * N N,COM,SING,LOC,EZ ฯัๆวาๅ
-W * N N,COM,PL ยศํ ๆิวไ
-W * N N,COM,SING ฬวํ
-W * V V,SUB,POS,3 ํัฯ
+W * AJ AJ,SIM ุจุงุนุซ
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ุชุง
+W * N N,COM,SING,EZ ุฏุงูุฑ
+W * AJ AJ,SIM ุนู…ุงูู
+W * N N,COM,SING,EZ ูุฑูุจ
+W * PRO PRO,PERS,SING,3 ุงู
+W * POSTP POSTP ุฑุง
+W * V V,SUB,POS,3 ุจุฎูุฑุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ููุทู
+W * N N,COM,SING ูพูุงูุชู
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING,EZ ููุน
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING,EZ ุงูุงุชุญุงุฏ
+W * N N,PR,SING,LOC ุนุฑุจุณุชุงู
+W * N N,COM,SING ูุดุงู
+W * V V,SUB,POS,3 ุฏูุฏ
+W * CONJ CONJ ู
+W * CL CL,SING ุชููุง
+W * N N,COM,SING,EZ ฺฏู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุจุงุฒู
+W * P P ุงุฒ ุฑูู
+W * N N,COM,SING,EZ ููุทู
+W * N N,COM,SING ูพูุงูุชู
+W * N N,COM,SING,EZ ุฏุฑูู
+W * N N,COM,SING,LOC,EZ ุฏุฑูุงุฒู
+W * N N,COM,PL ุขุจู ูพูุดุงู
+W * N N,COM,SING ุฌุงู
+W * V V,SUB,POS,3 ฺฏูุฑุฏ
 W * PUNC PUNC .
-W * N N,PR,SING วำสÞแวแ
-W * CONJ CONJ ฿ๅ
-W * ADV ADV,GENR,SIM ฮๆศ
-W * V V,PA,IMPERF,POS,3 ใํ ฯวไำส
-W * CONJ CONJ,COND วั
-W * P P ฯั ใÞวศแ
-W * N N,COM,PL,EZ ิวัฯวไ
-W * N N,PR,SING,EZ ฬๆศๆไÝัั
-W * AJ AJ,SIM ๅแไฯํ
-W * N N,COM,SING ว
-W * ADV ADV,GENR,SIM ำ
-W * V V,SUB,POS,3 ศ฿ิฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ วฬวาๅ
-W * N N,COM,SING ฮๆฯไใวํํ
-W * P P ศๅ
-W * PRO PRO,PERS,PL,3 ยไวไ
-W * V V,SUB,POS,3 ฯๅฯ
-W * PUNC PUNC ก
-W * AJ AJ,SIM Þวฯั
-W * P P ศๅ
-W * N N,COM,SING ฬศัวไ
-W * V V,AUX,FUT,NEG,3 ไฮๆวๅฯ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * PUNC PUNC ก
-W * P P วา
-W * DET DET,DEMO ๅใวไ
-W * ADV ADV,GENR,ORD วศสฯว
-W * P P ศว
-W * N N,COM,SING,YA ๅัๅ วํ
-W * AJ AJ,SIM ๅฬๆใํ
-W * CONJ CONJ ๆ
-W * P P ฯั
-W * N N,COM,PL,YA ใๆวÞฺํ
-W * CONJ CONJ ฿ๅ
-W * N N,COM,SING,EZ ีวอศ
-W * N N,COM,SING สๆ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * P P ศว
-W * N N,COM,PL,EZ วำๅวํ
-W * AJ AJ,SIM ส฿ ึัศ
-W * CONJ CONJ ๆ
-W * P P ศว
-W * N N,COM,SING ำัฺส
-W * N N,COM,SING,INFI ศฮิํฯไ
-W * P P ศๅ
-W * N N,COM,SING ศวาํ
-W * N N,COM,SING ว
-W * P P ศๅ
-W * N N,COM,SING,EZ วํ
-W * N N,COM,SING อัํÝ
-W * ADV ADV,GENR,SIM ํิ
-W * V V,PA,SIM,POS,3 ัÝส
-W * CONJ CONJ ๆ
-W * P P ฯั
-W * DET DET,INDF วัๅ วํ
-W * N N,COM,PL วๆÞวส
-W * CONJ CONJ ๅใ
-W * AJ AJ,COMP ศัสั
-W * P P วา
-W * N N,COM,SING อัํÝ
-W * V V,PA,IMPERF,POS,3 ใํ ไใๆฯ
+W * N N,PR,SING ุงุณุชููุงู
+W * CONJ CONJ ูู
+W * ADV ADV,GENR,SIM ุฎูุจ
+W * V V,PA,IMPERF,POS,3 ู…ู ุฏุงูุณุช
+W * CONJ CONJ,COND ุงฺฏุฑ
+W * P P ุฏุฑ ู…ูุงุจู
+W * N N,COM,PL,EZ ุดุงฺฏุฑุฏุงู
+W * N N,PR,SING,EZ ุฌูุจูููุฑุฑ
+W * AJ AJ,SIM ูููุฏู
+W * N N,COM,SING ูพุง
+W * ADV ADV,GENR,SIM ูพุณ
+W * V V,SUB,POS,3 ุจูุดุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุงุฌุงุฒู
+W * N N,COM,SING ุฎูุฏูู…ุงูู
+W * P P ุจู
+W * PRO PRO,PERS,PL,3 ุขูุงู
+W * V V,SUB,POS,3 ุฏูุฏ
+W * PUNC PUNC ุ
+W * AJ AJ,SIM ูุงุฏุฑ
+W * P P ุจู
+W * N N,COM,SING ุฌุจุฑุงู
+W * V V,AUX,FUT,NEG,3 ูุฎูุงูุฏ
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * PUNC PUNC ุ
+W * P P ุงุฒ
+W * DET DET,DEMO ูู…ุงู
+W * ADV ADV,GENR,ORD ุงุจุชุฏุง
+W * P P ุจุง
+W * N N,COM,SING,YA ฺูุฑู ุงู
+W * AJ AJ,SIM ูุฌูู…ู
+W * CONJ CONJ ู
+W * P P ุฏุฑ
+W * N N,COM,PL,YA ู…ูุงูุนู
+W * CONJ CONJ ูู
+W * N N,COM,SING,EZ ุตุงุญุจ
+W * N N,COM,SING ุชููพ
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * P P ุจุง
+W * N N,COM,PL,EZ ูพุงุณูุงู
+W * AJ AJ,SIM ุชู ุถุฑุจ
+W * CONJ CONJ ู
+W * P P ุจุง
+W * N N,COM,SING ุณุฑุนุช
+W * N N,COM,SING,INFI ุจุฎุดูุฏู
+W * P P ุจู
+W * N N,COM,SING ุจุงุฒู
+W * N N,COM,SING ูพุง
+W * P P ุจู
+W * N N,COM,SING,EZ ูพุงู
+W * N N,COM,SING ุญุฑูู
+W * ADV ADV,GENR,SIM ูพูุด
+W * V V,PA,SIM,POS,3 ุฑูุช
+W * CONJ CONJ ู
+W * P P ุฏุฑ
+W * DET DET,INDF ูพุงุฑู ุงู
+W * N N,COM,PL ุงููุงุช
+W * CONJ CONJ ูู…
+W * AJ AJ,COMP ุจุฑุชุฑ
+W * P P ุงุฒ
+W * N N,COM,SING ุญุฑูู
+W * V V,PA,IMPERF,POS,3 ู…ู ูู…ูุฏ
 W * PUNC PUNC .
-W * DET DET,DEMO วํไ
-W * N N,COM,SING,EZ สฯศํั
-W * N N,PR,SING วำสÞแวแ
-W * P P สว
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING,EZ ุชุฏุจูุฑ
+W * N N,PR,SING ุงุณุชููุงู
+W * P P ุชุง
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING 20
-W * ADV ADV,GENR,SIM ศๅ ฮๆศํ
-W * N N,COM,SING วฬัวม
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ๆ
-W * DET DET,INDF ๅั
-W * N N,COM,SING,EZ อใแๅ
-W * N N,PR,SING วแวสอวฯ
-W * P P ศว
-W * N N,COM,SING,YA อใแๅ วํ
-W * P P วา ำๆํ
-W * N N,COM,PL ยศํ ๆิวไ
-W * N N,COM,SING วำฮ
-W * V V,PASTP ฯวฯๅ
-W * V V,PA,IMPERF,POS,3 ใํ ิฯ
-W * PUNC PUNC ก
-W * CONJ CONJ ศๅ ุๆัํ ฿ๅ
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * ADV ADV,GENR,SIM ุจู ุฎูุจู
+W * N N,COM,SING ุงุฌุฑุงุก
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ู
+W * DET DET,INDF ูุฑ
+W * N N,COM,SING,EZ ุญู…ูู
+W * N N,PR,SING ุงูุงุชุญุงุฏ
+W * P P ุจุง
+W * N N,COM,SING,YA ุญู…ูู ุงู
+W * P P ุงุฒ ุณูู
+W * N N,COM,PL ุขุจู ูพูุดุงู
+W * N N,COM,SING ูพุงุณุฎ
+W * V V,PASTP ุฏุงุฏู
+W * V V,PA,IMPERF,POS,3 ู…ู ุดุฏ
+W * PUNC PUNC ุ
+W * CONJ CONJ ุจู ุทูุฑู ูู
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING,EZ 10
-W * N N,COM,SING ใำวศÞๅ
-W * N N,PR,SING วำสÞแวแ
-W * P P ฯั
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * N N,COM,SING,EZ อใแๅ
-W * AJ AJ,SIM ฯำสๅ ฬใฺํ
-W * CONJ CONJ ๆ
-W * ADV ADV,GENR,SIM ฯั ไๅวํส
-W * N N,COM,SING,EZ ำวไสั
-W * N N,PR,SING,EZ ฺแํ
-W * N N,PR,SING แุํÝํ
-W * P P วา
-W * AJ AJ,SIM ัวำส
-W * V V,PA,IMPERF,POS,3 ใํ ัÝส
-W * CONJ CONJ สว
-W * P P ศๅ
-W * N N,COM,SING ไสํฬๅ
-W * N N,COM,SING ฯำส
-W * V V,SUB,POS,3 ํวศฯ
-W * PUNC PUNC ก
-W * CONJ CONJ วใว
-W * N N,PR,SING วอใฯ
-W * N N,PR,SING Ýัํิ
-W * N N,COM,SING,EZ ใฯวÝฺ
-W * N N,PR,SING วแวสอวฯ
-W * P P ศว
-W * N N,COM,SING วาฮๆฯะิสํ
-W * AJ AJ,SIM ใวไฺ
-W * P P วา
-W * N N,COM,SING,INFI,EZ าฯไ
-W * N N,COM,SING,EZ ึัศๅ
-W * AJ AJ,SIM ไๅวํํ
-W * P P,EZ สๆำุ
-W * N N,PR,SING,EZ Ýัๅวฯ
-W * N N,PR,SING ใฬํฯํ
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ สๆ
-W * AJ AJ,SIM ศัิสํ
-W * CONJ CONJ ๅใ
-W * P P,EZ สๆำุ
-W * N N,PR,SING,EZ ใอใๆฯ
-W * N N,PR,SING Ý฿ัํ
-W * N N,COM,SING ัวๅ
-W * P P ศๅ
-W * N N,COM,SING,YA ฬวํํ
-W * V V,PA,SIM,NEG,3 ไศัฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ Ýึวํ
-W * P P,EZ ศวแวํ
-W * N N,COM,SING,LOC ฯัๆวาๅ
-W * POSTP POSTP ัว
-W * V V,PA,SIM,POS,3 ิ฿วÝส
+W * N N,COM,SING ู…ุณุงุจูู
+W * N N,PR,SING ุงุณุชููุงู
+W * P P ุฏุฑ
+W * NUM NUM,CAR,NOMI,SING ูู
+W * N N,COM,SING,EZ ุญู…ูู
+W * AJ AJ,SIM ุฏุณุชู ุฌู…ุนู
+W * CONJ CONJ ู
+W * ADV ADV,GENR,SIM ุฏุฑ ููุงูุช
+W * N N,COM,SING,EZ ุณุงูุชุฑ
+W * N N,PR,SING,EZ ุนูู
+W * N N,PR,SING ูุทููู
+W * P P ุงุฒ
+W * AJ AJ,SIM ุฑุงุณุช
+W * V V,PA,IMPERF,POS,3 ู…ู ุฑูุช
+W * CONJ CONJ ุชุง
+W * P P ุจู
+W * N N,COM,SING ูุชูุฌู
+W * N N,COM,SING ุฏุณุช
+W * V V,SUB,POS,3 ูุงุจุฏ
+W * PUNC PUNC ุ
+W * CONJ CONJ ุงู…ุง
+W * N N,PR,SING ุงุญู…ุฏ
+W * N N,PR,SING ูุฑูุด
+W * N N,COM,SING,EZ ู…ุฏุงูุน
+W * N N,PR,SING ุงูุงุชุญุงุฏ
+W * P P ุจุง
+W * N N,COM,SING ุงุฒุฎูุฏฺฏุฐุดุชฺฏู
+W * AJ AJ,SIM ู…ุงูุน
+W * P P ุงุฒ
+W * N N,COM,SING,INFI,EZ ุฒุฏู
+W * N N,COM,SING,EZ ุถุฑุจู
+W * AJ AJ,SIM ููุงูู
+W * P P,EZ ุชูุณุท
+W * N N,PR,SING,EZ ูุฑูุงุฏ
+W * N N,PR,SING ู…ุฌูุฏู
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุชููพ
+W * AJ AJ,SIM ุจุฑฺฏุดุชู
+W * CONJ CONJ ูู…
+W * P P,EZ ุชูุณุท
+W * N N,PR,SING,EZ ู…ุญู…ูุฏ
+W * N N,PR,SING ููุฑู
+W * N N,COM,SING ุฑุงู
+W * P P ุจู
+W * N N,COM,SING,YA ุฌุงูู
+W * V V,PA,SIM,NEG,3 ูุจุฑุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ูุถุงู
+W * P P,EZ ุจุงูุงู
+W * N N,COM,SING,LOC ุฏุฑูุงุฒู
+W * POSTP POSTP ุฑุง
+W * V V,PA,SIM,POS,3 ุดูุงูุช
 W * PUNC PUNC .
-W * P P วา
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * P P ุงุฒ
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING 20
-W * P P ฯั ํ
-W * DET DET,INDF ไฯ
-W * N N,COM,SING,EZ อใแๅ
-W * AJ AJ,SIM ฮุัไว฿
-W * P P,EZ สๆำุ
-W * N N,PR,SING,EZ วแวสอวฯ
-W * N N,PR,SING,LOC ฺัศำสวไ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING วำสÞแวแ
-W * ADV ADV,GENR,SIM ศๅ ไววั
-W * N N,COM,SING ฺÞศ ไิํไํ
-W * V V,PA,SIM,POS,3 ฿ัฯ
-W * CONJ CONJ ๆ
-W * P P ศๅ
-W * N N,COM,SING,LOC,EZ าใํไ
-W * PRO PRO,REFL ฮๆฯ
-W * V V,PA,SIM,POS,3 ัÝส
-W * CONJ CONJ ฿ๅ
-W * P P ฯั
-W * DET DET,DEMO วํไ
-W * N N,COM,PL วๆÞวส
-W * N N,COM,SING ฯัฮิิ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ฺ฿ำ วแฺใแๅวํ
-W * AJ AJ,SIM,EZ ฺวแํ
-W * N N,PR,SING,EZ ๅวฯํ
-W * N N,PR,SING ุศวุศวํํ
-W * P P ฯั
-W * DET DET,INDF ไฯ
-W * N N,COM,SING ไๆศส
-W * ADV ADV,GENR,SIM ศๅ ฮีๆี
-W * P P ฯั
-W * N N,COM,PL,TIME,EZ ฯÞวํÞ
-W * NUM NUM,CAR,NOMI,SING 20 ๆ 22
-W * P P,EZ ัๆํ
-W * N N,COM,PL,EZ ึัศวส
-W * N N,PR,SING อใาๅ
-W * N N,PR,SING วฯัํำ
-W * CONJ CONJ ๆ
-W * N N,PR,SING อำไ
-W * N N,PR,SING วแํๆใํ
-W * N N,COM,SING ใวไฺ
-W * P P วา
-W * N N,COM,SING,EZ ำÞๆุ
-W * N N,COM,SING,LOC,EZ ฯัๆวาๅ
-W * N N,PR,SING วำสÞแวแ
-W * V V,PA,SIM,POS,3 ิฯ
-W * PUNC PUNC ก
-W * CONJ CONJ วใว
-W * ADV ADV,GENR,SIM ำัวไฬวใ
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * P P ุฏุฑ ูพู
+W * DET DET,INDF ฺูุฏ
+W * N N,COM,SING,EZ ุญู…ูู
+W * AJ AJ,SIM ุฎุทุฑูุงู
+W * P P,EZ ุชูุณุท
+W * N N,PR,SING,EZ ุงูุงุชุญุงุฏ
+W * N N,PR,SING,LOC ุนุฑุจุณุชุงู
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING ุงุณุชููุงู
+W * ADV ADV,GENR,SIM ุจู ูุงฺุงุฑ
+W * N N,COM,SING ุนูุจ ูุดููู
+W * V V,PA,SIM,POS,3 ูุฑุฏ
+W * CONJ CONJ ู
+W * P P ุจู
+W * N N,COM,SING,LOC,EZ ุฒู…ูู
+W * PRO PRO,REFL ุฎูุฏ
+W * V V,PA,SIM,POS,3 ุฑูุช
+W * CONJ CONJ ูู
+W * P P ุฏุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,PL ุงููุงุช
+W * N N,COM,SING ุฏุฑุฎุดุด
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ุนูุณ ุงูุนู…ููุงู
+W * AJ AJ,SIM,EZ ุนุงูู
+W * N N,PR,SING,EZ ูุงุฏู
+W * N N,PR,SING ุทุจุงุทุจุงูู
+W * P P ุฏุฑ
+W * DET DET,INDF ฺูุฏ
+W * N N,COM,SING ููุจุช
+W * ADV ADV,GENR,SIM ุจู ุฎุตูุต
+W * P P ุฏุฑ
+W * N N,COM,PL,TIME,EZ ุฏูุงูู
+W * NUM NUM,CAR,NOMI,SING 20 ู 22
+W * P P,EZ ุฑูู
+W * N N,COM,PL,EZ ุถุฑุจุงุช
+W * N N,PR,SING ุญู…ุฒู
+W * N N,PR,SING ุงุฏุฑูุณ
+W * CONJ CONJ ู
+W * N N,PR,SING ุญุณู
+W * N N,PR,SING ุงูููู…ู
+W * N N,COM,SING ู…ุงูุน
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ุณููุท
+W * N N,COM,SING,LOC,EZ ุฏุฑูุงุฒู
+W * N N,PR,SING ุงุณุชููุงู
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * PUNC PUNC ุ
+W * CONJ CONJ ุงู…ุง
+W * ADV ADV,GENR,SIM ุณุฑุงูุฌุงู…
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING 27
-W * N N,PR,SING ัๆศัสๆ
-W * N N,PR,SING ฯๆไวฯๆไํ
-W * P P,EZ ัๆํ
-W * N N,COM,SING,EZ วำ
-W * N N,PR,SING ใอใฯ
-W * N N,PR,SING ไๆั
-W * P P ศว
-W * N N,COM,SING ไÝๆะ
-W * P P วา
-W * N N,COM,SING,EZ Þแศ
-W * N N,COM,SING,EZ ฯÝวฺ
-W * N N,PR,SING วำสÞแวแ
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * P P ศว
-W * N N,PR,SING ุศวุศวํํ
-W * AJ AJ,SIM ส฿ ศๅ ส฿
-W * V V,PA,SIM,POS,3 ำวฮส
-W * CONJ CONJ ๆ
-W * CONJ CONJ ฯั อวแํ ฿ๅ
-W * N N,PR,SING ุศวุศวํํ
-W * P P ศว
-W * N N,COM,SING ฮัๆฬ
-W * P P วา
-W * N N,COM,SING,LOC ฯัๆวาๅ
-W * CONJ CONJ ๆ
-W * P P ศว
-W * N N,COM,SING ใิส
-W * N N,COM,SING,EZ สๆ
-W * PRO PRO,PERS,SING,3 วๆ
-W * POSTP POSTP ัว
-W * N N,COM,SING ฯÝฺ
-W * V V,PA,SIM,POS,3 ฿ัฯ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ สฺวฯแ
-W * N N,PR,SING ฯๆไวฯๆไํ
-W * P P ศๅ
-W * CONJ CONJ ๅใ
-W * V V,PA,SIM,POS,3 ฮๆัฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ฯวๆั
-W * N N,COM,SING,EZ ไÞุๅ
-W * N N,COM,SING ไวแสํ
-W * POSTP POSTP ัว
-W * N N,COM,SING ไิวไ
-W * V V,PA,SIM,POS,3 ฯวฯ
-W * CONJ CONJ ๆ
-W * CONJ CONJ ฯั ไสํฬๅ
-W * N N,PR,SING อใาๅ
-W * N N,PR,SING วฯัํำ
-W * N N,PR,SING Ýแวสๅ
-W * AJ AJ,SIM,EZ ฮแวÝ
-W * N N,COM,SING,EZ ฬๅส
-W * N N,COM,SING,EZ อั฿ส
-W * N N,PR,SING ุศวุศวํํ
-W * N N,COM,SING สๆ
-W * POSTP POSTP ัว
-W * P P,EZ ฯัๆไ
-W * N N,COM,SING,LOC,EZ ฯัๆวาๅ
-W * N N,PR,SING วำสÞแวแ
-W * N N,COM,SING ฬวํ
-W * V V,PA,SIM,POS,3 ฯวฯ
-W * P P สว
-W * N N,COM,SING,EZ ไํใๅ
-W * NUM NUM,ORD,AJC วๆแ
-W * P P ศว
-W * DET DET,DEMO ๅใํไ
-W * N N,COM,SING ไสํฬๅ
-W * P P ศๅ
-W * N N,COM,SING,EZ ำๆฯ
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING วแวสอวฯ
-W * N N,COM,SING วํวไ
-W * V V,SUB,POS,3 ํวศฯ
+W * N N,PR,SING ุฑูุจุฑุชู
+W * N N,PR,SING ุฏููุงุฏููู
+W * P P,EZ ุฑูู
+W * N N,COM,SING,EZ ูพุงุณ
+W * N N,PR,SING ู…ุญู…ุฏ
+W * N N,PR,SING ููุฑ
+W * P P ุจุง
+W * N N,COM,SING ูููุฐ
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ููุจ
+W * N N,COM,SING,EZ ุฏูุงุน
+W * N N,PR,SING ุงุณุชููุงู
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * P P ุจุง
+W * N N,PR,SING ุทุจุงุทุจุงูู
+W * AJ AJ,SIM ุชู ุจู ุชู
+W * V V,PA,SIM,POS,3 ุณุงุฎุช
+W * CONJ CONJ ู
+W * CONJ CONJ ุฏุฑ ุญุงูู ูู
+W * N N,PR,SING ุทุจุงุทุจุงูู
+W * P P ุจุง
+W * N N,COM,SING ุฎุฑูุฌ
+W * P P ุงุฒ
+W * N N,COM,SING,LOC ุฏุฑูุงุฒู
+W * CONJ CONJ ู
+W * P P ุจุง
+W * N N,COM,SING ู…ุดุช
+W * N N,COM,SING,EZ ุชููพ
+W * PRO PRO,PERS,SING,3 ุงู
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ุฏูุน
+W * V V,PA,SIM,POS,3 ูุฑุฏ
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ุชุนุงุฏู
+W * N N,PR,SING ุฏููุงุฏููู
+W * P P ุจู
+W * CONJ CONJ ูู…
+W * V V,PA,SIM,POS,3 ุฎูุฑุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING ุฏุงูุฑ
+W * N N,COM,SING,EZ ููุทู
+W * N N,COM,SING ูพูุงูุชู
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ูุดุงู
+W * V V,PA,SIM,POS,3 ุฏุงุฏ
+W * CONJ CONJ ู
+W * CONJ CONJ ุฏุฑ ูุชูุฌู
+W * N N,PR,SING ุญู…ุฒู
+W * N N,PR,SING ุงุฏุฑูุณ
+W * N N,PR,SING ููุงุชู
+W * AJ AJ,SIM,EZ ุฎูุงู
+W * N N,COM,SING,EZ ุฌูุช
+W * N N,COM,SING,EZ ุญุฑูุช
+W * N N,PR,SING ุทุจุงุทุจุงูู
+W * N N,COM,SING ุชููพ
+W * POSTP POSTP ุฑุง
+W * P P,EZ ุฏุฑูู
+W * N N,COM,SING,LOC,EZ ุฏุฑูุงุฒู
+W * N N,PR,SING ุงุณุชููุงู
+W * N N,COM,SING ุฌุงู
+W * V V,PA,SIM,POS,3 ุฏุงุฏ
+W * P P ุชุง
+W * N N,COM,SING,EZ ููู…ู
+W * NUM NUM,ORD,AJC ุงูู
+W * P P ุจุง
+W * DET DET,DEMO ูู…ูู
+W * N N,COM,SING ูุชูุฌู
+W * P P ุจู
+W * N N,COM,SING,EZ ุณูุฏ
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING ุงูุงุชุญุงุฏ
+W * N N,COM,SING ูพุงูุงู
+W * V V,SUB,POS,3 ูุงุจุฏ
 W * PUNC PUNC .
-W * N N,PR,SING วำสÞแวแ
-W * N N,COM,SING,EZ ไํใๅ
-W * NUM NUM,ORD,AJC ฯๆใ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING,EZ Þีฯ
-W * N N,COM,SING,EZ ฬศัวไ
-W * N N,COM,SING,EZ แ
-W * V V,PASTP ฮๆัฯๅ
-W * P P ศๅ
-W * N N,COM,SING,LOC ใํฯวไ
-W * V V,PA,SIM,POS,3 ยใฯ
-W * CONJ CONJ ๆ
-W * ADV ADV,GENR,SIM ศๅ ใัวสศ
-W * ADV ADV,GENR,COMP ศๅสั
-W * P P วา
-W * N N,COM,SING,EZ ไํใๅ
-W * NUM NUM,ORD,AJC ไฮำส
-W * N N,COM,SING ูวๅั
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ๆ
-W * P P ฯั
-W * DET DET,INDF,EZ ศํิสั
-W * N N,COM,SING,EZ าใวไ
-W * N N,COM,SING ศวาํ
-W * P P ศั
-W * N N,COM,SING สๆ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,LOC ใํฯวไ
-W * N N,COM,SING สำแุ
-W * V V,PA,SIM,POS,3 ฯวิส
-W * CONJ CONJ ๆ
-W * CONJ CONJ,COND วั
-W * AJ AJ,SIM,YA ฿ใํ
-W * N N,COM,SING ศฮส
-W * N N,COM,SING,EZ ํวั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING สํใ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * PUNC PUNC ก
-W * ADV ADV,GENR,SIM อฯวÞแ
-W * V V,PA,IMPERF,POS,3 ใํ สๆวไำส
-W * P P ศว
-W * N N,COM,SING,EZ ไสํฬๅ
-W * AJ AJ,SIM ใำวๆํ
-W * N N,COM,SING,LOC ใํฯวไ
-W * POSTP POSTP ัว
-W * N N,COM,SING สั฿
-W * V V,SUB,POS,3 ฿ไฯ
-W * PUNC PUNC ก
-W * ADV ADV,GENR,SIM ศๅ ๆํๅ
-W * P P ศว
-W * N N,COM,SING,EZ อึๆั
-W * N N,PR,SING ฺแํัึว
-W * N N,PR,SING ว฿ศัๆั
-W * CONJ CONJ ฿ๅ
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ ฯÞํÞๅ
+W * N N,PR,SING ุงุณุชููุงู
+W * N N,COM,SING,EZ ููู…ู
+W * NUM NUM,ORD,AJC ุฏูู…
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING,EZ ูุตุฏ
+W * N N,COM,SING,EZ ุฌุจุฑุงู
+W * N N,COM,SING,EZ ฺฏู
+W * V V,PASTP ุฎูุฑุฏู
+W * P P ุจู
+W * N N,COM,SING,LOC ู…ูุฏุงู
+W * V V,PA,SIM,POS,3 ุขู…ุฏ
+W * CONJ CONJ ู
+W * ADV ADV,GENR,SIM ุจู ู…ุฑุงุชุจ
+W * ADV ADV,GENR,COMP ุจูุชุฑ
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ููู…ู
+W * NUM NUM,ORD,AJC ูุฎุณุช
+W * N N,COM,SING ุธุงูุฑ
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ู
+W * P P ุฏุฑ
+W * DET DET,INDF,EZ ุจูุดุชุฑ
+W * N N,COM,SING,EZ ุฒู…ุงู
+W * N N,COM,SING ุจุงุฒู
+W * P P ุจุฑ
+W * N N,COM,SING ุชููพ
+W * CONJ CONJ ู
+W * N N,COM,SING,LOC ู…ูุฏุงู
+W * N N,COM,SING ุชุณูุท
+W * V V,PA,SIM,POS,3 ุฏุงุดุช
+W * CONJ CONJ ู
+W * CONJ CONJ,COND ุงฺฏุฑ
+W * AJ AJ,SIM,YA ูู…ู
+W * N N,COM,SING ุจุฎุช
+W * N N,COM,SING,EZ ูุงุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุชูู…
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * PUNC PUNC ุ
+W * ADV ADV,GENR,SIM ุญุฏุงูู
+W * V V,PA,IMPERF,POS,3 ู…ู ุชูุงูุณุช
+W * P P ุจุง
+W * N N,COM,SING,EZ ูุชูุฌู
+W * AJ AJ,SIM ู…ุณุงูู
+W * N N,COM,SING,LOC ู…ูุฏุงู
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ุชุฑู
+W * V V,SUB,POS,3 ููุฏ
+W * PUNC PUNC ุ
+W * ADV ADV,GENR,SIM ุจู ููฺู
+W * P P ุจุง
+W * N N,COM,SING,EZ ุญุถูุฑ
+W * N N,PR,SING ุนููุฑุถุง
+W * N N,PR,SING ุงูุจุฑูพูุฑ
+W * CONJ CONJ ูู
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ุฏูููู
 W * NUM NUM,CAR,NOMI,SING,EZ 38
-W * N N,COM,SING ศวาํ
-W * P P ศๅ ฬวํ
-W * N N,PR,SING,EZ ฺแํ
-W * N N,PR,SING แุํÝํ
-W * P P ศๅ
-W * N N,COM,SING,LOC ใํฯวไ
-W * V V,PASTP ยใฯๅ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * PUNC PUNC ก
-W * N N,COM,PL,EZ อใแวส
-W * N N,PR,SING วำสÞแวแ
-W * N N,COM,SING,EZ ไูใ
-W * AJ AJ,COMP,YA ศๅสัํ
-W * P P ศๅ
-W * PRO PRO,REFL ฮๆฯ
-W * V V,PASTP ัÝสๅ
-W * V V,COP,PA,POS,3 ศๆฯ
-W * CONJ CONJ ๆ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ศวาํ฿ไ
-W * ADV ADV,GENR,REPT ศวัๅว
-W * P P ศว
-W * N N,COM,PL,EZ วำๅวํ
-W * PRO PRO,REFL ฮๆฯ
-W * N N,COM,PL,EZ ใๆÞฺํสๅวํ
-W * AJ AJ,SIM,YA ใไวำศํ
-W * P P,EZ ศัวํ
-W * N N,COM,PL,EZ ใๅวฬใวไ
-W * N N,COM,SING,3 สํใิ
-W * N N,COM,SING สฯวั฿
-W * V V,PA,SIM,POS,3 ฯํฯ
-W * CONJ CONJ ฿ๅ
-W * DET DET,INDF ๅั
-W * N N,COM,SING ศวั
-W * P P ศว
-W * N N,COM,SING ศํ ฯÞสํ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ิสวศาฯํ
-W * N N,PR,PL วำสÞแวแํๅว
-W * CONJ CONJ ๆ
-W * N N,COM,SING ยÝำวํฯํัํ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ วาฮๆฯะิสํ
-W * N N,COM,PL,EZ ใฯวÝฺวไ
-W * N N,PR,SING วแวสอวฯ
-W * AJ AJ,SIM ศํ หใั
-W * V V,PA,SIM,POS,3 ใวไฯ
+W * N N,COM,SING ุจุงุฒู
+W * P P ุจู ุฌุงู
+W * N N,PR,SING,EZ ุนูู
+W * N N,PR,SING ูุทููู
+W * P P ุจู
+W * N N,COM,SING,LOC ู…ูุฏุงู
+W * V V,PASTP ุขู…ุฏู
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * PUNC PUNC ุ
+W * N N,COM,PL,EZ ุญู…ูุงุช
+W * N N,PR,SING ุงุณุชููุงู
+W * N N,COM,SING,EZ ูุธู…
+W * AJ AJ,COMP,YA ุจูุชุฑู
+W * P P ุจู
+W * PRO PRO,REFL ุฎูุฏ
+W * V V,PASTP ฺฏุฑูุชู
+W * V V,COP,PA,POS,3 ุจูุฏ
+W * CONJ CONJ ู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุจุงุฒููู
+W * ADV ADV,GENR,REPT ุจุงุฑูุง
+W * P P ุจุง
+W * N N,COM,PL,EZ ูพุงุณูุงู
+W * PRO PRO,REFL ุฎูุฏ
+W * N N,COM,PL,EZ ู…ููุนูุชูุงู
+W * AJ AJ,SIM,YA ู…ูุงุณุจู
+W * P P,EZ ุจุฑุงู
+W * N N,COM,PL,EZ ู…ูุงุฌู…ุงู
+W * N N,COM,SING,3 ุชูู…ุด
+W * N N,COM,SING ุชุฏุงุฑู
+W * V V,PA,SIM,POS,3 ุฏูุฏ
+W * CONJ CONJ ูู
+W * DET DET,INDF ูุฑ
+W * N N,COM,SING ุจุงุฑ
+W * P P ุจุง
+W * N N,COM,SING ุจู ุฏูุชู
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุดุชุงุจุฒุฏฺฏู
+W * N N,PR,PL ุงุณุชููุงูููุง
+W * CONJ CONJ ู
+W * N N,COM,SING ุขูุณุงูุฏฺฏูุฑู
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุงุฒุฎูุฏฺฏุฐุดุชฺฏู
+W * N N,COM,PL,EZ ู…ุฏุงูุนุงู
+W * N N,PR,SING ุงูุงุชุญุงุฏ
+W * AJ AJ,SIM ุจู ุซู…ุฑ
+W * V V,PA,SIM,POS,3 ู…ุงูุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,PL,TIME,EZ ฯÞวํÞ
-W * NUM NUM,CAR,NOMI,SING 67 ๆ 83
-W * N N,COM,SING,EZ สํใ
-W * N N,PR,SING วแวสอวฯ
-W * P P ศๅ
-W * N N,COM,SING,EZ ุๆั
-W * AJ AJ,SIM ฬฯํ
-W * AJ AJ,SIM ฮุัยÝัํไ
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ฿ๅ
-W * P P ฯั
-W * N N,COM,SING,EZ ไๆศส
-W * NUM NUM,ORD,AJC วๆแ
-W * N N,PR,SING,SURN ำํฯ
-W * N N,PR,SING,EZ ๅวฯํ
-W * N N,PR,SING ุศวุศวํํ
-W * CONJ CONJ ๆ
-W * N N,PR,SING,EZ ใอใฯ
-W * N N,PR,SING ไๆวาํ
-W * N N,COM,SING,LOC,EZ ฯัๆวาๅ
-W * N N,PR,SING วำสÞแวแ
-W * POSTP POSTP ัว
-W * N N,COM,SING ไฬวส
-W * V V,PA,SIM,POS,6 ฯวฯไฯ
-W * CONJ CONJ ๆ
-W * P P ฯั
-W * N N,COM,SING,EZ ไๆศส
-W * NUM NUM,ORD,AJC ฯๆใ
-W * N N,COM,SING,EZ ึัศๅ
-W * N N,PR,SING ัๆศัสๆ
-W * N N,PR,SING ฯๆไวฯๆไํ
-W * CONJ CONJ ฿ๅ
-W * P P วา
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * N N,COM,SING,EZ อั฿ส
-W * AJ AJ,SIM วํำสวๅํ
-W * V V,PASTP าฯๅ
-W * V V,PA,SIM,POS,3 ิฯ
-W * P P ศๅ
-W * N N,COM,SING,EZ วํๅ
-W * N N,COM,SING,EZ ฯํั฿
-W * AJ AJ,SIM,EZ ฺใๆฯํ
-W * N N,COM,SING,LOC,EZ ฯัๆวาๅ
-W * N N,PR,SING วำสÞแวแ
-W * N N,COM,SING วีวศส
-W * V V,PA,SIM,POS,3 ฿ัฯ
+W * P P ุฏุฑ
+W * N N,COM,PL,TIME,EZ ุฏูุงูู
+W * NUM NUM,CAR,NOMI,SING 67 ู 83
+W * N N,COM,SING,EZ ุชูู…
+W * N N,PR,SING ุงูุงุชุญุงุฏ
+W * P P ุจู
+W * N N,COM,SING,EZ ุทูุฑ
+W * AJ AJ,SIM ุฌุฏู
+W * AJ AJ,SIM ุฎุทุฑุขูุฑูู
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ูู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ููุจุช
+W * NUM NUM,ORD,AJC ุงูู
+W * N N,PR,SING,SURN ุณูุฏ
+W * N N,PR,SING,EZ ูุงุฏู
+W * N N,PR,SING ุทุจุงุทุจุงูู
+W * CONJ CONJ ู
+W * N N,PR,SING,EZ ู…ุญู…ุฏ
+W * N N,PR,SING ููุงุฒู
+W * N N,COM,SING,LOC,EZ ุฏุฑูุงุฒู
+W * N N,PR,SING ุงุณุชููุงู
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ูุฌุงุช
+W * V V,PA,SIM,POS,6 ุฏุงุฏูุฏ
+W * CONJ CONJ ู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ููุจุช
+W * NUM NUM,ORD,AJC ุฏูู…
+W * N N,COM,SING,EZ ุถุฑุจู
+W * N N,PR,SING ุฑูุจุฑุชู
+W * N N,PR,SING ุฏููุงุฏููู
+W * CONJ CONJ ูู
+W * P P ุงุฒ
+W * NUM NUM,CAR,NOMI,SING ูู
+W * N N,COM,SING,EZ ุญุฑูุช
+W * AJ AJ,SIM ุงูุณุชฺฏุงูู
+W * V V,PASTP ุฒุฏู
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * P P ุจู
+W * N N,COM,SING,EZ ูพุงูู
+W * N N,COM,SING,EZ ุฏูุฑู
+W * AJ AJ,SIM,EZ ุนู…ูุฏู
+W * N N,COM,SING,LOC,EZ ุฏุฑูุงุฒู
+W * N N,PR,SING ุงุณุชููุงู
+W * N N,COM,SING ุงุตุงุจุช
+W * V V,PA,SIM,POS,3 ูุฑุฏ
 W * PUNC PUNC .
-W * ADV ADV,GENR,TIME ว฿ไๆไ
-W * N N,PR,SING วำสÞแวแ
-W * N N,COM,SING ิใ
-W * P P ศๅ
-W * N N,COM,SING,EZ ศวาํ
-W * N N,COM,SING ศัิส
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ อใวํส
-W * AJ AJ,SIM,EZ ศํฯัํÛ
-W * N N,COM,PL,EZ สใวิวัวไ
-W * N N,COM,SING,LOC,4 ฿ิๆัใวไ
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ ๆัาิวๅ
-W * N N,PR,SING,EZ ยาวฯํ
-W * N N,PR,SING,LOC สๅัวไ
-W * V V,PRES,POS,3 ฯวัฯ
-W * CONJ CONJ สว
-W * P P ศว
-W * N N,COM,SING ํัๆาํ
-W * P P ศั
-W * DET DET,DEMO วํไ
-W * N N,COM,SING อัํÝ
-W * P P ฯั
-W * N N,COM,SING,EZ ใัอแๅ
-W * ADV ADV,GENR,SIM ศฺฯ
-W * P P ศๅ
-W * N N,COM,SING,EZ ฯํฯวั
-W * N N,PR,SING,EZ วแาๆัวม
-W * N N,PR,SING,LOC ฺัวÞ
-W * V V,SUB,POS,3 ศัๆฯ
+W * ADV ADV,GENR,TIME ุงูููู
+W * N N,PR,SING ุงุณุชููุงู
+W * N N,COM,SING ฺุดู…
+W * P P ุจู
+W * N N,COM,SING,EZ ุจุงุฒู
+W * N N,COM,SING ุจุฑฺฏุดุช
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุญู…ุงูุช
+W * AJ AJ,SIM,EZ ุจูุฏุฑูุบ
+W * N N,COM,PL,EZ ุชู…ุงุดุงฺฏุฑุงู
+W * N N,COM,SING,LOC,4 ูุดูุฑู…ุงู
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ูุฑุฒุดฺฏุงู
+W * N N,PR,SING,EZ ุขุฒุงุฏู
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * V V,PRES,POS,3 ุฏุงุฑุฏ
+W * CONJ CONJ ุชุง
+W * P P ุจุง
+W * N N,COM,SING ูพูุฑูุฒู
+W * P P ุจุฑ
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุญุฑูู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ู…ุฑุญูู
+W * ADV ADV,GENR,SIM ุจุนุฏ
+W * P P ุจู
+W * N N,COM,SING,EZ ุฏูุฏุงุฑ
+W * N N,PR,SING,EZ ุงูุฒูุฑุงุก
+W * N N,PR,SING,LOC ุนุฑุงู
+W * V V,SUB,POS,3 ุจุฑูุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ ฯํฯวั
-W * N N,COM,SING,EZ ศัิส
-W * DET DET,DEMO วํไ
-W * NUM NUM,CAR,NOMI,SING ฯๆ
-W * N N,COM,SING สํใ
-W * N N,COM,SING,TIME,EZ ัๆา
-W * N N,PR,SING,DAY ฬใฺๅ
+W * N N,COM,SING,EZ ุฏูุฏุงุฑ
+W * N N,COM,SING,EZ ุจุฑฺฏุดุช
+W * DET DET,DEMO ุงูู
+W * NUM NUM,CAR,NOMI,SING ุฏู
+W * N N,COM,SING ุชูู…
+W * N N,COM,SING,TIME,EZ ุฑูุฒ
+W * N N,PR,SING,DAY ุฌู…ุนู
 W * NUM NUM,CAR,NOMI,SING,EZ 12
-W * N N,PR,SING,MON ยะั
-W * N N,COM,SING,TIME ใวๅ
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ ๆัาิวๅ
-W * N N,PR,SING,EZ ยาวฯํ
-W * N N,PR,SING,LOC สๅัวไ
-W * AJ AJ,SIM ศัาวั
-W * V V,PRES,POS,3 ใํ ิๆฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ศัไฯๅ
-W * N N,COM,SING,EZ ใฬใๆฺ
-W * NUM NUM,CAR,NOMI,SING ฯๆ
-W * N N,COM,SING,EZ ฯํฯวั
-W * N N,COM,SING ัÝส
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ศัิส
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ใัอแๅ
-W * P P ศๅ
-W * N N,COM,SING,EZ ใัอแๅ
-W * NUM NUM,ORD,AJC ำๆใ
-W * N N,COM,SING ีฺๆฯ
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ฿ัฯ
+W * N N,PR,SING,MON ุขุฐุฑ
+W * N N,COM,SING,TIME ู…ุงู
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ูุฑุฒุดฺฏุงู
+W * N N,PR,SING,EZ ุขุฒุงุฏู
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * AJ AJ,SIM ุจุฑฺฏุฒุงุฑ
+W * V V,PRES,POS,3 ู…ู ุดูุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุจุฑูุฏู
+W * N N,COM,SING,EZ ู…ุฌู…ูุน
+W * NUM NUM,CAR,NOMI,SING ุฏู
+W * N N,COM,SING,EZ ุฏูุฏุงุฑ
+W * N N,COM,SING ุฑูุช
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุจุฑฺฏุดุช
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ู…ุฑุญูู
+W * P P ุจู
+W * N N,COM,SING,EZ ู…ุฑุญูู
+W * NUM NUM,ORD,AJC ุณูู…
+W * N N,COM,SING ุตุนูุฏ
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ูุฑุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,PL,EZ ไสวํฬ
-W * N N,COM,PL,EZ ํ฿วัๅวํ
-W * N N,COM,SING,EZ ิุัไฬ
-W * N N,COM,SING,DIR,EZ Ûัศ
-W * N N,PR,SING,LOC ยำํว
-W * P P ฯั
-W * N N,PR,SING,LOC สๅัวไ
+W * N N,COM,PL,EZ ูุชุงูุฌ
+W * N N,COM,PL,EZ ูพููุงุฑูุงู
+W * N N,COM,SING,EZ ุดุทุฑูุฌ
+W * N N,COM,SING,DIR,EZ ุบุฑุจ
+W * N N,PR,SING,LOC ุขุณูุง
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ุชูุฑุงู
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ฯๆั
-W * AJ AJ,SIM,EZ วํวไํ
-W * N N,COM,PL,EZ ใำวศÞวส
-W * N N,COM,SING,EZ ิุัไฬ
-W * N N,COM,SING,EZ Þๅัใวไํ
-W * N N,COM,SING,LOC,EZ ใไุÞๅ
-W * N N,COM,SING,DIR,EZ Ûัศ
-W * N N,PR,SING,LOC ยำํว
-W * ADV ADV,GENR,TIME ฯํัๆา
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ ใอแ
-W * N N,COM,SING,EZ Ýฯัวำํๆไ
-W * N N,COM,SING,EZ ิุัไฬ
-W * N N,PR,SING,LOC วํัวไ
-W * N N,COM,SING วไฬวใ
-W * V V,PA,SIM,POS,3 ิฯ
+W * N N,COM,SING,EZ ุฏูุฑ
+W * AJ AJ,SIM,EZ ูพุงูุงูู
+W * N N,COM,PL,EZ ู…ุณุงุจูุงุช
+W * N N,COM,SING,EZ ุดุทุฑูุฌ
+W * N N,COM,SING,EZ ููุฑู…ุงูู
+W * N N,COM,SING,LOC,EZ ู…ูุทูู
+W * N N,COM,SING,DIR,EZ ุบุฑุจ
+W * N N,PR,SING,LOC ุขุณูุง
+W * ADV ADV,GENR,TIME ุฏูุฑูุฒ
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ู…ุญู
+W * N N,COM,SING,EZ ูุฏุฑุงุณููู
+W * N N,COM,SING,EZ ุดุทุฑูุฌ
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * N N,COM,SING ุงูุฌุงู…
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,PL,EZ ัÞวศสๅวํ
-W * ADV ADV,GENR,TIME ฯํัๆา
-W * PUNC PUNC ก
-W * N N,PR,SING,SURN วำสวฯ
-W * N N,PR,SING,EZ Ýํฯๅ
-W * AJ AJ,SIM แศไวไํ
-W * N N,PR,SING Ýวฯํ
-W * N N,PR,SING ฺํฯ
-W * P P,EZ ใÞวศแ
-W * N N,COM,SING,EZ วำสวฯ
-W * AJ AJ,SIM ศํไ วแใแแํ
-W * N N,PR,SING,EZ วใํั
-W * N N,PR,SING ศวÞัํ
-W * P P วา
-W * N N,PR,SING,LOC วํัวไ
-W * P P ศๅ
-W * N N,COM,SING สำวๆํ
-W * V V,PA,SIM,POS,3 ัำํฯ
+W * P P ุฏุฑ
+W * N N,COM,PL,EZ ุฑูุงุจุชูุงู
+W * ADV ADV,GENR,TIME ุฏูุฑูุฒ
+W * PUNC PUNC ุ
+W * N N,PR,SING,SURN ุงุณุชุงุฏ
+W * N N,PR,SING,EZ ููุฏู
+W * AJ AJ,SIM ูุจูุงูู
+W * N N,PR,SING ูุงุฏู
+W * N N,PR,SING ุนูุฏ
+W * P P,EZ ู…ูุงุจู
+W * N N,COM,SING,EZ ุงุณุชุงุฏ
+W * AJ AJ,SIM ุจูู ุงูู…ููู
+W * N N,PR,SING,EZ ุงู…ูุฑ
+W * N N,PR,SING ุจุงูุฑู
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * P P ุจู
+W * N N,COM,SING ุชุณุงูู
+W * V V,PA,SIM,POS,3 ุฑุณูุฏ
 W * PUNC PUNC .
-W * N N,COM,SING,EZ วำสวฯ
-W * AJ AJ,SIM,EZ ศาั
-W * AJ AJ,SIM Þุัํ
-W * N N,PR,SING วแใึํอ฿ํ
-W * P P,EZ ศัวศั
-W * N N,COM,SING,EZ วำสวฯ
-W * N N,COM,SING Ýํฯๅ
-W * N N,PR,SING,EZ วอำวไ
-W * N N,PR,SING Þวฦใ ใÞวใํ
-W * P P วา
-W * N N,PR,SING,LOC วํัวไ
-W * P P ศๅ
-W * N N,COM,SING ศัสัํ
-W * N N,COM,SING ฯำส
-W * V V,PA,SIM,POS,3 ํวÝส
+W * N N,COM,SING,EZ ุงุณุชุงุฏ
+W * AJ AJ,SIM,EZ ุจุฒุฑฺฏ
+W * AJ AJ,SIM ูุทุฑู
+W * N N,PR,SING ุงูู…ุถูุญูู
+W * P P,EZ ุจุฑุงุจุฑ
+W * N N,COM,SING,EZ ุงุณุชุงุฏ
+W * N N,COM,SING ููุฏู
+W * N N,PR,SING,EZ ุงุญุณุงู
+W * N N,PR,SING ูุงุฆู… ู…ูุงู…ู
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * P P ุจู
+W * N N,COM,SING ุจุฑุชุฑู
+W * N N,COM,SING ุฏุณุช
+W * V V,PA,SIM,POS,3 ูุงูุช
 W * PUNC PUNC .
-W * N N,PR,SING,EZ วใํั
-W * N N,PR,SING ใแวอํ
-W * N N,COM,SING,EZ วำสวฯ
-W * N N,COM,SING,EZ Ýฯัวำํๆไ
-W * AJ AJ,SIM,EZ ศํไ วแใแแํ
-W * N N,COM,SING ิุัไฬ
-W * P P ศั
-W * N N,PR,SING,EZ ํๆไำ
-W * N N,PR,SING ีÝํๅ
-W * P P วา
-W * N N,PR,SING,LOC ำๆัํๅ
-W * N N,COM,SING Ûแศๅ
-W * V V,PA,SIM,POS,3 ฿ัฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ํ฿วั
-W * N N,PR,SING วแำฺํฯ
-W * P P วา
-W * N N,PR,SING,LOC Þุั
-W * CONJ CONJ ๆ
-W * N N,PR,SING ไฬวั
-W * N N,PR,SING วอใฯ
-W * P P วา
-W * N N,PR,SING,LOC แศไวไ
-W * P P ศๅ
-W * N N,COM,SING สำวๆํ
-W * V V,PA,SIM,POS,3 วไฬวใํฯ
+W * N N,PR,SING,EZ ุงู…ูุฑ
+W * N N,PR,SING ู…ูุงุญู
+W * N N,COM,SING,EZ ุงุณุชุงุฏ
+W * N N,COM,SING,EZ ูุฏุฑุงุณููู
+W * AJ AJ,SIM,EZ ุจูู ุงูู…ููู
+W * N N,COM,SING ุดุทุฑูุฌ
+W * P P ุจุฑ
+W * N N,PR,SING,EZ ูููุณ
+W * N N,PR,SING ุตููู
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ุณูุฑูู
+W * N N,COM,SING ุบูุจู
+W * V V,PA,SIM,POS,3 ูุฑุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ูพููุงุฑ
+W * N N,PR,SING ุงูุณุนูุฏ
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ูุทุฑ
+W * CONJ CONJ ู
+W * N N,PR,SING ูุฌุงุฑ
+W * N N,PR,SING ุงุญู…ุฏ
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ูุจูุงู
+W * P P ุจู
+W * N N,COM,SING ุชุณุงูู
+W * V V,PA,SIM,POS,3 ุงูุฌุงู…ูุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,SING,EZ Þำใส
-W * N N,COM,PL ศวไๆวไ
-W * PUNC PUNC ก
-W * N N,PR,SING,EZ ิํัํไ
-W * N N,PR,SING ไๆวศํ
-W * P P,EZ ใÞวศแ
-W * N N,COM,SING,YA อัํÝํ
-W * P P วา
-W * N N,PR,SING,LOC ฺัวÞ
-W * P P ศๅ
-W * N N,COM,SING,EZ ไวใ
-W * N N,PR,SING วแัๆÝํ
-W * P P ศๅ
-W * N N,COM,SING สำวๆํ
-W * V V,PA,SIM,POS,3 ัำํฯ
-W * CONJ CONJ ๆ
-W * N N,PR,SING ิวํำสๅ
-W * N N,PR,SING Þวฯัํ ๆั
-W * P P ศั
-W * N N,PR,SING,EZ ิวฯํ
-W * N N,PR,SING ัํฯั
-W * N N,COM,SING Ûแศๅ
-W * V V,PA,SIM,POS,3 ฿ัฯ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ูุณู…ุช
+W * N N,COM,PL ุจุงููุงู
+W * PUNC PUNC ุ
+W * N N,PR,SING,EZ ุดูุฑูู
+W * N N,PR,SING ููุงุจู
+W * P P,EZ ู…ูุงุจู
+W * N N,COM,SING,YA ุญุฑููู
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ุนุฑุงู
+W * P P ุจู
+W * N N,COM,SING,EZ ูุงู…
+W * N N,PR,SING ุงูุฑููู
+W * P P ุจู
+W * N N,COM,SING ุชุณุงูู
+W * V V,PA,SIM,POS,3 ุฑุณูุฏ
+W * CONJ CONJ ู
+W * N N,PR,SING ุดุงูุณุชู
+W * N N,PR,SING ูุงุฏุฑู ูพูุฑ
+W * P P ุจุฑ
+W * N N,PR,SING,EZ ุดุงุฏู
+W * N N,PR,SING ูพุฑูุฏุฑ
+W * N N,COM,SING ุบูุจู
+W * V V,PA,SIM,POS,3 ูุฑุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,PL,EZ ไสวํฬ
-W * N N,COM,PL,EZ ัÞวศสๅวํ
-W * N N,COM,SING,EZ Ýๆสศวแ
-W * N N,COM,SING,EZ ฬวใ
-W * N N,COM,SING,EZ วสอวฯํๅ
-W * N N,COM,PL,LOC,EZ ศวิวๅๅวํ
-W * N N,PR,SING,LOC วัๆว
+W * N N,COM,PL,EZ ูุชุงูุฌ
+W * N N,COM,PL,EZ ุฑูุงุจุชูุงู
+W * N N,COM,SING,EZ ููุชุจุงู
+W * N N,COM,SING,EZ ุฌุงู…
+W * N N,COM,SING,EZ ุงุชุญุงุฏูู
+W * N N,COM,PL,LOC,EZ ุจุงุดฺฏุงููุงู
+W * N N,PR,SING,LOC ุงุฑููพุง
 W * PUNC PUNC #
-W * N N,COM,PL,EZ ฯํฯวัๅวํ
-W * N N,COM,SING ศัิส
-W * P P วา
-W * N N,COM,SING,EZ ใัอแๅ
-W * NUM NUM,ORD,AJC,EZ ำๆใ
-W * N N,COM,PL,EZ ัÞวศสๅวํ
-W * N N,COM,SING,EZ Ýๆสศวแ
-W * N N,COM,SING,EZ ฬวใ
-W * N N,COM,SING,EZ วสอวฯํๅ
-W * N N,COM,PL,LOC,EZ ศวิวๅๅวํ
-W * N N,PR,SING,LOC วัๆว
-W * PUNC PUNC ป
-W * N N,PR,SING,ACR ํๆÝว
-W * PUNC PUNC ซ
-W * P P ศว
-W * N N,COM,SING,EZ ศัาวัํ
-W * NUM NUM,CAR,NOMI,SING ํวาฯๅ
-W * N N,COM,SING ฯํฯวั
-W * P P ฯั
-W * N N,COM,PL,LOC,EZ ิๅัๅวํ
-W * AJ AJ,SIM,EZ ใฮสแÝ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING,LOC Þวัๅ
-W * N N,COM,SING วฯวใๅ
-W * V V,PA,SIM,POS,3 ํวÝส
+W * N N,COM,PL,EZ ุฏูุฏุงุฑูุงู
+W * N N,COM,SING ุจุฑฺฏุดุช
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ู…ุฑุญูู
+W * NUM NUM,ORD,AJC,EZ ุณูู…
+W * N N,COM,PL,EZ ุฑูุงุจุชูุงู
+W * N N,COM,SING,EZ ููุชุจุงู
+W * N N,COM,SING,EZ ุฌุงู…
+W * N N,COM,SING,EZ ุงุชุญุงุฏูู
+W * N N,COM,PL,LOC,EZ ุจุงุดฺฏุงููุงู
+W * N N,PR,SING,LOC ุงุฑููพุง
+W * PUNC PUNC ยป
+W * N N,PR,SING,ACR ูููุง
+W * PUNC PUNC ยซ
+W * P P ุจุง
+W * N N,COM,SING,EZ ุจุฑฺฏุฒุงุฑู
+W * NUM NUM,CAR,NOMI,SING ูุงุฒุฏู
+W * N N,COM,SING ุฏูุฏุงุฑ
+W * P P ุฏุฑ
+W * N N,COM,PL,LOC,EZ ุดูุฑูุงู
+W * AJ AJ,SIM,EZ ู…ุฎุชูู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING,LOC ูุงุฑู
+W * N N,COM,SING ุงุฏุงู…ู
+W * V V,PA,SIM,POS,3 ูุงูุช
 W * PUNC PUNC .
-W * N N,COM,SING,EZ ฯํฯวั
-W * N N,COM,PL,EZ สํใๅวํ
-W * N N,PR,SING,EZ วำวัสว฿
-W * N N,PR,SING,LOC,EZ ใำ฿ๆ
-W * N N,PR,SING,LOC ัๆำํๅ
-W * CONJ CONJ ๆ
-W * N N,PR,SING,EZ แํฯาํๆไวํสฯ
-W * N N,PR,SING,LOC วไแํำ
-W * P P ศๅ ฯแํแ
-W * N N,COM,SING,EZ ิฯส
-W * N N,COM,SING ำัใว
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM ไวใำวฺฯ
-W * N N,COM,SING,INFI,EZ ศๆฯไ
-W * N N,COM,SING,LOC าใํไ
-W * P P ฯั
-W * N N,PR,SING,LOC ใำ฿ๆ
-W * P P ศๅ
-W * N N,COM,SING,TIME,EZ ัๆา
-W * NUM NUM,ORD,NOMI,SING,EZ ํวาฯๅใ
-W * N N,PR,SING,MON ยะั
-W * N N,COM,SING,TIME ใวๅ
-W * AJ AJ,SIM ใๆ฿ๆแ
-W * V V,PA,SIM,POS,3 ิฯ
+W * N N,COM,SING,EZ ุฏูุฏุงุฑ
+W * N N,COM,PL,EZ ุชูู…ูุงู
+W * N N,PR,SING,EZ ุงุณูพุงุฑุชุงู
+W * N N,PR,SING,LOC,EZ ู…ุณูู
+W * N N,PR,SING,LOC ุฑูุณูู
+W * CONJ CONJ ู
+W * N N,PR,SING,EZ ููุฏุฒูููุงูุชุฏ
+W * N N,PR,SING,LOC ุงูฺฏููุณ
+W * P P ุจู ุฏููู
+W * N N,COM,SING,EZ ุดุฏุช
+W * N N,COM,SING ุณุฑู…ุง
+W * CONJ CONJ ู
+W * AJ AJ,SIM ูุงู…ุณุงุนุฏ
+W * N N,COM,SING,INFI,EZ ุจูุฏู
+W * N N,COM,SING,LOC ุฒู…ูู
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ู…ุณูู
+W * P P ุจู
+W * N N,COM,SING,TIME,EZ ุฑูุฒ
+W * NUM NUM,ORD,NOMI,SING,EZ ูุงุฒุฏูู…
+W * N N,PR,SING,MON ุขุฐุฑ
+W * N N,COM,SING,TIME ู…ุงู
+W * AJ AJ,SIM ู…ูููู
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
-W * P P ฯั
-W * N N,COM,PL,EZ ฯํฯวัๅวํ
-W * AJ AJ,SIM วไฬวใ ิฯๅ
-W * N N,COM,PL,EZ ไสวํฬ
-W * AJ AJ,SIM าํั
-W * P P ศๅ
-W * N N,COM,SING ฯำส
-W * V V,PA,SIM,POS,3 ยใฯ
-W * PUNC PUNC ป
-W * N N,COM,SING,EZ ไวใ
-W * N N,COM,PL,EZ สํใๅวํ
-W * N N,COM,SING ใําศวไ
-W * NUM NUM,ORD,AJC ไฮำส
-W * V V,PASTP ยใฯๅ
-W * V V,COP,PRES,POS,3 วำส
-W * PUNC PUNC ซ
+W * P P ุฏุฑ
+W * N N,COM,PL,EZ ุฏูุฏุงุฑูุงู
+W * AJ AJ,SIM ุงูุฌุงู… ุดุฏู
+W * N N,COM,PL,EZ ูุชุงูุฌ
+W * AJ AJ,SIM ุฒูุฑ
+W * P P ุจู
+W * N N,COM,SING ุฏุณุช
+W * V V,PA,SIM,POS,3 ุขู…ุฏ
+W * PUNC PUNC ยป
+W * N N,COM,SING,EZ ูุงู…
+W * N N,COM,PL,EZ ุชูู…ูุงู
+W * N N,COM,SING ู…ูุฒุจุงู
+W * NUM NUM,ORD,AJC ูุฎุณุช
+W * V V,PASTP ุขู…ุฏู
+W * V V,COP,PRES,POS,3 ุงุณุช
+W * PUNC PUNC ยซ
 W * PUNC PUNC :
-W * N N,PR,SING,EZ ำแสวๆํๆ
-W * N N,PR,SING,LOC วำวไํว
+W * N N,PR,SING,EZ ุณูุชุงููฺฏู
+W * N N,PR,SING,LOC ุงุณูพุงููุง
 W * NUM NUM,CAR,NOMI,SING 7
 W * PUNC PUNC -
-W * N N,PR,SING,EZ ศไÝํ฿ว
-W * N N,PR,SING,LOC ัสÛวแ
-W * NUM NUM,CAR,NOMI,SING ีÝั
-W * PUNC PUNC ก
-W * N N,PR,SING,EZ ย ห ัใ
-W * N N,PR,SING,LOC วํสวแํว
-W * NUM NUM,CAR,NOMI,SING ํ฿
+W * N N,PR,SING,EZ ุจููููุง
+W * N N,PR,SING,LOC ูพุฑุชุบุงู
+W * NUM NUM,CAR,NOMI,SING ุตูุฑ
+W * PUNC PUNC ุ
+W * N N,PR,SING,EZ ุข ุซ ุฑู…
+W * N N,PR,SING,LOC ุงูุชุงููุง
+W * NUM NUM,CAR,NOMI,SING ูู
 W * PUNC PUNC -
-W * N N,PR,SING,LOC,EZ ไํๆ฿วำแ
-W * N N,PR,SING,LOC วไแํำ
-W * NUM NUM,CAR,NOMI,SING ีÝั
-W * PUNC PUNC ก
-W * N N,PR,SING ฯํๆัสํๆๆ
-W * N N,PR,SING,EZ แว฿ัๆไว
-W * N N,PR,SING,LOC วำวไํว
+W * N N,PR,SING,LOC,EZ ููููุงุณู
+W * N N,PR,SING,LOC ุงูฺฏููุณ
+W * NUM NUM,CAR,NOMI,SING ุตูุฑ
+W * PUNC PUNC ุ
+W * N N,PR,SING ุฏููพูุฑุชููู
+W * N N,PR,SING,EZ ูุงูุฑููุง
+W * N N,PR,SING,LOC ุงุณูพุงููุง
 W * NUM NUM,CAR,NOMI,SING 4
 W * PUNC PUNC -
-W * N N,PR,SING,EZ วไวสํไวํ฿ๆๆำ
-W * N N,PR,SING,LOC ํๆไวไ
+W * N N,PR,SING,EZ ูพุงูุงุชููุงููููุณ
+W * N N,PR,SING,LOC ูููุงู
 W * NUM NUM,CAR,NOMI,SING 2
-W * PUNC PUNC ก
-W * N N,PR,SING,EZ วแใํว฿ๆำ
-W * N N,PR,SING,LOC ํๆไวไ
-W * NUM NUM,CAR,NOMI,SING ํ฿
+W * PUNC PUNC ุ
+W * N N,PR,SING,EZ ุงูู…ูพูุงููุณ
+W * N N,PR,SING,LOC ูููุงู
+W * NUM NUM,CAR,NOMI,SING ูู
 W * PUNC PUNC -
-W * N N,PR,SING,EZ ํๆๆไสๆำ
-W * N N,PR,SING,LOC วํสวแํว
+W * N N,PR,SING,EZ ููููุชูุณ
+W * N N,PR,SING,LOC ุงูุชุงููุง
 W * NUM NUM,CAR,NOMI,SING 3
-W * PUNC PUNC ก
-W * N N,PR,SING,EZ ยว฿ำ
-W * N N,PR,SING,LOC,EZ ยใำสัฯวใ
-W * N N,PR,SING,LOC ๅแไฯ
-W * NUM NUM,CAR,NOMI,SING ีÝั
+W * PUNC PUNC ุ
+W * N N,PR,SING,EZ ุขฺุงูุณ
+W * N N,PR,SING,LOC,EZ ุขู…ุณุชุฑุฏุงู…
+W * N N,PR,SING,LOC ูููุฏ
+W * NUM NUM,CAR,NOMI,SING ุตูุฑ
 W * PUNC PUNC -
-W * N N,PR,SING,EZ ัฦวแ
-W * N N,PR,SING,LOC,EZ ใวํๆั฿วํ
-W * N N,PR,SING,LOC วำวไํว
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * PUNC PUNC ก
-W * N N,PR,SING แวำ฿ๆ ัไฬัา
-W * N N,PR,SING,LOC วำ฿วสแไฯ
+W * N N,PR,SING,EZ ุฑุฆุงู
+W * N N,PR,SING,LOC,EZ ู…ุงููุฑูุงู
+W * N N,PR,SING,LOC ุงุณูพุงููุง
+W * NUM NUM,CAR,NOMI,SING ูู
+W * PUNC PUNC ุ
+W * N N,PR,SING ฺฏูุงุณูู ุฑูุฌุฑุฒ
+W * N N,PR,SING,LOC ุงุณูุงุชููุฏ
 W * NUM NUM,CAR,NOMI,SING 2
 W * PUNC PUNC -
-W * N N,PR,SING,EZ ศัๆำํวฯๆัสใๆไฯ
-W * N N,PR,SING,LOC ยแใวไ
-W * NUM NUM,CAR,NOMI,SING ีÝั
-W * PUNC PUNC ก
-W * N N,PR,SING,EZ ยัำไวแ
-W * N N,PR,SING,LOC วไแํำ
+W * N N,PR,SING,EZ ุจุฑูุณูุงุฏูุฑุชู…ููุฏ
+W * N N,PR,SING,LOC ุขูู…ุงู
+W * NUM NUM,CAR,NOMI,SING ุตูุฑ
+W * PUNC PUNC ุ
+W * N N,PR,SING,EZ ุขุฑุณูุงู
+W * N N,PR,SING,LOC ุงูฺฏููุณ
 W * NUM NUM,CAR,NOMI,SING 3
 W * PUNC PUNC -
-W * N N,PR,SING,LOC,EZ ไวไส
-W * N N,PR,SING,LOC Ýัวไำๅ
-W * NUM NUM,CAR,NOMI,SING ีÝั
-W * PUNC PUNC ก
-W * N N,PR,SING,EZ วัใวํ
-W * N N,PR,SING,LOC วํสวแํว
+W * N N,PR,SING,LOC,EZ ูุงูุช
+W * N N,PR,SING,LOC ูุฑุงูุณู
+W * NUM NUM,CAR,NOMI,SING ุตูุฑ
+W * PUNC PUNC ุ
+W * N N,PR,SING,EZ ูพุงุฑู…ุงู
+W * N N,PR,SING,LOC ุงูุชุงููุง
 W * NUM NUM,CAR,NOMI,SING 2
 W * PUNC PUNC -
-W * N N,PR,SING,EZ วิสๆัใ ัวสา
-W * N N,PR,SING,LOC วสัํิ
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * PUNC PUNC ก
-W * N N,PR,SING วำแวๆํว
-W * N N,PR,SING,LOC ัว
-W * N N,PR,SING,LOC วำแๆว฿ํ
+W * N N,PR,SING,EZ ุงุดุชูุฑู… ฺฏุฑุงุชุฒ
+W * N N,PR,SING,LOC ุงุชุฑูุด
+W * NUM NUM,CAR,NOMI,SING ูู
+W * PUNC PUNC ุ
+W * N N,PR,SING ุงุณูุงููุง
+W * N N,PR,SING,LOC ูพุฑุงฺฏ
+W * N N,PR,SING,LOC ุงุณููุงูู
 W * NUM NUM,CAR,NOMI,SING 4
 W * PUNC PUNC -
-W * N N,PR,SING วำสๆว
-W * N N,PR,SING,LOC ศฮวัำส
-W * N N,PR,SING,LOC ัๆใวไํ
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * PUNC PUNC ก
-W * N N,PR,SING,LOC แํๆไ
-W * N N,PR,SING,LOC Ýัวไำๅ
+W * N N,PR,SING ุงุณุชูุง
+W * N N,PR,SING,LOC ุจุฎุงุฑุณุช
+W * N N,PR,SING,LOC ุฑูู…ุงูู
+W * NUM NUM,CAR,NOMI,SING ูู
+W * PUNC PUNC ุ
+W * N N,PR,SING,LOC ูููู
+W * N N,PR,SING,LOC ูุฑุงูุณู
 W * NUM NUM,CAR,NOMI,SING 3
 W * PUNC PUNC -
-W * N N,PR,SING,EZ ๆัฯัศัใไ
-W * N N,PR,SING,LOC ยแใวไ
-W * NUM NUM,CAR,NOMI,SING ีÝั
-W * PUNC PUNC ก
-W * N N,PR,SING แวไำ
-W * N N,PR,SING,LOC Ýัวไำๅ
-W * NUM NUM,CAR,NOMI,SING ํ฿
+W * N N,PR,SING,EZ ูุฑุฏุฑุจุฑู…ู
+W * N N,PR,SING,LOC ุขูู…ุงู
+W * NUM NUM,CAR,NOMI,SING ุตูุฑ
+W * PUNC PUNC ุ
+W * N N,PR,SING ูุงูุณ
+W * N N,PR,SING,LOC ูุฑุงูุณู
+W * NUM NUM,CAR,NOMI,SING ูู
 W * PUNC PUNC -
-W * N N,PR,SING,EZ ฿วําัำแวสัไ
-W * N N,PR,SING,LOC ยแใวไ
+W * N N,PR,SING,EZ ูุงูุฒุฑุณูุงุชุฑู
+W * N N,PR,SING,LOC ุขูู…ุงู
 W * NUM NUM,CAR,NOMI,SING 2
 W * PUNC PUNC .
-W * N N,COM,PL,EZ ฯํฯวัๅวํ
-W * N N,COM,SING ศัิส
-W * PUNC PUNC ก
-W * N N,COM,PL,TIME,EZ ัๆาๅวํ
-W * NUM NUM,CAR,NOMI,SING 16 ๆ 18
-W * N N,PR,SING,MON ยะั
-W * N N,COM,SING,TIME ใวๅ
-W * AJ AJ,SIM ศัาวั
-W * V V,AUX,FUT,POS,3 ฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ิฯ
+W * N N,COM,PL,EZ ุฏูุฏุงุฑูุงู
+W * N N,COM,SING ุจุฑฺฏุดุช
+W * PUNC PUNC ุ
+W * N N,COM,PL,TIME,EZ ุฑูุฒูุงู
+W * NUM NUM,CAR,NOMI,SING 16 ู 18
+W * N N,PR,SING,MON ุขุฐุฑ
+W * N N,COM,SING,TIME ู…ุงู
+W * AJ AJ,SIM ุจุฑฺฏุฒุงุฑ
+W * V V,AUX,FUT,POS,3 ุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ุดุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,PL,EZ ไสวํฬ
-W * AJ AJ,SIM,EZ วํวไํ
-W * N N,COM,SING,EZ สไํำ
-W * P P,EZ ัๆํ
-W * N N,COM,SING,EZ ใํา
-W * N N,COM,PL,EZ ไๆฬๆวไวไ
-W * N N,PR,SING,LOC วํัวไ
+W * N N,COM,PL,EZ ูุชุงูุฌ
+W * AJ AJ,SIM,EZ ูพุงูุงูู
+W * N N,COM,SING,EZ ุชููุณ
+W * P P,EZ ุฑูู
+W * N N,COM,SING,EZ ู…ูุฒ
+W * N N,COM,PL,EZ ููุฌูุงูุงู
+W * N N,PR,SING,LOC ุงูุฑุงู
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ใัอแๅ
-W * AJ AJ,SIM,EZ วํวไํ
-W * N N,COM,PL,EZ ใำวศÞวส
-W * AJ AJ,SIM ยาวฯ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ัฯๅ ศไฯํ
-W * N N,COM,SING,EZ ํไ ไ
-W * N N,COM,PL,EZ ไๆฬๆวไวไ
-W * N N,PR,SING,LOC วํัวไ
-W * CONJ CONJ ฿ๅ
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ ำวแไ
+W * N N,COM,SING,EZ ู…ุฑุญูู
+W * AJ AJ,SIM,EZ ูพุงูุงูู
+W * N N,COM,PL,EZ ู…ุณุงุจูุงุช
+W * AJ AJ,SIM ุขุฒุงุฏ
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุฑุฏู ุจูุฏู
+W * N N,COM,SING,EZ ูพููฺฏ ูพูฺฏ
+W * N N,COM,PL,EZ ููุฌูุงูุงู
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * CONJ CONJ ูู
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ุณุงูู
 W * NUM NUM,CAR,NOMI,SING,EZ 22
-W * N N,PR,SING,MON,EZ ศๅใไ
-W * N N,COM,SING,LOC,EZ ิๅัำสวไ
-W * N N,PR,SING,LOC ําฯ
-W * N N,COM,SING ฬัํวไ
-W * V V,PA,SIM,POS,3 ฯวิส
-W * PUNC PUNC ก
-W * ADV ADV,GENR,TIME ฯํัๆา
-W * P P ศๅ
-W * N N,COM,SING วํวไ
-W * V V,PA,SIM,POS,3 ัำํฯ
-W * CONJ CONJ ๆ
-W * P P,EZ ุํ
-W * PRO PRO,DEMO,SING ยไ
-W * N N,PR,SING,EZ วÝิํไ
-W * N N,PR,SING ไๆัๆาํ
-W * P P วา
-W * N N,PR,SING,LOC ฮๆาำสวไ
-W * N N,COM,SING,EZ ใÞวใ
-W * NUM NUM,ORD,AJC ไฮำส
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING ฯำส
-W * V V,PA,SIM,POS,3 ยๆัฯ
+W * N N,PR,SING,MON,EZ ุจูู…ู
+W * N N,COM,SING,LOC,EZ ุดูุฑุณุชุงู
+W * N N,PR,SING,LOC ูุฒุฏ
+W * N N,COM,SING ุฌุฑูุงู
+W * V V,PA,SIM,POS,3 ุฏุงุดุช
+W * PUNC PUNC ุ
+W * ADV ADV,GENR,TIME ุฏูุฑูุฒ
+W * P P ุจู
+W * N N,COM,SING ูพุงูุงู
+W * V V,PA,SIM,POS,3 ุฑุณูุฏ
+W * CONJ CONJ ู
+W * P P,EZ ุทู
+W * PRO PRO,DEMO,SING ุขู
+W * N N,PR,SING,EZ ุงูุดูู
+W * N N,PR,SING ููุฑูุฒู
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ุฎูุฒุณุชุงู
+W * N N,COM,SING,EZ ู…ูุงู…
+W * NUM NUM,ORD,AJC ูุฎุณุช
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING ุฏุณุช
+W * V V,PA,SIM,POS,3 ุขูุฑุฏ
 W * PUNC PUNC .
-W * N N,PR,SING,EZ ใอใฯ
-W * N N,PR,SING ÝัÞฯวไํ
-W * P P วา
-W * N N,PR,SING,LOC วีÝๅวไ
-W * NUM NUM,ORD,AJC ฯๆใ
-W * V V,PA,SIM,POS,3 ิฯ
-W * CONJ CONJ ๆ
-W * N N,PR,SING,EZ ฺวัÝ
-W * N N,PR,SING วอใฯํ Ýั
-W * P P วา
-W * N N,PR,SING,LOC ํแวไ
-W * CONJ CONJ ๆ
-W * N N,PR,SING ใํฯํว
-W * N N,PR,SING แุÝ วแแๅ
-W * N N,PR,SING ไำศํ
-W * P P วา
-W * N N,PR,SING,LOC ฿ัฯำสวไ
-W * ADV ADV,GENR,SIM ใิสั฿ว
-W * P P ศๅ
-W * N N,COM,SING,EZ ใÞวใ
-W * NUM NUM,ORD,AJC ำๆใ
-W * N N,COM,SING ฯำส
-W * V V,PA,SIM,POS,6 ํวÝสไฯ
+W * N N,PR,SING,EZ ู…ุญู…ุฏ
+W * N N,PR,SING ูุฑูุฏุงูู
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ุงุตููุงู
+W * NUM NUM,ORD,AJC ุฏูู…
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * CONJ CONJ ู
+W * N N,PR,SING,EZ ุนุงุฑู
+W * N N,PR,SING ุงุญู…ุฏู ูุฑ
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ฺฏููุงู
+W * CONJ CONJ ู
+W * N N,PR,SING ู…ูุฏูุง
+W * N N,PR,SING ูุทู ุงููู
+W * N N,PR,SING ูุณุจู
+W * P P ุงุฒ
+W * N N,PR,SING,LOC ูุฑุฏุณุชุงู
+W * ADV ADV,GENR,SIM ู…ุดุชุฑูุง
+W * P P ุจู
+W * N N,COM,SING,EZ ู…ูุงู…
+W * NUM NUM,ORD,AJC ุณูู…
+W * N N,COM,SING ุฏุณุช
+W * V V,PA,SIM,POS,6 ูุงูุชูุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ยๅํ
-W * N N,COM,SING,EZ ใาวํฯๅ
-W * N N,COM,SING,EZ Ýัๆิ
-W * N N,COM,SING,EZ ใวิํไ
-W * N N,COM,SING ศวÝไฯํ
+W * N N,COM,SING,EZ ุขฺฏูู
+W * N N,COM,SING,EZ ู…ุฒุงูุฏู
+W * N N,COM,SING,EZ ูุฑูุด
+W * N N,COM,SING,EZ ู…ุงุดูู
+W * N N,COM,SING ุจุงููุฏฺฏู
 W * PUNC PUNC #
-W * N N,COM,SING,EZ สฺฯวฯ
+W * N N,COM,SING,EZ ุชุนุฏุงุฏ
 W * NUM NUM,CAR,NOMI,SING 2
-W * CL CL,SING ฯำสวๅ
-W * N N,COM,SING,EZ ใวิํไ
-W * N N,COM,SING,EZ ศวÝไฯํ
-W * N N,PR,SING วํัฬส
-W * N N,COM,SING,EZ ำวฮส
-W * N N,COM,SING,LOC,EZ ฿ิๆั
-W * N N,PR,SING,LOC ฿
-W * CONJ CONJ ๆ
-W * N N,PR,SING,LOC วำแๆว฿ํ
-W * P P ศๅ ีๆัส
-W * ADV ADV,INTSF,SIM ฿วใแว๐
-W * AJ AJ,SIM ไๆ
-W * P P ศๅ
-W * N N,COM,SING Ýัๆิ
-W * V V,PRES,POS,3 ใํ ัำฯ
+W * CL CL,SING ุฏุณุชฺฏุงู
+W * N N,COM,SING,EZ ู…ุงุดูู
+W * N N,COM,SING,EZ ุจุงููุฏฺฏู
+W * N N,PR,SING ุงูุฑุฌุช
+W * N N,COM,SING,EZ ุณุงุฎุช
+W * N N,COM,SING,LOC,EZ ูุดูุฑ
+W * N N,PR,SING,LOC ฺู
+W * CONJ CONJ ู
+W * N N,PR,SING,LOC ุงุณููุงูู
+W * P P ุจู ุตูุฑุช
+W * ADV ADV,INTSF,SIM ูุงู…ูุงู
+W * AJ AJ,SIM ูู
+W * P P ุจู
+W * N N,COM,SING ูุฑูุด
+W * V V,PRES,POS,3 ู…ู ุฑุณุฏ
 W * PUNC PUNC .
-W * N N,COM,PL ใสÞวึํวไ
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ ฿ำศ
-W * N N,COM,PL,EZ วุแวฺวส
-W * AJ AJ,COMP ศํิสั
-W * P P ศว
-W * N N,COM,SING ิใวัๅ
-W * N N,COM,PL,EZ สแÝไๅวํ
+W * N N,COM,PL ู…ุชูุงุถูุงู
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ูุณุจ
+W * N N,COM,PL,EZ ุงุทูุงุนุงุช
+W * AJ AJ,COMP ุจูุดุชุฑ
+W * P P ุจุง
+W * N N,COM,SING ุดู…ุงุฑู
+W * N N,COM,PL,EZ ุชููููุงู
 W * NUM NUM,CAR,NOMI,SING 2
 W * PUNC PUNC -
 W * NUM NUM,CAR,NOMI,SING 6433961
-W * N N,COM,SING สใวำ
-W * N N,COM,SING อวีแ
-W * V V,SUB,POS,6 ไใวํไฯ
+W * N N,COM,SING ุชู…ุงุณ
+W * N N,COM,SING ุญุงุตู
+W * V V,SUB,POS,6 ูู…ุงููุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ยๅํ
-W * N N,COM,SING,EZ ฯฺๆส
-W * N N,COM,SING,EZ ใฬใฺ
-W * AJ AJ,SIM,EZ ฺใๆใํ
-W * N N,COM,SING,EZ ิั฿ส
-W * AJ AJ,SIM สๆแํฯํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM,EZ ีไฺสํ
-W * N N,PR,SING สๆว
-W * P P ศว
-W * N N,COM,SING,EZ ใำฦๆแํส
-W * AJ AJ,SIM ใอฯๆฯ
+W * N N,COM,SING,EZ ุขฺฏูู
+W * N N,COM,SING,EZ ุฏุนูุช
+W * N N,COM,SING,EZ ู…ุฌู…ุน
+W * AJ AJ,SIM,EZ ุนู…ูู…ู
+W * N N,COM,SING,EZ ุดุฑูุช
+W * AJ AJ,SIM ุชูููุฏู
+W * CONJ CONJ ู
+W * AJ AJ,SIM,EZ ุตูุนุชู
+W * N N,PR,SING ุชูุง
+W * P P ุจุง
+W * N N,COM,SING,EZ ู…ุณุฆูููุช
+W * AJ AJ,SIM ู…ุญุฏูุฏ
 W * PUNC PUNC #
-W * P P,DET,DEMO ศฯํไ
-W * N N,COM,SING ๆำํแๅ
-W * P P วา
-W * DET DET,INDF,EZ ฿แํๅ
-W * N N,COM,PL,EZ ีวอศวไ
-W * N N,COM,SING,EZ ำๅใ วแิั฿ๅ
-W * N N,COM,SING,EZ ิั฿ส
-W * AJ AJ,SIM สๆแํฯํ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM,EZ ีไฺสํ
-W * N N,PR,SING สๆว
-W * PUNC PUNC ป
-W * P P ศว
-W * N N,COM,SING,EZ ใำฦๆแํส
-W * AJ AJ,SIM ใอฯๆฯ
-W * PUNC PUNC ซ
-W * CONJ CONJ ํว
-W * N N,COM,PL,EZ ไใวํไฯวไ
-W * AJ AJ,SIM,EZ Þวไๆไํ
-W * PRO PRO,PERS,PL,3 ยไวไ
-W * N N,COM,SING ฯฺๆส
-W * V V,PRES,POS,3 ใํ ิๆฯ
-W * CONJ CONJ ฿ๅ
-W * P P ฯั
-W * N N,COM,SING,EZ ฬแำๅ
-W * N N,COM,SING,EZ ใฬใฺ
-W * AJ AJ,SIM,EZ ฺใๆใํ
-W * DET DET,DEMO วํไ
-W * N N,COM,SING ิั฿ส
-W * CONJ CONJ ฿ๅ
-W * P P ฯั
-W * N N,COM,SING,TIME,EZ สวัํฮ
+W * P P,DET,DEMO ุจุฏูู
+W * N N,COM,SING ูุณููู
+W * P P ุงุฒ
+W * DET DET,INDF,EZ ูููู
+W * N N,COM,PL,EZ ุตุงุญุจุงู
+W * N N,COM,SING,EZ ุณูู… ุงูุดุฑูู
+W * N N,COM,SING,EZ ุดุฑูุช
+W * AJ AJ,SIM ุชูููุฏู
+W * CONJ CONJ ู
+W * AJ AJ,SIM,EZ ุตูุนุชู
+W * N N,PR,SING ุชูุง
+W * PUNC PUNC ยป
+W * P P ุจุง
+W * N N,COM,SING,EZ ู…ุณุฆูููุช
+W * AJ AJ,SIM ู…ุญุฏูุฏ
+W * PUNC PUNC ยซ
+W * CONJ CONJ ูุง
+W * N N,COM,PL,EZ ูู…ุงููุฏฺฏุงู
+W * AJ AJ,SIM,EZ ูุงูููู
+W * PRO PRO,PERS,PL,3 ุขูุงู
+W * N N,COM,SING ุฏุนูุช
+W * V V,PRES,POS,3 ู…ู ุดูุฏ
+W * CONJ CONJ ูู
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุฌูุณู
+W * N N,COM,SING,EZ ู…ุฌู…ุน
+W * AJ AJ,SIM,EZ ุนู…ูู…ู
+W * DET DET,DEMO ุงูู
+W * N N,COM,SING ุดุฑูุช
+W * CONJ CONJ ูู
+W * P P ุฏุฑ
+W * N N,COM,SING,TIME,EZ ุชุงุฑูุฎ
 W * NUM NUM,CAR,NOMI,SING,EZ 15
 W * PUNC PUNC /
 W * NUM NUM,CAR,NOMI,SING,EZ 9
 W * PUNC PUNC /
 W * NUM NUM,CAR,NOMI,SING 1378
-W * N N,COM,SING,TIME,EZ ำวฺส
+W * N N,COM,SING,TIME,EZ ุณุงุนุช
 W * NUM NUM,CAR,NOMI,SING,EZ 10
-W * N N,COM,SING,TIME ีศอ
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ ใอแ
-W * N N,COM,SING,EZ ิั฿ส
-W * N N,PR,SING ฯวัๆฮิ
-W * AJ AJ,SIM ๆวÞฺ
-W * P P ฯั
-W * N N,PR,SING,LOC สๅัวไ
+W * N N,COM,SING,TIME ุตุจุญ
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ู…ุญู
+W * N N,COM,SING,EZ ุดุฑูุช
+W * N N,PR,SING ุฏุงุฑููพุฎุด
+W * AJ AJ,SIM ูุงูุน
+W * P P ุฏุฑ
+W * N N,PR,SING,LOC ุชูุฑุงู
 W * PUNC PUNC -
-W * N N,COM,SING,LOC,EZ วสๆศวไ
-W * N N,PR,SING,LOC ฿ัฬ
+W * N N,COM,SING,LOC,EZ ุงุชูุจุงู
+W * N N,PR,SING,LOC ูุฑุฌ
 W * PUNC PUNC -
-W * N N,COM,SING,EZ ฿ํแๆใสั
+W * N N,COM,SING,EZ ููููู…ุชุฑ
 W * NUM NUM,CAR,NOMI,SING 18
 W * PUNC PUNC -
-W * N N,COM,SING,LOC,EZ ฮํวศวไ
-W * N N,PR,SING ฯวัๆฮิ
-W * AJ AJ,SIM ศัาวั
-W * V V,PRES,POS,3 ใํ ัฯฯ
-W * PUNC PUNC ก
-W * N N,COM,SING อึๆั
-W * P P ศๅ
-W * CONJ CONJ ๅใ
-W * V V,SUB,POS,6 ัำวไไฯ
+W * N N,COM,SING,LOC,EZ ุฎูุงุจุงู
+W * N N,PR,SING ุฏุงุฑููพุฎุด
+W * AJ AJ,SIM ุจุฑฺฏุฒุงุฑ
+W * V V,PRES,POS,3 ู…ู ฺฏุฑุฏุฏ
+W * PUNC PUNC ุ
+W * N N,COM,SING ุญุถูุฑ
+W * P P ุจู
+W * CONJ CONJ ูู…
+W * V V,SUB,POS,6 ุฑุณุงููุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ยๅํ
-W * N N,COM,SING วำสฮฯวใ
+W * N N,COM,SING,EZ ุขฺฏูู
+W * N N,COM,SING ุงุณุชุฎุฏุงู…
 W * PUNC PUNC #
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * N N,COM,SING,EZ ิั฿ส
-W * AJ AJ,SIM,EZ สๆแํฯํ
-W * N N,COM,PL,EZ ใอีๆแวส
-W * AJ AJ,SIM ิๆํไฯๅ
-W * CONJ CONJ ๆ
-W * AJ AJ,SIM,EZ ศๅฯวิสํ
-W * AJ AJ,SIM ใฺสศั
-W * PUNC PUNC ก
-W * N N,COM,PL,EZ ไํัๆๅวํ
-W * AJ AJ,SIM,EZ สฮีีํ
-W * AJ AJ,SIM าํั
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING ๅใ฿วัํ
-W * N N,COM,SING ฯฺๆส
-W * V V,PRES,POS,3 ใํ ไใวํฯ
+W * NUM NUM,CAR,NOMI,SING ูู
+W * N N,COM,SING,EZ ุดุฑูุช
+W * AJ AJ,SIM,EZ ุชูููุฏู
+W * N N,COM,PL,EZ ู…ุญุตููุงุช
+W * AJ AJ,SIM ุดูููุฏู
+W * CONJ CONJ ู
+W * AJ AJ,SIM,EZ ุจูุฏุงุดุชู
+W * AJ AJ,SIM ู…ุนุชุจุฑ
+W * PUNC PUNC ุ
+W * N N,COM,PL,EZ ููุฑููุงู
+W * AJ AJ,SIM,EZ ุชุฎุตุตู
+W * AJ AJ,SIM ุฒูุฑ
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING ูู…ูุงุฑู
+W * N N,COM,SING ุฏุนูุช
+W * V V,PRES,POS,3 ู…ู ูู…ุงูุฏ
 W * PUNC PUNC .
 W * NUM NUM,CAR,NOMI,SING 1
 W * PUNC PUNC -
-W * N N,COM,SING ฯํแใ
-W * CONJ CONJ ํว
-W * N N,COM,SING,EZ ÝๆÞ ฯํแใ
-W * N N,COM,PL,EZ ัิสๅ ๅวํ
-W * N N,COM,SING ใ฿วไํ฿
-W * PUNC PUNC ก
-W * N N,COM,SING ศัÞ
-W * CONJ CONJ ๆ
-W * N N,COM,SING ใวิํไ วศาวั
-W * P P ศว
-W * ADV ADV,GENR,SIM อฯวÞแ
+W * N N,COM,SING ุฏููพูู…
+W * CONJ CONJ ูุง
+W * N N,COM,SING,EZ ููู ุฏููพูู…
+W * N N,COM,PL,EZ ุฑุดุชู ูุงู
+W * N N,COM,SING ู…ูุงููู
+W * PUNC PUNC ุ
+W * N N,COM,SING ุจุฑู
+W * CONJ CONJ ู
+W * N N,COM,SING ู…ุงุดูู ุงุจุฒุงุฑ
+W * P P ุจุง
+W * ADV ADV,GENR,SIM ุญุฏุงูู
 W * NUM NUM,CAR,NOMI,SING 2
-W * N N,COM,SING,TIME ำวแ
-W * N N,COM,SING,EZ ำวศÞๅ
-W * N N,COM,SING,EZ ฿วั
-W * AJ AJ,SIM ใÝํฯ
+W * N N,COM,SING,TIME ุณุงู
+W * N N,COM,SING,EZ ุณุงุจูู
+W * N N,COM,SING,EZ ูุงุฑ
+W * AJ AJ,SIM ู…ููุฏ
 W * PUNC PUNC .
 W * NUM NUM,CAR,NOMI,SING 2
 W * PUNC PUNC -
-W * N N,COM,SING,EZ ใๅไฯำ
-W * N N,COM,SING ใ฿วไํ฿
-W * PUNC PUNC ก
-W * N N,COM,SING แํำวไำ
-W * P P ศว
-W * ADV ADV,GENR,SIM อฯวÞแ
+W * N N,COM,SING,EZ ู…ููุฏุณ
+W * N N,COM,SING ู…ูุงููู
+W * PUNC PUNC ุ
+W * N N,COM,SING ููุณุงูุณ
+W * P P ุจุง
+W * ADV ADV,GENR,SIM ุญุฏุงูู
 W * NUM NUM,CAR,NOMI,SING 5
-W * N N,COM,SING,TIME ำวแ
-W * N N,COM,SING,EZ ำวศÞๅ
-W * N N,COM,SING,EZ ฿วั
-W * AJ AJ,SIM ใÝํฯ
+W * N N,COM,SING,TIME ุณุงู
+W * N N,COM,SING,EZ ุณุงุจูู
+W * N N,COM,SING,EZ ูุงุฑ
+W * AJ AJ,SIM ู…ููุฏ
 W * PUNC PUNC .
-W * N N,COM,PL ใสÞวึํวไ
-W * V V,PRES,POS,6 ใํ สๆวไไฯ
-W * ADV ADV,GENR,SIM อฯว฿หั
-W * P P สว
-W * N N,COM,SING,EZ วํวไ
-W * N N,PR,SING,MON ยะั
-W * N N,COM,SING,TIME,EZ ใวๅ
+W * N N,COM,PL ู…ุชูุงุถูุงู
+W * V V,PRES,POS,6 ู…ู ุชูุงููุฏ
+W * ADV ADV,GENR,SIM ุญุฏุงูุซุฑ
+W * P P ุชุง
+W * N N,COM,SING,EZ ูพุงูุงู
+W * N N,PR,SING,MON ุขุฐุฑ
+W * N N,COM,SING,TIME,EZ ู…ุงู
 W * NUM NUM,CAR,NOMI,SING 78
-W * P P ศว
-W * N N,COM,SING,EZ ีไฯๆÞ
-W * AJ AJ,SIM,EZ ำสํ
-W * N N,COM,SING,EZ ิใวัๅ
+W * P P ุจุง
+W * N N,COM,SING,EZ ุตูุฏูู
+W * AJ AJ,SIM,EZ ูพุณุชู
+W * N N,COM,SING,EZ ุดู…ุงุฑู
 W * NUM NUM,CAR,NOMI,SING 15815
 W * PUNC PUNC /
 W * NUM NUM,CAR,NOMI,SING 3478
-W * N N,COM,SING ใ฿วสศๅ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ใฯวั฿
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * N N,COM,SING วัำวแ
-W * V V,SUB,POS,6 Ýัใวํไฯ
+W * N N,COM,SING ู…ูุงุชุจู
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ู…ุฏุงุฑู
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * N N,COM,SING ุงุฑุณุงู
+W * V V,SUB,POS,6 ูุฑู…ุงููุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ยๅํ
-W * N N,COM,SING,EZ วฬวัๅ
-W * N N,COM,PL ใวิํไ ยแวส
+W * N N,COM,SING,EZ ุขฺฏูู
+W * N N,COM,SING,EZ ุงุฌุงุฑู
+W * N N,COM,PL ู…ุงุดูู ุขูุงุช
 W * PUNC PUNC #
-W * N N,COM,SING,EZ สฺฯวฯ
+W * N N,COM,SING,EZ ุชุนุฏุงุฏ
 W * NUM NUM,CAR,NOMI,SING 5
-W * CL CL,SING ฯำสวๅ
-W * N N,COM,SING,EZ ใวิํไ
-W * N N,COM,SING,EZ สัวิ
+W * CL CL,SING ุฏุณุชฺฏุงู
+W * N N,COM,SING,EZ ู…ุงุดูู
+W * N N,COM,SING,EZ ุชุฑุงุด
 W * N N,PR,SING,ACR CNC
-W * N N,COM,SING,EZ ใฯแ
+W * N N,COM,SING,EZ ู…ุฏู
 W * N N,PR,SING,ACR TM
 W * NUM NUM,CAR,NOMI,SING 180
-W * PUNC PUNC ป
+W * PUNC PUNC ยป
 W * N N,PR,SING,ACR VDF
-W * PUNC PUNC ซ
-W * N N,COM,SING,EZ ำวฮส
-W * N N,COM,SING,LOC,EZ ฿ิๆั
-W * N N,PR,SING,LOC ยแใวไ
-W * PUNC PUNC ก
-W * N N,COM,SING,TIME,EZ ำวแ
-W * N N,COM,SING ำวฮส
+W * PUNC PUNC ยซ
+W * N N,COM,SING,EZ ุณุงุฎุช
+W * N N,COM,SING,LOC,EZ ูุดูุฑ
+W * N N,PR,SING,LOC ุขูู…ุงู
+W * PUNC PUNC ุ
+W * N N,COM,SING,TIME,EZ ุณุงู
+W * N N,COM,SING ุณุงุฎุช
 W * NUM NUM,CAR,NOMI,SING 1992
-W * CONJ CONJ ๆ
-W * CONJ CONJ ๅใไํไ
-W * NUM NUM,CAR,NOMI,SING ํ฿
-W * CL CL,SING ฯำสวๅ
-W * N N,COM,SING,EZ สัวิ
+W * CONJ CONJ ู
+W * CONJ CONJ ูู…ฺููู
+W * NUM NUM,CAR,NOMI,SING ูู
+W * CL CL,SING ุฏุณุชฺฏุงู
+W * N N,COM,SING,EZ ุชุฑุงุด
 W * NUM NUM,CAR,NOMI,SING 8
-W * N N,COM,SING ใอๆั
-W * N N,COM,SING,EZ ใฯแ
+W * N N,COM,SING ู…ุญูุฑ
+W * N N,COM,SING,EZ ู…ุฏู
 W * RES RES,FW,LAT AA
 W * NUM NUM,CAR,NOMI,SING 48
-W * N N,COM,SING,EZ ำวฮส
-W * N N,COM,SING,LOC,EZ ฿ิๆั
-W * N N,PR,SING,LOC ยแใวไ
-W * N N,COM,SING,TIME,EZ ำวแ
-W * N N,COM,SING ำวฮส
+W * N N,COM,SING,EZ ุณุงุฎุช
+W * N N,COM,SING,LOC,EZ ูุดูุฑ
+W * N N,PR,SING,LOC ุขูู…ุงู
+W * N N,COM,SING,TIME,EZ ุณุงู
+W * N N,COM,SING ุณุงุฎุช
 W * NUM NUM,CAR,NOMI,SING 1992
-W * P P ศๅ
-W * N N,COM,SING,EZ ๅใัวๅ
-W * N N,COM,PL,EZ วใ฿วไวส
-W * AJ AJ,SIM ฬไศํ
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ ิๅั
-W * N N,PR,SING,LOC สศัํา
-W * N N,COM,SING วฬวัๅ
-W * V V,PASTP ฯวฯๅ
-W * V V,PRES,POS,3 ใํ ิๆฯ
+W * P P ุจู
+W * N N,COM,SING,EZ ูู…ุฑุงู
+W * N N,COM,PL,EZ ุงู…ูุงูุงุช
+W * AJ AJ,SIM ุฌูุจู
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ุดูุฑ
+W * N N,PR,SING,LOC ุชุจุฑูุฒ
+W * N N,COM,SING ุงุฌุงุฑู
+W * V V,PASTP ุฏุงุฏู
+W * V V,PRES,POS,3 ู…ู ุดูุฏ
 W * PUNC PUNC .
-W * N N,COM,PL ใสÞวึํวไ
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ ฿ำศ
-W * N N,COM,PL,EZ วุแวฺวส
-W * AJ AJ,COMP ศํิสั
-W * P P ศว
-W * N N,COM,SING ิใวัๅ
-W * N N,COM,PL,EZ สแÝไๅวํ
+W * N N,COM,PL ู…ุชูุงุถูุงู
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ูุณุจ
+W * N N,COM,PL,EZ ุงุทูุงุนุงุช
+W * AJ AJ,COMP ุจูุดุชุฑ
+W * P P ุจุง
+W * N N,COM,SING ุดู…ุงุฑู
+W * N N,COM,PL,EZ ุชููููุงู
 W * NUM NUM,CAR,NOMI,SING 2
 W * PUNC PUNC -
 W * NUM NUM,CAR,NOMI,SING 6433961
-W * N N,COM,SING สใวำ
-W * N N,COM,SING อวีแ
-W * V V,IMP,POS,5 ไใวฦํฯ
+W * N N,COM,SING ุชู…ุงุณ
+W * N N,COM,SING ุญุงุตู
+W * V V,IMP,POS,5 ูู…ุงุฆูุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ยๅํ
-W * N N,COM,SING,EZ ใไวÞีๅ
-W * N N,COM,SING ฮัํฯ
+W * N N,COM,SING,EZ ุขฺฏูู
+W * N N,COM,SING,EZ ู…ูุงูุตู
+W * N N,COM,SING ุฎุฑูุฏ
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ิั฿ส
-W * N N,PR,SING ใวใๆสๆั
-W * N N,COM,SING,EZ สๆแํฯ฿ไไฯๅ
-W * N N,COM,PL,EZ วไๆวฺ
-W * N N,COM,PL,EZ Þๆวํ
-W * AJ AJ,SIM,EZ ใอั฿ๅ
-W * N N,COM,SING ฮๆฯัๆ
-W * P P ฯั
-W * N N,COM,SING ไูั
-W * V V,PRES,POS,3 ฯวัฯ
-W * N N,COM,SING,EZ สฺฯวฯ
+W * N N,COM,SING,EZ ุดุฑูุช
+W * N N,PR,SING ู…ฺฏุงู…ูุชูุฑ
+W * N N,COM,SING,EZ ุชูููุฏูููุฏู
+W * N N,COM,PL,EZ ุงููุงุน
+W * N N,COM,PL,EZ ููุงู
+W * AJ AJ,SIM,EZ ู…ุญุฑูู
+W * N N,COM,SING ุฎูุฏุฑู
+W * P P ุฏุฑ
+W * N N,COM,SING ูุธุฑ
+W * V V,PRES,POS,3 ุฏุงุฑุฏ
+W * N N,COM,SING,EZ ุชุนุฏุงุฏ
 W * NUM NUM,CAR,NOMI,SING 000
 W * PUNC PUNC /
 W * NUM NUM,CAR,NOMI,SING 70
-W * CL CL,SING ฯำส
-W * N N,COM,SING,EZ ฿วัศัวสๆั
-W * N N,COM,SING,EZ ใๆัฯ
-W * N N,COM,SING,EZ ไํวา
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * P P วา
-W * N N,COM,SING,EZ ุัํÞ
-W * N N,COM,SING ใไวÞีๅ
-W * N N,COM,SING ฮัํฯวัํ
-W * V V,SUB,POS,3 ไใวํฯ
+W * CL CL,SING ุฏุณุช
+W * N N,COM,SING,EZ ูุงุฑุจุฑุงุชูุฑ
+W * N N,COM,SING,EZ ู…ูุฑุฏ
+W * N N,COM,SING,EZ ููุงุฒ
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ุทุฑูู
+W * N N,COM,SING ู…ูุงูุตู
+W * N N,COM,SING ุฎุฑูุฏุงุฑู
+W * V V,SUB,POS,3 ูู…ุงูุฏ
 W * PUNC PUNC .
-W * P P วา
-W * N N,COM,PL ใสÞวึํวไ
-W * N N,COM,SING ฯฺๆส
-W * V V,PRES,POS,3 ใํ ิๆฯ
-W * ADV ADV,GENR,SIM อฯว฿หั
-W * P P สว
-W * N N,COM,SING,TIME,EZ สวัํฮ
+W * P P ุงุฒ
+W * N N,COM,PL ู…ุชูุงุถูุงู
+W * N N,COM,SING ุฏุนูุช
+W * V V,PRES,POS,3 ู…ู ุดูุฏ
+W * ADV ADV,GENR,SIM ุญุฏุงูุซุฑ
+W * P P ุชุง
+W * N N,COM,SING,TIME,EZ ุชุงุฑูุฎ
 W * NUM NUM,CAR,NOMI,SING,EZ 15
 W * PUNC PUNC /
 W * NUM NUM,CAR,NOMI,SING,EZ 9
 W * PUNC PUNC /
 W * NUM NUM,CAR,NOMI,SING 78
-W * P P,EZ ฬๅส
-W * N N,COM,SING,EZ ฯัํวÝส
-W * N N,COM,PL วำไวฯ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ิัวํุ
-W * N N,COM,SING ิั฿ส
-W * P P ฯั
-W * N N,COM,SING ใไวÞีๅ
-W * P P ศๅ
-W * N N,COM,SING,LOC,EZ ฿วัฮวไๅ
-W * N N,PR,SING ใวใๆสๆั
-W * P P ศๅ
-W * N N,COM,SING,EZ ยฯัำ
-W * N N,COM,SING,EZ ฿ํแๆใสั
+W * P P,EZ ุฌูุช
+W * N N,COM,SING,EZ ุฏุฑูุงูุช
+W * N N,COM,PL ุงุณูุงุฏ
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ุดุฑุงูุท
+W * N N,COM,SING ุดุฑูุช
+W * P P ุฏุฑ
+W * N N,COM,SING ู…ูุงูุตู
+W * P P ุจู
+W * N N,COM,SING,LOC,EZ ูุงุฑุฎุงูู
+W * N N,PR,SING ู…ฺฏุงู…ูุชูุฑ
+W * P P ุจู
+W * N N,COM,SING,EZ ุขุฏุฑุณ
+W * N N,COM,SING,EZ ููููู…ุชุฑ
 W * NUM NUM,CAR,NOMI,SING,EZ 18
-W * N N,COM,SING,LOC,EZ ฬวฯๅ
-W * AJ AJ,SIM,EZ Þฯํใ
-W * N N,PR,SING,LOC ฿ัฬ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ ๆวอฯ
-W * N N,COM,SING,EZ ศวาัวไํ
-W * AJ AJ,SIM ฮวัฬํ
-W * N N,COM,SING ใัวฬฺๅ
-W * V V,SUB,POS,6 ไใวํไฯ
+W * N N,COM,SING,LOC,EZ ุฌุงุฏู
+W * AJ AJ,SIM,EZ ูุฏูู…
+W * N N,PR,SING,LOC ูุฑุฌ
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ูุงุญุฏ
+W * N N,COM,SING,EZ ุจุงุฒุฑฺฏุงูู
+W * AJ AJ,SIM ุฎุงุฑุฌู
+W * N N,COM,SING ู…ุฑุงุฌุนู
+W * V V,SUB,POS,6 ูู…ุงููุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ สแÝไ
-W * N N,COM,SING สใวำ
+W * N N,COM,SING,EZ ุชููู
+W * N N,COM,SING ุชู…ุงุณ
 W * PUNC PUNC :
 W * NUM NUM,CAR,NOMI,SING 7
 W * PUNC PUNC -
 W * NUM NUM,CAR,NOMI,SING 6028106
 W * PUNC PUNC #
 W * PUNC PUNC #
-W * N N,COM,PL,EZ ัๆวศุ
-W * AJ AJ,SIM,EZ ฺใๆใํ
-W * N N,COM,SING,EZ ิั฿ส
-W * N N,PR,SING ใวใๆสๆั
+W * N N,COM,PL,EZ ุฑูุงุจุท
+W * AJ AJ,SIM,EZ ุนู…ูู…ู
+W * N N,COM,SING,EZ ุดุฑูุช
+W * N N,PR,SING ู…ฺฏุงู…ูุชูุฑ
 W * PUNC PUNC #
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ยๅํ
-W * N N,COM,SING ใาวํฯๅ
+W * N N,COM,SING,EZ ุขฺฏูู
+W * N N,COM,SING ู…ุฒุงูุฏู
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ิั฿ส
-W * N N,COM,SING,EZ ำํใวไ
-W * N N,PR,SING,LOC ฿ัใวไ
-W * PUNC PUNC ป
-W * AJ AJ,SIM,EZ ำๅวใํ
-W * AJ AJ,SIM ฺวใ
-W * PUNC PUNC ซ
-W * P P ฯั
-W * N N,COM,SING ไูั
-W * V V,PRES,POS,3 ฯวัฯ
-W * N N,COM,PL,EZ ยๅไ ยแวส
-W * AJ AJ,SIM,EZ ึวํฺวสํ
-W * AJ AJ,SIM ใๆฬๆฯ
-W * P P ฯั
-W * N N,COM,SING,LOC ฿วัฮวไๅ
-W * POSTP POSTP ัว
-W * P P ศๅ
-W * N N,COM,SING ใาวํฯๅ
-W * V V,SUB,POS,3 ะวัฯ
+W * N N,COM,SING,EZ ุดุฑูุช
+W * N N,COM,SING,EZ ุณูู…ุงู
+W * N N,PR,SING,LOC ูุฑู…ุงู
+W * PUNC PUNC ยป
+W * AJ AJ,SIM,EZ ุณูุงู…ู
+W * AJ AJ,SIM ุนุงู…
+W * PUNC PUNC ยซ
+W * P P ุฏุฑ
+W * N N,COM,SING ูุธุฑ
+W * V V,PRES,POS,3 ุฏุงุฑุฏ
+W * N N,COM,PL,EZ ุขูู ุขูุงุช
+W * AJ AJ,SIM,EZ ุถุงูุนุงุชู
+W * AJ AJ,SIM ู…ูุฌูุฏ
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC ูุงุฑุฎุงูู
+W * POSTP POSTP ุฑุง
+W * P P ุจู
+W * N N,COM,SING ู…ุฒุงูุฏู
+W * V V,SUB,POS,3 ฺฏุฐุงุฑุฏ
 W * PUNC PUNC .
-W * P P วา
-W * N N,COM,PL,EZ ใสÞวึํวไ
-W * AJ AJ,SIM,YA ใอสัใํ
-W * CONJ CONJ ฿ๅ
-W * AJ AJ,SIM,EZ ฯวัวํ
-W * N N,COM,SING,EZ ฿ฯ
-W * AJ AJ,SIM วÞสีวฯํ
-W * V V,PRES,POS,6 ๅำสไฯ
-W * N N,COM,SING สÞวึว
-W * V V,PRES,POS,3 ฯวัฯ
-W * PUNC PUNC ก
-W * P P ฯั
-W * N N,COM,SING,EZ ีๆัส
-W * N N,COM,SING สใวํแ
-W * P P ศๅ
-W * N N,COM,SING,LOC,EZ ฯÝสั
-W * N N,COM,PL,LOC,EZ ฿วัฮวไฬวส
-W * N N,COM,SING,EZ ำํใวไ
-W * N N,PR,SING,LOC ฿ัใวไ
-W * N N,COM,SING ใัวฬฺๅ
-W * CONJ CONJ ๆ
-W * P P ำ
-W * P P วา
-W * N N,COM,SING ศวาฯํฯ
-W * P P วา
-W * N N,COM,PL ยๅไ ยแวส
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ฯัํวÝส
-W * N N,COM,SING,EZ ศั
-W * N N,COM,PL,EZ ิัวํุ
-W * N N,COM,SING,EZ Þํใส
-W * N N,COM,SING,YA ํิไๅวฯํ
-W * PRO PRO,REFL ฮๆฯ
-W * P P ฯั
-W * N N,COM,SING,EZ ว฿ส
-W * AJ AJ,SIM ำัศำสๅ
-W * PUNC PUNC ก
-W * ADV ADV,GENR,SIM อฯว฿หั
-W * P P สว
-W * N N,COM,SING,EZ วํวไ
-W * N N,COM,SING,EZ ๆÞส
-W * AJ AJ,SIM,EZ วฯวัํ
-W * N N,COM,SING,TIME,EZ ัๆา
-W * N N,PR,SING,DAY ำๅ ิไศๅ
-W * NUM NUM,ORD,NOMI,SING,EZ ำํ วใ
-W * N N,PR,SING,MON ยะั
-W * N N,COM,SING,TIME,EZ ใวๅ
+W * P P ุงุฒ
+W * N N,COM,PL,EZ ู…ุชูุงุถูุงู
+W * AJ AJ,SIM,YA ู…ุญุชุฑู…ู
+W * CONJ CONJ ูู
+W * AJ AJ,SIM,EZ ุฏุงุฑุงู
+W * N N,COM,SING,EZ ูุฏ
+W * AJ AJ,SIM ุงูุชุตุงุฏู
+W * V V,PRES,POS,6 ูุณุชูุฏ
+W * N N,COM,SING ุชูุงุถุง
+W * V V,PRES,POS,3 ุฏุงุฑุฏ
+W * PUNC PUNC ุ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ุตูุฑุช
+W * N N,COM,SING ุชู…ุงูู
+W * P P ุจู
+W * N N,COM,SING,LOC,EZ ุฏูุชุฑ
+W * N N,COM,PL,LOC,EZ ูุงุฑุฎุงูุฌุงุช
+W * N N,COM,SING,EZ ุณูู…ุงู
+W * N N,PR,SING,LOC ูุฑู…ุงู
+W * N N,COM,SING ู…ุฑุงุฌุนู
+W * CONJ CONJ ู
+W * P P ูพุณ
+W * P P ุงุฒ
+W * N N,COM,SING ุจุงุฒุฏูุฏ
+W * P P ุงุฒ
+W * N N,COM,PL ุขูู ุขูุงุช
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ุฏุฑูุงูุช
+W * N N,COM,SING,EZ ุจุฑฺฏ
+W * N N,COM,PL,EZ ุดุฑุงูุท
+W * N N,COM,SING,EZ ููู…ุช
+W * N N,COM,SING,YA ูพูุดููุงุฏู
+W * PRO PRO,REFL ุฎูุฏ
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ูพุงูุช
+W * AJ AJ,SIM ุณุฑุจุณุชู
+W * PUNC PUNC ุ
+W * ADV ADV,GENR,SIM ุญุฏุงูุซุฑ
+W * P P ุชุง
+W * N N,COM,SING,EZ ูพุงูุงู
+W * N N,COM,SING,EZ ููุช
+W * AJ AJ,SIM,EZ ุงุฏุงุฑู
+W * N N,COM,SING,TIME,EZ ุฑูุฒ
+W * N N,PR,SING,DAY ุณู ุดูุจู
+W * NUM NUM,ORD,NOMI,SING,EZ ุณู ุงู…
+W * N N,PR,SING,MON ุขุฐุฑ
+W * N N,COM,SING,TIME,EZ ู…ุงู
 W * NUM NUM,CAR,NOMI,SING 78
-W * P P ศๅ
-W * N N,COM,SING,LOC,EZ ฯÝสั
-W * N N,COM,PL,LOC,EZ ฿วัฮวไฬวส
-W * N N,COM,SING,EZ ำํใวไ
-W * N N,PR,SING,LOC ฿ัใวไ
-W * AJ AJ,SIM ๆวÞฺ
-W * P P ฯั
-W * N N,COM,SING,EZ ฿ํแๆใสั
+W * P P ุจู
+W * N N,COM,SING,LOC,EZ ุฏูุชุฑ
+W * N N,COM,PL,LOC,EZ ูุงุฑุฎุงูุฌุงุช
+W * N N,COM,SING,EZ ุณูู…ุงู
+W * N N,PR,SING,LOC ูุฑู…ุงู
+W * AJ AJ,SIM ูุงูุน
+W * P P ุฏุฑ
+W * N N,COM,SING,EZ ููููู…ุชุฑ
 W * NUM NUM,CAR,NOMI,SING,EZ 17
-W * N N,COM,SING,LOC,EZ ฬวฯๅ
-W * N N,PR,SING,LOC สๅัวไ
-W * N N,COM,SING สอๆํแ
-W * V V,SUB,POS,6 Ýัใวํไฯ
+W * N N,COM,SING,LOC,EZ ุฌุงุฏู
+W * N N,PR,SING,LOC ุชูุฑุงู
+W * N N,COM,SING ุชุญููู
+W * V V,SUB,POS,6 ูุฑู…ุงููุฏ
 W * PUNC PUNC .
-W * CONJ CONJ ึใไว๐
-W * P P ศๅ
-W * N N,COM,PL,YA ํิไๅวฯวสํ
-W * CONJ CONJ ฿ๅ
-W * P P ศฺฯ
-W * P P วา
-W * N N,COM,SING,EZ ใๆฺฯ
-W * AJ AJ,SIM ใÞัั
-W * N N,COM,SING วัวฦๅ
-W * V V,SUB,POS,3 ัฯฯ
-W * PUNC PUNC ก
-W * N N,COM,SING,EZ สัสํศ
-W * N N,COM,SING วหั
-W * V V,PASTP ฯวฯๅ
-W * V V,AUX,FUT,NEG,3 ไฮๆวๅฯ
-W * V V,PA,SIM,POS,3 ิฯ
-W * PUNC PUNC ก
-W * ADV ADV,GENR,SIM ใึวÝว๐
-W * P P ศๅ
-W * PRO PRO,DEMO,SING วํไ
-W * CONJ CONJ ฿ๅ
-W * N N,COM,SING,EZ ิั฿ส
-W * N N,COM,SING,EZ ำํใวไ
-W * N N,PR,SING,LOC ฿ัใวไ
-W * P P ฯั
-W * N N,COM,SING ัฯ
-W * CONJ CONJ ํว
-W * N N,COM,SING,EZ Þศๆแ
-W * N N,COM,PL ํิไๅวฯวส
-W * AJ AJ,SIM ใฮสวั
-W * V V,COP,PRES,POS,3 วำส
+W * CONJ CONJ ุถู…ูุงู
+W * P P ุจู
+W * N N,COM,PL,YA ูพูุดููุงุฏุงุชู
+W * CONJ CONJ ูู
+W * P P ุจุนุฏ
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ู…ูุนุฏ
+W * AJ AJ,SIM ู…ูุฑุฑ
+W * N N,COM,SING ุงุฑุงุฆู
+W * V V,SUB,POS,3 ฺฏุฑุฏุฏ
+W * PUNC PUNC ุ
+W * N N,COM,SING,EZ ุชุฑุชูุจ
+W * N N,COM,SING ุงุซุฑ
+W * V V,PASTP ุฏุงุฏู
+W * V V,AUX,FUT,NEG,3 ูุฎูุงูุฏ
+W * V V,PA,SIM,POS,3 ุดุฏ
+W * PUNC PUNC ุ
+W * ADV ADV,GENR,SIM ู…ุถุงูุงู
+W * P P ุจู
+W * PRO PRO,DEMO,SING ุงูู
+W * CONJ CONJ ูู
+W * N N,COM,SING,EZ ุดุฑูุช
+W * N N,COM,SING,EZ ุณูู…ุงู
+W * N N,PR,SING,LOC ูุฑู…ุงู
+W * P P ุฏุฑ
+W * N N,COM,SING ุฑุฏ
+W * CONJ CONJ ูุง
+W * N N,COM,SING,EZ ูุจูู
+W * N N,COM,PL ูพูุดููุงุฏุงุช
+W * AJ AJ,SIM ู…ุฎุชุงุฑ
+W * V V,COP,PRES,POS,3 ุงุณุช
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ิั฿ส
-W * N N,COM,SING,EZ ำํใวไ
-W * N N,PR,SING,LOC ฿ัใวไ
-W * PUNC PUNC ป
-W * AJ AJ,SIM,EZ ำๅวใํ
-W * AJ AJ,SIM ฺวใ
-W * PUNC PUNC ซ
+W * N N,COM,SING,EZ ุดุฑูุช
+W * N N,COM,SING,EZ ุณูู…ุงู
+W * N N,PR,SING,LOC ูุฑู…ุงู
+W * PUNC PUNC ยป
+W * AJ AJ,SIM,EZ ุณูุงู…ู
+W * AJ AJ,SIM ุนุงู…
+W * PUNC PUNC ยซ
 W * PUNC PUNC #
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ยๅํ
-W * N N,COM,SING ใไวÞีๅ
+W * N N,COM,SING,EZ ุขฺฏูู
+W * N N,COM,SING ู…ูุงูุตู
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ิั฿ส
-W * N N,COM,PL,EZ ีไวํฺ
-W * N N,COM,SING,EZ ไำวฬํ
-W * N N,PR,SING,LOC วํัวไ
-W * AJ AJ,SIM ๆวศำสๅ
-W * P P ศๅ
-W * N N,COM,SING,EZ ำวาใวไ
-W * N N,COM,SING ำสัิ
-W * CONJ CONJ ๆ
-W * N N,COM,SING,EZ ไๆำวาํ
-W * N N,COM,PL,EZ ีไวํฺ
-W * N N,PR,SING,LOC วํัวไ
-W * P P ฯั
-W * N N,COM,SING ไูั
-W * V V,PRES,POS,3 ฯวัฯ
-W * P P ศๅ ใไูๆั
-W * N N,COM,SING,EZ วÝาวํิ
-W * N N,COM,SING,EZ ฺใÞ
-W * N N,COM,SING,EZ ำวฮส
-W * AJ AJ,SIM,EZ ฯวฮแ
-W * N N,COM,SING,EZ ใวิํไ
-W * N N,COM,SING,EZ ัํำไฯํ
-W * N N,COM,SING,EZ ัํไ
-W * AJ AJ,SIM,EZ สๆแํฯํ
-W * PRO PRO,REFL ฮๆฯ
-W * PUNC PUNC ก
-W * N N,COM,SING,YA สฺฯวฯํ
-W * P P วา
-W * N N,COM,PL,EZ Þฺุวส
-W * AJ AJ,SIM,EZ ๆวัฯวสํ
-W * PRO PRO,REFL ฮๆฯ
-W * POSTP POSTP ัว
-W * P P ศๅ ใไูๆั
-W * N N,COM,SING ำวฮส
-W * P P วา
-W * N N,COM,SING,EZ ุัํÞ
-W * N N,COM,SING ใไวÞีๅ
-W * P P ศๅ
-W * N N,COM,PL,EZ ำวาไฯวไ
-W * AJ AJ,SIM,EZ ฯวฮแํ
-W * AJ AJ,SIM,EZ ๆวฬฯ
-W * N N,COM,PL ิัวํุ
-W * AJ AJ,SIM ๆวะวั
-W * V V,SUB,POS,3 ไใวํฯ
+W * N N,COM,SING,EZ ุดุฑูุช
+W * N N,COM,PL,EZ ุตูุงูุน
+W * N N,COM,SING,EZ ูุณุงุฌู
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * AJ AJ,SIM ูุงุจุณุชู
+W * P P ุจู
+W * N N,COM,SING,EZ ุณุงุฒู…ุงู
+W * N N,COM,SING ฺฏุณุชุฑุด
+W * CONJ CONJ ู
+W * N N,COM,SING,EZ ููุณุงุฒู
+W * N N,COM,PL,EZ ุตูุงูุน
+W * N N,PR,SING,LOC ุงูุฑุงู
+W * P P ุฏุฑ
+W * N N,COM,SING ูุธุฑ
+W * V V,PRES,POS,3 ุฏุงุฑุฏ
+W * P P ุจู ู…ูุธูุฑ
+W * N N,COM,SING,EZ ุงูุฒุงูุด
+W * N N,COM,SING,EZ ุนู…ู
+W * N N,COM,SING,EZ ุณุงุฎุช
+W * AJ AJ,SIM,EZ ุฏุงุฎู
+W * N N,COM,SING,EZ ู…ุงุดูู
+W * N N,COM,SING,EZ ุฑูุณูุฏฺฏู
+W * N N,COM,SING,EZ ุฑููฺฏ
+W * AJ AJ,SIM,EZ ุชูููุฏู
+W * PRO PRO,REFL ุฎูุฏ
+W * PUNC PUNC ุ
+W * N N,COM,SING,YA ุชุนุฏุงุฏู
+W * P P ุงุฒ
+W * N N,COM,PL,EZ ูุทุนุงุช
+W * AJ AJ,SIM,EZ ูุงุฑุฏุงุชู
+W * PRO PRO,REFL ุฎูุฏ
+W * POSTP POSTP ุฑุง
+W * P P ุจู ู…ูุธูุฑ
+W * N N,COM,SING ุณุงุฎุช
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ุทุฑูู
+W * N N,COM,SING ู…ูุงูุตู
+W * P P ุจู
+W * N N,COM,PL,EZ ุณุงุฒูุฏฺฏุงู
+W * AJ AJ,SIM,EZ ุฏุงุฎูู
+W * AJ AJ,SIM,EZ ูุงุฌุฏ
+W * N N,COM,PL ุดุฑุงูุท
+W * AJ AJ,SIM ูุงฺฏุฐุงุฑ
+W * V V,SUB,POS,3 ูู…ุงูุฏ
 W * PUNC PUNC .
-W * CONJ CONJ แะว
-W * P P วา
-W * DET DET,INDF,EZ ฿แํๅ
-W * N N,COM,PL,EZ ิั฿สๅวํ
-W * AJ AJ,SIM สๆแํฯํ
-W * CONJ CONJ ฿ๅ
-W * AJ AJ,SIM,EZ ฯวัวํ
-W * N N,COM,PL,EZ วใ฿วไวส
-W * AJ AJ,SIM ใไวำศ
-W * P P ฯั
-W * N N,COM,PL,EZ าใํไๅ ๅวํ
-W * AJ AJ,SIM,EZ ๆไวๆไ
-W * N N,COM,SING ัํฮสๅ ัํ
-W * PUNC PUNC ก
-W * N N,COM,SING ใวิํไ ฿วัํ
-W * PUNC PUNC ก
-W * N N,COM,SING ัำ
-W * CONJ CONJ ๆ
-W * PRO PRO,INDF,SING Ûํัๅ
-W * V V,PRES,POS,6 ใํ ศวิไฯ
-W * P P ฯั
-W * V V,PA,SIM,POS,3 ฮๆวำส
-W * V V,PRES,POS,3 ใํ ิๆฯ
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ ฯัํวÝส
-W * N N,COM,PL,EZ วุแวฺวส
-W * AJ AJ,COMP ศํิสั
-W * N N,COM,SING ไÞิๅ
-W * CONJ CONJ ๆ
-W * N N,COM,PL,EZ ใิฮีวส
-W * N N,COM,PL Þฺุวส
-W * CONJ CONJ ๆ
-W * CONJ CONJ ๅใไํไ
-W * N N,COM,SING,EZ ัๆํส
-W * PRO PRO,DEMO,PL ยไๅว
-W * PUNC PUNC ก
-W * ADV ADV,GENR,SIM อฯว฿หั
-W * N N,COM,SING,EZ ูัÝ
-W * NUM NUM,CAR,NOMI,SING ฯๆ
-W * N N,COM,SING,TIME ๅÝสๅ
-W * P P ำ
-W * P P วา
-W * N N,COM,SING,EZ ฯัฬ
-W * N N,COM,SING ยๅํ
-W * P P ศว
-W * N N,COM,SING ิใวัๅ
-W * N N,COM,PL,EZ สแÝไๅวํ
+W * CONJ CONJ ูุฐุง
+W * P P ุงุฒ
+W * DET DET,INDF,EZ ูููู
+W * N N,COM,PL,EZ ุดุฑูุชูุงู
+W * AJ AJ,SIM ุชูููุฏู
+W * CONJ CONJ ูู
+W * AJ AJ,SIM,EZ ุฏุงุฑุงู
+W * N N,COM,PL,EZ ุงู…ูุงูุงุช
+W * AJ AJ,SIM ู…ูุงุณุจ
+W * P P ุฏุฑ
+W * N N,COM,PL,EZ ุฒู…ููู ูุงู
+W * AJ AJ,SIM,EZ ฺฏููุงฺฏูู
+W * N N,COM,SING ุฑูุฎุชู ฺฏุฑู
+W * PUNC PUNC ุ
+W * N N,COM,SING ู…ุงุดูู ูุงุฑู
+W * PUNC PUNC ุ
+W * N N,COM,SING ูพุฑุณ
+W * CONJ CONJ ู
+W * PRO PRO,INDF,SING ุบูุฑู
+W * V V,PRES,POS,6 ู…ู ุจุงุดูุฏ
+W * P P ุฏุฑ
+W * V V,PA,SIM,POS,3 ุฎูุงุณุช
+W * V V,PRES,POS,3 ู…ู ุดูุฏ
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุฏุฑูุงูุช
+W * N N,COM,PL,EZ ุงุทูุงุนุงุช
+W * AJ AJ,COMP ุจูุดุชุฑ
+W * N N,COM,SING ููุดู
+W * CONJ CONJ ู
+W * N N,COM,PL,EZ ู…ุดุฎุตุงุช
+W * N N,COM,PL ูุทุนุงุช
+W * CONJ CONJ ู
+W * CONJ CONJ ูู…ฺููู
+W * N N,COM,SING,EZ ุฑููุช
+W * PRO PRO,DEMO,PL ุขููุง
+W * PUNC PUNC ุ
+W * ADV ADV,GENR,SIM ุญุฏุงูุซุฑ
+W * N N,COM,SING,EZ ุธุฑู
+W * NUM NUM,CAR,NOMI,SING ุฏู
+W * N N,COM,SING,TIME ููุชู
+W * P P ูพุณ
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ุฏุฑุฌ
+W * N N,COM,SING ุขฺฏูู
+W * P P ุจุง
+W * N N,COM,SING ุดู…ุงุฑู
+W * N N,COM,PL,EZ ุชููููุงู
 W * NUM NUM,CAR,NOMI,SING 2
 W * PUNC PUNC -
 W * NUM NUM,CAR,NOMI,SING 1643396
-W * N N,COM,SING สใวำ
-W * N N,COM,SING อวีแ
-W * V V,SUB,POS,6 ไใวํไฯ
+W * N N,COM,SING ุชู…ุงุณ
+W * N N,COM,SING ุญุงุตู
+W * V V,SUB,POS,6 ูู…ุงููุฏ
 W * PUNC PUNC .
 W * PUNC PUNC #
-W * N N,COM,SING,EZ วุแวฺํๅ
-W * N N,COM,SING,EZ ิั฿ส
-W * N N,COM,SING,EZ ำํใวไ
-W * N N,PR,SING,LOC ใวาไฯัวไ
-W * PUNC PUNC ป
-W * AJ AJ,SIM,EZ ำๅวใํ
-W * AJ AJ,SIM ฺวใ
-W * PUNC PUNC ซ
+W * N N,COM,SING,EZ ุงุทูุงุนูู
+W * N N,COM,SING,EZ ุดุฑูุช
+W * N N,COM,SING,EZ ุณูู…ุงู
+W * N N,PR,SING,LOC ู…ุงุฒูุฏุฑุงู
+W * PUNC PUNC ยป
+W * AJ AJ,SIM,EZ ุณูุงู…ู
+W * AJ AJ,SIM ุนุงู…
+W * PUNC PUNC ยซ
 W * PUNC PUNC #
 W * PUNC PUNC #
-W * N N,COM,SING,EZ ัฯวฮส
-W * N N,COM,SING,EZ ำๆฯ
-W * N N,COM,PL,EZ ำๅวใ
-W * AJ AJ,SIM ใัศๆุ
-W * P P ศๅ
-W * N N,COM,SING,TIME,EZ ำวแ
-W * AJ AJ,SIM ใวแํ
-W * AJ AJ,SIM ใไสๅํ
-W * P P ศๅ
+W * N N,COM,SING,EZ ูพุฑุฏุงุฎุช
+W * N N,COM,SING,EZ ุณูุฏ
+W * N N,COM,PL,EZ ุณูุงู…
+W * AJ AJ,SIM ู…ุฑุจูุท
+W * P P ุจู
+W * N N,COM,SING,TIME,EZ ุณุงู
+W * AJ AJ,SIM ู…ุงูู
+W * AJ AJ,SIM ู…ูุชูู
+W * P P ุจู
 W * NUM NUM,CAR,NOMI,SING,EZ 29
 W * PUNC PUNC /
 W * NUM NUM,CAR,NOMI,SING,EZ 12
 W * PUNC PUNC /
 W * NUM NUM,CAR,NOMI,SING 1377
 W * PUNC PUNC #
-W * P P ศๅ
-W * N N,COM,SING,EZ วุแวฺ
-W * N N,COM,PL,EZ ำๅวใฯวัวไ
-W * AJ AJ,SIM ใอสัใ
-W * V V,PRES,POS,3 ใํ ัำวไฯ
-W * PUNC PUNC ก
-W * P P,EZ ศัวํ
-W * N N,COM,SING,EZ ฯัํวÝส
-W * N N,COM,SING,EZ ำๆฯ
-W * N N,COM,SING,EZ ฺใแ฿ัฯ
-W * N N,COM,SING,TIME,EZ ำวแ
-W * AJ AJ,SIM,EZ ใวแํ
+W * P P ุจู
+W * N N,COM,SING,EZ ุงุทูุงุน
+W * N N,COM,PL,EZ ุณูุงู…ุฏุงุฑุงู
+W * AJ AJ,SIM ู…ุญุชุฑู…
+W * V V,PRES,POS,3 ู…ู ุฑุณุงูุฏ
+W * PUNC PUNC ุ
+W * P P,EZ ุจุฑุงู
+W * N N,COM,SING,EZ ุฏุฑูุงูุช
+W * N N,COM,SING,EZ ุณูุฏ
+W * N N,COM,SING,EZ ุนู…ููุฑุฏ
+W * N N,COM,SING,TIME,EZ ุณุงู
+W * AJ AJ,SIM,EZ ู…ุงูู
 W * NUM NUM,CAR,NOMI,SING 1377
-W * P P ศว
-W * P P ฯั
-W * N N,COM,SING ฯำส
-W * N N,COM,SING,INFI,EZ ฯวิสไ
-W * N N,COM,SING,EZ ฿วัส
-W * N N,COM,SING,EZ ิไวำวฦํ
-W * AJ AJ,SIM ใฺสศั
-W * PUNC PUNC ป
-W * N N,COM,SING ิไวำไวใๅ
-W * CONJ CONJ ํว
-W * N N,COM,SING,EZ ๆวๅํไวใๅ
-W * N N,COM,SING ัวไไฯํ
-W * PUNC PUNC ซ
-W * P P ฯั
-W * N N,COM,PL,TIME,EZ ำวฺวส
-W * AJ AJ,SIM,EZ วฯวัํ
-W * N N,COM,PL,TIME,EZ ัๆาๅวํ
-W * AJ AJ,SIM Ûํัสฺุํแ
-W * CONJ CONJ ๆ
-W * P P ศๅ
-W * N N,COM,SING,EZ ิัอ
-W * N N,COM,SING,EZ ฬฯๆแ
-W * AJ AJ,SIM าํั
-W * P P ศๅ
-W * N N,COM,SING,EZ ฯวฦัๅ
-W * N N,COM,PL,EZ ำๅวใ
-W * N N,COM,SING ิั฿ส
-W * AJ AJ,SIM ๆวÞฺ
-W * P P ฯั
-W * N N,COM,SING,LOC,EZ ฮํวศวไ
-W * N N,PR,SING,LOC ยÝัํÞว
+W * P P ุจุง
+W * P P ุฏุฑ
+W * N N,COM,SING ุฏุณุช
+W * N N,COM,SING,INFI,EZ ุฏุงุดุชู
+W * N N,COM,SING,EZ ูุงุฑุช
+W * N N,COM,SING,EZ ุดูุงุณุงุฆู
+W * AJ AJ,SIM ู…ุนุชุจุฑ
+W * PUNC PUNC ยป
+W * N N,COM,SING ุดูุงุณูุงู…ู
+W * CONJ CONJ ูุง
+W * N N,COM,SING,EZ ฺฏูุงูููุงู…ู
+W * N N,COM,SING ุฑุงููุฏฺฏู
+W * PUNC PUNC ยซ
+W * P P ุฏุฑ
+W * N N,COM,PL,TIME,EZ ุณุงุนุงุช
+W * AJ AJ,SIM,EZ ุงุฏุงุฑู
+W * N N,COM,PL,TIME,EZ ุฑูุฒูุงู
+W * AJ AJ,SIM ุบูุฑุชุนุทูู
+W * CONJ CONJ ู
+W * P P ุจู
+W * N N,COM,SING,EZ ุดุฑุญ
+W * N N,COM,SING,EZ ุฌุฏูู
+W * AJ AJ,SIM ุฒูุฑ
+W * P P ุจู
+W * N N,COM,SING,EZ ุฏุงุฆุฑู
+W * N N,COM,PL,EZ ุณูุงู…
+W * N N,COM,SING ุดุฑูุช
+W * AJ AJ,SIM ูุงูุน
+W * P P ุฏุฑ
+W * N N,COM,SING,LOC,EZ ุฎูุงุจุงู
+W * N N,PR,SING,LOC ุขูุฑููุง
 W * PUNC PUNC -
-W * AJ AJ,COMP ศวแวสั
-W * P P วา
-W * N N,COM,SING,EZ แ
-W * N N,PR,SING ใํัฯวใวฯ
+W * AJ AJ,COMP ุจุงูุงุชุฑ
+W * P P ุงุฒ
+W * N N,COM,SING,EZ ูพู
+W * N N,PR,SING ู…ูุฑุฏุงู…ุงุฏ
 W * PUNC PUNC -
-W * N N,COM,SING,LOC,EZ ฮํวศวไ
-W * N N,PR,SING,SURN ิๅํฯ
-W * N N,PR,SING ำสวัํ
-W * PUNC PUNC ป
-W * N N,COM,SING ใไิํ
-W * PUNC PUNC ซ
-W * N N,COM,SING,EZ แว฿
+W * N N,COM,SING,LOC,EZ ุฎูุงุจุงู
+W * N N,PR,SING,SURN ุดููุฏ
+W * N N,PR,SING ุณุชุงุฑู
+W * PUNC PUNC ยป
+W * N N,COM,SING ู…ูุดู
+W * PUNC PUNC ยซ
+W * N N,COM,SING,EZ ูพูุงู
 W * NUM NUM,CAR,NOMI,SING 40
-W * N N,COM,SING ใัวฬฺๅ
-W * V V,SUB,POS,6 Ýัใวํไฯ
+W * N N,COM,SING ู…ุฑุงุฌุนู
+W * V V,SUB,POS,6 ูุฑู…ุงููุฏ
 W * PUNC PUNC .
